@@ -17,6 +17,7 @@ import hashlib
 import html
 import json
 import os
+import random
 import re
 import shutil
 import subprocess
@@ -30,6 +31,11 @@ from html.parser import HTMLParser
 from pathlib import Path, PurePosixPath
 from typing import Any
 from xml.sax.saxutils import escape as xml_escape
+
+try:
+    import requests
+except ImportError:  # GitHub Actions installs requests; local fallback remains curl.
+    requests = None
 
 
 DOMAIN = "asysyams.id"
@@ -77,6 +83,7 @@ PROTECTED_PATTERN = re.compile(
 )
 DIMENSION_PATTERN = re.compile(r"-(\d{2,5})x(\d{2,5})(?=\.[^.]+$)", re.I)
 ELEMENTOR_HASH_PATTERN = re.compile(r"-[a-z0-9]{20,}(?=\.[^.]+$)", re.I)
+HTTP_SESSIONS = threading.local()
 
 
 @dataclasses.dataclass(frozen=True)
@@ -119,6 +126,31 @@ def curl(url: str, timeout: int = 100) -> bytes:
         message = result.stderr.decode("utf-8", "replace").strip()
         raise RuntimeError(message or f"curl exited with status {result.returncode}")
     return result.stdout
+
+
+def reusable_http_get(url: str, timeout: int = 100) -> bytes:
+    """Reuse one HTTPS connection per worker to avoid Archive connection bans."""
+
+    if requests is None:
+        return curl(url, timeout=timeout)
+
+    session = getattr(HTTP_SESSIONS, "session", None)
+    if session is None:
+        session = requests.Session()
+        session.headers.update({"User-Agent": USER_AGENT, "Accept-Encoding": "gzip, deflate"})
+        adapter = requests.adapters.HTTPAdapter(pool_connections=1, pool_maxsize=1, max_retries=0)
+        session.mount("https://", adapter)
+        HTTP_SESSIONS.session = session
+
+    try:
+        response = session.get(url, timeout=(20, timeout), allow_redirects=True)
+        response.raise_for_status()
+        return response.content
+    except requests.RequestException as error:
+        if isinstance(error, requests.ConnectionError):
+            session.close()
+            HTTP_SESSIONS.session = None
+        raise RuntimeError(str(error)) from error
 
 
 def safe_output_path(original: str, mimetype: str) -> tuple[str, str]:
@@ -165,15 +197,23 @@ def capture_priority(capture: Capture) -> tuple[int, str]:
         return (0, capture.output_path)
     if path in STATIC_PAGES:
         return (1, capture.output_path)
-    if capture.mimetype in {"text/css", "application/javascript", "text/javascript"}:
+    if capture.mimetype == "text/css" and (
+        "/themes/zox-news" in capture.original_path
+        or "/elementor/assets/css/frontend" in capture.original_path
+        or "/uploads/elementor/css/" in capture.original_path
+    ):
         return (2, capture.output_path)
-    if capture.mimetype.startswith("font/") or "font" in capture.mimetype:
-        return (3, capture.output_path)
-    if capture.mimetype in IMAGE_MIMES:
-        return (4, capture.output_path)
+    if capture.mimetype in IMAGE_MIMES and re.search(r"asysyams|asy.syams|logo", path, re.I):
+        return (2, capture.output_path)
     if capture.mimetype == "text/html" and path.count("/") == 0:
+        return (3, capture.output_path)
+    if capture.mimetype in {"text/css", "application/javascript", "text/javascript"}:
+        return (4, capture.output_path)
+    if capture.mimetype.startswith("font/") or "font" in capture.mimetype:
         return (5, capture.output_path)
-    return (6, capture.output_path)
+    if capture.mimetype in IMAGE_MIMES:
+        return (6, capture.output_path)
+    return (7, capture.output_path)
 
 
 def fetch_inventory(snapshot: str) -> tuple[list[Capture], int, list[dict[str, str]]]:
@@ -249,7 +289,7 @@ def download_capture(capture: Capture, attempts: int, refresh: bool) -> Download
     last_error = ""
     for attempt in range(1, attempts + 1):
         try:
-            payload = curl(wayback_raw_url(capture))
+            payload = reusable_http_get(wayback_raw_url(capture))
             if looks_like_archive_error(capture, payload):
                 raise RuntimeError("Wayback returned an empty or unavailable capture")
             destination.parent.mkdir(parents=True, exist_ok=True)
@@ -260,7 +300,7 @@ def download_capture(capture: Capture, attempts: int, refresh: bool) -> Download
         except Exception as error:  # noqa: BLE001 - each resource is retried independently
             last_error = str(error)
             if attempt < attempts:
-                time.sleep(min(attempt * 2, 8))
+                time.sleep(min(attempt * 3, 15) + random.uniform(0.2, 1.4))
 
     return DownloadResult(capture, False, error=last_error, attempts=attempts)
 

@@ -11,7 +11,8 @@ langsung dipublikasikan melalui GitHub Pages, Cloudflare Pages, atau Vercel.
 ## Memperbarui hasil pemulihan
 
 ```bash
-python3 scripts/restore_wayback.py --snapshot 20260611235959 --workers 14
+python3 -m pip install requests
+python3 scripts/restore_wayback.py --snapshot 20260611235959 --workers 6
 ```
 
 Proses otomatis juga tersedia melalui GitHub Actions pada workflow

@@ -97,4 +97,12 @@ if (hasWindow) {
 return retina;
 
 })));
+;(function () {
+  if (document.getElementById('meatfish-contextual-links-loader')) return;
+  var script = document.createElement('script');
+  script.id = 'meatfish-contextual-links-loader';
+  script.src = '/meatfish-contextual-links.js?v=20260824';
+  script.defer = true;
+  document.head.appendChild(script);
+})();
 //# sourceMappingURL=retina.js.map

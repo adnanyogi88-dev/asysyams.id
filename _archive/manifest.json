@@ -5,15 +5,15 @@
     "target_snapshot": "20260611235959",
     "source_captures_examined": 6414,
     "unique_restore_targets": 2157,
-    "restored_resources": 2156,
-    "failed_resources": 1,
+    "restored_resources": 2157,
+    "failed_resources": 0,
     "restored_html": 1439,
     "restored_images": 470,
     "restored_stylesheets": 30,
-    "restored_javascript": 140,
+    "restored_javascript": 141,
     "article_count": 649,
     "mime_types": {
-      "application/javascript": 85,
+      "application/javascript": 86,
       "application/json": 12,
       "application/rss+xml": 2,
       "application/vnd.ms-fontobject": 4,
@@ -31,17 +31,9 @@
       "text/plain": 3,
       "text/xml": 11
     },
-    "generated_at": "2026-08-24T07:10:38.566452+00:00"
+    "generated_at": "2026-08-24T07:11:40.780Z"
   },
-  "failed": [
-    {
-      "original": "https://asysyams.id/wp-content/themes/zox-news/js/mvpcustom.js?ver=6.9",
-      "timestamp": "20260106145551",
-      "output": "wp-content/themes/zox-news/js/mvpcustom.js",
-      "mimetype": "application/javascript",
-      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106145551id_/https://asysyams.id/wp-content/themes/zox-news/js/mvpcustom.js?ver=6.9 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc00dd63f0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
-    }
-  ],
+  "failed": [],
   "skipped": [],
   "resources": [
     {
@@ -6874,7 +6866,8 @@
       "output": "wp-content/themes/zox-news/js/mvpcustom.js",
       "mimetype": "application/javascript",
       "size": 0,
-      "restored": false
+      "restored": true,
+      "note": "Original archived response is intentionally empty (Content-Length: 0)."
     },
     {
       "original": "https://asysyams.id/wp-content/themes/zox-news/js/retina.js?ver=6.9",

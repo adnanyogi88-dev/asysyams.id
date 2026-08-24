@@ -270,7 +270,9 @@ def wayback_raw_url(capture: Capture) -> str:
 
 def looks_like_archive_error(capture: Capture, payload: bytes) -> bool:
     if not payload:
-        return True
+        # WordPress ships an intentionally empty mvpcustom.js file. Preserve
+        # valid zero-byte assets exactly as archived; only empty HTML is bad.
+        return capture.mimetype == "text/html"
     if capture.mimetype != "text/html":
         return False
     sample = payload[:12000].decode("utf-8", "ignore").lower()

@@ -101,7 +101,11 @@ return retina;
   if (document.getElementById('meatfish-contextual-links-loader')) return;
   var script = document.createElement('script');
   script.id = 'meatfish-contextual-links-loader';
-  script.src = '/meatfish-contextual-links.js?v=20260824';
+  var currentSrc = document.currentScript && document.currentScript.src;
+  var rootMarker = currentSrc ? currentSrc.indexOf('/wp-content/') : -1;
+  script.src = rootMarker >= 0
+    ? currentSrc.slice(0, rootMarker + 1) + 'meatfish-contextual-links.js?v=20260824'
+    : '/meatfish-contextual-links.js?v=20260824';
   script.defer = true;
   document.head.appendChild(script);
 })();

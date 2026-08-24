@@ -1,0 +1,347 @@
+{
+  "domain": "asysyams.id",
+  "snapshot": "20260611235959",
+  "summary": {
+    "target_snapshot": "20260611235959",
+    "source_captures_examined": 6414,
+    "unique_restore_targets": 40,
+    "restored_resources": 40,
+    "failed_resources": 0,
+    "restored_html": 8,
+    "restored_images": 25,
+    "restored_stylesheets": 7,
+    "restored_javascript": 0,
+    "article_count": 0,
+    "mime_types": {
+      "image/jpeg": 18,
+      "image/png": 7,
+      "text/css": 7,
+      "text/html": 8
+    },
+    "generated_at": "2026-08-24T07:00:00.751878+00:00"
+  },
+  "failed": [],
+  "skipped": [],
+  "resources": [
+    {
+      "original": "https://asysyams.id/",
+      "timestamp": "20260611132229",
+      "output": "index.html",
+      "mimetype": "text/html",
+      "size": 229245,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/contact-us-asysyams-id/",
+      "timestamp": "20260611140055",
+      "output": "contact-us-asysyams-id/index.html",
+      "mimetype": "text/html",
+      "size": 97927,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/",
+      "timestamp": "20260515070532",
+      "output": "gabung-kemitraan-sekolah-asy-syams/index.html",
+      "mimetype": "text/html",
+      "size": 125589,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/informasi-tumbuh-kembang-anak/",
+      "timestamp": "20260421033006",
+      "output": "informasi-tumbuh-kembang-anak/index.html",
+      "mimetype": "text/html",
+      "size": 96907,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/kebijakan-privasi/",
+      "timestamp": "20260515075240",
+      "output": "kebijakan-privasi/index.html",
+      "mimetype": "text/html",
+      "size": 103082,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/pelayanan-asy-syams/",
+      "timestamp": "20260515083023",
+      "output": "pelayanan-asy-syams/index.html",
+      "mimetype": "text/html",
+      "size": 73979,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/pendaftaran-anak-di-asy-syams/",
+      "timestamp": "20260421041645",
+      "output": "pendaftaran-anak-di-asy-syams/index.html",
+      "mimetype": "text/html",
+      "size": 69819,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/tentang-asy-syams/",
+      "timestamp": "20260217000515",
+      "output": "tentang-asy-syams/index.html",
+      "mimetype": "text/html",
+      "size": 91952,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.3",
+      "timestamp": "20250222160558",
+      "output": "wp-content/plugins/elementor/assets/css/frontend-lite.min.css",
+      "mimetype": "text/css",
+      "size": 212120,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.4",
+      "timestamp": "20251130081930",
+      "output": "wp-content/plugins/elementor/assets/css/frontend.min.css",
+      "mimetype": "text/css",
+      "size": 53275,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/themes/zox-news-child/font-awesome/css/all.css?ver=6.9",
+      "timestamp": "20260106145435",
+      "output": "wp-content/themes/zox-news-child/font-awesome/css/all.css",
+      "mimetype": "text/css",
+      "size": 73577,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/themes/zox-news-child/style.css?ver=1.1.0",
+      "timestamp": "20260106145521",
+      "output": "wp-content/themes/zox-news-child/style.css",
+      "mimetype": "text/css",
+      "size": 546,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/themes/zox-news/css/media-queries.css?ver=6.9",
+      "timestamp": "20260106145433",
+      "output": "wp-content/themes/zox-news/css/media-queries.css",
+      "mimetype": "text/css",
+      "size": 125461,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/themes/zox-news/css/reset.css?ver=6.9",
+      "timestamp": "20260106194219",
+      "output": "wp-content/themes/zox-news/css/reset.css",
+      "mimetype": "text/css",
+      "size": 1082,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/themes/zox-news/style.css?ver=6.9",
+      "timestamp": "20260106145509",
+      "output": "wp-content/themes/zox-news/style.css",
+      "mimetype": "text/css",
+      "size": 139760,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/08/ASYSYAMS-300x164.jpg",
+      "timestamp": "20251130081918",
+      "output": "wp-content/uploads/2024/08/ASYSYAMS-300x164.jpg",
+      "mimetype": "image/jpeg",
+      "size": 9191,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/08/ASYSYAMS-768x420.jpg",
+      "timestamp": "20250222160606",
+      "output": "wp-content/uploads/2024/08/ASYSYAMS-768x420.jpg",
+      "mimetype": "image/jpeg",
+      "size": 27241,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/08/ASYSYAMS-Logo.jpg",
+      "timestamp": "20251130081943",
+      "output": "wp-content/uploads/2024/08/ASYSYAMS-Logo.jpg",
+      "mimetype": "image/jpeg",
+      "size": 22255,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/08/ASYSYAMS.jpg",
+      "timestamp": "20250222160554",
+      "output": "wp-content/uploads/2024/08/ASYSYAMS.jpg",
+      "mimetype": "image/jpeg",
+      "size": 87045,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/08/cropped-ASYSYAMS-Islamic-School-180x180.jpeg",
+      "timestamp": "20251130082006",
+      "output": "wp-content/uploads/2024/08/cropped-ASYSYAMS-Islamic-School-180x180.jpeg",
+      "mimetype": "image/jpeg",
+      "size": 4476,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/08/cropped-ASYSYAMS-Islamic-School-192x192.jpeg",
+      "timestamp": "20251130081909",
+      "output": "wp-content/uploads/2024/08/cropped-ASYSYAMS-Islamic-School-192x192.jpeg",
+      "mimetype": "image/jpeg",
+      "size": 4878,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/08/cropped-ASYSYAMS-Islamic-School-32x32.jpeg",
+      "timestamp": "20251130081941",
+      "output": "wp-content/uploads/2024/08/cropped-ASYSYAMS-Islamic-School-32x32.jpeg",
+      "mimetype": "image/jpeg",
+      "size": 827,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/08/cropped-ASYSYAMS-Islamic-School.jpeg",
+      "timestamp": "20251130082002",
+      "output": "wp-content/uploads/2024/08/cropped-ASYSYAMS-Islamic-School.jpeg",
+      "mimetype": "image/jpeg",
+      "size": 18528,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/09/Logo-Indofishmart-150x150.png",
+      "timestamp": "20250222160615",
+      "output": "wp-content/uploads/2024/09/Logo-Indofishmart-150x150.png",
+      "mimetype": "image/png",
+      "size": 1247,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/09/Logo-Indofishmart-300x300.png",
+      "timestamp": "20251130081849",
+      "output": "wp-content/uploads/2024/09/Logo-Indofishmart-300x300.png",
+      "mimetype": "image/png",
+      "size": 2364,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/09/Logo-Indofishmart-768x768.png",
+      "timestamp": "20250222160633",
+      "output": "wp-content/uploads/2024/09/Logo-Indofishmart-768x768.png",
+      "mimetype": "image/png",
+      "size": 7195,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/09/Logo-Indofishmart-80x80.png",
+      "timestamp": "20250222160619",
+      "output": "wp-content/uploads/2024/09/Logo-Indofishmart-80x80.png",
+      "mimetype": "image/png",
+      "size": 687,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/09/Logo-Indofishmart.png",
+      "timestamp": "20250222160627",
+      "output": "wp-content/uploads/2024/09/Logo-Indofishmart.png",
+      "mimetype": "image/png",
+      "size": 60391,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/09/asysyams-150x150.png",
+      "timestamp": "20250609134807",
+      "output": "wp-content/uploads/2024/09/asysyams-150x150.png",
+      "mimetype": "image/png",
+      "size": 5437,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/09/asysyams-80x80.png",
+      "timestamp": "20250609130143",
+      "output": "wp-content/uploads/2024/09/asysyams-80x80.png",
+      "mimetype": "image/png",
+      "size": 2114,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-150x150.jpg",
+      "timestamp": "20250127204505",
+      "output": "wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-150x150.jpg",
+      "mimetype": "image/jpeg",
+      "size": 8249,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-80x80.jpg",
+      "timestamp": "20250127204409",
+      "output": "wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-80x80.jpg",
+      "mimetype": "image/jpeg",
+      "size": 3153,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Asy-Syams-Islamic-School-Open-for-registration-2022-2023.Come-and-visit-us-or-call-us-for-more-info.Play-Learn-ExlploreIts-going-to-be-an-exciting-year-with-our-new-updated-curriculum-1-150x150.jpg",
+      "timestamp": "20250127204507",
+      "output": "wp-content/uploads/2024/10/Asy-Syams-Islamic-School-Open-for-registration-2022-2023.Come-and-visit-us-or-call-us-for-more-info.Play-Learn-ExlploreIts-going-to-be-an-exciting-year-with-our-new-updated-curriculum-1-150x150.jpg",
+      "mimetype": "image/jpeg",
+      "size": 8143,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Asy-Syams-Islamic-School-Open-for-registration-2022-2023.Come-and-visit-us-or-call-us-for-more-info.Play-Learn-ExlploreIts-going-to-be-an-exciting-year-with-our-new-updated-curriculum-1-80x80.jpg",
+      "timestamp": "20250127204935",
+      "output": "wp-content/uploads/2024/10/Asy-Syams-Islamic-School-Open-for-registration-2022-2023.Come-and-visit-us-or-call-us-for-more-info.Play-Learn-ExlploreIts-going-to-be-an-exciting-year-with-our-new-updated-curriculum-1-80x80.jpg",
+      "mimetype": "image/jpeg",
+      "size": 3139,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--1000x600.jpg",
+      "timestamp": "20250222160601",
+      "output": "wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--1000x600.jpg",
+      "mimetype": "image/jpeg",
+      "size": 152089,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--150x150.jpg",
+      "timestamp": "20250222160634",
+      "output": "wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--150x150.jpg",
+      "mimetype": "image/jpeg",
+      "size": 8467,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--400x240.jpg",
+      "timestamp": "20250222160612",
+      "output": "wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--400x240.jpg",
+      "mimetype": "image/jpeg",
+      "size": 29907,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--590x354.jpg",
+      "timestamp": "20250222160600",
+      "output": "wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--590x354.jpg",
+      "mimetype": "image/jpeg",
+      "size": 61326,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--80x80.jpg",
+      "timestamp": "20250222160552",
+      "output": "wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--80x80.jpg",
+      "mimetype": "image/jpeg",
+      "size": 2958,
+      "restored": true
+    },
+    {
+      "original": "https://asysyams.id/wp-content/uploads/2024/10/Making-a-smilefriendship-and-memories-with-Asy-Syams-@odirartwork-SundayJune-2nd-2024-@hotelsantikapremierekhi-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.harapanindah-@mo-1000x600.jpg",
+      "timestamp": "20260106114837",
+      "output": "wp-content/uploads/2024/10/Making-a-smilefriendship-and-memories-with-Asy-Syams-@odirartwork-SundayJune-2nd-2024-@hotelsantikapremierekhi-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.harapanindah-@mo-1000x600.jpg",
+      "mimetype": "image/jpeg",
+      "size": 96032,
+      "restored": true
+    }
+  ]
+}

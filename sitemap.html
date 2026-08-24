@@ -1,0 +1,92 @@
+
+<title>XML Sitemap</title><style type="text/css">
+					body {
+						font-family:"Lucida Grande","Lucida Sans Unicode",Tahoma,Verdana;
+						font-size:13px;
+					}
+					
+					#intro {
+						background-color:#cfebf7;
+						border:1px #2580B2 solid;
+						padding:5px 13px 5px 13px;
+						margin:10px;
+					}
+					
+					#intro p {
+						line-height:16.8667px;
+					}
+					#intro strong {
+						font-weight:normal;
+					}
+					
+					td {
+						font-size:11px;
+					}
+					
+					th {
+						text-align:left;
+						padding-right:30px;
+						font-size:11px;
+					}
+					
+					tr.high {
+						background-color:whitesmoke;
+					}
+					
+					#footer {
+						padding:2px;
+						margin-top:10px;
+						font-size:8pt;
+						color:gray;
+					}
+					
+					#footer a {
+						color:gray;
+					}
+					
+					a {
+						color:black;
+					}
+				</style><h1>XML Sitemap Index</h1><div id="intro"><p>
+                This XML sitemap is used by search engines which follow the <a rel="external nofollow" href="https://sitemaps.org">XML sitemap standard</a>. This file contains links to sub-sitemaps, follow them to see the actual sitemap content.
+            </p><p>
+                This file was dynamically generated using the <a rel="external nofollow" href="https://wordpress.org/">WordPress</a> content management system and <strong><a rel="external nofollow" href="https://auctollo.com/products/google-xml-sitemap-generator/" title="XML Sitemap Generator for Google">XML Sitemap Generator for Google</a></strong> by <a rel="external nofollow" href="https://auctollo.com/">Auctollo</a>.
+            </p></div><div id="content"><table><tr style="border-bottom:1px black solid"><th>URL of sub-sitemap</th><th>Last modified (GMT)</th></tr><tr><td><a href="./sitemap-misc.html">./sitemap-misc.html</a></td><td>2025-12-12T04:06:13+00:00</td></tr><tr class="high"><td><a href="./post_tag-sitemap.html">./post_tag-sitemap.html</a></td><td>2025-12-12T04:06:13+00:00</td></tr><tr><td><a href="./category-sitemap.html">./category-sitemap.html</a></td><td>2025-12-12T04:06:13+00:00</td></tr><tr class="high"><td><a href="./post-sitemap.html">./post-sitemap.html</a></td><td>2025-11-12T09:57:31+00:00</td></tr><tr><td><a href="./authors-sitemap.html">./authors-sitemap.html</a></td><td>2025-12-12T04:06:13+00:00</td></tr></table></div><div id="footer"><p>
+						Dynamically generated with <a rel="external nofollow" href="https://auctollo.com/products/google-xml-sitemap-generator/" title="XML Sitemap Generator for Google">XML Sitemap Generator for Google</a> by <a rel="external nofollow" href="https://auctollo.com/">Auctollo</a>. This XSLT template is released under the GPL and free to use.
+            		</p><p>
+	                    If you have problems with your sitemap please visit the <a rel="external nofollow" href="https://auctollo.com/products/google-xml-sitemap-generator/help/" title="Frequently Asked Questions">FAQ</a> or the <a rel="external nofollow" href="https://wordpress.org/support/plugin/google-sitemap-generator">support forum</a>.
+            		</p></div>
+
+<script>window.ASYSYAMS_SITE_ROOT="./";</script>
+<script id="asysyams-static-recovery-runtime">
+(function () {
+  'use strict';
+  function restoreLazyImages(root) {
+    root.querySelectorAll('img[data-src],source[data-src],source[data-srcset]').forEach(function (node) {
+      if (node.dataset.src && (!node.getAttribute('src') || node.getAttribute('src').indexOf('data:image/') === 0)) {
+        node.setAttribute('src', node.dataset.src);
+      }
+      if (node.dataset.srcset && !node.getAttribute('srcset')) {
+        node.setAttribute('srcset', node.dataset.srcset);
+      }
+      node.classList.remove('lazyload');
+      node.classList.add('lazyloaded');
+    });
+  }
+  function activate() {
+    restoreLazyImages(document);
+    document.querySelectorAll('form[role="search"],form.search-form').forEach(function (form) {
+      form.addEventListener('submit', function (event) {
+        var field = form.querySelector('input[name="s"],input[type="search"]');
+        if (field && field.value.trim()) {
+          event.preventDefault();
+          window.location.href = (window.ASYSYAMS_SITE_ROOT || './') + 'search/?q=' + encodeURIComponent(field.value.trim());
+        }
+      });
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', activate);
+  else activate();
+  window.addEventListener('load', function () { restoreLazyImages(document); });
+})();
+</script>

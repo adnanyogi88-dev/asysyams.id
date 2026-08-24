@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217001900/https://asysyams.id/car
 
 # Cara Daftar PAUD Asysyams Bekasi: Panduan Lengkap untuk Orang Tua yang Ingin Anak Naik Kelas
 
-[Home](https://asysyams.id/) » Cara Daftar PAUD Asysyams Bekasi: Panduan Lengkap untuk Orang Tua yang Ingin Anak Naik Kelas
+[Home](../) » Cara Daftar PAUD Asysyams Bekasi: Panduan Lengkap untuk Orang Tua yang Ingin Anak Naik Kelas
 
 ## Mencari pendidikan usia dini yang berkualitas memang tidak mudah.
 
-![cara daftar paud](https://asysyams.id/wp-content/uploads/2025/05/ChatGPT-Image-May-13-2025-03_27_44-PM-1024x683.png)
+![cara daftar paud](../wp-content/uploads/2025/05/ChatGPT-Image-May-13-2025-03_27_44-PM-1024x683.png)
 
 Namun, jika Anda berada di wilayah Bekasi, ada satu nama yang wajib Anda pertimbangkan: PAUD Asysyams. Artikel ini akan mengulas tuntas cara daftar PAUD Asysyams Bekasi secara sistematis dan praktis. Tak hanya itu, kami juga akan menghubungkannya dengan visi besar “Naik Kelas”, merek bisnis yang mendukung kemitraan pendidikan berkualitas.
 
@@ -69,17 +69,17 @@ Setelah observasi selesai dan anak dinyatakan diterima, Anda akan menerima rinci
 
 PAUD Asysyams menawarkan lebih dari sekadar pendidikan. Mereka mengintegrasikan nilai-nilai keislaman, kurikulum kreatif, dan kegiatan motorik yang mendukung perkembangan otak anak secara maksimal. Dengan kata lain, mereka mengajak anak untuk benar-benar “Naik Kelas” dalam arti yang sesungguhnya.
 
-Program mereka juga didukung oleh [kemitraan waralaba daycare](https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/) yang memperluas jangkauan dan kualitas pendidikan. Jadi, anak Anda tidak hanya mendapatkan pendidikan yang bermutu, tetapi juga berada di lingkungan yang dikelola secara profesional.
+Program mereka juga didukung oleh [kemitraan waralaba daycare](../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/) yang memperluas jangkauan dan kualitas pendidikan. Jadi, anak Anda tidak hanya mendapatkan pendidikan yang bermutu, tetapi juga berada di lingkungan yang dikelola secara profesional.
 
 #### Hubungan dengan Merek Bisnis “Naik Kelas”
 
 “Naik Kelas” bukan sekadar slogan. Merek ini membawa semangat untuk terus berkembang, tumbuh, dan meningkatkan kualitas hidup melalui pendidikan. PAUD Asysyams adalah implementasi nyata dari visi ini.
 
-Melalui program waralaba, [franchise pendidikan usia dini yang menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/), merek Naik Kelas memberikan kesempatan kepada para mitra untuk bergabung dalam sistem pendidikan yang sudah terbukti efektif.
+Melalui program waralaba, [franchise pendidikan usia dini yang menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/), merek Naik Kelas memberikan kesempatan kepada para mitra untuk bergabung dalam sistem pendidikan yang sudah terbukti efektif.
 
 #### Estimasi Biaya dan Transparansi
 
-Sebagai orang tua, Anda tentu ingin tahu estimasi biaya pendidikan yang harus Anda siapkan. PAUD Asysyams memberikan informasi terbuka dan transparan. Anda juga bisa membaca artikel [estimasi biaya penitipan anak di Jakarta](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/) untuk mendapatkan gambaran lebih jelas tentang biaya yang relevan.
+Sebagai orang tua, Anda tentu ingin tahu estimasi biaya pendidikan yang harus Anda siapkan. PAUD Asysyams memberikan informasi terbuka dan transparan. Anda juga bisa membaca artikel [estimasi biaya penitipan anak di Jakarta](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/) untuk mendapatkan gambaran lebih jelas tentang biaya yang relevan.
 
 #### Tips Agar Anak Siap Masuk PAUD
 

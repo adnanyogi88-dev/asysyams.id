@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611141643/https://asysyams.id/con
 
 # Contoh Tata Tertib di Sekolah: Panduan Penting untuk Orang Tua yang Peduli Pendidikan Anak
 
-[Home](https://asysyams.id/) » Contoh Tata Tertib di Sekolah: Panduan Penting untuk Orang Tua yang Peduli Pendidikan Anak
+[Home](../) » Contoh Tata Tertib di Sekolah: Panduan Penting untuk Orang Tua yang Peduli Pendidikan Anak
 
 ## Mendidik anak bukan hanya soal akademik. Lebih dari itu, pendidikan karakter juga memegang peran penting.
 
-![Stimulasi 6 Aspek Perkembangan Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_e68df463-80x80.jpg)
+![Stimulasi 6 Aspek Perkembangan Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_e68df463-80x80.jpg)
 
 Oleh karena itu, sekolah menetapkan tata tertib yang wajib kita ikuti oleh seluruh siswa. Artikel ini akan membahas contoh tata tertib di sekolah secara lengkap dan praktis, khusus untuk Anda, para orang tua yang ingin memastikan anak-anak tumbuh dalam lingkungan belajar yang disiplin dan nyaman.
 
@@ -83,11 +83,11 @@ Tata tertib berfungsi sebagai jembatan antara rumah dan sekolah. Anak yang terbi
 
 Jika Anda sedang mencari sekolah TK terbaik untuk anak, artikel berikut bisa membantu Anda menentukan pilihan:
 
-- [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 ### Membangun Budaya Sekolah yang Positif
 

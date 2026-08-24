@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314224602/https://asysyams.id/sek
 
 # Sekolah di Film Upin Ipin: Inspirasi Orang Tua untuk Memilih Sekolah
 
-[Home](https://asysyams.id/) » Sekolah di Film Upin Ipin: Inspirasi Orang Tua untuk Memilih Sekolah
+[Home](../) » Sekolah di Film Upin Ipin: Inspirasi Orang Tua untuk Memilih Sekolah
 
 ## Serial animasi Upin & Ipin bukan hanya menghibur, tetapi juga sarat dengan nilai-nilai pendidikan dan moral yang penting bagi anak-anak.
 
-![ tk upin ipin](https://asysyams.id/wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-11_51_27-AM.jpg)
+![ tk upin ipin](../wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-11_51_27-AM.jpg)
 
 Salah satu elemen menarik dalam film ini adalah gambaran kehidupan sekolah. Sekolah di film Upin Ipin, yaitu Tadika Mesra, telah menjadi simbol pendidikan ideal bagi banyak orang tua. Tak heran jika banyak orang tua di Indonesia mulai mencari sekolah yang memiliki suasana, kurikulum, dan nilai-nilai serupa dengan yang dalam serial tampilkan tersebut.
 
@@ -43,7 +43,7 @@ Salah satu kekuatan Tadika Mesra adalah keseimbangan antara belajar kognitif dan
 
 Sekolah yang ideal harus memiliki kurikulum holistik. Artinya, tidak hanya fokus pada angka-angka dan hafalan, tetapi juga mengembangkan empati, tanggung jawab, dan etika. Sekolah Islam pun bisa menjadi pilihan tepat karena menawarkan nilai-nilai moral sejak dini.
 
-Sebagai contoh, Anda bisa mempertimbangkan [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) jika berdomisili di sekitar Bekasi.
+Sebagai contoh, Anda bisa mempertimbangkan [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) jika berdomisili di sekitar Bekasi.
 
 ### Lingkungan yang Aman dan Nyaman
 
@@ -65,7 +65,7 @@ Carilah sekolah yang terbuka terhadap masukan orang tua. Apakah mereka menyediak
 
 ### Persiapan Masuk Sekolah: Jangan Sampai Terlewat!
 
-Banyak orang tua bertanya, pendaftaran TK bulan apa? Jawabannya bisa berbeda tergantung kebijakan masing-masing sekolah. Namun, sebagian besar sekolah melakukan penerimaan murid baru antara bulan Januari hingga Juli. Anda bisa membaca panduan lengkap tentang hal ini di [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
+Banyak orang tua bertanya, pendaftaran TK bulan apa? Jawabannya bisa berbeda tergantung kebijakan masing-masing sekolah. Namun, sebagian besar sekolah melakukan penerimaan murid baru antara bulan Januari hingga Juli. Anda bisa membaca panduan lengkap tentang hal ini di [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
 
 Persiapan sejak dini sangat penting. Selain dokumen administrasi, siapkan juga mental anak. Ajak mereka mengunjungi sekolah dan kenalkan suasana belajar agar tidak kaget saat mulai masuk.
 
@@ -73,7 +73,7 @@ Persiapan sejak dini sangat penting. Selain dokumen administrasi, siapkan juga m
 
 Salah satu pertimbangan besar dalam memilih sekolah tentu saja adalah biaya. Pastikan sekolah yang Anda pilih memberikan rincian biaya yang jelas sejak awal. Ini akan membantu Anda merencanakan keuangan keluarga dengan lebih baik.
 
-Informasi lengkap tentang biaya bisa Anda dapatkan di artikel [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/). Di sana Anda akan menemukan berbagai jenis biaya yang umum dikenakan oleh lembaga pendidikan anak usia dini.
+Informasi lengkap tentang biaya bisa Anda dapatkan di artikel [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/). Di sana Anda akan menemukan berbagai jenis biaya yang umum dikenakan oleh lembaga pendidikan anak usia dini.
 
 ### Kesimpulan: Sekolah Terbaik untuk Anak Anda Dimulai dari Pilihan Bijak
 
@@ -92,10 +92,10 @@ Ada beberapa sekolah yang meniru pendekatan Tadika Mesra, terutama dari segi met
 Tentu saja. Bahkan, banyak sekolah Islam yang menerapkan kurikulum karakter dengan sangat baik dan terintegrasi dengan nilai-nilai spiritual.
 
 3. Kapan waktu terbaik untuk mendaftar sekolah anak?
-Idealnya 6 bulan sebelum tahun ajaran baru. Informasi lengkap bisa dibaca di [Pendaftaran TK Bulan Apa?](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+Idealnya 6 bulan sebelum tahun ajaran baru. Informasi lengkap bisa dibaca di [Pendaftaran TK Bulan Apa?](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
 4. Berapa biaya masuk sekolah TK atau PAUD saat ini?
-Biaya bervariasi tergantung fasilitas dan lokasi. Untuk referensi, baca [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
+Biaya bervariasi tergantung fasilitas dan lokasi. Untuk referensi, baca [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
 
 Dengan informasi ini, semoga Anda dapat memilih sekolah terbaik untuk anak, sebagaimana Anda terinspirasi dari film Upin & Ipin yang sarat nilai dan semangat belajar.
 

@@ -11,9 +11,9 @@ archive_url: "https://web.archive.org/web/20260314231614/https://asysyams.id/sur
 
 # Surat Izin Tidak Masuk Sekolah: Panduan Resmi untuk Orang Tua
 
-[Home](https://asysyams.id/) » Surat Izin Tidak Masuk Sekolah: Panduan Resmi untuk Orang Tua
+[Home](../) » Surat Izin Tidak Masuk Sekolah: Panduan Resmi untuk Orang Tua
 
-![contoh surat izin sekolah](https://asysyams.id/wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-10_22_19-AM.jpg)
+![contoh surat izin sekolah](../wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-10_22_19-AM.jpg)
 
 ## 1. Mengapa Orang Tua Perlu Mengurus Surat Izin?
 
@@ -142,11 +142,11 @@ Langkah praktis yang bisa Anda lakukan sekarang:
 
 - Telusuri panduan lain yang membantu masa awal sekolah:
 
-- Tips soal [pendaftaran TK: bulan apa?](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- Tips soal [pendaftaran TK: bulan apa?](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- Pilihan [TK Islam terbaik di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- Pilihan [TK Islam terbaik di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- Panduan [biaya masuk PAUD](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- Panduan [biaya masuk PAUD](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 - Siapkan template surat izin di komputer Anda agar siap digunakan kapan saja.
 

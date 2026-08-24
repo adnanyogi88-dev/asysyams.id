@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419153105/https://asysyams.id/pen
 
 # Pentingnya Tempat Pendidikan Al-Qur’an Sejak Dini
 
-[Home](https://asysyams.id/) » Pentingnya Tempat Pendidikan Al-Qur’an Sejak Dini
+[Home](../) » Pentingnya Tempat Pendidikan Al-Qur’an Sejak Dini
 
 ## Pendidikan adalah fondasi utama dalam pembentukan karakter dan kepribadian anak.
 
-![Hadits Tentang Pendidikan Anak Usia Dini](https://asysyams.id/wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--80x80.jpg)
+![Hadits Tentang Pendidikan Anak Usia Dini](../wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--80x80.jpg)
 
 Dalam Islam, Al-Qur’an merupakan sumber utama nilai-nilai kehidupan yang harus tertanamkan sejak dini. Memberikan pendidikan Al-Qur’an kepada anak-anak tidak hanya membantu mereka memahami agama tetapi juga mempersiapkan mereka menghadapi tantangan kehidupan dengan pondasi spiritual yang kuat.
 
@@ -39,7 +39,7 @@ Dalam mendidik anak dengan nilai-nilai Al-Qur’an, orang tua dan pendidik perlu
 
 #### 1. Mengajarkan Al-Qur’an dengan Cinta dan Kesabaran
 
-Seperti yang dijelaskan dalam artikel [Kiat-Kiat Parenting Islami](https://asysyams.id/kiat-kiat-parenting-islami-mendidik-anak-sesuai-nilai-nilai-islam/), pendekatan islami dalam mendidik anak harus dilakukan dengan penuh cinta dan kesabaran. Mengajarkan Al-Qur’an kepada anak tidak boleh dengan paksaan, tetapi dengan cara yang menyenangkan dan mendidik.
+Seperti yang dijelaskan dalam artikel [Kiat-Kiat Parenting Islami](../kiat-kiat-parenting-islami-mendidik-anak-sesuai-nilai-nilai-islam/), pendekatan islami dalam mendidik anak harus dilakukan dengan penuh cinta dan kesabaran. Mengajarkan Al-Qur’an kepada anak tidak boleh dengan paksaan, tetapi dengan cara yang menyenangkan dan mendidik.
 
 #### 2. Membiasakan Anak Mendengar Bacaan Al-Qur’an
 
@@ -51,7 +51,7 @@ Orang tua adalah panutan utama bagi anak-anak. Dengan memperlihatkan kebiasaan m
 
 #### 4. Memilih Tempat Pendidikan yang Tepat
 
-Tempat pendidikan Al-Qur’an yang baik, seperti pesantren atau lembaga pendidikan islami lainnya, memiliki peran besar dalam membimbing anak. Artikel [Gabung Kemitraan Sekolah Asy-Syams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/) menyebutkan pentingnya memilih institusi pendidikan yang memiliki metode pembelajaran yang efektif dan berlandaskan nilai-nilai Islam.
+Tempat pendidikan Al-Qur’an yang baik, seperti pesantren atau lembaga pendidikan islami lainnya, memiliki peran besar dalam membimbing anak. Artikel [Gabung Kemitraan Sekolah Asy-Syams](../gabung-kemitraan-sekolah-asy-syams/) menyebutkan pentingnya memilih institusi pendidikan yang memiliki metode pembelajaran yang efektif dan berlandaskan nilai-nilai Islam.
 
 ### Peran Orang Tua dalam Pendidikan Al-Qur’an Anak
 
@@ -59,7 +59,7 @@ Orang tua memiliki tanggung jawab besar dalam pendidikan anak, termasuk dalam ha
 
 - Menciptakan Lingkungan Islami di Rumah Lingkungan yang islami dapat membantu anak-anak memahami pentingnya Al-Qur’an dalam kehidupan sehari-hari. Bacaan Al-Qur’an, doa bersama, dan diskusi tentang kisah-kisah nabi bisa menjadi bagian dari rutinitas keluarga.
 
-- Mendorong Anak untuk Berdoa dan Belajar Mengajarkan anak untuk berdoa, seperti doa agar sukses dalam pendidikan sebagaimana dijelaskan dalam artikel [Doa Agar Anak Sukses pada Pendidikannya](https://asysyams.id/doa-agar-anak-sukses-pada-pendidikannya/), dapat memberikan mereka motivasi spiritual.
+- Mendorong Anak untuk Berdoa dan Belajar Mengajarkan anak untuk berdoa, seperti doa agar sukses dalam pendidikan sebagaimana dijelaskan dalam artikel [Doa Agar Anak Sukses pada Pendidikannya](../doa-agar-anak-sukses-pada-pendidikannya/), dapat memberikan mereka motivasi spiritual.
 
 - Mengikuti Kegiatan Islami Mengajak anak untuk mengikuti kegiatan islami di masjid atau komunitas setempat juga membantu mereka merasa terhubung dengan nilai-nilai Al-Qur’an.
 

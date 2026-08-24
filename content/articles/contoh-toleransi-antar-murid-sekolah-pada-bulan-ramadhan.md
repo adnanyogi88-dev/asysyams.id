@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314235107/https://asysyams.id/con
 
 # Contoh Toleransi Antar Murid Sekolah Pada Bulan Ramadhan
 
-[Home](https://asysyams.id/) » Contoh Toleransi Antar Murid Sekolah Pada Bulan Ramadhan
+[Home](../) » Contoh Toleransi Antar Murid Sekolah Pada Bulan Ramadhan
 
 ## Bulan Ramadhan adalah periode suci bagi umat Islam di seluruh dunia, termasuk di Indonesia.
 
-![mengasuh Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
+![mengasuh Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
 
 Selama bulan ini, umat Muslim menjalankan ibadah puasa sebagai bentuk ketaatan dan refleksi spiritual. Namun, di negara dengan keberagaman agama seperti Indonesia, bulan Ramadhan juga menjadi momen penting untuk menumbuhkan dan memperkuat toleransi antarumat beragama, khususnya di lingkungan sekolah. Artikel ini akan membahas pentingnya toleransi antar murid sekolah selama bulan Ramadhan, strategi untuk menanamkannya, serta manfaat yang dapat diperoleh dari sikap toleran tersebut.?[liputan6.com](https://www.liputan6.com/islami/read/3002141/potret-kecil-toleransi-beragama-di-bulan-ramadan)[kemdikbud.go.id](https://www.kemdikbud.go.id/main/blog/2021/05/membahas-puasa-kemanusiaan-dan-toleransi-dalam-webinar-ramadan)
 
@@ -113,15 +113,15 @@ Di beberapa sekolah, murid-murid lintas agama bekerja sama membagikan takjil ata
 
 ## Hubungan dengan Pendidikan Berbasis Nilai Islam
 
-Dalam membangun karakter murid yang toleran, pendidikan berbasis nilai Islam memiliki peran penting. Islam mengajarkan kasih sayang, saling menghormati, dan menjunjung tinggi kebersamaan dalam keberagaman. Untuk lebih memahami bagaimana pendidikan Islam dapat membentuk karakter anak sejak dini, Anda bisa membaca artikel berikut: [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
+Dalam membangun karakter murid yang toleran, pendidikan berbasis nilai Islam memiliki peran penting. Islam mengajarkan kasih sayang, saling menghormati, dan menjunjung tinggi kebersamaan dalam keberagaman. Untuk lebih memahami bagaimana pendidikan Islam dapat membentuk karakter anak sejak dini, Anda bisa membaca artikel berikut: [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
 
 ## Pendidikan Toleransi dalam Konteks Sekolah Islam dan TK Berbasis Islami
 
-Sekolah-sekolah Islam, termasuk Taman Kanak-Kanak berbasis Islami, juga memiliki peran dalam menanamkan toleransi kepada murid sejak dini. Pendidikan yang diberikan tidak hanya fokus pada aspek akademik, tetapi juga nilai-nilai karakter, termasuk sikap menghormati perbedaan. Bagi yang tertarik untuk mengetahui lebih lanjut tentang peran TK Islam dalam membentuk karakter anak, artikel berikut bisa menjadi referensi: [Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/).
+Sekolah-sekolah Islam, termasuk Taman Kanak-Kanak berbasis Islami, juga memiliki peran dalam menanamkan toleransi kepada murid sejak dini. Pendidikan yang diberikan tidak hanya fokus pada aspek akademik, tetapi juga nilai-nilai karakter, termasuk sikap menghormati perbedaan. Bagi yang tertarik untuk mengetahui lebih lanjut tentang peran TK Islam dalam membentuk karakter anak, artikel berikut bisa menjadi referensi: [Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/).
 
 ## Kisah Inspiratif tentang Toleransi di Sekolah
 
-Anak-anak belajar banyak dari cerita dan pengalaman nyata. Oleh karena itu, bercerita bisa menjadi salah satu metode efektif untuk menanamkan sikap toleransi sejak dini. Misalnya, dengan membaca cerita-cerita islami yang mengajarkan nilai-nilai kebersamaan, persahabatan, dan penghormatan terhadap sesama. Beberapa kisah islami pendek yang cocok untuk anak dan keluarga bisa ditemukan dalam artikel ini: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
+Anak-anak belajar banyak dari cerita dan pengalaman nyata. Oleh karena itu, bercerita bisa menjadi salah satu metode efektif untuk menanamkan sikap toleransi sejak dini. Misalnya, dengan membaca cerita-cerita islami yang mengajarkan nilai-nilai kebersamaan, persahabatan, dan penghormatan terhadap sesama. Beberapa kisah islami pendek yang cocok untuk anak dan keluarga bisa ditemukan dalam artikel ini: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
 
 ## Kesimpulan
 

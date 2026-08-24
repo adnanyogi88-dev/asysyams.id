@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515073535/https://asysyams.id/zak
 
 # Zakat Fitrah Untuk Siapa dan Bagaimana Pentingnya dalam Kehidupan Umat Islam
 
-[Home](https://asysyams.id/) » Zakat Fitrah Untuk Siapa dan Bagaimana Pentingnya dalam Kehidupan Umat Islam
+[Home](../) » Zakat Fitrah Untuk Siapa dan Bagaimana Pentingnya dalam Kehidupan Umat Islam
 
 ## Zakat fitrah adalah zakat yang diwajibkan atas setiap jiwa, baik lelaki maupun perempuan muslim, yang dilakukan pada bulan Ramadhan menjelang Idul Fitri.
 
-![sekolah anak-anak bekasi](https://asysyams.id/wp-content/uploads/2024/10/Penampilan-Al-Islam-Nursery-ClassKinder-A-Classand-Kinder-B-Class-@odirartwork-SundayJune-2nd-2024-@hotelsantikapremierekhi-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.jpg.jpg)
+![sekolah anak-anak bekasi](../wp-content/uploads/2024/10/Penampilan-Al-Islam-Nursery-ClassKinder-A-Classand-Kinder-B-Class-@odirartwork-SundayJune-2nd-2024-@hotelsantikapremierekhi-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.jpg.jpg)
 
 Sebagaimana hadist Ibnu Umar ra, “Rasulullah SAW mewajibkan zakat fitrah satu sha kurma atau satu sha gandum atas umat muslim; baik hamba sahaya maupun merdeka, laki-laki maupun perempuan, kecil maupun besar. Beliau saw memerintahkannya dilaksanakan sebelum orang-orang keluar untuk shalat.” (HR Bukhari Muslim)
 
@@ -77,17 +77,17 @@ Selain itu, pemahaman tentang siapa yang berhak menerima zakat fitrah menjadi pe
 
 Pendidikan memiliki peran yang sangat krusial dalam Islam. Salah satu aspek yang dapat kita ajarkan melalui pendidikan adalah kesadaran akan pentingnya zakat fitrah. Pendidikan Islam tidak hanya tentang transfer ilmu pengetahuan, tetapi juga bagaimana membentuk karakter anak agar mereka menjadi individu yang peduli terhadap sesama.
 
-Berdasarkan artikel [Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia](https://asysyams.id/perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/), terdapat perbedaan antara mendidik dan mengajar. Mendidik berkaitan dengan pembentukan karakter, sedangkan mengajar lebih berfokus pada penyampaian ilmu pengetahuan. Oleh karena itu, dalam pendidikan Islam, zakat fitrah dapat diajarkan sebagai bagian dari pembelajaran karakter agar anak-anak memahami konsep berbagi dan kepedulian sosial sejak dini.
+Berdasarkan artikel [Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia](../perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/), terdapat perbedaan antara mendidik dan mengajar. Mendidik berkaitan dengan pembentukan karakter, sedangkan mengajar lebih berfokus pada penyampaian ilmu pengetahuan. Oleh karena itu, dalam pendidikan Islam, zakat fitrah dapat diajarkan sebagai bagian dari pembelajaran karakter agar anak-anak memahami konsep berbagi dan kepedulian sosial sejak dini.
 
 ### Menanamkan Kesadaran Zakat pada Anak Sejak Dini
 
-Menanamkan pemahaman tentang zakat fitrah sebaiknya dilakukan sejak anak-anak masih kecil. Salah satu cara yang efektif adalah melalui pendidikan anak usia dini. Artikel [Pendaftaran Murid TK di Harapan Indah Bekasi](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/) menyoroti pentingnya memilih sekolah yang tidak hanya memberikan pendidikan akademik, tetapi juga pendidikan karakter berbasis Islam.
+Menanamkan pemahaman tentang zakat fitrah sebaiknya dilakukan sejak anak-anak masih kecil. Salah satu cara yang efektif adalah melalui pendidikan anak usia dini. Artikel [Pendaftaran Murid TK di Harapan Indah Bekasi](../pendaftaran-murid-tk-di-harapan-indah-bekasi/) menyoroti pentingnya memilih sekolah yang tidak hanya memberikan pendidikan akademik, tetapi juga pendidikan karakter berbasis Islam.
 
 Di sekolah yang berbasis Islam, anak-anak bisa diajarkan tentang zakat fitrah melalui kegiatan seperti berbagi dengan teman-temannya, memahami siapa yang membutuhkan bantuan, dan membiasakan diri untuk menyisihkan sebagian dari rezekinya bagi orang lain.
 
 ### Peran Lagu Anak Islami dalam Memperkenalkan Zakat Fitrah
 
-Salah satu metode yang efektif dalam mengenalkan konsep zakat fitrah kepada anak-anak adalah melalui lagu Islami. Lagu memiliki daya tarik yang kuat bagi anak-anak karena mudah dihafal dan menyenangkan. Artikel [Kumpulan Lagu Anak Islami: Membangun Karakter Islami Sejak Dini](https://asysyams.id/kumpulan-lagu-anak-islami-membangun-karakter-islami-sejak-dini/) menyoroti bagaimana lagu Islami dapat menjadi sarana edukasi yang efektif dalam membangun karakter Islami sejak dini.
+Salah satu metode yang efektif dalam mengenalkan konsep zakat fitrah kepada anak-anak adalah melalui lagu Islami. Lagu memiliki daya tarik yang kuat bagi anak-anak karena mudah dihafal dan menyenangkan. Artikel [Kumpulan Lagu Anak Islami: Membangun Karakter Islami Sejak Dini](../kumpulan-lagu-anak-islami-membangun-karakter-islami-sejak-dini/) menyoroti bagaimana lagu Islami dapat menjadi sarana edukasi yang efektif dalam membangun karakter Islami sejak dini.
 
 Dengan menggunakan lagu-lagu yang berisi pesan tentang zakat fitrah, anak-anak dapat lebih mudah memahami makna berbagi dan pentingnya membantu sesama. Lagu-lagu Islami juga bisa menjadi media yang menyenangkan untuk memperkenalkan konsep zakat, sehingga mereka tumbuh dengan kebiasaan baik dalam berbagi rezeki kepada orang yang membutuhkan.
 

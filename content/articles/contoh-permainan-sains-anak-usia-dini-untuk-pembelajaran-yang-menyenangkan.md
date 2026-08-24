@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217000848/https://asysyams.id/con
 
 # Contoh Permainan Sains Anak Usia Dini untuk Pembelajaran yang Menyenangkan
 
-[Home](https://asysyams.id/) » Contoh Permainan Sains Anak Usia Dini untuk Pembelajaran yang Menyenangkan
+[Home](../) » Contoh Permainan Sains Anak Usia Dini untuk Pembelajaran yang Menyenangkan
 
 ## Pendidikan anak usia dini adalah fondasi penting dalam perkembangan kognitif dan sosial anak.
 
-![9 Pilar Karakter Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_de9c0eea-80x80.jpg)
+![9 Pilar Karakter Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_de9c0eea-80x80.jpg)
 
 Salah satu cara efektif untuk meningkatkan daya pikir dan kreativitas anak adalah melalui permainan sains. Permainan ini tidak hanya memberikan pengalaman belajar yang menyenangkan, tetapi juga membantu anak memahami konsep dasar sains dengan cara yang mudah dipahami.
 
@@ -75,17 +75,17 @@ Tujuan: Mengenalkan konsep gas dalam reaksi kimia. Bahan: Botol plastik, soda ku
 
 ## 3. Menghubungkan Sains dengan Pendidikan Berkualitas
 
-Selain bermain sains, anak juga perlu diajarkan nilai-nilai adab dalam belajar. Memahami konsep ilmiah memang penting, tetapi lebih dari itu, anak juga perlu dibekali dengan sikap menghormati guru dan menghargai ilmu. Untuk memahami lebih dalam mengenai pentingnya adab murid terhadap guru dalam membangun pendidikan berkualitas, Anda dapat membaca artikel berikut: [12 Adab Murid Terhadap Guru sebagai Fondasi Pendidikan Berkualitas](https://asysyams.id/12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/).
+Selain bermain sains, anak juga perlu diajarkan nilai-nilai adab dalam belajar. Memahami konsep ilmiah memang penting, tetapi lebih dari itu, anak juga perlu dibekali dengan sikap menghormati guru dan menghargai ilmu. Untuk memahami lebih dalam mengenai pentingnya adab murid terhadap guru dalam membangun pendidikan berkualitas, Anda dapat membaca artikel berikut: [12 Adab Murid Terhadap Guru sebagai Fondasi Pendidikan Berkualitas](../12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/).
 
 ## 4. Biaya Masuk TK Negeri: Pertimbangan Orang Tua dalam Pendidikan Anak
 
-Sebelum anak masuk sekolah, banyak orang tua mempertimbangkan berbagai faktor, salah satunya adalah biaya pendidikan. Permainan sains bisa menjadi salah satu solusi bagi orang tua yang ingin memberikan pembelajaran berkualitas di rumah tanpa biaya besar. Untuk informasi lebih lanjut mengenai biaya masuk TK negeri dan bagaimana memilih sekolah terbaik untuk anak, silakan baca: [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/).
+Sebelum anak masuk sekolah, banyak orang tua mempertimbangkan berbagai faktor, salah satunya adalah biaya pendidikan. Permainan sains bisa menjadi salah satu solusi bagi orang tua yang ingin memberikan pembelajaran berkualitas di rumah tanpa biaya besar. Untuk informasi lebih lanjut mengenai biaya masuk TK negeri dan bagaimana memilih sekolah terbaik untuk anak, silakan baca: [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/).
 
 ## 5. Menggabungkan Permainan Sains dengan Mengarang Cerita
 
 Selain bereksperimen dengan sains, anak-anak juga dapat mengembangkan kreativitas mereka dengan mengarang cerita berdasarkan eksperimen yang mereka lakukan. Misalnya, setelah melakukan eksperimen “Gunung Meletus Mini”, anak bisa diminta untuk membuat cerita tentang petualangan seorang ilmuwan cilik yang menemukan gunung berapi ajaib.
 
-Untuk panduan lebih lanjut tentang mengajarkan anak mengarang cerita dengan cara yang menyenangkan, Anda dapat membaca artikel berikut: [Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK](https://asysyams.id/mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/).
+Untuk panduan lebih lanjut tentang mengajarkan anak mengarang cerita dengan cara yang menyenangkan, Anda dapat membaca artikel berikut: [Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK](../mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/).
 
 ## Kesimpulan
 

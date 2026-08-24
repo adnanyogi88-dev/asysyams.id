@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611134541/https://asysyams.id/car
 
 # Cara Melatih Anak Usia Balita Agar Lebih Mandiri
 
-[Home](https://asysyams.id/) » Cara Melatih Anak Usia Balita Agar Lebih Mandiri
+[Home](../) » Cara Melatih Anak Usia Balita Agar Lebih Mandiri
 
 ## Melatih kemandirian pada balita adalah salah satu tugas penting yang perlu dilakukan oleh orang tua sejak dini.
 
-![melatih kemandirian balita](https://asysyams.id/wp-content/uploads/2024/08/DALL·E-2024-08-27-21.38.18-A-warm-and-colorful-illustration-of-a-young-child-around-2-3-years-old-independently-trying-to-dress-themselves.-The-scene-shows-the-child-with-a-de-300x300.webp)
+![melatih kemandirian balita](../wp-content/uploads/2024/08/DALL·E-2024-08-27-21.38.18-A-warm-and-colorful-illustration-of-a-young-child-around-2-3-years-old-independently-trying-to-dress-themselves.-The-scene-shows-the-child-with-a-de-300x300.webp)
 
 Kemandirian merupakan kemampuan anak untuk melakukan berbagai hal sendiri tanpa bantuan orang lain, seperti makan sendiri, berpakaian sendiri, dan membereskan mainan. Meskipun tampak sederhana, kemandirian ini memegang peranan besar dalam pembentukan karakter dan kepercayaan diri anak di masa depan.
 
@@ -51,11 +51,11 @@ Ajari anak untuk berpakaian sendiri dengan memberikan pakaian yang mudah mereka 
 
 Baca juga:
 
-[Penyakit Umum pada Anak Usia Balita: Penyebab, Gejala, Cara Penanganannya](https://asysyams.id/penyakit-umum-pada-anak-usia-balita-penyebab-gejala-cara-penanganannya/)
+[Penyakit Umum pada Anak Usia Balita: Penyebab, Gejala, Cara Penanganannya](../penyakit-umum-pada-anak-usia-balita-penyebab-gejala-cara-penanganannya/)
 
-[Apa itu Toilet Training? Cara Mengenalkan kepada Balita](https://asysyams.id/apa-itu-toilet-training-cara-mengenalkan-kepada-balita/)
+[Apa itu Toilet Training? Cara Mengenalkan kepada Balita](../apa-itu-toilet-training-cara-mengenalkan-kepada-balita/)
 
-[Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan](https://asysyams.id/tips-mengelola-emosi-anak-agar-tidak-sampai-kebablasan/)
+[Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan](../tips-mengelola-emosi-anak-agar-tidak-sampai-kebablasan/)
 
 ####  
 

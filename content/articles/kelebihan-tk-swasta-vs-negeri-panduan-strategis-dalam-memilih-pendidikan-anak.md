@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216233820/https://asysyams.id/kel
 
 # Kelebihan TK Swasta vs Negeri: Panduan Strategis dalam Memilih Pendidikan Anak
 
-[Home](https://asysyams.id/) » Kelebihan TK Swasta vs Negeri: Panduan Strategis dalam Memilih Pendidikan Anak
+[Home](../) » Kelebihan TK Swasta vs Negeri: Panduan Strategis dalam Memilih Pendidikan Anak
 
 ## Pertama-tama, mari kita telaah bersama latar belakang kebutuhan orang tua dan pelaku bisnis dalam memilih Taman Kanak-Kanak (TK) terbaik untuk buah hati mereka.
 
-![Skema Bisnis Franchise](https://asysyams.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-01-18-at-09.59.31-1024x1024.webp)
+![Skema Bisnis Franchise](../wp-content/uploads/2024/10/WhatsApp-Image-2025-01-18-at-09.59.31-1024x1024.webp)
 
 Selain menyiapkan generasi unggul, institusi pendidikan usia dini juga memengaruhi reputasi perusahaan di mata karyawan dan calon karyawan. Oleh karena itu, Anda perlu memahami kelebihan TK swasta dibandingkan negeri sebelum mengambil keputusan investasi sumber daya manusia – khususnya bagi perusahaan yang menyediakan fasilitas pendidikan bagi karyawan.
 
@@ -75,13 +75,13 @@ Lebih lanjut, TK swasta bersedia menjalin kerjasama CSR untuk membiayai beasiswa
 
 Pertama, TK negeri mengandalkan promosi melalui Dinas Pendidikan dan mulut ke mulut. Namun demikian, TK swasta aktif melakukan digital marketing, SEO, serta open house rutin. Selain itu, TK swasta memproduksi konten edukatif seperti webinar parenting, blog, dan e-newsletter. Dengan demikian, calon orang tua (terutama dari kalangan profesional dan pengusaha) lebih mudah menemukan informasi.
 
-Anda dapat langsung melakukan [pendaftaran PAUD Asysyams tahun ajaran 2024-2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) untuk mengenali visi misi serta program unggulan yang kami tawarkan.
+Anda dapat langsung melakukan [pendaftaran PAUD Asysyams tahun ajaran 2024-2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) untuk mengenali visi misi serta program unggulan yang kami tawarkan.
 
 ## Studi Kasus: TK Islam Asysyams
 
-Pertama, TK Islam Asysyams menerapkan kurikulum terpadu antara agama dan sains. Selain itu, Asysyams menawarkan [open pendaftaran siswa TK Asysyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) secara online dengan proses cepat. Dengan demikian, orang tua dan perusahaan tidak perlu mengurus dokumen bertahap.
+Pertama, TK Islam Asysyams menerapkan kurikulum terpadu antara agama dan sains. Selain itu, Asysyams menawarkan [open pendaftaran siswa TK Asysyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) secara online dengan proses cepat. Dengan demikian, orang tua dan perusahaan tidak perlu mengurus dokumen bertahap.
 
-Selain itu, Asysyams termasuk dalam daftar [TK Islam terbaik di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Oleh karena itu, Asysyams cocok bagi perusahaan yang ingin menyediakan jalur pendidikan Islam berkualitas untuk karyawan muslim.
+Selain itu, Asysyams termasuk dalam daftar [TK Islam terbaik di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Oleh karena itu, Asysyams cocok bagi perusahaan yang ingin menyediakan jalur pendidikan Islam berkualitas untuk karyawan muslim.
 
 ## Tips Memilih TK Swasta untuk Korporasi
 

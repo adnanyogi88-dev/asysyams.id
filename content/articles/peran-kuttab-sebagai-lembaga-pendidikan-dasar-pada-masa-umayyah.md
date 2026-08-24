@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419151111/https://asysyams.id/per
 
 # Peran Kuttab sebagai Lembaga Pendidikan Dasar pada Masa Umayyah
 
-[Home](https://asysyams.id/) » Peran Kuttab sebagai Lembaga Pendidikan Dasar pada Masa Umayyah
+[Home](../) » Peran Kuttab sebagai Lembaga Pendidikan Dasar pada Masa Umayyah
 
 ## ?Pada masa Dinasti Umayyah, lembaga pendidikan dasar yang terkenal dengan sebutan Kuttab atau Maktab
 
-![Kegiatan Edukatif tahun baru](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
+![Kegiatan Edukatif tahun baru](../wp-content/uploads/2024/12/Snapinsta.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
 
 memainkan peran penting dalam pengajaran membaca, menulis, dan pemahaman dasar-dasar ajaran Islam bagi anak-anak. Kuttab berasal dari kata “kataba” yang berarti menulis, sehingga secara harfiah kuttab dapat kita artikan sebagai tempat belajar menulis. Lembaga ini menjadi fondasi utama dalam sistem pendidikan Islam saat itu.?
 

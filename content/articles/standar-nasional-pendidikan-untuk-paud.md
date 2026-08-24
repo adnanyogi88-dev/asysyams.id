@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611124345/https://asysyams.id/sta
 
 # Standar Nasional Pendidikan untuk PAUD
 
-[Home](https://asysyams.id/) » Standar Nasional Pendidikan untuk PAUD
+[Home](../) » Standar Nasional Pendidikan untuk PAUD
 
 ## Pendidikan Anak Usia Dini (PAUD) adalah fondasi penting bagi perkembangan anak.
 
-![franchise pendidikan asyisyam](https://asysyams.id/wp-content/uploads/2024/09/Screenshot_11.png)
+![franchise pendidikan asyisyam](../wp-content/uploads/2024/09/Screenshot_11.png)
 
 Pendidikan ini bertujuan untuk membantu anak usia dini (0-6 tahun) mengembangkan potensi mereka secara optimal, baik secara kognitif, emosional, sosial, maupun fisik. Pemerintah Indonesia melalui Kementerian Pendidikan dan Kebudayaan (Kemendikbud) telah menetapkan Standar Nasional Pendidikan (SNP) untuk PAUD agar kualitas pendidikan di seluruh Indonesia tetap terjaga. Artikel ini akan mengulas standar pendidikan PAUD yang sesuai dengan SNP, serta bagaimana TK PAUD AsySyams menerapkan standar tersebut dalam mendukung perkembangan anak.
 
@@ -25,7 +25,7 @@ Standar Nasional Pendidikan (SNP) untuk PAUD terdiri dari beberapa aspek utama y
 
 #### 1.1. Standar Isi
 
-Mencakup kompetensi dasar yang harus anak kuasai, meliputi aspek perkembangan moral dan agama, sosial-emosional, kognitif, bahasa, fisik, motorik, serta seni. Standar ini mengarahkan kurikulum untuk mengembangkan nilai-nilai karakter dan keterampilan yang sesuai dengan usia anak. PAUD AsySyams menerapkan standar ini dengan pendekatan berbasis keagamaan dan nilai-nilai Islam yang memperkuat karakter anak sejak dini, sebagaimana dijelaskan dalam artikel [“Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak”](https://asysyams.id/pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/).
+Mencakup kompetensi dasar yang harus anak kuasai, meliputi aspek perkembangan moral dan agama, sosial-emosional, kognitif, bahasa, fisik, motorik, serta seni. Standar ini mengarahkan kurikulum untuk mengembangkan nilai-nilai karakter dan keterampilan yang sesuai dengan usia anak. PAUD AsySyams menerapkan standar ini dengan pendekatan berbasis keagamaan dan nilai-nilai Islam yang memperkuat karakter anak sejak dini, sebagaimana dijelaskan dalam artikel [“Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak”](../pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/).
 
 #### 1.2. Standar Proses
 
@@ -53,15 +53,15 @@ Sebagai salah satu lembaga pendidikan anak usia dini yang mengedepankan nilai-ni
 
 #### 2.1. Kurikulum Berbasis Nilai-Nilai Keislaman
 
-PAUD AsySyams memiliki kurikulum yang terrancang sesuai dengan nilai-nilai keislaman. Setiap kegiatan belajar mengajar berorientasi pada pembentukan karakter Islami yang kokoh sejak dini. Pengenalan nilai-nilai agama dan moral kita lakukan dengan cara yang menyenangkan dan mudah dipahami anak-anak, misalnya melalui cerita dan lagu Islami. Artikel [“Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak”](https://asysyams.id/pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/) membahas lebih dalam mengenai pentingnya pendidikan Islam sejak dini.
+PAUD AsySyams memiliki kurikulum yang terrancang sesuai dengan nilai-nilai keislaman. Setiap kegiatan belajar mengajar berorientasi pada pembentukan karakter Islami yang kokoh sejak dini. Pengenalan nilai-nilai agama dan moral kita lakukan dengan cara yang menyenangkan dan mudah dipahami anak-anak, misalnya melalui cerita dan lagu Islami. Artikel [“Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak”](../pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/) membahas lebih dalam mengenai pentingnya pendidikan Islam sejak dini.
 
 #### 2.2. Metode Belajar Aktif dan Kreatif
 
-Pembelajaran di TK PAUD AsySyams terancang agar anak-anak dapat belajar dengan aktif, kreatif, dan tanpa tekanan. Melalui metode bermain sambil belajar, anak-anak diajak untuk terlibat dalam aktivitas yang mengembangkan keterampilan motorik halus dan kasar, seperti menggambar, mewarnai, dan belajar menulis. Salah satu metode ini adalah pembelajaran menulis sebagai langkah awal dalam membentuk anak-anak cerdas dan siap untuk jenjang pendidikan selanjutnya, yang dapat dibaca lebih lanjut pada artikel [“Belajar Menulis untuk Anak TK: Langkah Awal Membentuk Generasi Cerdas”](https://asysyams.id/belajar-menulis-untuk-anak-tk-langkah-awal-membentuk-generasi-cerdas/).
+Pembelajaran di TK PAUD AsySyams terancang agar anak-anak dapat belajar dengan aktif, kreatif, dan tanpa tekanan. Melalui metode bermain sambil belajar, anak-anak diajak untuk terlibat dalam aktivitas yang mengembangkan keterampilan motorik halus dan kasar, seperti menggambar, mewarnai, dan belajar menulis. Salah satu metode ini adalah pembelajaran menulis sebagai langkah awal dalam membentuk anak-anak cerdas dan siap untuk jenjang pendidikan selanjutnya, yang dapat dibaca lebih lanjut pada artikel [“Belajar Menulis untuk Anak TK: Langkah Awal Membentuk Generasi Cerdas”](../belajar-menulis-untuk-anak-tk-langkah-awal-membentuk-generasi-cerdas/).
 
 #### 2.3. Lingkungan Belajar yang Aman dan Menyenangkan
 
-PAUD AsySyams memiliki lingkungan yang aman, nyaman, dan mendukung anak-anak untuk belajar dengan optimal. Area bermain dan kelas dirancang sedemikian rupa untuk menciptakan suasana yang menyenangkan dan interaktif. Pihak sekolah juga mengadakan acara wisuda tahunan untuk merayakan pencapaian anak-anak selama berada di PAUD. Kegiatan ini juga memberikan pengalaman berkesan bagi anak-anak dan orang tua, seperti yang dijelaskan dalam artikel [“Background Wisuda Anak TK yang Menarik dan Berkesan”](https://asysyams.id/background-wisuda-anak-tk-yang-menarik-dan-berkesan/).
+PAUD AsySyams memiliki lingkungan yang aman, nyaman, dan mendukung anak-anak untuk belajar dengan optimal. Area bermain dan kelas dirancang sedemikian rupa untuk menciptakan suasana yang menyenangkan dan interaktif. Pihak sekolah juga mengadakan acara wisuda tahunan untuk merayakan pencapaian anak-anak selama berada di PAUD. Kegiatan ini juga memberikan pengalaman berkesan bagi anak-anak dan orang tua, seperti yang dijelaskan dalam artikel [“Background Wisuda Anak TK yang Menarik dan Berkesan”](../background-wisuda-anak-tk-yang-menarik-dan-berkesan/).
 
 ### 3. Manfaat Memenuhi Standar Nasional PAUD
 
@@ -85,11 +85,11 @@ Pendidikan Anak Usia Dini yang berkualitas dan sesuai standar sangat penting dal
 
 Untuk informasi lebih lanjut mengenai pentingnya pendidikan Islam, acara wisuda yang berkesan, serta langkah-langkah belajar menulis bagi anak, Anda dapat membaca artikel berikut:
 
-- [Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak](https://asysyams.id/pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/)
+- [Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak](../pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/)
 
-- [Background Wisuda Anak TK yang Menarik dan Berkesan](https://asysyams.id/background-wisuda-anak-tk-yang-menarik-dan-berkesan/)
+- [Background Wisuda Anak TK yang Menarik dan Berkesan](../background-wisuda-anak-tk-yang-menarik-dan-berkesan/)
 
-- [Belajar Menulis untuk Anak TK: Langkah Awal Membentuk Generasi Cerdas](https://asysyams.id/belajar-menulis-untuk-anak-tk-langkah-awal-membentuk-generasi-cerdas/)
+- [Belajar Menulis untuk Anak TK: Langkah Awal Membentuk Generasi Cerdas](../belajar-menulis-untuk-anak-tk-langkah-awal-membentuk-generasi-cerdas/)
 
 Dengan pendidikan yang tepat sejak dini, anak-anak dapat tumbuh menjadi individu yang berkualitas, siap menghadapi tantangan masa depan, dan berkontribusi positif bagi masyarakat.
 

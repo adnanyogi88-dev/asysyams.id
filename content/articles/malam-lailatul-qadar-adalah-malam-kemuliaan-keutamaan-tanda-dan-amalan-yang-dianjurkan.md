@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314233533/https://asysyams.id/mal
 
 # Malam Lailatul Qadar Adalah Malam Kemuliaan: Keutamaan, Tanda, dan Amalan yang Dianjurkan
 
-[Home](https://asysyams.id/) » Malam Lailatul Qadar Adalah Malam Kemuliaan: Keutamaan, Tanda, dan Amalan yang Dianjurkan
+[Home](../) » Malam Lailatul Qadar Adalah Malam Kemuliaan: Keutamaan, Tanda, dan Amalan yang Dianjurkan
 
 ## Malam Lailatul Qadar adalah malam yang paling istimewa dalam bulan Ramadan.
 
-![pendidikan agama islam dan budi pekerti](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-1024x769.jpg)
+![pendidikan agama islam dan budi pekerti](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-1024x769.jpg)
 
 Allah SWT menyebut malam ini sebagai malam yang lebih baik dari seribu bulan. Keistimewaannya terletak pada turunnya Al-Qur’an dan keberkahan yang Allah berikan kepada hamba-Nya yang beribadah dengan ikhlas. Dalam artikel ini, kita akan membahas secara mendalam tentang keutamaan, tanda-tanda, dan amalan yang dianjurkan untuk mendapatkan keberkahan di malam penuh kemuliaan ini.
 
@@ -86,11 +86,11 @@ Berdiam diri di masjid untuk beribadah dan mendekatkan diri kepada Allah SWT.
 
 ### Pentingnya Mengenalkan Lailatul Qadar kepada Anak
 
-Mengenalkan anak-anak tentang keutamaan Lailatul Qadar adalah bagian penting dalam pendidikan Islam. Sejak dini, anak-anak sebaiknya terkenalkan dengan konsep ibadah, keutamaan beramal shaleh, serta nilai-nilai Islam yang mulia. Dalam hal ini, pendidikan berbasis nilai Islam sangat berperan penting dalam membentuk karakter mereka. Baca lebih lanjut mengenai pentingnya pendidikan berbasis Islam di artikel berikut: [Hadits tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
+Mengenalkan anak-anak tentang keutamaan Lailatul Qadar adalah bagian penting dalam pendidikan Islam. Sejak dini, anak-anak sebaiknya terkenalkan dengan konsep ibadah, keutamaan beramal shaleh, serta nilai-nilai Islam yang mulia. Dalam hal ini, pendidikan berbasis nilai Islam sangat berperan penting dalam membentuk karakter mereka. Baca lebih lanjut mengenai pentingnya pendidikan berbasis Islam di artikel berikut: [Hadits tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
 
-Selain itu, mengenalkan Lailatul Qadar juga bisa kita lakukan melalui kisah-kisah Islami yang menarik dan inspiratif. Dengan cara ini, anak-anak akan lebih mudah memahami dan mencintai ibadah sejak usia dini. Temukan berbagai kisah menarik di sini: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
+Selain itu, mengenalkan Lailatul Qadar juga bisa kita lakukan melalui kisah-kisah Islami yang menarik dan inspiratif. Dengan cara ini, anak-anak akan lebih mudah memahami dan mencintai ibadah sejak usia dini. Temukan berbagai kisah menarik di sini: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
 
-Sebagai bagian dari pembelajaran agama, anak-anak juga perlu terkenalkan dengan Rukun Islam yang menjadi dasar keimanan seorang Muslim. Lailatul Qadar adalah malam yang sangat baik untuk menanamkan nilai-nilai keislaman kepada mereka. Pelajari lebih lanjut tentang pentingnya mengenalkan Rukun Islam kepada anak di sini: [Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/).
+Sebagai bagian dari pembelajaran agama, anak-anak juga perlu terkenalkan dengan Rukun Islam yang menjadi dasar keimanan seorang Muslim. Lailatul Qadar adalah malam yang sangat baik untuk menanamkan nilai-nilai keislaman kepada mereka. Pelajari lebih lanjut tentang pentingnya mengenalkan Rukun Islam kepada anak di sini: [Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/).
 
 ### Kesimpulan
 

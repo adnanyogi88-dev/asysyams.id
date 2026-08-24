@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20250913045345/https://asysyams.id/apa
 
 # Apa Itu Ice Breaking di Kelas? Lalu, Bagaimana Menerapkannya?
 
-[Home](https://asysyams.id/) » Apa Itu Ice Breaking di Kelas? Lalu, Bagaimana Menerapkannya?
+[Home](../) » Apa Itu Ice Breaking di Kelas? Lalu, Bagaimana Menerapkannya?
 
 ## Saat orang tua mempersiapkan anak untuk masuk sekolah, khususnya taman kanak-kanak (TK), muncul berbagai pertanyaan.
 
-![daycare anak kreatif](https://asysyams.id/wp-content/uploads/2024/10/Assalamualaikum-Wr.-WbHeres-some-activities-during-Ramadhan-season.jpg)
+![daycare anak kreatif](../wp-content/uploads/2024/10/Assalamualaikum-Wr.-WbHeres-some-activities-during-Ramadhan-season.jpg)
 
 Salah satunya adalah: Apa itu ice breaking di kelas? Lalu, bagaimana menerapkannya? Artikel ini akan menjawab pertanyaan tersebut secara lengkap, terutama bagi orang tua yang ingin memastikan pengalaman pertama anak di sekolah terasa menyenangkan dan efektif.
 
@@ -99,7 +99,7 @@ Sebagai orang tua, Anda juga dapat mendukung kegiatan ice breaking dari rumah. B
 
 Sekolah yang memahami pentingnya ice breaking akan lebih siap menerima anak-anak baru. Fasilitas yang mendukung, guru yang terlatih, serta lingkungan yang ramah menjadi nilai tambah.
 
-Jika Anda sedang mencari TK Islam yang bagus di Bekasi dengan fasilitas terbaik, kami merekomendasikan [Asy Syams Islamic School](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Sekolah ini menerapkan metode pembelajaran yang ramah anak dan mengintegrasikan kegiatan ice breaking dalam rutinitasnya.
+Jika Anda sedang mencari TK Islam yang bagus di Bekasi dengan fasilitas terbaik, kami merekomendasikan [Asy Syams Islamic School](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Sekolah ini menerapkan metode pembelajaran yang ramah anak dan mengintegrasikan kegiatan ice breaking dalam rutinitasnya.
 
 ### Mengapa Sekolah Harus Serius Menerapkan Ice Breaking?
 
@@ -107,13 +107,13 @@ Ice breaking bukan sekadar permainan. Ini merupakan bagian dari strategi pendidi
 
 ### Kaitan dengan Dunia Pendidikan yang Lebih Luas
 
-Tidak hanya di TK, ice breaking juga diterapkan dalam berbagai jenjang pendidikan dan pelatihan. Bahkan, beberapa [franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) telah memasukkan aktivitas ini sebagai bagian dari kurikulum.
+Tidak hanya di TK, ice breaking juga diterapkan dalam berbagai jenjang pendidikan dan pelatihan. Bahkan, beberapa [franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) telah memasukkan aktivitas ini sebagai bagian dari kurikulum.
 
 Hal ini menunjukkan bahwa ice breaking merupakan teknik universal dalam dunia pendidikan. Oleh karena itu, semakin dini anak dikenalkan dengan kegiatan ini, semakin baik perkembangan sosial dan emosional mereka.
 
 ### Cara Memilih TK yang Memahami Pentingnya Ice Breaking
 
-Ketika memilih sekolah untuk anak, jangan hanya melihat jarak atau biaya. Perhatikan juga pendekatan pengajaran dan aktivitas sosialnya. Untuk Anda yang tinggal di Bekasi, simak panduan [cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) agar tidak salah pilih.
+Ketika memilih sekolah untuk anak, jangan hanya melihat jarak atau biaya. Perhatikan juga pendekatan pengajaran dan aktivitas sosialnya. Untuk Anda yang tinggal di Bekasi, simak panduan [cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) agar tidak salah pilih.
 
 Pastikan sekolah memiliki kegiatan ice breaking yang rutin, guru yang ramah anak, serta lingkungan yang aman dan menyenangkan.
 

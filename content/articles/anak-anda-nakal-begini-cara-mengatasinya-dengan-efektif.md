@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611141758/https://asysyams.id/ana
 
 # Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif
 
-[Home](https://asysyams.id/) » Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif
+[Home](../) » Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif
 
 ## Menghadapi anak yang sering berperilaku nakal mungkin menjadi tantangan tersendiri bagi orang tua.
 
-![anak nakal](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-09-22.14.30-A-parent-sitting-with-a-young-child-on-a-couch-having-a-calm-and-gentle-conversation.-The-parent-is-smiling-and-the-child-is-listening-attentively-c-300x300.webp)
+![anak nakal](../wp-content/uploads/2024/09/DALL·E-2024-09-09-22.14.30-A-parent-sitting-with-a-young-child-on-a-couch-having-a-calm-and-gentle-conversation.-The-parent-is-smiling-and-the-child-is-listening-attentively-c-300x300.webp)
 
 Seringkali, perilaku nakal anak menjadi sumber kekhawatiran yang besar, baik di rumah, sekolah, maupun di lingkungan sosial lainnya. Namun, penting untuk kita pahami bahwa “kenakalan” adalah bagian dari proses tumbuh kembang anak. Dengan pendekatan yang tepat, perilaku nakal ini dapat kita arahkan menjadi hal yang positif.
 
@@ -93,11 +93,11 @@ Menggunakan kekerasan fisik atau verbal untuk mengoreksi perilaku anak bisa berb
 
 Baca juga:
 
-[Tips Agar Anak Terbuka Orang Tua Harus Kenali Dunia Anak](https://asysyams.id/tips-agar-anak-terbuka-orang-tua-harus-kenali-dunia-anak/)
+[Tips Agar Anak Terbuka Orang Tua Harus Kenali Dunia Anak](../tips-agar-anak-terbuka-orang-tua-harus-kenali-dunia-anak/)
 
-[Manfaat Membacakan Buku Cerita untuk Anak-Anak](https://asysyams.id/manfaat-membacakan-buku-cerita-untuk-anak-anak/)
+[Manfaat Membacakan Buku Cerita untuk Anak-Anak](../manfaat-membacakan-buku-cerita-untuk-anak-anak/)
 
-[Cara Mengetahui Bakat Anak Kita Sejak Dini](https://asysyams.id/cara-mengetahui-bakat-anak-kita-sejak-dini/)
+[Cara Mengetahui Bakat Anak Kita Sejak Dini](../cara-mengetahui-bakat-anak-kita-sejak-dini/)
 
  
 

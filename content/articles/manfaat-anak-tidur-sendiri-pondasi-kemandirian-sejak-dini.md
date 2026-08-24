@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216231331/https://asysyams.id/man
 
 # Manfaat Anak Tidur Sendiri: Pondasi Kemandirian Sejak Dini
 
-[Home](https://asysyams.id/) » Manfaat Anak Tidur Sendiri: Pondasi Kemandirian Sejak Dini
+[Home](../) » Manfaat Anak Tidur Sendiri: Pondasi Kemandirian Sejak Dini
 
 ## Membiasakan anak tidur sendiri seringkali menjadi tantangan bagi banyak orang tua.
 
-![Pentingkah Masuk PAUD](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_f4230a7e-768x1024.jpg)
+![Pentingkah Masuk PAUD](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_f4230a7e-768x1024.jpg)
 
 Namun, tahukah Anda bahwa kebiasaan ini menyimpan banyak manfaat luar biasa bagi perkembangan anak, terutama dalam hal pendidikan dan pembentukan karakter sejak usia dini? Dalam artikel ini, kita akan mengulas secara menyeluruh manfaat anak tidur sendiri, serta bagaimana kebiasaan tersebut bisa mendukung pendidikan anak dalam jangka panjang.
 
@@ -55,13 +55,13 @@ Salah satu indikator kesiapan anak untuk memasuki jenjang pendidikan awal adalah
 
 Jika Anda sedang mempersiapkan anak untuk masuk ke lembaga pendidikan seperti PAUD atau TK, maka membiasakan mereka tidur sendiri bisa menjadi investasi berharga. Mereka akan lebih tenang, percaya diri, dan siap menjalani rutinitas baru.
 
-Anda bisa mulai mendaftarkan anak Anda ke lembaga pendidikan yang mendukung tumbuh kembang anak secara holistik seperti [PAUD Asy Syams](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/). Pendidikan yang berkualitas tidak hanya mengajarkan akademik, tapi juga membantu membentuk karakter anak sejak dini.
+Anda bisa mulai mendaftarkan anak Anda ke lembaga pendidikan yang mendukung tumbuh kembang anak secara holistik seperti [PAUD Asy Syams](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/). Pendidikan yang berkualitas tidak hanya mengajarkan akademik, tapi juga membantu membentuk karakter anak sejak dini.
 
 #### Lingkungan Belajar yang Mendukung Kemandirian
 
 Lembaga pendidikan yang ideal akan membantu menumbuhkan karakter mandiri yang sudah dibentuk di rumah. Anak-anak yang terbiasa tidur sendiri akan lebih siap mengikuti kegiatan belajar yang memerlukan disiplin dan konsentrasi. Mereka akan merasa lebih nyaman saat berinteraksi dengan guru dan teman-temannya.
 
-Oleh karena itu, memilih sekolah yang tepat sangat penting. Pastikan Anda memilih sekolah yang memahami pentingnya pengembangan karakter anak, seperti [TK Asy Syams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/), yang menyediakan lingkungan positif dan program yang mendukung perkembangan kemandirian anak.
+Oleh karena itu, memilih sekolah yang tepat sangat penting. Pastikan Anda memilih sekolah yang memahami pentingnya pengembangan karakter anak, seperti [TK Asy Syams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/), yang menyediakan lingkungan positif dan program yang mendukung perkembangan kemandirian anak.
 
 #### Langkah Praktis Membiasakan Anak Tidur Sendiri
 
@@ -85,11 +85,11 @@ Jadi, jika Anda ingin anak Anda tumbuh dengan kemandirian dan kesiapan akademik 
 
 Untuk informasi lebih lanjut tentang pendidikan anak usia dini dan pendaftaran sekolah, kunjungi juga:
 
-- [Pendaftaran PAUD Asy Syams Tahun Ajaran 2024–2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- [Pendaftaran PAUD Asy Syams Tahun Ajaran 2024–2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- [Pendaftaran Anak di Asy Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di Asy Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Open Pendaftaran Siswa TK AsySyams.id](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK AsySyams.id](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 Jadikan rumah sebagai tempat terbaik untuk membentuk masa depan anak Anda. Dan ingat, kemandirian dimulai dari langkah kecil seperti tidur sendiri!
 

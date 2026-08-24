@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515074533/https://asysyams.id/dos
 
 # Dosa Anak Perempuan yang Tidak Berhijab Pandangan Islam
 
-[Home](https://asysyams.id/) » Dosa Anak Perempuan yang Tidak Berhijab Pandangan Islam
+[Home](../) » Dosa Anak Perempuan yang Tidak Berhijab Pandangan Islam
 
 ## Islam adalah agama yang mengatur setiap aspek kehidupan, termasuk tata cara berpakaian.
 
-![Buku Perkembangan Fisik Motorik Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
+![Buku Perkembangan Fisik Motorik Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
 
 Salah satu ajaran utama dalam Islam bagi perempuan adalah kewajiban berhijab. Namun, masih banyak yang mempertanyakan apakah tidak mengenakan hijab termasuk dosa besar. Artikel ini akan mengulas mengenai dosa anak perempuan yang tidak berhijab serta bagaimana Islam memberikan pandangan terhadap kewajiban ini.
 
@@ -39,15 +39,15 @@ Dari ayat dan hadis di atas, jelas bahwa berhijab adalah perintah langsung dari 
 
 - Dampak Sosial dalam Masyarakat Dalam lingkungan masyarakat Islam, seorang perempuan yang tidak mengenakan hijab mungkin mendapatkan stigma atau pandangan negatif dari lingkungan sekitarnya. Hal ini bisa memengaruhi hubungan sosial dan kepercayaan diri seseorang.
 
-- Berpengaruh terhadap Pendidikan Anak Keteladanan orang tua, khususnya ibu, sangat penting dalam membentuk karakter anak. Jika seorang ibu tidak berhijab, maka anak perempuan cenderung meniru perilaku tersebut. Oleh karena itu, membiasakan hijab sejak kecil dapat menjadi bagian dari proses pertumbuhan dan perkembangan anak (baca selengkapnya di [Perbedaan Pertumbuhan dan Perkembangan pada Anak](https://asysyams.id/perbedaan-pertumbuhan-dan-perkembangan-pada-anak/)).
+- Berpengaruh terhadap Pendidikan Anak Keteladanan orang tua, khususnya ibu, sangat penting dalam membentuk karakter anak. Jika seorang ibu tidak berhijab, maka anak perempuan cenderung meniru perilaku tersebut. Oleh karena itu, membiasakan hijab sejak kecil dapat menjadi bagian dari proses pertumbuhan dan perkembangan anak (baca selengkapnya di [Perbedaan Pertumbuhan dan Perkembangan pada Anak](../perbedaan-pertumbuhan-dan-perkembangan-pada-anak/)).
 
 ### Hubungan Hijab dengan Akhlak dan Kepribadian Muslimah
 
-Berhijab bukan hanya sebatas menutup aurat, tetapi juga menunjukkan kesopanan, akhlak, dan keimanan seorang muslimah. Seseorang yang mengenakan hijab seharusnya mencerminkan karakter yang baik, seperti rendah hati, menjaga perkataan, dan menjauhi pergaulan bebas. Dalam dunia pendidikan, misalnya, membangun akhlak yang baik juga menjadi bagian dari upaya menciptakan lingkungan yang penuh toleransi, terutama saat bulan Ramadhan. Simak lebih lanjut dalam artikel [Contoh Toleransi Antar Murid Sekolah pada Bulan Ramadhan](https://asysyams.id/contoh-toleransi-antar-murid-sekolah-pada-bulan-ramadhan/).
+Berhijab bukan hanya sebatas menutup aurat, tetapi juga menunjukkan kesopanan, akhlak, dan keimanan seorang muslimah. Seseorang yang mengenakan hijab seharusnya mencerminkan karakter yang baik, seperti rendah hati, menjaga perkataan, dan menjauhi pergaulan bebas. Dalam dunia pendidikan, misalnya, membangun akhlak yang baik juga menjadi bagian dari upaya menciptakan lingkungan yang penuh toleransi, terutama saat bulan Ramadhan. Simak lebih lanjut dalam artikel [Contoh Toleransi Antar Murid Sekolah pada Bulan Ramadhan](../contoh-toleransi-antar-murid-sekolah-pada-bulan-ramadhan/).
 
 ### Pendidikan Hijab Sejak Dini
 
-Agar anak perempuan lebih mudah memahami pentingnya hijab, pendidikan sejak usia dini sangat anak perlukan. Salah satu caranya adalah melalui lingkungan pendidikan yang islami, seperti di PAUD yang berbasis syariah. Dengan membangun lembaga pendidikan yang kuat dan profesional, anak-anak dapat dibimbing agar terbiasa dengan nilai-nilai Islam sejak dini. Artikel [Cara Membangun Brand PAUD yang Kuat dan Profesional](https://asysyams.id/cara-membangun-brand-paud-yang-kuat-dan-profesional/) menjelaskan lebih lanjut bagaimana membangun sistem pendidikan yang berlandaskan nilai Islam.
+Agar anak perempuan lebih mudah memahami pentingnya hijab, pendidikan sejak usia dini sangat anak perlukan. Salah satu caranya adalah melalui lingkungan pendidikan yang islami, seperti di PAUD yang berbasis syariah. Dengan membangun lembaga pendidikan yang kuat dan profesional, anak-anak dapat dibimbing agar terbiasa dengan nilai-nilai Islam sejak dini. Artikel [Cara Membangun Brand PAUD yang Kuat dan Profesional](../cara-membangun-brand-paud-yang-kuat-dan-profesional/) menjelaskan lebih lanjut bagaimana membangun sistem pendidikan yang berlandaskan nilai Islam.
 
 ### Mengatasi Tantangan dalam Berhijab
 

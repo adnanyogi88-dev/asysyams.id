@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260121225528/https://asysyams.id/bac
 
 # Bacaan Hizib Nawawi: Manfaatnya Dan Keutamaan Spiritual
 
-[Home](https://asysyams.id/) » Bacaan Hizib Nawawi: Manfaatnya Dan Keutamaan Spiritual
+[Home](../) » Bacaan Hizib Nawawi: Manfaatnya Dan Keutamaan Spiritual
 
 ## Hizib Nawawi adalah kumpulan doa dan dzikir yang disusun oleh Imam an-Nawawi, seorang ulama besar dalam mazhab Syafi’i.
 
-![pendidikan agama islam dan budi pekerti](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1024x769.jpg)
+![pendidikan agama islam dan budi pekerti](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1024x769.jpg)
 
 Hizib ini telah menjadi amalan populer di kalangan umat Islam karena kita yakini memiliki berbagai manfaat spiritual dan perlindungan. Selain memiliki nilai ibadah, bacaan Hizib Nawawi juga dapat terintegrasi dalam dunia pendidikan sebagai sarana membentuk karakter dan spiritualitas generasi muda.
 
@@ -65,15 +65,15 @@ Pengamalan yang paling utama adalah metode ketiga, yaitu membaca hizib setiap se
 
 ### Kaitan Hizib Nawawi dengan Pendidikan Karakter
 
-Pendidikan karakter menjadi salah satu fokus utama dalam dunia pendidikan saat ini. Mengintegrasikan amalan spiritual seperti Hizib Nawawi dalam kurikulum pendidikan dapat membantu membentuk karakter siswa yang berakhlak mulia. Misalnya, [Asy-Syams Islamic School di Harapan Indah, Bekasi](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/), menawarkan program pendidikan yang tidak hanya berfokus pada aspek akademik tetapi juga pada pengembangan spiritual dan karakter siswa.
+Pendidikan karakter menjadi salah satu fokus utama dalam dunia pendidikan saat ini. Mengintegrasikan amalan spiritual seperti Hizib Nawawi dalam kurikulum pendidikan dapat membantu membentuk karakter siswa yang berakhlak mulia. Misalnya, [Asy-Syams Islamic School di Harapan Indah, Bekasi](../pendaftaran-murid-tk-di-harapan-indah-bekasi/), menawarkan program pendidikan yang tidak hanya berfokus pada aspek akademik tetapi juga pada pengembangan spiritual dan karakter siswa.
 
 ### Peluang Usaha Franchise di Bidang Pendidikan Spiritual
 
-Melihat [tren usaha franchise di bidang pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/) yang semakin berkembang, mengintegrasikan program pendidikan spiritual seperti pengajaran Hizib Nawawi dapat menjadi nilai tambah. Franchise pendidikan yang menawarkan kurikulum berbasis karakter dan spiritualitas memiliki peluang besar untuk berkembang, mengingat kebutuhan masyarakat akan pendidikan yang holistik.
+Melihat [tren usaha franchise di bidang pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/) yang semakin berkembang, mengintegrasikan program pendidikan spiritual seperti pengajaran Hizib Nawawi dapat menjadi nilai tambah. Franchise pendidikan yang menawarkan kurikulum berbasis karakter dan spiritualitas memiliki peluang besar untuk berkembang, mengingat kebutuhan masyarakat akan pendidikan yang holistik.
 
 ### Biaya Mendirikan Usaha Playgroup dengan Fokus Pendidikan Spiritual
 
-Mendirikan playgroup dengan fokus pada pendidikan spiritual memerlukan perencanaan yang matang, termasuk dalam hal biaya. Biaya yang perlu kita pertimbangkan antara lain sewa tempat, renovasi, perizinan, pengadaan fasilitas, dan pelatihan tenaga pengajar. Dengan menawarkan program yang mengintegrasikan amalan seperti Hizib Nawawi, playgroup dapat menarik minat orang tua yang menginginkan pendidikan karakter dan spiritual bagi anak-anak mereka. Untuk informasi lebih lanjut tentang biaya mendirikan playgroup, Anda dapat melihat [artikel ini](https://asysyams.id/biaya-mendirikan-usaha-playgroup-di-jakarta/).
+Mendirikan playgroup dengan fokus pada pendidikan spiritual memerlukan perencanaan yang matang, termasuk dalam hal biaya. Biaya yang perlu kita pertimbangkan antara lain sewa tempat, renovasi, perizinan, pengadaan fasilitas, dan pelatihan tenaga pengajar. Dengan menawarkan program yang mengintegrasikan amalan seperti Hizib Nawawi, playgroup dapat menarik minat orang tua yang menginginkan pendidikan karakter dan spiritual bagi anak-anak mereka. Untuk informasi lebih lanjut tentang biaya mendirikan playgroup, Anda dapat melihat [artikel ini](../biaya-mendirikan-usaha-playgroup-di-jakarta/).
 
 ### Kesimpulan
 

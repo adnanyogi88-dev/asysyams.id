@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515074252/https://asysyams.id/jen
 
 # Jenis-Jenis Lembaga Pendidikan: Panduan Lengkap Memahami Peran, Fungsi, dan Contohnya
 
-[Home](https://asysyams.id/) » Jenis-Jenis Lembaga Pendidikan: Panduan Lengkap Memahami Peran, Fungsi, dan Contohnya
+[Home](../) » Jenis-Jenis Lembaga Pendidikan: Panduan Lengkap Memahami Peran, Fungsi, dan Contohnya
 
 ## Pendidikan merupakan pondasi utama dalam membentuk karakter dan kualitas sumber daya manusia.
 
-![Tips Memasak Makanan agar Anak Sukai](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468436135_18151705096353668_8443808274442286350_n_1080-1024x682.jpg)
+![Tips Memasak Makanan agar Anak Sukai](../wp-content/uploads/2025/01/Snapinst.app_468436135_18151705096353668_8443808274442286350_n_1080-1024x682.jpg)
 
 Dalam sistem pendidikan nasional Indonesia, lembaga pendidikan memiliki peranan strategis dalam menyelenggarakan proses belajar-mengajar. Namun demikian, tahukah Anda bahwa lembaga pendidikan tidak hanya satu jenis saja? Ternyata, ada berbagai jenis-jenis lembaga pendidikan yang masing-masing memiliki fungsi, peran, dan karakteristik tersendiri.
 
@@ -45,7 +45,7 @@ Contoh Lembaga Pendidikan Formal:
 
 - Perguruan Tinggi
 
-Sebagai contoh nyata, di jenjang awal pendidikan formal terdapat TK Islam yang kini semakin diminati oleh orang tua. TK seperti ini tidak hanya mengajarkan kemampuan akademik, tetapi juga nilai-nilai spiritual dan karakter. Salah satunya dapat Anda lihat di artikel [TK Islami di Bekasi Terbaik: Pilihan Tepat untuk Pendidikan Anak Usia Dini](https://asysyams.id/tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/).
+Sebagai contoh nyata, di jenjang awal pendidikan formal terdapat TK Islam yang kini semakin diminati oleh orang tua. TK seperti ini tidak hanya mengajarkan kemampuan akademik, tetapi juga nilai-nilai spiritual dan karakter. Salah satunya dapat Anda lihat di artikel [TK Islami di Bekasi Terbaik: Pilihan Tepat untuk Pendidikan Anak Usia Dini](../tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/).
 
 ### 2. Lembaga Pendidikan Non-Formal
 
@@ -61,7 +61,7 @@ Contoh Lembaga Pendidikan Non-Formal:
 
 - Kelompok Bermain atau Playgroup
 
-Misalnya, Playgroup menjadi pilihan banyak orang tua untuk memperkenalkan dunia belajar pada anak usia dini. Selain menyenangkan, Playgroup juga mempersiapkan anak untuk jenjang TK. Sebagai referensi, Anda bisa melihat [Franchise Playgroup Terbaik di Harapan Indah Bekasi](https://asysyams.id/franchise-playgroup-terbaik-di-harapan-indah-bekasi/).
+Misalnya, Playgroup menjadi pilihan banyak orang tua untuk memperkenalkan dunia belajar pada anak usia dini. Selain menyenangkan, Playgroup juga mempersiapkan anak untuk jenjang TK. Sebagai referensi, Anda bisa melihat [Franchise Playgroup Terbaik di Harapan Indah Bekasi](../franchise-playgroup-terbaik-di-harapan-indah-bekasi/).
 
 ### 3. Lembaga Pendidikan Informal
 
@@ -91,7 +91,7 @@ Pertama, kita mulai dari PAUD. Pendidikan Anak Usia Dini mencakup pendidikan bag
 
 - Taman Kanak-kanak (TK)
 
-Perlu dicatat, masa ini disebut juga sebagai masa keemasan (golden age) karena perkembangan anak berlangsung sangat cepat. Oleh sebab itu, penting bagi orang tua untuk memilih lembaga PAUD yang memenuhi standar kualitas. Mengenai hal ini, Anda bisa membaca artikel [Standar Nasional Pendidikan untuk PAUD](https://asysyams.id/standar-nasional-pendidikan-untuk-paud/) yang menjelaskan secara rinci tentang kriteria PAUD yang baik.
+Perlu dicatat, masa ini disebut juga sebagai masa keemasan (golden age) karena perkembangan anak berlangsung sangat cepat. Oleh sebab itu, penting bagi orang tua untuk memilih lembaga PAUD yang memenuhi standar kualitas. Mengenai hal ini, Anda bisa membaca artikel [Standar Nasional Pendidikan untuk PAUD](../standar-nasional-pendidikan-untuk-paud/) yang menjelaskan secara rinci tentang kriteria PAUD yang baik.
 
 ### 2. Pendidikan Dasar
 
@@ -187,13 +187,13 @@ Selain memiliki manfaat sosial, lembaga pendidikan juga bisa menjadi peluang bis
 
 - Sekolah berbasis agama
 
-…semakin berkembang. Anda bisa mempertimbangkan peluang seperti [Franchise Playgroup Terbaik di Harapan Indah Bekasi](https://asysyams.id/franchise-playgroup-terbaik-di-harapan-indah-bekasi/) sebagai awal bisnis sosial yang berdampak.
+…semakin berkembang. Anda bisa mempertimbangkan peluang seperti [Franchise Playgroup Terbaik di Harapan Indah Bekasi](../franchise-playgroup-terbaik-di-harapan-indah-bekasi/) sebagai awal bisnis sosial yang berdampak.
 
 ## Penutup
 
 Sebagai kesimpulan, jenis-jenis lembaga pendidikan memainkan peranan yang berbeda namun saling mendukung. Baik itu pendidikan formal seperti sekolah dan universitas, non-formal seperti kursus dan playgroup, maupun informal yang berasal dari keluarga. Masing-masing membentuk karakter dan kemampuan peserta didik dari berbagai sisi.
 
-Oleh karena itu, memahami dan memilih lembaga pendidikan yang tepat sangatlah penting. Jika Anda sedang mencari TK atau Playgroup berkualitas, jangan ragu untuk menjelajahi [TK Islami di Bekasi Terbaik](https://asysyams.id/tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/) serta mengecek [Standar Nasional Pendidikan untuk PAUD](https://asysyams.id/standar-nasional-pendidikan-untuk-paud/) sebagai referensi.
+Oleh karena itu, memahami dan memilih lembaga pendidikan yang tepat sangatlah penting. Jika Anda sedang mencari TK atau Playgroup berkualitas, jangan ragu untuk menjelajahi [TK Islami di Bekasi Terbaik](../tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/) serta mengecek [Standar Nasional Pendidikan untuk PAUD](../standar-nasional-pendidikan-untuk-paud/) sebagai referensi.
 
 [
 WhatsApp Kami

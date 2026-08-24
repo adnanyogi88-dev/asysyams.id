@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515080952/https://asysyams.id/kis
 
 # Kisah Anak Berbakti kepada Orang Tua: Inspirasi dan Pelajaran Hidup
 
-[Home](https://asysyams.id/) » Kisah Anak Berbakti kepada Orang Tua: Inspirasi dan Pelajaran Hidup
+[Home](../) » Kisah Anak Berbakti kepada Orang Tua: Inspirasi dan Pelajaran Hidup
 
 ## Kisah anak berbakti kepada orang tua selalu menjadi cerita yang menyentuh hati dan memberikan pelajaran berharga bagi kita semua.
 
-![Ciri Anak Tidak Bisa Bicara](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_983d5269-80x80.jpg)
+![Ciri Anak Tidak Bisa Bicara](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_983d5269-80x80.jpg)
 
 Bakti seorang anak kepada orang tuanya bukan hanya sekadar kewajiban, tetapi juga bentuk rasa syukur atas segala pengorbanan. Dalam Islam, berbakti kepada orang tua atau yang terkenal dengan istilah “birrul walidain” merupakan amalan yang sangat mulia. Kisah-kisah inspiratif tentang anak yang berbakti kepada orang tua dapat menjadi teladan bagi generasi muda.
 

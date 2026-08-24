@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419143512/https://asysyams.id/car
 
 # Cara Mengintegrasikan 18 Nilai Karakter dalam Parenting Islami dan Pendidikan Modern
 
-[Home](https://asysyams.id/) » Cara Mengintegrasikan 18 Nilai Karakter dalam Parenting Islami dan Pendidikan Modern
+[Home](../) » Cara Mengintegrasikan 18 Nilai Karakter dalam Parenting Islami dan Pendidikan Modern
 
 ## Pendidikan karakter merupakan aspek penting dalam membangun generasi yang bermoral, kompeten, dan berdaya saing.
 
-![Hadits Tentang Pendidikan Anak Usia Dini](https://asysyams.id/wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--80x80.jpg)
+![Hadits Tentang Pendidikan Anak Usia Dini](../wp-content/uploads/2024/10/Labbaik-Allahumma-Labbaik-MasyaAllah-TabarakallahAlhamdulilah-On-Tuesday-March-5-2024-the-Asy-Syams-Islamic-School-Hajj-rituals-were-carried-out-at-the-Bekasi-Islamic-Center-with-@alhafidzah_wisatabekasi--80x80.jpg)
 
 Dalam konteks Indonesia, pemerintah telah menetapkan 18 nilai utama pendidikan karakter yang menjadi panduan bagi sekolah, keluarga, dan masyarakat. Nilai-nilai ini mencakup religiusitas, kejujuran, toleransi, disiplin, kerja keras, kreativitas, kemandirian, demokrasi, rasa ingin tahu, semangat kebangsaan, cinta tanah air, menghargai prestasi, bersahabat/komunikatif, cinta damai, gemar membaca, peduli lingkungan, peduli sosial, dan tanggung jawab.
 

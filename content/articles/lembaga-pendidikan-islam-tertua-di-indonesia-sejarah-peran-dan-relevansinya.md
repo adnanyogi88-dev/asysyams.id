@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008073519/https://asysyams.id/lem
 
 # Lembaga Pendidikan Islam Tertua di Indonesia: Sejarah, Peran, dan Relevansinya
 
-[Home](https://asysyams.id/) » Lembaga Pendidikan Islam Tertua di Indonesia: Sejarah, Peran, dan Relevansinya
+[Home](../) » Lembaga Pendidikan Islam Tertua di Indonesia: Sejarah, Peran, dan Relevansinya
 
 ## Pendahuluan
 
-![](https://asysyams.id/wp-content/uploads/2024/08/WhatsApp-Image-2024-09-15-at-19.43.47.webp)
+![](../wp-content/uploads/2024/08/WhatsApp-Image-2024-09-15-at-19.43.47.webp)
 
 Setiap orang tua tentu ingin memberikan pendidikan terbaik untuk anaknya. Dalam Islam, pendidikan tidak hanya berfokus pada kecerdasan akademik, melainkan juga menanamkan nilai akhlak, moral, serta ketakwaan. Oleh karena itu, membicarakan lembaga pendidikan Islam tertua di Indonesia menjadi sangat penting. Mengapa demikian? Karena lembaga ini telah menjadi pondasi dalam membentuk karakter bangsa sejak berabad-abad lalu.
 
@@ -92,7 +92,7 @@ Bagi orang tua pemula, memilih lembaga pendidikan Islam bukan hal mudah. Agar ti
 - Pastikan lingkungan mendukung pembentukan karakter Islami.
 
 Untuk pemahaman lebih dalam tentang konsep institusi pendidikan, orang tua dapat membaca artikel berikut:
-? [Apa itu Institusi Pendidikan? Penjelasan Lengkap, Fungsi, dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/)
+? [Apa itu Institusi Pendidikan? Penjelasan Lengkap, Fungsi, dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/)
 
 ## Membiasakan Anak dengan Kisah Islami
 
@@ -101,7 +101,7 @@ Selain memilih sekolah atau pesantren, orang tua juga bisa membiasakan anak deng
 Dengan cerita, anak belajar tentang keberanian, kejujuran, dan ketaatan. Orang tua bisa menceritakan kisah nabi, sahabat, atau cerita Islami modern. Cara ini akan membuat pendidikan agama menjadi menyenangkan.
 
 Untuk referensi, silakan baca artikel berikut:
-? [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
+? [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
 
 ## Alternatif Pendidikan Islam Usia Dini
 
@@ -110,7 +110,7 @@ Bagi anak usia dini, pesantren mungkin belum menjadi pilihan. Sebagai langkah aw
 Selain itu, TK Islam juga menyediakan fasilitas bermain dan belajar yang sesuai tahap perkembangan anak. Karena itu, orang tua pemula dapat menjadikan TK Islam sebagai jembatan sebelum anak masuk pesantren.
 
 Sebagai contoh, baca artikel berikut:
-? [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+? [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ## Kesimpulan
 

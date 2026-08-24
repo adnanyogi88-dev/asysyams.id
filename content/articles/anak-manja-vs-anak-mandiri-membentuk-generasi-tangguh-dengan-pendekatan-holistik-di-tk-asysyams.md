@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314222406/https://asysyams.id/ana
 
 # Anak Manja vs Anak Mandiri: Membentuk Generasi Tangguh dengan Pendekatan Holistik di TK AsySyams
 
-[Home](https://asysyams.id/) » Anak Manja vs Anak Mandiri: Membentuk Generasi Tangguh dengan Pendekatan Holistik di TK AsySyams
+[Home](../) » Anak Manja vs Anak Mandiri: Membentuk Generasi Tangguh dengan Pendekatan Holistik di TK AsySyams
 
 ## Perbedaan antara anak manja dan anak mandiri bukan hanya soal kepribadian, tetapi juga menyangkut cara pengasuhan dan lingkungan belajar yang mendukung.
 
-![](https://asysyams.id/wp-content/uploads/2024/11/DALL·E-2024-11-28-06.16.19-An-educational-and-engaging-scene-in-a-kindergarten-classroom-of-TK-AsySyams.-Children-are-involved-in-different-activities-promoting-independence-and-1024x585.webp)
+![](../wp-content/uploads/2024/11/DALL·E-2024-11-28-06.16.19-An-educational-and-engaging-scene-in-a-kindergarten-classroom-of-TK-AsySyams.-Children-are-involved-in-different-activities-promoting-independence-and-1024x585.webp)
 
 Dalam perjalanan membesarkan anak, orang tua sering kali dihadapkan pada dilema: bagaimana menyeimbangkan kasih sayang yang melimpah tanpa menjadikan anak terlalu bergantung, serta mendorong anak untuk menjadi pribadi yang mandiri sejak dini.
 
@@ -79,11 +79,11 @@ TK AsySyams menggunakan pendekatan pendidikan holistik yang mencakup pengembanga
 
 #### 2. Pengenalan Wirausaha Sejak Dini
 
-Menurut artikel [Tujuan Mengenalkan Wirausaha pada Anak Sejak Kecil](https://asysyams.id/tag/tujuan-mengenalkan-wirausaha-pada-anak-sejak-kecil/), TK AsySyams juga memperkenalkan konsep wirausaha kepada anak-anak melalui permainan dan kegiatan sehari-hari. Ini membantu anak memahami nilai kerja keras, pengelolaan waktu, dan pengambilan keputusan, yang semuanya mendukung kemandirian.
+Menurut artikel [Tujuan Mengenalkan Wirausaha pada Anak Sejak Kecil](../tag/tujuan-mengenalkan-wirausaha-pada-anak-sejak-kecil/), TK AsySyams juga memperkenalkan konsep wirausaha kepada anak-anak melalui permainan dan kegiatan sehari-hari. Ini membantu anak memahami nilai kerja keras, pengelolaan waktu, dan pengambilan keputusan, yang semuanya mendukung kemandirian.
 
 #### 3. Pengelolaan Kecerdasan Emosional
 
-Artikel [Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini](https://asysyams.id/strategi-mengembangkan-kecerdasan-emosional-anak-sejak-dini-2/) menyebutkan bahwa kemampuan mengelola emosi adalah fondasi penting bagi kemandirian. TK AsySyams menerapkan aktivitas seperti permainan peran, cerita, dan diskusi untuk membantu anak mengenali dan mengekspresikan emosi mereka dengan sehat.
+Artikel [Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini](../strategi-mengembangkan-kecerdasan-emosional-anak-sejak-dini-2/) menyebutkan bahwa kemampuan mengelola emosi adalah fondasi penting bagi kemandirian. TK AsySyams menerapkan aktivitas seperti permainan peran, cerita, dan diskusi untuk membantu anak mengenali dan mengekspresikan emosi mereka dengan sehat.
 
 #### 4. Mendorong Kebiasaan Mandiri
 
@@ -103,7 +103,7 @@ Mengatasi perilaku manja memerlukan pendekatan yang konsisten dan penuh kasih sa
 
 ### Hubungan Kesehatan dengan Kemandirian
 
-Kesehatan anak juga memengaruhi proses pembentukan kemandirian. Contohnya, masalah kesehatan seperti sering buang air kecil dapat mengganggu aktivitas anak sehari-hari. Artikel [Cara Mengatasi Sering Buang Air Kecil pada Anak](https://asysyams.id/cara-mengatasi-sering-buang-air-kecil-pada-anak/) memberikan panduan untuk menangani masalah ini agar anak dapat tetap aktif dan nyaman dalam menjalani kegiatan.
+Kesehatan anak juga memengaruhi proses pembentukan kemandirian. Contohnya, masalah kesehatan seperti sering buang air kecil dapat mengganggu aktivitas anak sehari-hari. Artikel [Cara Mengatasi Sering Buang Air Kecil pada Anak](../cara-mengatasi-sering-buang-air-kecil-pada-anak/) memberikan panduan untuk menangani masalah ini agar anak dapat tetap aktif dan nyaman dalam menjalani kegiatan.
 
 Dengan menjaga kesehatan anak secara optimal, TK AsySyams memastikan bahwa mereka dapat fokus pada pengembangan diri, termasuk menjadi pribadi yang mandiri.
 

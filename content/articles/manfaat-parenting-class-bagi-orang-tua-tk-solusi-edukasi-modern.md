@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260513130219/https://asysyams.id/man
 
 # Manfaat Parenting Class bagi Orang Tua TK: Solusi Edukasi Modern
 
-[Home](https://asysyams.id/) » Manfaat Parenting Class bagi Orang Tua TK: Solusi Edukasi Modern
+[Home](../) » Manfaat Parenting Class bagi Orang Tua TK: Solusi Edukasi Modern
 
 ## Masa kanak-kanak, khususnya usia taman kanak-kanak (TK), merupakan periode emas dalam perkembangan anak.
 
@@ -67,11 +67,11 @@ Dengan mengikuti parenting class di TK Asy-Syams, orang tua dapat:
 
 Untuk mengikuti parenting class di TK Asy-Syams, orang tua dapat mendaftar melalui situs resmi mereka. Informasi lebih lanjut tentang program ini, termasuk jadwal dan materi yang diajarkan, tersedia di halaman berikut:
 
-- [https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/]()
+- [../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/]()
 
-- [https://asysyams.id/pendaftaran-anak-di-asy-syams/]()
+- [../pendaftaran-anak-di-asy-syams/]()
 
-- [https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/]()
+- [../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/]()
 
 Dengan mengakses tautan-tautan tersebut, orang tua dapat memperoleh informasi lengkap tentang program parenting class dan bagaimana cara berpartisipasi.
 

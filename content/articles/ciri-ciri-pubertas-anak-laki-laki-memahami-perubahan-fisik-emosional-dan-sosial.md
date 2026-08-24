@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419140543/https://asysyams.id/cir
 
 # Ciri-Ciri Pubertas Anak Laki-Laki: Memahami Perubahan Fisik, Emosional, dan Sosial
 
-[Home](https://asysyams.id/) » Ciri-Ciri Pubertas Anak Laki-Laki: Memahami Perubahan Fisik, Emosional, dan Sosial
+[Home](../) » Ciri-Ciri Pubertas Anak Laki-Laki: Memahami Perubahan Fisik, Emosional, dan Sosial
 
 ## Puberty adalah fase penting dalam kehidupan setiap individu, terutama anak laki-laki.
 
-![Keutamaan Membaca Surat Maryam](https://asysyams.id/wp-content/uploads/2024/12/Screenshot_51.jpg)
+![Keutamaan Membaca Surat Maryam](../wp-content/uploads/2024/12/Screenshot_51.jpg)
 
 Pada masa ini, mereka mengalami transformasi signifikan yang mencakup aspek fisik, emosional, dan sosial. Memahami ciri-ciri pubertas anak laki-laki tidak hanya membantu orang tua dan pendidik memberikan dukungan yang tepat, tetapi juga mempersiapkan anak menghadapi tantangan di masa depan. Artikel ini akan membahas secara mendalam tanda-tanda pubertas pada anak laki-laki dan menghubungkannya dengan pentingnya pendidikan sejak dini, seperti yang ditawarkan melalui Rekomendasi Franchise PAUD Terbaik atau pembentukan Bisnis Playgroup Islam, serta penanaman nilai adab melalui Adab Murid terhadap Guru.
 

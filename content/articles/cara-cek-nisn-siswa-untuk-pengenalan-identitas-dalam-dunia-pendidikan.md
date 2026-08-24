@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421034159/https://asysyams.id/car
 
 # Cara Cek NISN Siswa untuk Pengenalan Identitas dalam Dunia Pendidikan
 
-[Home](https://asysyams.id/) » Cara Cek NISN Siswa untuk Pengenalan Identitas dalam Dunia Pendidikan
+[Home](../) » Cara Cek NISN Siswa untuk Pengenalan Identitas dalam Dunia Pendidikan
 
 ## Nomor Induk Siswa Nasional (NISN) adalah kode pengenal identitas siswa yang bersifat unik, standar, dan berlaku sepanjang masa.
 
-![Doa Anak Saleh](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
+![Doa Anak Saleh](../wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
 
 NISN tertuju kepada setiap siswa yang bersekolah di satuan pendidikan yang memiliki Nomor Pokok Sekolah Nasional (NPSN) dan terdaftar di Referensi Kemendikbud.
 

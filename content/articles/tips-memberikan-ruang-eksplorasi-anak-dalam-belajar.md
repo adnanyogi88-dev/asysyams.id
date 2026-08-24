@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260314235232/https://asysyams.id/tip
 
 # Tips Memberikan Ruang Eksplorasi Anak dalam Belajar
 
-[Home](https://asysyams.id/) » Tips Memberikan Ruang Eksplorasi Anak dalam Belajar
+[Home](../) » Tips Memberikan Ruang Eksplorasi Anak dalam Belajar
 
 ### Pendahuluan
 
@@ -65,15 +65,15 @@ Anda mulai dengan aktivitas sederhana lalu tingkatkan tantangan. Misalnya awalny
 
 #### 3.1 Lihat Fasilitas Sekolah
 
-Jika anak hendak masuk TK Islam di Bekasi dengan fasilitas terbaik, Anda perlu tahu lingkungan sekolahnya. Oleh sebab itu, Anda bisa baca rekomendasi lengkap terkait [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Artikel tersebut menyajikan evaluasi lapangan tentang ruang eksplorasi di sekolah, sarana outdoor, indoor play, dan ruang baca. Dengan demikian Anda bisa membandingkan sendiri antara rumah dan sekolah.
+Jika anak hendak masuk TK Islam di Bekasi dengan fasilitas terbaik, Anda perlu tahu lingkungan sekolahnya. Oleh sebab itu, Anda bisa baca rekomendasi lengkap terkait [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Artikel tersebut menyajikan evaluasi lapangan tentang ruang eksplorasi di sekolah, sarana outdoor, indoor play, dan ruang baca. Dengan demikian Anda bisa membandingkan sendiri antara rumah dan sekolah.
 
 #### 3.2 Pertimbangkan Layanan Sekolah
 
-Selain fasilitas, Anda pun perlu mempertimbangkan layanan pendidikan. Lihat apakah sekolah menyediakan program sains dasar, kreativitas seni, juga program pembelajaran berbasis proyek. Artikel [5 Franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) membahas berbagai model sekolah terkait eksplorasi dan inovasi. Dengan cara itu, Anda bisa memilih sekolah yang fokus berkembang bersama anak.
+Selain fasilitas, Anda pun perlu mempertimbangkan layanan pendidikan. Lihat apakah sekolah menyediakan program sains dasar, kreativitas seni, juga program pembelajaran berbasis proyek. Artikel [5 Franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) membahas berbagai model sekolah terkait eksplorasi dan inovasi. Dengan cara itu, Anda bisa memilih sekolah yang fokus berkembang bersama anak.
 
 #### 3.3 Bandingkan Jarak & Kenyamanan
 
-Terakhir, pastikan lokasi sekolah relatif dekat rumah. Biarkan anak tidak lelah perjalanan. Artikel [Cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) memberikan panduan praktis memilih sekolah TK berdasarkan jarak, akses transportasi, serta lingkungan sekitar. Sebab lingkungan itu juga memengaruhi kenyamanan dan kualitas eksplorasi anak.
+Terakhir, pastikan lokasi sekolah relatif dekat rumah. Biarkan anak tidak lelah perjalanan. Artikel [Cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) memberikan panduan praktis memilih sekolah TK berdasarkan jarak, akses transportasi, serta lingkungan sekitar. Sebab lingkungan itu juga memengaruhi kenyamanan dan kualitas eksplorasi anak.
 
 ### 4. Rekomendasi Sekolah TK di Bekasi (Fasilitas Terbaik)
 
@@ -129,11 +129,11 @@ Namun jangan berhenti. Anda perlu menghadirkan eksplorasi secara rutin, baik har
 
 Secara keseluruhan, memberikan ruang eksplorasi anak dalam belajar membutuhkan strategi, kreativitas, dan keterlibatan aktif orang tua. Anda perlu menyiapkan ruang aman, ragam aktivitas, pengawasan yang membangun, serta dukungan sebelum anak masuk sekolah. Setelah itu, pertimbangkan sekolah yang mendukung eksplorasi anak. Untuk informasi lebih lanjut Anda bisa membaca link berikut:
 
-- TK Islam terbaik di Bekasi dengan fasilitas lengkap, baca di [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- TK Islam terbaik di Bekasi dengan fasilitas lengkap, baca di [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- Berbagai model pendidikan berbasis eksplorasi, lihat [5 franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+- Berbagai model pendidikan berbasis eksplorasi, lihat [5 franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
-- Tips memilih TK dekat rumah di Bekasi, pelajari [cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
+- Tips memilih TK dekat rumah di Bekasi, pelajari [cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
 
 Dengan demikian, Anda siap mendukung anak Anda berkembang penuh semangat, kreatif, dan percaya diri.
 

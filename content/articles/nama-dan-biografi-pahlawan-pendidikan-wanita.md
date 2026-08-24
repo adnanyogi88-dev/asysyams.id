@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421042557/https://asysyams.id/nam
 
 # Nama dan Biografi Pahlawan Pendidikan Wanita
 
-[Home](https://asysyams.id/) » Nama dan Biografi Pahlawan Pendidikan Wanita
+[Home](../) » Nama dan Biografi Pahlawan Pendidikan Wanita
 
 ## Pendidikan merupakan elemen penting dalam membangun peradaban,
 
-![gambar ra kartini](https://asysyams.id/wp-content/uploads/2025/01/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776-80x80.jpg)
+![gambar ra kartini](../wp-content/uploads/2025/01/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776-80x80.jpg)
 
 Dan peran wanita dalam dunia pendidikan sering kali menjadi penentu keberhasilan generasi mendatang. Di Indonesia, kita memiliki banyak sosok pahlawan pendidikan wanita yang memberikan kontribusi luar biasa. Nama-nama seperti R.A. Kartini, Dewi Sartika, dan Maria Walanda Maramis adalah beberapa contoh yang tak bisa terlupakan. Artikel ini akan menggali biografi singkat mereka serta menghubungkannya dengan konsep pendidikan Islami yang relevan di era modern.
 
@@ -41,19 +41,19 @@ Melalui PIKAT, Maria berusaha mengajarkan nilai-nilai moral, agama, dan keteramp
 
 Perjuangan Kartini, Dewi Sartika, dan Maria Walanda Maramis menunjukkan bahwa pendidikan adalah elemen vital dalam membentuk generasi yang berkualitas. Dalam konteks Islami, pendidikan memiliki peran yang lebih luas, yaitu membentuk manusia yang tidak hanya cerdas secara intelektual tetapi juga memiliki akhlak mulia.
 
-Artikel “[Cara Mendidik Anak Balita Secara Islami](https://asysyams.id/cara-mendidik-anak-balita-secara-islami/)” menyoroti pentingnya menanamkan nilai-nilai Islami sejak dini. Dalam Islam, pendidikan kita mulai dari keluarga, di mana ibu memegang peran utama sebagai pendidik pertama. Konsep ini selaras dengan perjuangan pahlawan pendidikan wanita yang mengutamakan pemberdayaan perempuan melalui ilmu pengetahuan.
+Artikel “[Cara Mendidik Anak Balita Secara Islami](../cara-mendidik-anak-balita-secara-islami/)” menyoroti pentingnya menanamkan nilai-nilai Islami sejak dini. Dalam Islam, pendidikan kita mulai dari keluarga, di mana ibu memegang peran utama sebagai pendidik pertama. Konsep ini selaras dengan perjuangan pahlawan pendidikan wanita yang mengutamakan pemberdayaan perempuan melalui ilmu pengetahuan.
 
 Sebagai contoh, R.A. Kartini melalui surat-suratnya sering menekankan pentingnya moral dan etika dalam kehidupan, yang merupakan inti dari pendidikan Islami. Demikian pula, Dewi Sartika dan Maria Walanda Maramis menekankan keterampilan praktis yang dapat membantu perempuan menjalankan peran mereka dengan lebih baik dalam keluarga dan masyarakat.
 
 ### Kemitraan Sekolah Islami: Melanjutkan Warisan Pendidikan
 
-Sekolah modern memiliki tantangan untuk menanamkan nilai-nilai agama dan moral di tengah derasnya arus globalisasi. Artikel “[Gabung Kemitraan Sekolah Asy-Syams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/)” menunjukkan bahwa kemitraan dalam pendidikan dapat memperkuat sistem pendidikan Islami.
+Sekolah modern memiliki tantangan untuk menanamkan nilai-nilai agama dan moral di tengah derasnya arus globalisasi. Artikel “[Gabung Kemitraan Sekolah Asy-Syams](../gabung-kemitraan-sekolah-asy-syams/)” menunjukkan bahwa kemitraan dalam pendidikan dapat memperkuat sistem pendidikan Islami.
 
 Sekolah yang berfokus pada nilai-nilai Islami, seperti Asy-Syams, dapat menjadi wadah untuk melanjutkan perjuangan para pahlawan pendidikan wanita. Dengan memberikan pendidikan yang berbasis moral, agama, dan keterampilan praktis, sekolah-sekolah Islami dapat mempersiapkan generasi yang berkarakter kuat dan berakhlak mulia.
 
 ### Blessed dalam Islam dan Kaitannya dengan Pendidikan Islami
 
-Konsep “blessed” atau berkah dalam Islam sering kali kita kaitkan dengan ketaatan kepada Allah dan pemenuhan amanah sebagai hamba-Nya. Artikel “[Blessed Artinya dalam Islam dan Kaitannya dengan Parenting Islami](https://asysyams.id/blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/)” mengungkapkan bahwa pendidikan Islami adalah salah satu cara untuk mencapai keberkahan dalam keluarga.
+Konsep “blessed” atau berkah dalam Islam sering kali kita kaitkan dengan ketaatan kepada Allah dan pemenuhan amanah sebagai hamba-Nya. Artikel “[Blessed Artinya dalam Islam dan Kaitannya dengan Parenting Islami](../blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/)” mengungkapkan bahwa pendidikan Islami adalah salah satu cara untuk mencapai keberkahan dalam keluarga.
 
 Pahlawan pendidikan wanita seperti Dewi Sartika dan Maria Walanda Maramis dapat dianggap sebagai individu yang diberkahi karena dedikasi mereka dalam meningkatkan kualitas hidup orang lain melalui pendidikan. Dalam perspektif Islami, keberkahan ini dapat dicapai dengan menjalankan tanggung jawab mendidik anak-anak dalam bingkai nilai-nilai agama.
 

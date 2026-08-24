@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515082112/https://asysyams.id/pri
 
 # Prinsip Pendidikan Anak Pada Usia Dini
 
-[Home](https://asysyams.id/) » Prinsip Pendidikan Anak Pada Usia Dini
+[Home](../) » Prinsip Pendidikan Anak Pada Usia Dini
 
 ## Pendidikan anak usia dini (PAUD) merupakan fase pendidikan yang sangat penting dalam perkembangan anak, yang mencakup anak-anak berusia 0-6 tahun.
 
-![gambar yang menggambarkan suasana anak-anak yang sedang belajar sambil bermain di lingkungan prasekolah](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-20-23.17.47-An-illustration-showing-children-in-a-preschool-environment-engaging-in-playful-learning-activities.-Some-children-are-painting-and-drawing-others-a-300x300.webp)
+![gambar yang menggambarkan suasana anak-anak yang sedang belajar sambil bermain di lingkungan prasekolah](../wp-content/uploads/2024/09/DALL·E-2024-09-20-23.17.47-An-illustration-showing-children-in-a-preschool-environment-engaging-in-playful-learning-activities.-Some-children-are-painting-and-drawing-others-a-300x300.webp)
 
 Pada periode ini, otak anak mengalami perkembangan yang sangat pesat, bahkan hingga mencapai 80% perkembangan otak dewasa. Pendidikan pada anak usia dini sangat berpengaruh terhadap pembentukan karakter, kecerdasan, serta kemampuan sosial-emosional anak di masa depan.
 
@@ -55,11 +55,11 @@ Dalam lingkungan PAUD, guru dan staf harus memastikan bahwa suasana kelas selalu
 
 Baca juga:
 
-[Butuh Franchise Pendidikan? Simak Keunggulannya di Sini](https://asysyams.id/butuh-franchise-pendidikan-simak-keunggulannya-di-sini/)
+[Butuh Franchise Pendidikan? Simak Keunggulannya di Sini](../butuh-franchise-pendidikan-simak-keunggulannya-di-sini/)
 
-[Apakah Bisa Ikut Franchise di Bidang Pendidikan?](https://asysyams.id/apakah-bisa-ikut-franchise-di-bidang-pendidikan/)
+[Apakah Bisa Ikut Franchise di Bidang Pendidikan?](../apakah-bisa-ikut-franchise-di-bidang-pendidikan/)
 
-[Etika dan Moral di Sekolah: Dasar Pembentukan Karakter Generasi Masa Depan](https://asysyams.id/etika-dan-moral-di-sekolah-dasar-pembentukan-karakter-generasi-masa-depan/)
+[Etika dan Moral di Sekolah: Dasar Pembentukan Karakter Generasi Masa Depan](../etika-dan-moral-di-sekolah-dasar-pembentukan-karakter-generasi-masa-depan/)
 
  
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260121230346/https://asysyams.id/men
 
 # Mengenal ATP dalam IKM: Panduan Orang Tua Memahami Kurikulum Pendidikan Anak Usia Dini
 
-[Home](https://asysyams.id/) » Mengenal ATP dalam IKM: Panduan Orang Tua Memahami Kurikulum Pendidikan Anak Usia Dini
+[Home](../) » Mengenal ATP dalam IKM: Panduan Orang Tua Memahami Kurikulum Pendidikan Anak Usia Dini
 
 ## Sebagai orang tua, memahami setiap aspek pendidikan anak adalah langkah penting dalam menentukan masa depan mereka.
 
-![metode pembelajaran efektf](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_457002716_18141624343353668_9090417714610914710_n-1024x1024.jpg)
+![metode pembelajaran efektf](../wp-content/uploads/2024/09/ClipDown.App_457002716_18141624343353668_9090417714610914710_n-1024x1024.jpg)
 
 Salah satu elemen penting yang seringkali belum banyak dipahami adalah ATP dalam IKM. Istilah ini semakin sering muncul dalam diskusi pendidikan, terutama di kalangan sekolah dan guru. Oleh karena itu, artikel ini hadir untuk membantu Anda mengenal lebih jauh tentang ATP dalam IKM, bagaimana pengaruhnya terhadap proses belajar anak, serta kaitannya dengan pemilihan sekolah yang tepat.
 
@@ -59,7 +59,7 @@ Di jenjang Taman Kanak-Kanak (TK), ATP dirancang untuk menyesuaikan dengan tahap
 
 Anak kita ajak untuk bereksplorasi, berinteraksi, dan belajar melalui pengalaman nyata. Inilah sebabnya mengapa memilih TK yang mengimplementasikan ATP secara konsisten sangat penting.
 
-Jika Anda sedang mencari TK yang cocok, pertimbangkan untuk membaca artikel [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Artikel tersebut memberikan informasi lengkap mengenai sekolah dengan penerapan Kurikulum Merdeka yang sesuai.
+Jika Anda sedang mencari TK yang cocok, pertimbangkan untuk membaca artikel [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Artikel tersebut memberikan informasi lengkap mengenai sekolah dengan penerapan Kurikulum Merdeka yang sesuai.
 
 ### Peran Guru dan Sekolah dalam ATP
 
@@ -77,7 +77,7 @@ Meskipun ATP memberikan keleluasaan bagi guru, ada beberapa tantangan yang kerap
 
 - Minimnya fasilitas pendukung.
 
-Namun, tantangan ini bisa diatasi melalui pendekatan kolaboratif. Orang tua dapat mengikuti workshop atau seminar yang diselenggarakan sekolah. Sekolah pun dapat menjalin kerja sama dengan lembaga pendidikan, termasuk franchise pendidikan yang memiliki kurikulum standar. Untuk mengetahui lebih lanjut, Anda bisa mengunjungi [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
+Namun, tantangan ini bisa diatasi melalui pendekatan kolaboratif. Orang tua dapat mengikuti workshop atau seminar yang diselenggarakan sekolah. Sekolah pun dapat menjalin kerja sama dengan lembaga pendidikan, termasuk franchise pendidikan yang memiliki kurikulum standar. Untuk mengetahui lebih lanjut, Anda bisa mengunjungi [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
 
 ### Manfaat Jangka Panjang ATP bagi Anak
 
@@ -105,7 +105,7 @@ Memilih sekolah yang tepat menjadi langkah penting dalam memastikan anak mendapa
 
 - Evaluasi fasilitas dan lingkungan: Lingkungan yang nyaman dan aman mendukung pembelajaran yang optimal.
 
-Jika Anda berdomisili di Bekasi, artikel [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) bisa menjadi panduan praktis yang membantu.
+Jika Anda berdomisili di Bekasi, artikel [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) bisa menjadi panduan praktis yang membantu.
 
 ### Kesimpulan
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611132428/https://asysyams.id/tip
 
 # Tips Agar Anak Terbuka Orang Tua Harus Kenali Dunia Anak
 
-[Home](https://asysyams.id/) » Tips Agar Anak Terbuka Orang Tua Harus Kenali Dunia Anak
+[Home](../) » Tips Agar Anak Terbuka Orang Tua Harus Kenali Dunia Anak
 
 ## Sebagai orang tua, salah satu tugas terbesar yang kita emban adalah memahami anak-anak kita.
 
-![cara memahami dunia anak](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-04-22.40.58-A-heartwarming-scene-of-a-parent-and-child-sitting-together-on-a-couch.-The-parent-is-attentively-listening-to-the-child-who-is-talking-animatedly-wh-300x300.webp)
+![cara memahami dunia anak](../wp-content/uploads/2024/09/DALL·E-2024-09-04-22.40.58-A-heartwarming-scene-of-a-parent-and-child-sitting-together-on-a-couch.-The-parent-is-attentively-listening-to-the-child-who-is-talking-animatedly-wh-300x300.webp)
 
 Namun, dunia anak-anak tidak selalu mudah untuk kita mengerti. Mereka hidup dalam realitas yang berbeda dari yang kita alami sebagai orang dewasa. Dunia anak-anak penuh dengan imajinasi, rasa ingin tahu, tantangan, dan perubahan yang terus-menerus. Untuk bisa memahami apa yang mereka pikirkan dan rasakan, orang tua perlu benar-benar mengenali dan meresapi dunia mereka. Dalam artikel ini, kita akan membahas mengapa penting bagi orang tua untuk mengenali dunia anak, bagaimana caranya agar bisa lebih memahami pikiran dan perasaan mereka, serta berbagai strategi praktis yang bisa kita terapkan.
 
@@ -63,11 +63,11 @@ Anak-anak memiliki minat yang berbeda-beda, dan salah satu cara terbaik untuk me
 
 Baca juga:
 
-[Manfaat Membacakan Buku Cerita untuk Anak-Anak](https://asysyams.id/manfaat-membacakan-buku-cerita-untuk-anak-anak/)
+[Manfaat Membacakan Buku Cerita untuk Anak-Anak](../manfaat-membacakan-buku-cerita-untuk-anak-anak/)
 
-[Apa Itu Film Anak-Anak dan Edukasi yang Tersajikan Di Dalamnya](https://asysyams.id/apa-itu-film-anak-anak-dan-edukasi-yang-tersajikan-di-dalamnya/)
+[Apa Itu Film Anak-Anak dan Edukasi yang Tersajikan Di Dalamnya](../apa-itu-film-anak-anak-dan-edukasi-yang-tersajikan-di-dalamnya/)
 
-[Mengapa TK Asyisyam Merupakan Tempat yang Bagus untuk Pendidikan Anak Usia Dini](https://asysyams.id/mengapa-tk-asyisyam-merupakan-tempat-yang-bagus-untuk-pendidikan-anak-usia-dini/)
+[Mengapa TK Asyisyam Merupakan Tempat yang Bagus untuk Pendidikan Anak Usia Dini](../mengapa-tk-asyisyam-merupakan-tempat-yang-bagus-untuk-pendidikan-anak-usia-dini/)
 
 ###  
 

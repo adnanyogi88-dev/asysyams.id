@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260515082138/https://asysyams.id/kum
 
 # Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga
 
-[Home](https://asysyams.id/) » Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga
+[Home](../) » Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga
 
 ## Cerita Islami pendek memiliki keistimewaan tersendiri dalam menyampaikan pesan moral dan ajaran agama.
 
@@ -57,7 +57,7 @@ Benar saja, keesokan harinya burung itu menemukan pohon yang rindang dengan bany
 
 ### Pentingnya Cerita Islami untuk Pendidikan Anak
 
-Cerita-cerita Islami pendek seperti di atas sangat efektif untuk membangun karakter anak sejak dini. Melalui cerita, anak-anak bisa belajar nilai-nilai Islam dengan cara yang menyenangkan dan mudah diingat. Bagi Anda yang ingin mendalami lebih lanjut, artikel [Kiat-Kiat Parenting Islami: Mendidik Anak Sesuai Nilai-Nilai Islam](https://asysyams.id/kiat-kiat-parenting-islami-mendidik-anak-sesuai-nilai-nilai-islam/) dapat memberikan panduan lengkap.
+Cerita-cerita Islami pendek seperti di atas sangat efektif untuk membangun karakter anak sejak dini. Melalui cerita, anak-anak bisa belajar nilai-nilai Islam dengan cara yang menyenangkan dan mudah diingat. Bagi Anda yang ingin mendalami lebih lanjut, artikel [Kiat-Kiat Parenting Islami: Mendidik Anak Sesuai Nilai-Nilai Islam](../kiat-kiat-parenting-islami-mendidik-anak-sesuai-nilai-nilai-islam/) dapat memberikan panduan lengkap.
 
 #### 5. Anak yang Berbakti
 
@@ -77,7 +77,7 @@ Cerita ini mengajarkan tentang pentingnya berbagi dan belas kasih, bahkan kepada
 
 ### Cerita Islami Sebagai Media Dakwah
 
-Selain menghibur, cerita Islami pendek juga berfungsi sebagai media dakwah yang efektif. Cerita-cerita ini mampu menyampaikan nilai-nilai Islam dengan cara yang sederhana namun bermakna. Untuk inspirasi lebih banyak tentang cerita-cerita yang melibatkan hewan, baca juga artikel [15 Cerita Dongeng yang Melibatkan Hewan dan Menginspirasi Anak-Anak](https://asysyams.id/15-cerita-dongeng-yang-melibatkan-hewan-dan-menginspirasi-anak-anak/).
+Selain menghibur, cerita Islami pendek juga berfungsi sebagai media dakwah yang efektif. Cerita-cerita ini mampu menyampaikan nilai-nilai Islam dengan cara yang sederhana namun bermakna. Untuk inspirasi lebih banyak tentang cerita-cerita yang melibatkan hewan, baca juga artikel [15 Cerita Dongeng yang Melibatkan Hewan dan Menginspirasi Anak-Anak](../15-cerita-dongeng-yang-melibatkan-hewan-dan-menginspirasi-anak-anak/).
 
 #### 7. Keteguhan Nabi Ibrahim
 
@@ -95,7 +95,7 @@ Baca juga: [franchise toko daging](http://meatfish.id)
 
 ### Mengakhiri Hari dengan Cerita Islami
 
-Mengakhiri hari dengan mendongengkan cerita Islami kepada anak-anak dapat menjadi kebiasaan yang menyenangkan sekaligus bermanfaat. Anda bisa memilih cerita pendek yang sarat pesan moral untuk disampaikan sebelum tidur. Jika Anda mencari inspirasi, baca juga artikel [5 Cerita Dongeng Sebelum Tidur untuk Anak-Anak yang Memikat](https://asysyams.id/5-cerita-dongeng-sebelum-tidur-untuk-anak-anak-yang-memikat/) untuk rekomendasi menarik lainnya.
+Mengakhiri hari dengan mendongengkan cerita Islami kepada anak-anak dapat menjadi kebiasaan yang menyenangkan sekaligus bermanfaat. Anda bisa memilih cerita pendek yang sarat pesan moral untuk disampaikan sebelum tidur. Jika Anda mencari inspirasi, baca juga artikel [5 Cerita Dongeng Sebelum Tidur untuk Anak-Anak yang Memikat](../5-cerita-dongeng-sebelum-tidur-untuk-anak-anak-yang-memikat/) untuk rekomendasi menarik lainnya.
 
 Dengan cerita Islami pendek, kita tidak hanya mempererat hubungan keluarga, tetapi juga menanamkan nilai-nilai mulia dalam hati anak-anak. Semoga kumpulan cerita ini bermanfaat dan dapat menjadi inspirasi bagi Anda sekeluarga.
 

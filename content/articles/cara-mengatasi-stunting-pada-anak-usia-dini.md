@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314172411/https://asysyams.id/car
 
 # Cara Mengatasi Stunting pada Anak Usia Dini
 
-[Home](https://asysyams.id/) » Cara Mengatasi Stunting pada Anak Usia Dini
+[Home](../) » Cara Mengatasi Stunting pada Anak Usia Dini
 
 ## Stunting merupakan salah satu masalah gizi yang masih dihadapi oleh banyak negara berkembang, termasuk Indonesia.
 
-![stunting pada anak](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-22-00.21.39-A-detailed-and-informative-illustration-showing-the-process-of-combating-stunting-in-children.-The-image-should-depict-various-stages-including-proper-300x300.webp)
+![stunting pada anak](../wp-content/uploads/2024/09/DALL·E-2024-09-22-00.21.39-A-detailed-and-informative-illustration-showing-the-process-of-combating-stunting-in-children.-The-image-should-depict-various-stages-including-proper-300x300.webp)
 
 Stunting tidak hanya berdampak pada tinggi badan anak yang lebih pendek dari standar usianya, tetapi juga berpengaruh pada perkembangan otak, kemampuan belajar, dan produktivitas anak di masa depan. Untuk mengatasi stunting, membutuhkan upaya terkoordinasi dari berbagai pihak, termasuk pemerintah, tenaga kesehatan, orang tua, dan masyarakat luas.
 

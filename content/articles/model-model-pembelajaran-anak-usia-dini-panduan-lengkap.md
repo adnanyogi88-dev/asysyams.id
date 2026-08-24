@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421050030/https://asysyams.id/mod
 
 # Model-Model Pembelajaran Anak Usia Dini: Panduan Lengkap
 
-[Home](https://asysyams.id/) » Model-Model Pembelajaran Anak Usia Dini: Panduan Lengkap
+[Home](../) » Model-Model Pembelajaran Anak Usia Dini: Panduan Lengkap
 
 ## Pendidikan Anak Usia Dini (PAUD) merupakan fondasi penting dalam membentuk karakter, keterampilan, dan kecerdasan anak.
 
-![Doa Anak Saleh](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
+![Doa Anak Saleh](../wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
 
 Pada usia 0-6 tahun, otak anak mengalami perkembangan pesat, sehingga penerapan model pembelajaran yang tepat sangat krusial. Pemilihan metode yang sesuai tidak hanya mendukung pertumbuhan kognitif, tetapi juga mengasah kemampuan sosial, emosional, dan spiritual. Artikel ini akan mengulas berbagai model pembelajaran anak usia dini yang efektif, serta bagaimana sekolah seperti TK Islam As-Syams di Bekasi memadukan metode ini dengan fasilitas terbaik untuk optimalisasi hasil belajar.
 
@@ -39,7 +39,7 @@ Kelebihan:
 
 - Memacu kreativitas melalui eksperimen mandiri.
 
-Sekolah dengan fasilitas memadai seperti [TK Islam yang bagus di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) kerap mengadopsi prinsip Montessori untuk mendukung pembelajaran holistik.
+Sekolah dengan fasilitas memadai seperti [TK Islam yang bagus di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) kerap mengadopsi prinsip Montessori untuk mendukung pembelajaran holistik.
 
 ### 3. Model Pembelajaran Reggio Emilia: Seni sebagai Medium Ekspresi
 
@@ -69,7 +69,7 @@ Bermain adalah cara alami anak belajar. Model ini menggunakan permainan terstruk
 
 - Permainan balok untuk memahami keseimbangan dan fisika.
 
-Fasilitas bermain edukatif di [TK Islam As-Syams](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) dirancang untuk mendukung metode ini, seperti area bermain outdoor dan lab sains sederhana.
+Fasilitas bermain edukatif di [TK Islam As-Syams](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) dirancang untuk mendukung metode ini, seperti area bermain outdoor dan lab sains sederhana.
 
 ### 6. Model Pembelajaran Berbasis Agama (Religious-Based Learning)
 
@@ -79,7 +79,7 @@ Pendidikan agama sejak dini membentuk karakter dan nilai moral anak. Metode ini 
 
 - Kisah Nabi untuk mengajarkan kejujuran.
 
-Mengenalkan [rukun Islam sejak dini](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/) bisa dilakukan dengan storytelling interaktif, membuat anak lebih mudah memahami kewajiban sebagai Muslim.
+Mengenalkan [rukun Islam sejak dini](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/) bisa dilakukan dengan storytelling interaktif, membuat anak lebih mudah memahami kewajiban sebagai Muslim.
 
 ### 7. Model Pembelajaran STEAM (Science, Technology, Engineering, Arts, Math)
 
@@ -91,7 +91,7 @@ STEAM menggabungkan sains, seni, dan teknologi dalam aktivitas menyenangkan. Mis
 
 ### 8. Model Pembelajaran Berbasis Cerita (Storytelling)
 
-Cerita adalah alat efektif untuk mengajarkan nilai kehidupan dan memperkaya kosakata. Anak bisa mendengarkan dongeng, lalu menceritakan kembali dengan kata-kata mereka. Untuk inspirasi, orang tua bisa membaca artikel [contoh cerita liburan sekolah](https://asysyams.id/mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/) yang mendorong imajinasi anak.
+Cerita adalah alat efektif untuk mengajarkan nilai kehidupan dan memperkaya kosakata. Anak bisa mendengarkan dongeng, lalu menceritakan kembali dengan kata-kata mereka. Untuk inspirasi, orang tua bisa membaca artikel [contoh cerita liburan sekolah](../mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/) yang mendorong imajinasi anak.
 
 ### 9. Model Pembelajaran Outdoor
 
@@ -111,7 +111,7 @@ Howard Gardner memperkenalkan 8 jenis kecerdasan (linguistik, logis, kinestetik,
 
 ### Kesimpulan dan Rekomendasi Sekolah
 
-Pemilihan model pembelajaran harus disesuaikan dengan kebutuhan dan minat anak. Kombinasi beberapa metode seringkali memberikan hasil optimal. Bagi orang tua di Bekasi, [TK Islam As-Syams](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) menjadi pilihan tepat karena menggabungkan kurikulum agama, fasilitas modern, dan pendekatan bermain. Dengan mengintegrasikan nilai Islami melalui [pengenalan rukun Islam](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/) dan stimulasi kreativitas seperti [mengarang cerita liburan](https://asysyams.id/mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/), sekolah ini menjawab kebutuhan holistic education bagi generasi masa depan.
+Pemilihan model pembelajaran harus disesuaikan dengan kebutuhan dan minat anak. Kombinasi beberapa metode seringkali memberikan hasil optimal. Bagi orang tua di Bekasi, [TK Islam As-Syams](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) menjadi pilihan tepat karena menggabungkan kurikulum agama, fasilitas modern, dan pendekatan bermain. Dengan mengintegrasikan nilai Islami melalui [pengenalan rukun Islam](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/) dan stimulasi kreativitas seperti [mengarang cerita liburan](../mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/), sekolah ini menjawab kebutuhan holistic education bagi generasi masa depan.
 
 Dengan memahami beragam model pembelajaran, orang tua dan pendidik dapat menciptakan lingkungan yang mendukung potensi maksimal anak, baik secara intelektual, emosional, maupun spiritual.
 

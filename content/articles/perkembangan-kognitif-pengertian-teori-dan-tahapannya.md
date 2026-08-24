@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217000147/https://asysyams.id/per
 
 # Perkembangan Kognitif: Pengertian, Teori, dan Tahapannya
 
-[Home](https://asysyams.id/) » Perkembangan Kognitif: Pengertian, Teori, dan Tahapannya
+[Home](../) » Perkembangan Kognitif: Pengertian, Teori, dan Tahapannya
 
 ## Perkembangan kognitif merupakan salah satu aspek penting dalam tumbuh kembang anak yang memengaruhi cara mereka berpikir,
 
-![cara memperkuat mental anak](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_457128721_18141624178353668_5274165255979170382_n-1-1024x768.jpg)
+![cara memperkuat mental anak](../wp-content/uploads/2024/09/ClipDown.App_457128721_18141624178353668_5274165255979170382_n-1-1024x768.jpg)
 
 memahami, dan berinteraksi dengan dunia sekitar. Proses ini melibatkan kemampuan otak untuk memproses informasi, memecahkan masalah, dan membentuk konsep-konsep baru. Dalam artikel ini, kita akan membahas pengertian perkembangan kognitif, teori-teori yang mendasarinya, serta tahapan-tahapan yang anak lalui. Selain itu, kita juga akan menghubungkan pembahasan ini dengan pentingnya memilih lingkungan pendidikan yang mendukung, seperti TK Islam berkualitas di Bekasi, serta manfaat mengenalkan nilai-nilai agama sejak dini.
 
@@ -89,11 +89,11 @@ Lingkungan pendidikan, seperti TK Islam berkualitas di Bekasi, memainkan peran k
 
 Baca juga:
 
-[TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+[TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-[5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+[5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
-[Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/)
+[Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/)
 
 [
 WhatsApp Kami

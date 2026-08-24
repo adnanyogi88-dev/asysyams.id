@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314175621/https://asysyams.id/doa
 
 # Doa Agar Anak Berbakti Kepada Orang Tua
 
-[Home](https://asysyams.id/) » Doa Agar Anak Berbakti Kepada Orang Tua
+[Home](../) » Doa Agar Anak Berbakti Kepada Orang Tua
 
 ## Berbakti kepada orang tua adalah salah satu ajaran utama dalam Islam.
 
-![pendidikan agama islam dan budi pekerti](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-1024x769.jpg)
+![pendidikan agama islam dan budi pekerti](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-1024x769.jpg)
 
 Setiap orang tua pasti menginginkan anak-anak mereka tumbuh menjadi pribadi yang saleh, berakhlak mulia, dan menghormati orang tua. Salah satu cara untuk mewujudkan harapan ini adalah melalui doa yang tulus. Artikel ini akan membahas doa agar anak berbakti kepada orang tua, disertai dengan refleksi pada nilai-nilai penting dari berbagai sumber islami dan relevansi dalam kehidupan modern.
 
@@ -42,15 +42,15 @@ Artinya: “Ya Tuhanku, ampunilah aku dan kedua orang tuaku, dan sayangilah mere
 
 #### 1. Tren Usaha Franchise 2025 di Bidang Pendidikan
 
-Pendidikan memainkan peran penting dalam membentuk karakter anak. Artikel tentang “[Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/)” mengingatkan kita bahwa memilih pendidikan yang baik adalah bentuk ikhtiar untuk memastikan anak mendapatkan lingkungan yang mendukung tumbuh kembang mereka secara intelektual dan spiritual. Sekolah dengan nilai-nilai keislaman bisa menjadi tempat yang tepat untuk menanamkan nilai bakti kepada orang tua.
+Pendidikan memainkan peran penting dalam membentuk karakter anak. Artikel tentang “[Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/)” mengingatkan kita bahwa memilih pendidikan yang baik adalah bentuk ikhtiar untuk memastikan anak mendapatkan lingkungan yang mendukung tumbuh kembang mereka secara intelektual dan spiritual. Sekolah dengan nilai-nilai keislaman bisa menjadi tempat yang tepat untuk menanamkan nilai bakti kepada orang tua.
 
 #### 2. Keutamaan Membaca Surat Maryam untuk Ibu Hamil
 
-Ibu hamil dianjurkan [membaca surat Maryam](https://asysyams.id/keutamaan-membaca-surat-maryam-untuk-ibu-hamil/) agar diberi keturunan yang saleh dan berbakti. Dalam kisah Nabi Isa AS dan ibunya, Maryam AS, tercermin betapa pentingnya menghormati orang tua. Membaca surat ini sejak masa kehamilan menjadi bentuk ikhtiar batin agar anak tumbuh menjadi pribadi yang mulia.
+Ibu hamil dianjurkan [membaca surat Maryam](../keutamaan-membaca-surat-maryam-untuk-ibu-hamil/) agar diberi keturunan yang saleh dan berbakti. Dalam kisah Nabi Isa AS dan ibunya, Maryam AS, tercermin betapa pentingnya menghormati orang tua. Membaca surat ini sejak masa kehamilan menjadi bentuk ikhtiar batin agar anak tumbuh menjadi pribadi yang mulia.
 
 #### 3. Contoh Surat Cinta dan Kasih Sayang untuk Ayah Bunda
 
-Surat cinta kepada orang tua adalah ekspresi tulus dari anak untuk menunjukkan rasa syukur dan cinta. Artikel “[Contoh Surat Cinta dan Kasih Sayang untuk Ayah Bunda](https://asysyams.id/contoh-surat-cinta-dan-kasih-sayang-untuk-ayah-bunda/)” menginspirasi kita untuk terus mengajarkan anak-anak mengekspresikan rasa hormat dan cinta kepada orang tua melalui tulisan dan tindakan nyata.
+Surat cinta kepada orang tua adalah ekspresi tulus dari anak untuk menunjukkan rasa syukur dan cinta. Artikel “[Contoh Surat Cinta dan Kasih Sayang untuk Ayah Bunda](../contoh-surat-cinta-dan-kasih-sayang-untuk-ayah-bunda/)” menginspirasi kita untuk terus mengajarkan anak-anak mengekspresikan rasa hormat dan cinta kepada orang tua melalui tulisan dan tindakan nyata.
 
 ### Tips Praktis Membentuk Anak yang Berbakti
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216231043/https://asysyams.id/tip
 
 # Tips Guru PAUD Jadi MC Hebat di Acara Wisuda / Perpisahan PAUD
 
-[Home](https://asysyams.id/) » Tips Guru PAUD Jadi MC Hebat di Acara Wisuda / Perpisahan PAUD
+[Home](../) » Tips Guru PAUD Jadi MC Hebat di Acara Wisuda / Perpisahan PAUD
 
 ## Acara perpisahan PAUD merupakan momen yang sangat istimewa.
 
-![Waralaba Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
+![Waralaba Bidang Pendidikan](../wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
 
 Guru PAUD sering kali dipercaya sebagai pembawa acara atau MC (Master of Ceremony) karena kedekatannya dengan anak-anak, orang tua, dan lingkungan sekolah. Sayangnya, banyak guru PAUD merasa gugup atau kurang percaya diri saat harus tampil di depan umum. Oleh karena itu, artikel ini akan membahas secara lengkap dan mendalam tentang tips guru PAUD jadi MC hebat di acara perpisahan PAUD, agar Anda bisa tampil percaya diri, profesional, dan mengesankan.
 
@@ -83,15 +83,15 @@ Guru PAUD memiliki hubungan emosional yang kuat dengan anak-anak dan orang tua. 
 
 Gunakan momen acara perpisahan ini untuk menyampaikan informasi penting mengenai pendaftaran siswa baru. Ini adalah strategi cerdas untuk menyasar target market segment bisnis pendidikan. Anda bisa menyampaikan info seperti:
 
-“Bagi orang tua yang ingin mendaftarkan adik atau saudara dari anak-anak kita, PAUD Asy-Syams telah membuka pendaftaran tahun ajaran 2024-2025. Silakan kunjungi [tautan ini](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) untuk informasi lengkap.”
+“Bagi orang tua yang ingin mendaftarkan adik atau saudara dari anak-anak kita, PAUD Asy-Syams telah membuka pendaftaran tahun ajaran 2024-2025. Silakan kunjungi [tautan ini](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) untuk informasi lengkap.”
 
 Atau juga:
 
-“Jika ingin langsung mendaftarkan anak, kunjungi laman berikut: [Pendaftaran Anak di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/).”
+“Jika ingin langsung mendaftarkan anak, kunjungi laman berikut: [Pendaftaran Anak di Asy-Syams](../pendaftaran-anak-di-asy-syams/).”
 
 Dan tentu jangan lupa menyampaikan:
 
-“Untuk tingkat TK, info lengkap bisa dilihat di sini: [Pendaftaran TK Asy-Syams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).”
+“Untuk tingkat TK, info lengkap bisa dilihat di sini: [Pendaftaran TK Asy-Syams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).”
 
 Dengan menyisipkan informasi ini secara natural, Anda telah membantu sekolah menjangkau lebih banyak calon siswa.
 

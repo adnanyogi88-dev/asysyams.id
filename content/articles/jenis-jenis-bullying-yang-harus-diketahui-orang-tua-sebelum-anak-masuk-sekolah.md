@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419150421/https://asysyams.id/jen
 
 # Jenis-Jenis Bullying yang Harus Diketahui Orang Tua Sebelum Anak Masuk Sekolah
 
-[Home](https://asysyams.id/) » Jenis-Jenis Bullying yang Harus Diketahui Orang Tua Sebelum Anak Masuk Sekolah
+[Home](../) » Jenis-Jenis Bullying yang Harus Diketahui Orang Tua Sebelum Anak Masuk Sekolah
 
 ## Menyekolahkan anak adalah langkah besar dalam perjalanan tumbuh kembangnya.
 
-![daycare anak](https://asysyams.id/wp-content/uploads/2024/10/457051070_18141624187353668_9026807804038328764_n-1024x768.jpg)
+![daycare anak](../wp-content/uploads/2024/10/457051070_18141624187353668_9026807804038328764_n-1024x768.jpg)
 
 Namun, sebagai orang tua, kita harus memastikan bahwa anak tidak hanya mendapat pendidikan akademik terbaik, tetapi juga lingkungan sosial yang aman. Salah satu ancaman terbesar di lingkungan sekolah adalah bullying. Artikel ini membahas secara lengkap jenis-jenis bullying yang wajib orang tua pahami, terutama saat memilih sekolah untuk anak.
 
@@ -93,15 +93,15 @@ Salah satu cara terbaik mencegah anak menjadi korban bullying adalah dengan memi
 
 - Membangun budaya positif dan inklusif
 
-Jika Anda sedang mencari sekolah yang aman, nyaman, dan memiliki fasilitas terbaik, Anda bisa mempertimbangkan TK Islam yang bagus di Bekasi. Selengkapnya bisa Anda baca di artikel berikut: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+Jika Anda sedang mencari sekolah yang aman, nyaman, dan memiliki fasilitas terbaik, Anda bisa mempertimbangkan TK Islam yang bagus di Bekasi. Selengkapnya bisa Anda baca di artikel berikut: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ### Alternatif Pendidikan yang Aman dan Edukatif
 
-Jika Anda tertarik dengan pendekatan pendidikan yang konsisten dan memiliki standar kualitas yang terjaga, Anda juga bisa melihat beberapa pilihan franchise pendidikan lokal di Indonesia. Artikel berikut membahas lebih lengkap: [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+Jika Anda tertarik dengan pendekatan pendidikan yang konsisten dan memiliki standar kualitas yang terjaga, Anda juga bisa melihat beberapa pilihan franchise pendidikan lokal di Indonesia. Artikel berikut membahas lebih lengkap: [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
 ### Tips Memilih TK Terdekat di Bekasi
 
-Memilih TK terdekat juga perlu mempertimbangkan reputasi sekolah dalam menangani isu bullying. Jangan hanya terpaku pada jarak, namun juga lihat kualitas pendidikannya. Pelajari tips memilihnya di sini: [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
+Memilih TK terdekat juga perlu mempertimbangkan reputasi sekolah dalam menangani isu bullying. Jangan hanya terpaku pada jarak, namun juga lihat kualitas pendidikannya. Pelajari tips memilihnya di sini: [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
 
 ### Penutup
 

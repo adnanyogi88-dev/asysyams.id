@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611131856/https://asysyams.id/con
 
 # Contoh Data Berat Badan Menurut Usia Anak PAUD: Panduan untuk Orang Tua
 
-[Home](https://asysyams.id/) » Contoh Data Berat Badan Menurut Usia Anak PAUD: Panduan untuk Orang Tua
+[Home](../) » Contoh Data Berat Badan Menurut Usia Anak PAUD: Panduan untuk Orang Tua
 
 ## Perkembangan anak usia dini (PAUD) merupakan salah satu aspek yang sangat penting dalam tumbuh kembang mereka.
 
-![franchise sekolah asyisyam](https://asysyams.id/wp-content/uploads/2024/09/Screenshot_12-300x194.png)
+![franchise sekolah asyisyam](../wp-content/uploads/2024/09/Screenshot_12-300x194.png)
 
 Salah satu indikator penting dalam memantau kesehatan dan pertumbuhan anak adalah berat badan. Berat badan menurut usia anak PAUD adalah data yang sangat bermanfaat bagi orang tua dan pendidik untuk mengetahui apakah anak-anak tumbuh dengan baik atau memerlukan perhatian lebih. Dalam artikel ini, kita akan membahas tentang contoh data berat badan menurut usia anak PAUD, bagaimana menginterpretasinya, dan mengapa penting untuk memperhatikan perkembangan fisik anak pada usia ini.
 
@@ -69,7 +69,7 @@ Pola Makan: Nutrisi yang kitaberikan kepada anak sangat memengaruhi pertumbuhan 
 
 -
 
-Aktivitas Fisik: Anak-anak yang aktif secara fisik, seperti yang terlibat dalam berbagai kegiatan seperti bermain atau menari, biasanya memiliki berat badan yang lebih sehat. Dalam konteks ini, Anda bisa melihat pentingnya [aktifitas yang perlu terlakukan bersama anak-anak](https://asysyams.id/aktifitas-yang-perlu-dilakukan-bersama-anak-anak/), di mana aktivitas fisik menjadi bagian penting dalam tumbuh kembang mereka.
+Aktivitas Fisik: Anak-anak yang aktif secara fisik, seperti yang terlibat dalam berbagai kegiatan seperti bermain atau menari, biasanya memiliki berat badan yang lebih sehat. Dalam konteks ini, Anda bisa melihat pentingnya [aktifitas yang perlu terlakukan bersama anak-anak](../aktifitas-yang-perlu-dilakukan-bersama-anak-anak/), di mana aktivitas fisik menjadi bagian penting dalam tumbuh kembang mereka.
 
 -
 
@@ -79,13 +79,13 @@ Kesehatan Secara Keseluruhan: Penyakit kronis atau gangguan pertumbuhan dapat me
 
 Jika orang tua melihat bahwa berat badan anak mereka tidak sesuai dengan standar, langkah pertama yang harus anda lakukan adalah berkonsultasi dengan dokter atau ahli gizi anak. Mereka bisa memberikan saran tentang pola makan yang tepat dan kegiatan fisik yang bisa mendukung tumbuh kembang anak.
 
-Orang tua juga bisa memilih lembaga pendidikan PAUD yang memiliki fasilitas yang mendukung pertumbuhan anak secara optimal, seperti yang terjelaskan dalam [manfaat memilih PAUD dengan fasilitas lengkap di sekolah Asy-Syams](https://asysyams.id/manfaat-memilih-paud-dengan-fasilitas-lengkap-di-sekolah-asy-syams/). PAUD dengan fasilitas lengkap biasanya menawarkan program gizi, pemeriksaan kesehatan rutin, serta berbagai aktivitas fisik yang dapat membantu anak mencapai berat badan yang ideal.
+Orang tua juga bisa memilih lembaga pendidikan PAUD yang memiliki fasilitas yang mendukung pertumbuhan anak secara optimal, seperti yang terjelaskan dalam [manfaat memilih PAUD dengan fasilitas lengkap di sekolah Asy-Syams](../manfaat-memilih-paud-dengan-fasilitas-lengkap-di-sekolah-asy-syams/). PAUD dengan fasilitas lengkap biasanya menawarkan program gizi, pemeriksaan kesehatan rutin, serta berbagai aktivitas fisik yang dapat membantu anak mencapai berat badan yang ideal.
 
 ### Aktivitas Fisik yang Mendukung Pertumbuhan
 
 Selain pola makan yang sehat, aktivitas fisik juga berperan penting dalam menjaga berat badan anak tetap ideal. Di PAUD, anak-anak sering kali terlibat dalam berbagai jenis kegiatan fisik, seperti bermain di taman, berlari-lari, atau bahkan menari. Menari adalah salah satu aktivitas yang menyenangkan dan bisa membantu anak-anak tetap aktif.
 
-Di Indonesia, ada banyak jenis tarian tradisional maupun modern yang bisa anak-anak pelajari sejak usia dini. Hal ini tidak hanya mengajarkan mereka budaya lokal, tetapi juga membantu mereka mengembangkan keterampilan motorik kasar dan halus. Beberapa tarian juga memerlukan gerakan yang energik, yang dapat membantu membakar kalori dan menjaga berat badan mereka tetap sehat. Untuk lebih lanjut mengenai jenis tarian yang cocok untuk anak, Anda bisa melihat artikel tentang [jenis tarian untuk anak di Indonesia](https://asysyams.id/jenis-tarian-untuk-anak-di-indonesia-warisan-budaya-dan-kreasi-modern/).
+Di Indonesia, ada banyak jenis tarian tradisional maupun modern yang bisa anak-anak pelajari sejak usia dini. Hal ini tidak hanya mengajarkan mereka budaya lokal, tetapi juga membantu mereka mengembangkan keterampilan motorik kasar dan halus. Beberapa tarian juga memerlukan gerakan yang energik, yang dapat membantu membakar kalori dan menjaga berat badan mereka tetap sehat. Untuk lebih lanjut mengenai jenis tarian yang cocok untuk anak, Anda bisa melihat artikel tentang [jenis tarian untuk anak di Indonesia](../jenis-tarian-untuk-anak-di-indonesia-warisan-budaya-dan-kreasi-modern/).
 
 ### Peran Orang Tua dalam Memantau Pertumbuhan Anak
 

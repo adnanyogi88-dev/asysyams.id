@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008072935/https://asysyams.id/uns
 
 # Unsur-Unsur Pokok dalam Sistem Pendidikan Islam: Panduan Lengkap untuk Orang Tua Pemula
 
-[Home](https://asysyams.id/) » Unsur-Unsur Pokok dalam Sistem Pendidikan Islam: Panduan Lengkap untuk Orang Tua Pemula
+[Home](../) » Unsur-Unsur Pokok dalam Sistem Pendidikan Islam: Panduan Lengkap untuk Orang Tua Pemula
 
 ## Pendahuluan
 
-![pendidikan anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
+![pendidikan anak](../wp-content/uploads/2025/01/Snapinst.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
 
 Pendidikan anak merupakan amanah besar bagi setiap orang tua. Dalam Islam, pendidikan tidak hanya berfokus pada aspek intelektual, tetapi juga menyentuh hati, akhlak, dan spiritualitas. Karena itu, memahami unsur-unsur pokok dalam sistem pendidikan Islam menjadi penting, terutama bagi orang tua pemula yang ingin mendampingi tumbuh kembang anak secara menyeluruh.
 
@@ -47,7 +47,7 @@ Pendidik menempati posisi utama dalam sistem pendidikan Islam. Seorang pendidik 
 
 Seorang guru dalam Islam idealnya memiliki sifat sabar, ikhlas, dan penuh kasih sayang. Hal ini tercermin dari sabda Nabi Muhammad ? yang menyebutkan bahwa sebaik-baik manusia adalah yang paling bermanfaat bagi orang lain.
 
-? Untuk penjelasan lebih luas tentang lembaga pendidikan, silakan baca: [Apa Itu Institusi Pendidikan: Penjelasan Lengkap, Fungsi, dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
+? Untuk penjelasan lebih luas tentang lembaga pendidikan, silakan baca: [Apa Itu Institusi Pendidikan: Penjelasan Lengkap, Fungsi, dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
 
 ## 3. Peserta Didik sebagai Subjek Pendidikan
 
@@ -91,7 +91,7 @@ Metode pendidikan Islam menekankan keseimbangan antara teori dan praktik. Anak p
 
 - Cerita Islami: Mengajarkan nilai melalui kisah-kisah inspiratif.
 
-? Anda bisa menemukan contoh kisah untuk anak di sini: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
+? Anda bisa menemukan contoh kisah untuk anak di sini: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
 
 ## 6. Sarana dan Prasarana Pendidikan
 
@@ -99,7 +99,7 @@ Sarana pendidikan Islam tidak harus mewah, tetapi harus mendukung proses belajar
 
 Sedangkan di sekolah, sarana berupa ruang kelas, laboratorium, hingga fasilitas ibadah sangat diperlukan. Orang tua perlu memilih sekolah yang mampu memberikan keseimbangan antara pendidikan akademik dan spiritual.
 
-? Jika Anda tinggal di Bekasi, silakan baca rekomendasi ini: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+? Jika Anda tinggal di Bekasi, silakan baca rekomendasi ini: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ## 7. Lingkungan Pendidikan
 
@@ -127,11 +127,11 @@ Bagi orang tua pemula, memahami unsur-unsur ini sangat penting agar bisa mendamp
 
 ? Artikel terkait untuk memperdalam pemahaman Anda:
 
-- [Apa Itu Institusi Pendidikan: Penjelasan Lengkap, Fungsi, dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/)
+- [Apa Itu Institusi Pendidikan: Penjelasan Lengkap, Fungsi, dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/)
 
-- [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
+- [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 [
 WhatsApp Kami

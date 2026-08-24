@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611131655/https://asysyams.id/pen
 
 # Pentingnya Pendidikan Usia Dini bagi Umat Islam
 
-[Home](https://asysyams.id/) » Pentingnya Pendidikan Usia Dini bagi Umat Islam
+[Home](../) » Pentingnya Pendidikan Usia Dini bagi Umat Islam
 
 ## Pendidikan Usia Dini: Pondasi yang Mengakar Kuat
 
-![Doa Anak Saleh](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
+![Doa Anak Saleh](../wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
 
 Dalam membangun peradaban Islam yang unggul, umat harus mulai dari dasar yang kokoh. Karena itu, pendidikan usia dini menjadi elemen utama dalam menanamkan nilai, akhlak, dan karakter. Sebab, pada fase inilah pembentukan kepribadian berlangsung sangat pesat. Para pengusaha muslim pun harus menyadari bahwa investasi di bidang ini bukan hanya mencetak generasi cerdas, melainkan juga membuka peluang bisnis berkelanjutan.
 
@@ -39,15 +39,15 @@ Lingkungan yang penuh kasih, aman, dan islami akan memicu rasa percaya diri dan 
 
 ## Peluang Bisnis Waralaba Pendidikan Islam
 
-Dalam beberapa tahun terakhir, franchise pendidikan menjadi pilihan cerdas bagi investor muslim. Dengan bergabung dalam sistem waralaba, pengusaha tidak perlu memulai dari nol. Mereka mendapatkan panduan kurikulum, SOP, pelatihan guru, hingga sistem manajemen sekolah. Artikel ini merujuk kepada referensi lengkap yang bisa Anda telusuri di [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
+Dalam beberapa tahun terakhir, franchise pendidikan menjadi pilihan cerdas bagi investor muslim. Dengan bergabung dalam sistem waralaba, pengusaha tidak perlu memulai dari nol. Mereka mendapatkan panduan kurikulum, SOP, pelatihan guru, hingga sistem manajemen sekolah. Artikel ini merujuk kepada referensi lengkap yang bisa Anda telusuri di [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
 
 ## Proposal Usaha Pendidikan: Kunci untuk Mulai
 
-Jika Anda berminat untuk memulai sendiri lembaga pendidikan Islam usia dini, maka langkah pertama ialah menyusun proposal usaha yang meyakinkan. Proposal yang kuat harus mencakup analisis pasar, rencana operasional, kebutuhan SDM, dan estimasi pendanaan. Anda bisa mempelajari contohnya secara lengkap di [Contoh Proposal Usaha Bidang Pendidikan](https://asysyams.id/contoh-proposal-usaha-bidang-pendidikan/).
+Jika Anda berminat untuk memulai sendiri lembaga pendidikan Islam usia dini, maka langkah pertama ialah menyusun proposal usaha yang meyakinkan. Proposal yang kuat harus mencakup analisis pasar, rencana operasional, kebutuhan SDM, dan estimasi pendanaan. Anda bisa mempelajari contohnya secara lengkap di [Contoh Proposal Usaha Bidang Pendidikan](../contoh-proposal-usaha-bidang-pendidikan/).
 
 ## Membedakan Konsep Mengajar dan Pembelajaran
 
-Pelaku bisnis di bidang pendidikan sering salah memahami istilah belajar, mengajar, dan pembelajaran. Tiga hal ini memiliki implikasi berbeda dalam menyusun kurikulum dan program. Mengajar hanya fokus pada transfer ilmu, sedangkan pembelajaran mengarah pada keterlibatan aktif siswa. Untuk memperdalam pemahaman ini, Anda dapat merujuk ke artikel [Perbedaan Belajar, Mengajar, dan Pembelajaran: Konsep dan Implikasinya dalam Dunia Pendidikan](https://asysyams.id/perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/).
+Pelaku bisnis di bidang pendidikan sering salah memahami istilah belajar, mengajar, dan pembelajaran. Tiga hal ini memiliki implikasi berbeda dalam menyusun kurikulum dan program. Mengajar hanya fokus pada transfer ilmu, sedangkan pembelajaran mengarah pada keterlibatan aktif siswa. Untuk memperdalam pemahaman ini, Anda dapat merujuk ke artikel [Perbedaan Belajar, Mengajar, dan Pembelajaran: Konsep dan Implikasinya dalam Dunia Pendidikan](../perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/).
 
 ## Investasi yang Memberi Keuntungan Dunia Akhirat
 

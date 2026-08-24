@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260419152846/https://asysyams.id/akt
 
 # Aktifitas yang Perlu Dilakukan Bersama Anak-anak
 
-[Home](https://asysyams.id/) » Aktifitas yang Perlu Dilakukan Bersama Anak-anak
+[Home](../) » Aktifitas yang Perlu Dilakukan Bersama Anak-anak
 
 ## Beraktivitas bersama anak-anak tidak hanya memberikan kesempatan bagi orang tua untuk membangun hubungan yang lebih dekat,
 
@@ -69,11 +69,11 @@ Melakukan eksperimen sains sederhana di rumah adalah cara yang menyenangkan untu
 
 Baca juga:
 
-[Prinsip Pendidikan Anak Pada Usia Dini](https://asysyams.id/prinsip-pendidikan-anak-pada-usia-dini/)
+[Prinsip Pendidikan Anak Pada Usia Dini](../prinsip-pendidikan-anak-pada-usia-dini/)
 
-[Pelajaran untuk Anak TK yang Efektif Dan Cepat Dipahami](https://asysyams.id/pelajaran-untuk-anak-tk-yang-efektif-dan-cepat-dipahami/)
+[Pelajaran untuk Anak TK yang Efektif Dan Cepat Dipahami](../pelajaran-untuk-anak-tk-yang-efektif-dan-cepat-dipahami/)
 
-[Games untuk Meningkatkan Kemampuan Motorik Anak](https://asysyams.id/games-untuk-meningkatkan-kemampuan-motorik-anak/)
+[Games untuk Meningkatkan Kemampuan Motorik Anak](../games-untuk-meningkatkan-kemampuan-motorik-anak/)
 
  
 

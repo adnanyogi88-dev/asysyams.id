@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314174813/https://asysyams.id/ala
 
 # Alat Permainan Edukasi Anak yang Populer di Indonesia
 
-[Home](https://asysyams.id/) » Alat Permainan Edukasi Anak yang Populer di Indonesia
+[Home](../) » Alat Permainan Edukasi Anak yang Populer di Indonesia
 
 ## Perkembangan teknologi dan informasi telah memberikan dampak besar pada berbagai aspek kehidupan, termasuk dalam dunia pendidikan.
 
-![alat permainan edukasi](https://asysyams.id/wp-content/uploads/2024/10/images-615147dd0101905a16497de2.jpg)
+![alat permainan edukasi](../wp-content/uploads/2024/10/images-615147dd0101905a16497de2.jpg)
 
 Di Indonesia, berbagai alat permainan edukasi untuk anak-anak telah banyak berkembang dengan tujuan untuk meningkatkan kecerdasan, kreativitas, serta keterampilan sosial anak. Bermain sambil belajar adalah pendekatan yang sangat efektif, terutama untuk anak-anak usia dini. Oleh karena itu, alat permainan edukasi menjadi sangat populer di kalangan orang tua dan pendidik.
 
@@ -27,7 +27,7 @@ Puzzles adalah salah satu alat permainan edukasi yang telah lama terkenal dan ma
 
 Manfaat utama dari bermain puzzle adalah melatih keterampilan kognitif anak. Anak-anak kita ajak untuk berpikir dan memecahkan masalah dengan cara menyusun gambar yang benar. Selain itu, puzzle juga membantu anak-anak dalam mengenali bentuk dan warna, serta meningkatkan kemampuan pengamatan.
 
-Puzzle bisa kita jadikan aktivitas keluarga yang menyenangkan. Dalam konteks ini, Anda dapat menggabungkan aktivitas bersama anak seperti yang kita bahas dalam artikel [Aktivitas yang Perlu Dilakukan Bersama Anak-Anak](https://asysyams.id/aktifitas-yang-perlu-dilakukan-bersama-anak-anak/) untuk meningkatkan kedekatan emosional dalam keluarga.
+Puzzle bisa kita jadikan aktivitas keluarga yang menyenangkan. Dalam konteks ini, Anda dapat menggabungkan aktivitas bersama anak seperti yang kita bahas dalam artikel [Aktivitas yang Perlu Dilakukan Bersama Anak-Anak](../aktifitas-yang-perlu-dilakukan-bersama-anak-anak/) untuk meningkatkan kedekatan emosional dalam keluarga.
 
 ### 2. Lego atau Blok Bangunan
 
@@ -47,7 +47,7 @@ Namun, orang tua harus tetap bijak dalam memberikan waktu bermain dengan gadget 
 
 ### 4. Mainan Tradisional Edukatif
 
-![murid asysyams](https://asysyams.id/wp-content/uploads/2024/10/ClipDown.App_442503179_18133019302353668_4325978127657004479_n-300x200.jpg)
+![murid asysyams](../wp-content/uploads/2024/10/ClipDown.App_442503179_18133019302353668_4325978127657004479_n-300x200.jpg)
 
 Meskipun banyak mainan modern yang telah hadir, mainan tradisional Indonesia masih menjadi alat permainan edukasi yang populer dan tetap banyak peminatnya. Beberapa contoh mainan tradisional yang bersifat edukatif adalah congklak, gasing, dan kelereng. Mainan ini tidak hanya menyenangkan, tetapi juga mengajarkan nilai-nilai budaya lokal, strategi, dan kemampuan berhitung.
 
@@ -55,7 +55,7 @@ Misalnya, congklak adalah permainan yang melibatkan perhitungan dan strategi, di
 
 Melestarikan mainan tradisional juga sejalan dengan pelestarian budaya. Dengan memperkenalkan mainan tradisional kepada anak-anak, kita turut serta dalam menjaga warisan budaya Indonesia agar tidak hilang ditelan modernisasi.
 
-Sebagai bentuk apresiasi terhadap budaya, anak-anak juga dapat kita perkenalkan dengan seni tari tradisional yang merupakan bagian dari warisan budaya Indonesia. Anda bisa membaca lebih lanjut mengenai tarian anak-anak di artikel [Jenis Tarian untuk Anak di Indonesia: Warisan Budaya dan Kreasi Modern](https://asysyams.id/jenis-tarian-untuk-anak-di-indonesia-warisan-budaya-dan-kreasi-modern/).
+Sebagai bentuk apresiasi terhadap budaya, anak-anak juga dapat kita perkenalkan dengan seni tari tradisional yang merupakan bagian dari warisan budaya Indonesia. Anda bisa membaca lebih lanjut mengenai tarian anak-anak di artikel [Jenis Tarian untuk Anak di Indonesia: Warisan Budaya dan Kreasi Modern](../jenis-tarian-untuk-anak-di-indonesia-warisan-budaya-dan-kreasi-modern/).
 
 ### 5. Mainan Peraga Edukatif
 
@@ -69,7 +69,7 @@ Musik memiliki peran yang sangat penting dalam perkembangan anak. Bermain alat m
 
 Bermain musik membantu anak-anak mengembangkan keterampilan motorik, konsentrasi, dan keterampilan sosial ketika bermain dalam grup. Selain itu, musik juga bisa menjadi sarana untuk mengajarkan anak-anak tentang ritme, melodi, dan koordinasi tubuh.
 
-Musik anak-anak Indonesia juga sangat beragam dan menjadi bagian dari alat edukasi. Mengenalkan lagu-lagu anak Indonesia kepada anak dapat menjadi cara yang baik untuk mengembangkan keterampilan bahasa serta rasa cinta tanah air. Untuk referensi, Anda dapat membaca artikel tentang [Lagu Anak-Anak Paling Terkenal di Indonesia](https://asysyams.id/lagu-anak-anak-paling-terkenal-di-indonesia/).
+Musik anak-anak Indonesia juga sangat beragam dan menjadi bagian dari alat edukasi. Mengenalkan lagu-lagu anak Indonesia kepada anak dapat menjadi cara yang baik untuk mengembangkan keterampilan bahasa serta rasa cinta tanah air. Untuk referensi, Anda dapat membaca artikel tentang [Lagu Anak-Anak Paling Terkenal di Indonesia](../lagu-anak-anak-paling-terkenal-di-indonesia/).
 
 ### 7. Permainan Luar Ruangan yang Edukatif
 

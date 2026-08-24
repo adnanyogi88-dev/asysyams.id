@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260515081950/https://asysyams.id/oot
 
 # OOTD Anak Perempuan Hijab untuk Menyambut Liburan Sekolah
 
-[Home](https://asysyams.id/) » OOTD Anak Perempuan Hijab untuk Menyambut Liburan Sekolah
+[Home](../) » OOTD Anak Perempuan Hijab untuk Menyambut Liburan Sekolah
 
 ## Liburan sekolah adalah momen yang anak-anak dan orang tua nantikan.
 
@@ -73,15 +73,15 @@ Agar anak perempuan tetap nyaman dan modis selama liburan, berikut beberapa tips
 
 Sebagai orang tua, memberi nama yang bermakna baik adalah doa sepanjang masa. Jika Anda sedang mencari inspirasi nama anak perempuan yang islami, artikel berikut bisa menjadi panduan:
 
-- [Nama Anak Bayi Perempuan yang Islami: Panduan Inspiratif bagi Orang Tua](https://asysyams.id/nama-anak-bayi-perempuan-yang-islami-panduan-inspiratif-bagi-orang-tua/)
+- [Nama Anak Bayi Perempuan yang Islami: Panduan Inspiratif bagi Orang Tua](../nama-anak-bayi-perempuan-yang-islami-panduan-inspiratif-bagi-orang-tua/)
 
-- [Nama Anak Perempuan dalam Islam: Inspirasi untuk Orang Tua](https://asysyams.id/nama-anak-perempuan-dalam-islam-inspirasi-untuk-orang-tua/)
+- [Nama Anak Perempuan dalam Islam: Inspirasi untuk Orang Tua](../nama-anak-perempuan-dalam-islam-inspirasi-untuk-orang-tua/)
 
 ## Rekomendasi Hadiah untuk Ibu di Hari Ibu
 
 Liburan sekolah juga bisa menjadi momen bagi anak-anak untuk memberi kejutan kepada ibu sebagai bentuk kasih sayang. Beberapa ide hadiah bisa ditemukan di artikel berikut:
 
-- [Kumpulan Hadiah yang Bisa Diberikan kepada Ibu untuk Menyambut Hari Ibu](https://asysyams.id/kumpulan-hadiah-yang-bisa-diberikan-kepada-ibu-untuk-menyambut-hari-ibu/)
+- [Kumpulan Hadiah yang Bisa Diberikan kepada Ibu untuk Menyambut Hari Ibu](../kumpulan-hadiah-yang-bisa-diberikan-kepada-ibu-untuk-menyambut-hari-ibu/)
 
 Dengan pilihan OOTD yang sesuai, anak perempuan berhijab bisa tetap tampil modis, nyaman, dan sesuai syariat selama liburan sekolah. Selamat menikmati waktu liburan bersama keluarga tercinta!
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260514100618/https://asysyams.id/tk-
 
 # TK Full Day vs Half Day, Mana Lebih Baik? Panduan untuk Orang Tua di Bekasi
 
-[Home](https://asysyams.id/) » TK Full Day vs Half Day, Mana Lebih Baik? Panduan untuk Orang Tua di Bekasi
+[Home](../) » TK Full Day vs Half Day, Mana Lebih Baik? Panduan untuk Orang Tua di Bekasi
 
 ## Memilih pendidikan anak usia dini bukanlah keputusan yang sepele.
 
-![Pendidikan Diniyah Formal](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
+![Pendidikan Diniyah Formal](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
 
 Terutama bagi orang tua yang tinggal di daerah Bekasi dan sedang mempertimbangkan opsi terbaik antara TK full day dan TK half day. Lantas, TK full day vs half day mana lebih baik? Artikel ini akan membahas secara lengkap perbandingan antara keduanya dari berbagai aspek. Selain itu, artikel ini juga akan mengarahkan Anda kepada solusi terbaik melalui layanan unggulan dari TK AsySyams Bekasi.
 
@@ -103,13 +103,13 @@ TK AsySyams Bekasi menghadirkan keunggulan yang sulit ditandingi:
 
 - Lingkungan yang aman dan menyenangkan bagi anak.
 
-Ingin tahu lebih lanjut tentang fasilitas terbaik di TK AsySyams? Anda bisa membaca artikel [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Ingin tahu lebih lanjut tentang fasilitas terbaik di TK AsySyams? Anda bisa membaca artikel [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ### Pendaftaran Mudah dan Cepat
 
-Bagi Anda yang tertarik untuk mendaftarkan anak, prosesnya sangat mudah. Kunjungi halaman [Pendaftaran Anak di AsySyams](https://asysyams.id/pendaftaran-anak-di-asy-syams/) untuk informasi lengkap.
+Bagi Anda yang tertarik untuk mendaftarkan anak, prosesnya sangat mudah. Kunjungi halaman [Pendaftaran Anak di AsySyams](../pendaftaran-anak-di-asy-syams/) untuk informasi lengkap.
 
-Atau, langsung saja cek pengumuman resmi kami melalui halaman [Open Pendaftaran Siswa TK AsySyams Sudah Dibuka](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
+Atau, langsung saja cek pengumuman resmi kami melalui halaman [Open Pendaftaran Siswa TK AsySyams Sudah Dibuka](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
 
 ### Kesimpulan: Pilihan Ada di Tangan Anda
 

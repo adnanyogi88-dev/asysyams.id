@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611141434/https://asysyams.id/doa
 
 # Doa Sebelum Belajar: Manfaat, Keutamaan, dan Pentingnya Menanamkan Kebiasaan Ini Sejak Dini
 
-[Home](https://asysyams.id/) » Doa Sebelum Belajar: Manfaat, Keutamaan, dan Pentingnya Menanamkan Kebiasaan Ini Sejak Dini
+[Home](../) » Doa Sebelum Belajar: Manfaat, Keutamaan, dan Pentingnya Menanamkan Kebiasaan Ini Sejak Dini
 
 ## Membaca doa sebelum memulai belajar adalah praktik yang Islam anjurkan untuk memohon kemudahan, keberkahan,
 
-![Pentingnya Pendidikan bagi Generasi Muda](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_6b532fa1-1024x1024.jpg)
+![Pentingnya Pendidikan bagi Generasi Muda](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_6b532fa1-1024x1024.jpg)
 
 dan pemahaman yang baik dari Allah SWT. Kebiasaan ini tidak hanya membantu dalam proses penyerapan ilmu, tetapi juga menanamkan nilai-nilai spiritual dalam diri seseorang.?
 

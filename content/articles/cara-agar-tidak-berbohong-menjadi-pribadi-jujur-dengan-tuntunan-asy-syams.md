@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515082759/https://asysyams.id/car
 
 # Cara Agar Tidak Berbohong: Menjadi Pribadi Jujur dengan Tuntunan Asy-Syams
 
-[Home](https://asysyams.id/) » Cara Agar Tidak Berbohong: Menjadi Pribadi Jujur dengan Tuntunan Asy-Syams
+[Home](../) » Cara Agar Tidak Berbohong: Menjadi Pribadi Jujur dengan Tuntunan Asy-Syams
 
 ## Pendahuluan: Pentingnya Kejujuran dalam Kehidupan
 
-![Buku Perkembangan Fisik Motorik Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
+![Buku Perkembangan Fisik Motorik Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
 
 Kejujuran merupakan fondasi utama dalam membangun kepercayaan dan integritas dalam kehidupan pribadi maupun sosial. Dalam Islam, kejujuran adalah salah satu sifat mulia yang sangat dianjurkan. Allah SWT berfirman dalam Surah At-Taubah ayat 119:
 
@@ -93,13 +93,13 @@ Salah satu cara untuk menanamkan nilai kejujuran pada anak adalah melalui pendid
 
 Untuk informasi lebih lanjut tentang pendidikan usia dini yang menjanjikan, Anda dapat membaca artikel berikut:
 
-- [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+- [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
 Selain itu, bagi orang tua yang membutuhkan layanan penitipan anak yang terpercaya dan mendukung tumbuh kembang anak, pertimbangkan untuk membaca artikel berikut:
 
-- [Waralaba Daycare Berbasis Kemitraan: Peluang Bisnis dan Dukungan Tumbuh Kembang Anak](https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/)
+- [Waralaba Daycare Berbasis Kemitraan: Peluang Bisnis dan Dukungan Tumbuh Kembang Anak](../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/)
 
-- [Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/)
+- [Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/)
 
 ## Kesimpulan
 

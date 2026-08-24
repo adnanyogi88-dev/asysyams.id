@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611124033/https://asysyams.id/day
 
 # Daycare yang Membuat Anak Kreatif dan Langsung Praktik
 
-[Home](https://asysyams.id/) » Daycare yang Membuat Anak Kreatif dan Langsung Praktik
+[Home](../) » Daycare yang Membuat Anak Kreatif dan Langsung Praktik
 
 ## Masa kanak-kanak adalah periode krusial dalam perkembangan individu.
 
-![daycare anak kreatif](https://asysyams.id/wp-content/uploads/2024/10/Assalamualaikum-Wr.-WbHeres-some-activities-during-Ramadhan-season-300x300.jpg)
+![daycare anak kreatif](../wp-content/uploads/2024/10/Assalamualaikum-Wr.-WbHeres-some-activities-during-Ramadhan-season-300x300.jpg)
 
 Di usia dini, anak-anak berada dalam fase eksplorasi, di mana mereka mulai belajar tentang dunia di sekitar mereka. Banyak orang tua menyadari bahwa pendidikan pada usia dini memiliki peran penting dalam membentuk kemampuan kognitif, sosial, dan emosional anak.  Solusi yang semakin populer di kalangan orang tua modern adalah memilih daycare memberikan pendidikan yang kreatif dan langsung praktik. Artikel ini akan membahas bagaimana daycare yang fokus pada pengembangan kreativitas dan aktivitas langsung dapat mendukung perkembangan anak secara optimal, serta menghubungkannya dengan konsep pendidikan Islami di Asy-Syams.
 
@@ -41,7 +41,7 @@ Daycare Islami seperti yang [Asy-Syams](https://asysyams.id) tawarkan memiliki p
 
 Di Asy-Syams, anak-anak tidak hanya belajar tentang kreativitas dan ketrampilan langsung, tetapi juga diajarkan tentang akhlak yang baik. Hal ini sejalan dengan visi Asy-Syams untuk membentuk generasi yang cerdas dan berakhlak mulia.
 
-Selain itu, Asy-Syams juga memberikan kesempatan bagi orang tua yang tertarik untuk berinvestasi di bidang pendidikan melalui program [waralaba PAUD Islami](https://asysyams.id/waralaba-paud-islami-investasi-masa-depan-pendidikan-anak-dengan-asy-syams/). Program ini memungkinkan orang tua dan para pelaku bisnis untuk turut serta dalam membangun lembaga pendidikan Islami berkualitas yang mendukung perkembangan anak-anak sejak usia dini.
+Selain itu, Asy-Syams juga memberikan kesempatan bagi orang tua yang tertarik untuk berinvestasi di bidang pendidikan melalui program [waralaba PAUD Islami](../waralaba-paud-islami-investasi-masa-depan-pendidikan-anak-dengan-asy-syams/). Program ini memungkinkan orang tua dan para pelaku bisnis untuk turut serta dalam membangun lembaga pendidikan Islami berkualitas yang mendukung perkembangan anak-anak sejak usia dini.
 
 ### Daycare Asy-Syams: Tempat Kreativitas dan Pembelajaran Berkembang
 
@@ -53,9 +53,9 @@ Melalui pendekatan ini, anak-anak tidak hanya belajar, tetapi juga mengalami pro
 
 ### Program Kemitraan dan Pendaftaran di Daycare Asy-Syams
 
-Jika Anda tertarik untuk menjadi bagian dari komunitas Asy-Syams, terdapat dua pilihan yang dapat Anda ambil. Pertama, Anda dapat mendaftarkan anak Anda melalui halaman [pendaftaran anak](https://asysyams.id/pendaftaran-anak-di-asy-syams/) untuk memberikan mereka pengalaman belajar di lingkungan Islami.
+Jika Anda tertarik untuk menjadi bagian dari komunitas Asy-Syams, terdapat dua pilihan yang dapat Anda ambil. Pertama, Anda dapat mendaftarkan anak Anda melalui halaman [pendaftaran anak](../pendaftaran-anak-di-asy-syams/) untuk memberikan mereka pengalaman belajar di lingkungan Islami.
 
-Kedua, jika Anda memiliki visi yang sama dengan Asy-Syams dalam membentuk generasi yang cerdas dan berakhlak mulia, Anda dapat bergabung dalam program [kemitraan sekolah](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/). Program ini memberikan kesempatan kepada Anda untuk membuka cabang Asy-Syams di daerah Anda, sehingga lebih banyak anak-anak yang bisa merasakan manfaat.
+Kedua, jika Anda memiliki visi yang sama dengan Asy-Syams dalam membentuk generasi yang cerdas dan berakhlak mulia, Anda dapat bergabung dalam program [kemitraan sekolah](../gabung-kemitraan-sekolah-asy-syams/). Program ini memberikan kesempatan kepada Anda untuk membuka cabang Asy-Syams di daerah Anda, sehingga lebih banyak anak-anak yang bisa merasakan manfaat.
 
 ### Kesimpulan
 

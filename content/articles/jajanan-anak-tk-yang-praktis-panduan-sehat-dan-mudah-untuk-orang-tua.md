@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314225103/https://asysyams.id/jaj
 
 # Jajanan Anak TK yang Praktis: Panduan Sehat dan Mudah untuk Orang Tua
 
-[Home](https://asysyams.id/) » Jajanan Anak TK yang Praktis: Panduan Sehat dan Mudah untuk Orang Tua
+[Home](../) » Jajanan Anak TK yang Praktis: Panduan Sehat dan Mudah untuk Orang Tua
 
 ## Masa kanak-kanak adalah periode emas pertumbuhan, dan makanan yang mereka konsumsi memainkan peran besar dalam membentuk kesehatan mereka.
 
-![](https://asysyams.id/wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-02_05_17-PM.jpg)
+![](../wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-02_05_17-PM.jpg)
 
 Oleh karena itu, memilih jajanan anak TK yang praktis dan sehat menjadi tanggung jawab penting bagi setiap orang tua. Artikel ini akan membahas secara lengkap berbagai pilihan jajanan praktis, sehat, dan orang sukai anak-anak TK, serta memberikan panduan dalam menyajikannya. Artikel ini tertuju khusus untuk para orang tua yang peduli dengan kebutuhan gizi anak saat sekolah.
 
@@ -119,13 +119,13 @@ Agar anak-anak terbiasa dengan pola makan sehat, orang tua harus memberi contoh 
 
 Peran aktif orang tua sangat penting dalam memastikan anak-anak membawa bekal yang sehat dan bergizi. Meski sibuk, Anda tetap bisa menyusun jadwal mingguan untuk menyiapkan bekal. Misalnya, Anda bisa menyiapkan bahan-bahan di malam hari dan menyusun menu dari awal minggu.
 
-Untuk orang tua yang sedang mencari sekolah terbaik, Anda juga bisa mengunjungi artikel kami yang lain seperti [Pendaftaran TK Bulan Apa: Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/) dan [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Untuk orang tua yang sedang mencari sekolah terbaik, Anda juga bisa mengunjungi artikel kami yang lain seperti [Pendaftaran TK Bulan Apa: Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/) dan [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ### Pentingnya Memilih Sekolah yang Mendukung Gaya Hidup Sehat
 
 Sekolah juga memiliki andil besar dalam membentuk kebiasaan makan sehat anak. Sekolah yang menyediakan lingkungan bersih, jadwal makan teratur, serta program edukasi gizi akan membantu anak-anak lebih mudah mengadopsi pola makan yang benar.
 
-Oleh karena itu, saat memilih sekolah untuk anak Anda, pertimbangkan juga bagaimana sekolah tersebut memperhatikan asupan makanan dan kebersihan lingkungan. Untuk informasi lebih lengkap mengenai biaya pendidikan, Anda bisa membaca artikel kami tentang [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
+Oleh karena itu, saat memilih sekolah untuk anak Anda, pertimbangkan juga bagaimana sekolah tersebut memperhatikan asupan makanan dan kebersihan lingkungan. Untuk informasi lebih lengkap mengenai biaya pendidikan, Anda bisa membaca artikel kami tentang [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
 
 ### Kesimpulan
 

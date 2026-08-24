@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611131131/https://asysyams.id/mem
 
 # Memahami Pengambilan Keputusan Bersama di Sekolah
 
-[Home](https://asysyams.id/) » Memahami Pengambilan Keputusan Bersama di Sekolah
+[Home](../) » Memahami Pengambilan Keputusan Bersama di Sekolah
 
 ## Menjalankan pengambilan keputusan bersama di sekolah bukan hanya sekadar memfasilitasi acara atau kegiatan.
 
-![background wisuda anak tk](https://asysyams.id/wp-content/uploads/2024/11/Assalamualaikum-Wr-WbIts-been-a-wonderful-academic-year-all-of-us-had-so-much-fun-Learning-Playing-Exploring.-Hereby-are-the-pictures-of-our-Graduation-22-23-Hotel-Santika-Harapan-Indah-.asysyamsislamic-80x80.jpg)
+![background wisuda anak tk](../wp-content/uploads/2024/11/Assalamualaikum-Wr-WbIts-been-a-wonderful-academic-year-all-of-us-had-so-much-fun-Learning-Playing-Exploring.-Hereby-are-the-pictures-of-our-Graduation-22-23-Hotel-Santika-Harapan-Indah-.asysyamsislamic-80x80.jpg)
 
 Lebih dari itu, proses ini membangun partisipasi antara guru, orang tua, dan siswa. Artikel ini akan membahas mengapa keterlibatan orang tua sangat krusial, bagaimana metode-metode yang efektif, serta manfaat nyata bagi anak dan sekolah.
 
@@ -139,11 +139,11 @@ Dengan demikian, proses sekolah dan rumah menjadi satu kesatuan yang sinergis.
 
 Ketika orang tua paham proses pengambilan keputusan bersama, mereka bisa lebih kritis dan teliti saat memilih sekolah. Pastikan sekolah pilihan juga aktif mengikutkan orang tua dalam pengembangan program.
 
-- Misalnya tentang pendaftaran TK, orang tua bisa menggunakan panduan seperti [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/) agar mengetahui waktu yang pas untuk memulai konsultasi sekolah bersama orang tua lainnya.
+- Misalnya tentang pendaftaran TK, orang tua bisa menggunakan panduan seperti [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/) agar mengetahui waktu yang pas untuk memulai konsultasi sekolah bersama orang tua lainnya.
 
-- Kemudian, bagi orang tua yang tinggal di Bekasi, dan mencari TK Islam dengan fasilitas lengkap, baca juga [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Dalam artikel tersebut dijelaskan bagaimana orang tua bisa turut membangun visi sekolah saat pemilihan fasilitas.
+- Kemudian, bagi orang tua yang tinggal di Bekasi, dan mencari TK Islam dengan fasilitas lengkap, baca juga [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Dalam artikel tersebut dijelaskan bagaimana orang tua bisa turut membangun visi sekolah saat pemilihan fasilitas.
 
-- Selain itu, orang tua juga perlu memahami biaya masuk PAUD agar bisa berdiskusi bersama pihak sekolah dan keluarga besar. Simak informasi lengkapnya di [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
+- Selain itu, orang tua juga perlu memahami biaya masuk PAUD agar bisa berdiskusi bersama pihak sekolah dan keluarga besar. Simak informasi lengkapnya di [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
 
 ### 10. Kesimpulan: Langkah Awal Untuk Orang Tua
 

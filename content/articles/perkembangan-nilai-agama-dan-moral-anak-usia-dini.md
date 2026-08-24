@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421044614/https://asysyams.id/per
 
 # Perkembangan Nilai Agama dan Moral Anak Usia Dini
 
-[Home](https://asysyams.id/) » Perkembangan Nilai Agama dan Moral Anak Usia Dini
+[Home](../) » Perkembangan Nilai Agama dan Moral Anak Usia Dini
 
 ## Perkembangan nilai agama dan moral pada anak usia dini merupakan fondasi penting dalam pembentukan karakter dan kepribadian mereka di masa depan.
 
-![Nama Anak Laki-Laki](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_445360894_18133018432353668_4764748328340477896_n_1080-1024x683.jpg)
+![Nama Anak Laki-Laki](../wp-content/uploads/2024/11/Snapinsta.app_445360894_18133018432353668_4764748328340477896_n_1080-1024x683.jpg)
 
 Pada tahap ini, anak berada dalam periode kritis di mana mereka mulai mengenal dan memahami konsep dasar baik dan buruk. Serta nilai-nilai spiritual yang tertanamkan oleh keluarga dan lingkungan sekitar. Proses pembelajaran nilai agama dan moral ini menjadi esensial karena pada usia ini anak-anak sangat mudah terpengaruhi dan menerima berbagai bentuk ajaran serta teladan dari orang-orang di sekitarnya.
 

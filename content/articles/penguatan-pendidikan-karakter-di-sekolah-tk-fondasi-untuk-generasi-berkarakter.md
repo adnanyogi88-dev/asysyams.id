@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421042910/https://asysyams.id/pen
 
 # Penguatan Pendidikan Karakter di Sekolah TK: Fondasi untuk Generasi Berkarakter
 
-[Home](https://asysyams.id/) » Penguatan Pendidikan Karakter di Sekolah TK: Fondasi untuk Generasi Berkarakter
+[Home](../) » Penguatan Pendidikan Karakter di Sekolah TK: Fondasi untuk Generasi Berkarakter
 
 ## Pendidikan di tingkat Taman Kanak-Kanak (TK) memegang peranan penting dalam membentuk karakter anak sejak dini.
 
-![Keutamaan Membaca Surat Maryam](https://asysyams.id/wp-content/uploads/2024/12/Screenshot_51.jpg)
+![Keutamaan Membaca Surat Maryam](../wp-content/uploads/2024/12/Screenshot_51.jpg)
 
 Pada fase ini, anak-anak sedang berada pada tahap perkembangan emas di mana nilai-nilai moral, etika, dan keterampilan sosial dapat tertanam dengan baik. Penguatan pendidikan karakter di sekolah TK bukan hanya sekadar tren, melainkan kebutuhan mendasar untuk menciptakan generasi yang berintegritas dan berbudi pekerti luhur.
 
@@ -29,7 +29,7 @@ Dalam praktiknya, pendidikan karakter di TK menitikberatkan pada lima nilai utam
 
 Anak-anak usia dini berada pada masa pembentukan kepribadian. Masa ini sering disebut sebagai masa keemasan (golden age), di mana otak anak berkembang dengan sangat pesat. Menanamkan nilai-nilai positif sejak usia dini akan membantu mereka menghadapi tantangan di masa depan.
 
-Menurut artikel [5 Implementasi Pendidikan Karakter pada Anak Usia Dini](https://asysyams.id/5-implementasi-pendidikan-karakter-pada-anak-usia-dini/), ada lima pendekatan utama dalam pendidikan karakter anak usia dini: melalui pembiasaan, keteladanan, dialog, penguatan, dan bermain. Kelima pendekatan ini membantu anak memahami dan menginternalisasi nilai-nilai yang diajarkan dengan cara yang menyenangkan dan sesuai dengan tahap perkembangan mereka.
+Menurut artikel [5 Implementasi Pendidikan Karakter pada Anak Usia Dini](../5-implementasi-pendidikan-karakter-pada-anak-usia-dini/), ada lima pendekatan utama dalam pendidikan karakter anak usia dini: melalui pembiasaan, keteladanan, dialog, penguatan, dan bermain. Kelima pendekatan ini membantu anak memahami dan menginternalisasi nilai-nilai yang diajarkan dengan cara yang menyenangkan dan sesuai dengan tahap perkembangan mereka.
 
 ### Contoh Implementasi Penguatan Pendidikan Karakter di TK
 
@@ -45,7 +45,7 @@ Pembiasaan adalah salah satu cara efektif untuk menanamkan nilai karakter. Misal
 
 #### 2. Kegiatan Berbasis Seni dan Budaya
 
-Seni dan budaya adalah media yang efektif untuk pendidikan karakter. Misalnya, melalui lagu daerah, cerita rakyat, dan seni tari tradisional, anak-anak dapat diajarkan nilai-nilai seperti gotong royong, cinta tanah air, dan hormat kepada orang tua. Pencak silat, sebagaimana terjelaskan dalam artikel [Keunggulan Pencak Silat dalam Pendidikan Karakter Anak Bangsa](https://asysyams.id/keunggulan-pencak-silat-dalam-pendidikan-karakter-anak-bangsa/), juga menjadi salah satu contoh kegiatan budaya yang mampu menanamkan nilai disiplin, tanggung jawab, dan keberanian pada anak.
+Seni dan budaya adalah media yang efektif untuk pendidikan karakter. Misalnya, melalui lagu daerah, cerita rakyat, dan seni tari tradisional, anak-anak dapat diajarkan nilai-nilai seperti gotong royong, cinta tanah air, dan hormat kepada orang tua. Pencak silat, sebagaimana terjelaskan dalam artikel [Keunggulan Pencak Silat dalam Pendidikan Karakter Anak Bangsa](../keunggulan-pencak-silat-dalam-pendidikan-karakter-anak-bangsa/), juga menjadi salah satu contoh kegiatan budaya yang mampu menanamkan nilai disiplin, tanggung jawab, dan keberanian pada anak.
 
 #### 3. Bermain yang Edukatif
 
@@ -65,7 +65,7 @@ Sekolah TK dapat mengintegrasikan nilai-nilai religius dalam kegiatan sehari-har
 
 ### Menghubungkan Pendidikan Karakter dengan Peluang Franchise TK
 
-Dalam artikel [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/), disebutkan bahwa franchise TK yang memiliki kurikulum berbasis pendidikan karakter memiliki daya tarik tinggi di kalangan orang tua. Hal ini menunjukkan bahwa banyak orang tua semakin menyadari pentingnya menanamkan nilai-nilai karakter pada anak sejak dini.
+Dalam artikel [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/), disebutkan bahwa franchise TK yang memiliki kurikulum berbasis pendidikan karakter memiliki daya tarik tinggi di kalangan orang tua. Hal ini menunjukkan bahwa banyak orang tua semakin menyadari pentingnya menanamkan nilai-nilai karakter pada anak sejak dini.
 
 Franchise TK yang sukses biasanya menawarkan program pendidikan yang terintegrasi, mencakup:
 

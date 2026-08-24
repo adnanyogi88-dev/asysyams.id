@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314231642/https://asysyams.id/20-
 
 # 20 Variasi Aktivitas Latihan Menulis Huruf Anak TK yang Seru dan Edukatif
 
-[Home](https://asysyams.id/) » 20 Variasi Aktivitas Latihan Menulis Huruf Anak TK yang Seru dan Edukatif
+[Home](../) » 20 Variasi Aktivitas Latihan Menulis Huruf Anak TK yang Seru dan Edukatif
 
 ## Mengajarkan anak TK menulis huruf membutuhkan pendekatan menyenangkan dan kreatif.
 
-![Stimulasi 6 Aspek Perkembangan Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_e68df463-80x80.jpg)
+![Stimulasi 6 Aspek Perkembangan Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_e68df463-80x80.jpg)
 
 Oleh karena itu, orang tua dan guru perlu memahami bahwa proses belajar menulis adalah fondasi penting dalam pendidikan anak usia dini. Karena itulah, aktivitas latihan menulis huruf tidak boleh membosankan. Untuk membantu proses belajar tersebut, artikel ini menyajikan 20 variasi aktivitas latihan menulis huruf anak TK yang dirancang khusus untuk meningkatkan minat belajar anak, sekaligus mengasah kemampuan motorik halus mereka.
 
@@ -107,9 +107,9 @@ Selain memberikan manfaat motorik, kegiatan ini juga dapat menumbuhkan kecintaan
 
 ## Hubungkan dengan Program Pendidikan Asy-Syams
 
-Jika Anda mencari institusi yang mendukung perkembangan anak melalui metode kreatif dan islami, [PAUD Asy-Syams](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) adalah pilihan tepat. Dengan pendekatan yang menyenangkan dan berorientasi pada pembentukan karakter, Asy-Syams menawarkan lingkungan belajar yang mendukung.
+Jika Anda mencari institusi yang mendukung perkembangan anak melalui metode kreatif dan islami, [PAUD Asy-Syams](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) adalah pilihan tepat. Dengan pendekatan yang menyenangkan dan berorientasi pada pembentukan karakter, Asy-Syams menawarkan lingkungan belajar yang mendukung.
 
-Segera daftarkan putra-putri Anda melalui halaman [pendaftaran anak di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/). Jangan lewatkan juga informasi tentang [open pendaftaran siswa TK AsySyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) yang telah dibuka!
+Segera daftarkan putra-putri Anda melalui halaman [pendaftaran anak di Asy-Syams](../pendaftaran-anak-di-asy-syams/). Jangan lewatkan juga informasi tentang [open pendaftaran siswa TK AsySyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) yang telah dibuka!
 
 ## Kesimpulan
 

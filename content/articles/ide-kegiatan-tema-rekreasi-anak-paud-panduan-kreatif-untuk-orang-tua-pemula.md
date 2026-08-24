@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008073945/https://asysyams.id/ide
 
 # Ide Kegiatan Tema Rekreasi Anak PAUD: Panduan Kreatif untuk Orang Tua Pemula
 
-[Home](https://asysyams.id/) » Ide Kegiatan Tema Rekreasi Anak PAUD: Panduan Kreatif untuk Orang Tua Pemula
+[Home](../) » Ide Kegiatan Tema Rekreasi Anak PAUD: Panduan Kreatif untuk Orang Tua Pemula
 
 ## Pendahuluan
 
-![Tahapan Perkembangan Anak Menurut Umur](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468438449_18151706935353668_5256883980139824800_n_1080-1024x768.jpg)
+![Tahapan Perkembangan Anak Menurut Umur](../wp-content/uploads/2025/01/Snapinst.app_468438449_18151706935353668_5256883980139824800_n_1080-1024x768.jpg)
 
 Masa anak usia dini merupakan periode emas perkembangan. Pada fase ini, anak-anak memiliki rasa ingin tahu yang tinggi, daya imajinasi yang kuat, dan energi yang seolah tidak ada habisnya. Oleh karena itu, orang tua perlu menghadirkan kegiatan yang bukan hanya menyenangkan, tetapi juga bermanfaat bagi tumbuh kembang mereka.
 

@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260515080417/https://asysyams.id/doa
 
 # Doa Sebelum Mulai Belajar: Menguatkan Iman dan Fokus Anak Anda
 
-[Home](https://asysyams.id/) » Doa Sebelum Mulai Belajar: Menguatkan Iman dan Fokus Anak Anda
+[Home](../) » Doa Sebelum Mulai Belajar: Menguatkan Iman dan Fokus Anak Anda
 
 ## Setiap orang tua tentu ingin anaknya sukses dalam belajar.
 
@@ -78,7 +78,7 @@ Biasakan anak mulai sejak TK atau PAUD kapan mereka mulai mengenal sekolah dan b
 Bagi yang hendak mendaftar PAUD atau TK, Anda bisa membaca panduannya di sini:
 
 - Pendaftaran TK bulan apa? (Panduan lengkap orang tua) ?
-[https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+[../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
 #### 3.2 Buat Rutinitas yang Konsisten
 
@@ -108,7 +108,7 @@ Setiap kali anak ingat berdoa, pujilah. Ucap pujian, seperti: “Wah, hebat seka
 
 #### 4.1 Cerita dari Ibu Aisyah
 
-Ibu Aisyah di Bekasi mengajarkan doa sebelum belajar sejak anak masuk TK Islam. Sekarang, si kecil tidak mudah emosi, dan nilai semakin baik. Mereka memilih sekolah Islam berkualitas dengan fasilitas lengkap, bisa dicek di sini ? [https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+Ibu Aisyah di Bekasi mengajarkan doa sebelum belajar sejak anak masuk TK Islam. Sekarang, si kecil tidak mudah emosi, dan nilai semakin baik. Mereka memilih sekolah Islam berkualitas dengan fasilitas lengkap, bisa dicek di sini ? [../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 #### 4.2 Cerita dari Bapak Rizal
 
@@ -124,11 +124,11 @@ PertanyaanJawabanApakah anak kecil bisa paham doa dalam Arab?Sekali pun belum pa
 
 Sambil mengajarkan doa, persiapkan anak menghadapi sekolah. Mulai dari pendaftaran TK atau PAUD, orang tua perlu memilih waktu pendaftaran dan menghitung biaya. Artikel berikut sangat berguna:
 
-- Biaya masuk PAUD: panduan lengkap ? [https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- Biaya masuk PAUD: panduan lengkap ? [../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 #### 6.2 Memilih Sekolah yang Mendukung
 
-Pilihan sekolah sangat berpengaruh. Misalnya TK Islam yang punya fasilitas komprehensif dan lingkungan Islami sangat mendukung kedisiplinan anak. Contoh pilihan sekolah terbaik bisa dilihat di link ini ? [https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+Pilihan sekolah sangat berpengaruh. Misalnya TK Islam yang punya fasilitas komprehensif dan lingkungan Islami sangat mendukung kedisiplinan anak. Contoh pilihan sekolah terbaik bisa dilihat di link ini ? [../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ### 7. Tips Tambahan untuk Orang Tua
 

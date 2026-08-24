@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314174848/https://asysyams.id/bag
 
 # Bagaimanakah Permainan Engklek Dilakukan?
 
-[Home](https://asysyams.id/) » Bagaimanakah Permainan Engklek Dilakukan?
+[Home](../) » Bagaimanakah Permainan Engklek Dilakukan?
 
 ## Permainan tradisional memiliki peran penting dalam perkembangan anak, baik secara fisik, sosial, maupun emosional.
 
-![Pendidikan Anak dalam Islam](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_75567e4d-1024x461.jpg)
+![Pendidikan Anak dalam Islam](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_75567e4d-1024x461.jpg)
 
 Salah satu permainan yang sangat populer di Indonesia, khususnya di kalangan anak-anak pada masa lalu, adalah permainan engklek. Meski terkesan sederhana, permainan ini menyimpan nilai-nilai edukatif, kebersamaan, serta mampu melatih koordinasi dan ketangkasan.
 
@@ -97,7 +97,7 @@ Meskipun terlihat sederhana, permainan ini menyimpan banyak nilai positif, antar
 
 Tak bisa kita pungkiri, permainan tradisional seperti engklek sangat selaras dengan prinsip pendidikan karakter yang saat ini digalakkan oleh pemerintah. Permainan ini mengajarkan nilai-nilai kejujuran, ketekunan, dan kerja keras secara tidak langsung kepada anak.
 
-Sejalan dengan konsep ini, sekolah-sekolah berbasis nilai dan agama, seperti [TK Islam modern yang menjadi bagian dari sistem franchise pendidikan Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/), bisa mengintegrasikan permainan tradisional ini ke dalam kurikulum atau kegiatan luar kelas.
+Sejalan dengan konsep ini, sekolah-sekolah berbasis nilai dan agama, seperti [TK Islam modern yang menjadi bagian dari sistem franchise pendidikan Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/), bisa mengintegrasikan permainan tradisional ini ke dalam kurikulum atau kegiatan luar kelas.
 
 ### Menghidupkan Kembali Permainan Tradisional
 
@@ -109,7 +109,7 @@ Permainan tradisional sering kali terpinggirkan oleh gadget dan video game. Namu
 
 - Festival budaya: Ajang lomba permainan tradisional bisa menarik minat anak-anak untuk bermain.
 
-Situs seperti [Asysyams.id](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) sering menyajikan inspirasi edukatif dan cerita islami anak yang bisa menjadi referensi tambahan dalam memperkaya konten pendidikan yang mendalam namun tetap menyenangkan.
+Situs seperti [Asysyams.id](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) sering menyajikan inspirasi edukatif dan cerita islami anak yang bisa menjadi referensi tambahan dalam memperkaya konten pendidikan yang mendalam namun tetap menyenangkan.
 
 ### Permainan Engklek di Era Modern
 
@@ -121,7 +121,7 @@ Kita tidak harus menghilangkan teknologi demi menghidupkan tradisi. Justru, komb
 
 - Media sosial sebagai media promosi: Tantangan bermain engklek bisa viral dan menjadi tren baru.
 
-Ini menjadi peluang bagi para pelaku [bisnis pendidikan di tahun 2025](https://asysyams.id/bisnis-pendidikan-peluang-dan-tren-tahun-2025/) untuk mengembangkan layanan kreatif dan inovatif yang mengangkat warisan budaya lokal sebagai metode belajar yang menyenangkan.
+Ini menjadi peluang bagi para pelaku [bisnis pendidikan di tahun 2025](../bisnis-pendidikan-peluang-dan-tren-tahun-2025/) untuk mengembangkan layanan kreatif dan inovatif yang mengangkat warisan budaya lokal sebagai metode belajar yang menyenangkan.
 
 ### Kesimpulan
 
@@ -131,11 +131,11 @@ Kini saatnya kita kembali memperkenalkan engklek sebagai bagian dari pembelajara
 
 Jika Anda tertarik dengan pengembangan pendidikan anak berbasis budaya lokal, Anda bisa membaca lebih lanjut di artikel kami lainnya seperti:
 
-- [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
+- [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
 
-- [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
+- [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
 
-- [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](https://asysyams.id/bisnis-pendidikan-peluang-dan-tren-tahun-2025/)
+- [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](../bisnis-pendidikan-peluang-dan-tren-tahun-2025/)
 
 [
 WhatsApp Kami

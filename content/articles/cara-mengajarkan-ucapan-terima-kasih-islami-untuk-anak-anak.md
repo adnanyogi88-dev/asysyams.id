@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515071837/https://asysyams.id/car
 
 # Cara Mengajarkan Ucapan Terima Kasih Islami untuk Anak-Anak
 
-[Home](https://asysyams.id/) » Cara Mengajarkan Ucapan Terima Kasih Islami untuk Anak-Anak
+[Home](../) » Cara Mengajarkan Ucapan Terima Kasih Islami untuk Anak-Anak
 
 ## Mengajarkan anak-anak untuk mengucapkan terima kasih bukan hanya sekadar etika, tetapi juga bagian penting dari pendidikan karakter Islami.
 
-![](https://asysyams.id/wp-content/uploads/2024/12/Screenshot_51.jpg)
+![](../wp-content/uploads/2024/12/Screenshot_51.jpg)
 
 Dalam Islam, ucapan syukur atau terima kasih adalah bentuk adab yang kita ajarkan sejak dini agar anak-anak tumbuh menjadi pribadi yang penuh kesadaran akan nikmat Allah dan menghargai sesama. Dalam artikel ini, kita akan membahas pentingnya mengajarkan ucapan terima kasih Islami kepada anak-anak, cara-cara kreatif untuk mengajarkannya, dan bagaimana hal ini berkaitan dengan pendidikan usia dini, lagu anak Islami, dan parenting Islami.
 
@@ -63,7 +63,7 @@ Dengan mengucapkan terima kasih, anak-anak terlatih untuk menjadi individu yang 
 
 #### 1. Melalui Pendidikan Usia Dini
 
-Masa usia dini adalah periode emas untuk menanamkan nilai-nilai Islami. Dalam artikel [franchise pendidikan usia dini yang menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/), kita sebutkan bahwa pendidikan Islami sejak dini sangat penting untuk membentuk karakter anak. Mengintegrasikan pembelajaran tentang ucapan terima kasih dalam kurikulum pendidikan usia dini dapat dilakukan melalui:
+Masa usia dini adalah periode emas untuk menanamkan nilai-nilai Islami. Dalam artikel [franchise pendidikan usia dini yang menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/), kita sebutkan bahwa pendidikan Islami sejak dini sangat penting untuk membentuk karakter anak. Mengintegrasikan pembelajaran tentang ucapan terima kasih dalam kurikulum pendidikan usia dini dapat dilakukan melalui:
 
 - Simulasi dan Permainan
 Guru atau orang tua dapat membuat permainan yang melibatkan ucapan terima kasih. Misalnya, setiap kali anak menerima sesuatu, mereka kita ajarkan untuk mengucapkan “Jazakallah Khair” sebagai bentuk penghargaan.
@@ -73,7 +73,7 @@ Cerita-cerita tentang Rasulullah SAW dan para sahabat yang menunjukkan rasa syuk
 
 #### 2. Melalui Lagu-Lagu Islami
 
-Lagu adalah media efektif untuk mengajarkan nilai-nilai kepada anak-anak. Dalam artikel [20 lagu anak Islami](https://asysyams.id/20-lagu-anak-islami-sarana-edukasi-dan-hiburan-untuk-anak/), lagu-lagu Islami tersebut sebagai sarana edukasi yang menyenangkan. Beberapa lagu dapat terciptakan untuk mengajarkan anak-anak ucapan syukur, seperti:
+Lagu adalah media efektif untuk mengajarkan nilai-nilai kepada anak-anak. Dalam artikel [20 lagu anak Islami](../20-lagu-anak-islami-sarana-edukasi-dan-hiburan-untuk-anak/), lagu-lagu Islami tersebut sebagai sarana edukasi yang menyenangkan. Beberapa lagu dapat terciptakan untuk mengajarkan anak-anak ucapan syukur, seperti:
 
 - Lagu tentang Syukur
 Lagu sederhana yang liriknya mengandung ucapan “Alhamdulillah” dan “Jazakallah Khair”. Anak-anak lebih mudah mengingat nilai-nilai Islami melalui melodi yang mereka sukai.
@@ -83,7 +83,7 @@ Lagu yang mengajak anak-anak untuk menyebutkan hal-hal yang mereka syukuri. Misa
 
 #### 3. Parenting Islami yang Tepat
 
-Dalam artikel [apa itu parenting Islami](https://asysyams.id/apa-itu-parenting-islami-bagaimana-mempelajarinya/), dapat kita jelaskan bahwa parenting Islami bertujuan untuk membimbing anak-anak sesuai dengan ajaran Islam. Orang tua memiliki peran sentral dalam mengajarkan ucapan terima kasih melalui:
+Dalam artikel [apa itu parenting Islami](../apa-itu-parenting-islami-bagaimana-mempelajarinya/), dapat kita jelaskan bahwa parenting Islami bertujuan untuk membimbing anak-anak sesuai dengan ajaran Islam. Orang tua memiliki peran sentral dalam mengajarkan ucapan terima kasih melalui:
 
 - Teladan Orang Tua
 Anak-anak adalah peniru ulung. Ketika orang tua terbiasa mengucapkan terima kasih, baik kepada Allah maupun kepada sesama, anak-anak akan menirunya.
@@ -109,7 +109,7 @@ Berikan anak-anak majalah bekas atau gambar untuk membuat kolase tentang hal-hal
 
 ### Hubungan Ucapan Terima Kasih dengan Pendidikan Usia Dini Islami
 
-Pendidikan usia dini Islami memberikan fondasi untuk mengembangkan nilai-nilai seperti rasa syukur dan penghargaan terhadap sesama. Dalam sistem pendidikan Islami yang disebutkan dalam artikel [franchise pendidikan usia dini yang menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/), nilai-nilai Islami diajarkan secara terintegrasi. Sekolah dapat mengadakan:
+Pendidikan usia dini Islami memberikan fondasi untuk mengembangkan nilai-nilai seperti rasa syukur dan penghargaan terhadap sesama. Dalam sistem pendidikan Islami yang disebutkan dalam artikel [franchise pendidikan usia dini yang menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/), nilai-nilai Islami diajarkan secara terintegrasi. Sekolah dapat mengadakan:
 
 - Hari Syukur Islami
 Sebuah kegiatan di mana anak-anak diajak untuk mengucapkan syukur atas nikmat yang mereka terima.
@@ -119,7 +119,7 @@ Anak-anak diajarkan doa-doa harian, termasuk doa setelah makan atau menerima had
 
 ### Lagu Islami sebagai Sarana Menguatkan Adab
 
-Hal ini seperti yang dibahas dalam artikel [20 lagu anak Islami](https://asysyams.id/20-lagu-anak-islami-sarana-edukasi-dan-hiburan-untuk-anak/) adalah alat ampuh untuk membangun karakter Islami. Lagu yang berisi ucapan terima kasih membantu anak-anak:
+Hal ini seperti yang dibahas dalam artikel [20 lagu anak Islami](../20-lagu-anak-islami-sarana-edukasi-dan-hiburan-untuk-anak/) adalah alat ampuh untuk membangun karakter Islami. Lagu yang berisi ucapan terima kasih membantu anak-anak:
 
 - Menghafal kata-kata Islami dengan mudah.
 
@@ -129,7 +129,7 @@ Hal ini seperti yang dibahas dalam artikel [20 lagu anak Islami](https://asysyam
 
 ### Parenting Islami: Kunci Pendidikan Karakter Anak
 
-Parenting Islami seperti yang dijelaskan dalam artikel [apa itu parenting Islami](https://asysyams.id/apa-itu-parenting-islami-bagaimana-mempelajarinya/) menekankan peran orang tua dalam membentuk akhlak anak. Orang tua dapat mengintegrasikan ucapan terima kasih dalam rutinitas keluarga, seperti:
+Parenting Islami seperti yang dijelaskan dalam artikel [apa itu parenting Islami](../apa-itu-parenting-islami-bagaimana-mempelajarinya/) menekankan peran orang tua dalam membentuk akhlak anak. Orang tua dapat mengintegrasikan ucapan terima kasih dalam rutinitas keluarga, seperti:
 
 - Mengucapkan Terima Kasih dalam Shalat
 Ajarkan anak bahwa shalat adalah bentuk syukur kepada Allah.

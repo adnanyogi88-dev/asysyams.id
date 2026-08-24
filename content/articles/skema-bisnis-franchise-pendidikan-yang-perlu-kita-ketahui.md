@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419151923/https://asysyams.id/ske
 
 # Skema Bisnis Franchise Pendidikan yang Perlu Kita Ketahui
 
-[Home](https://asysyams.id/) » Skema Bisnis Franchise Pendidikan yang Perlu Kita Ketahui
+[Home](../) » Skema Bisnis Franchise Pendidikan yang Perlu Kita Ketahui
 
 ## Franchise pendidikan semakin berkembang dan menjadi peluang bisnis yang menjanjikan di Indonesia.
 
-![Skema Bisnis Franchise](https://asysyams.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-01-18-at-09.59.31-1024x1024.webp)
+![Skema Bisnis Franchise](../wp-content/uploads/2024/10/WhatsApp-Image-2025-01-18-at-09.59.31-1024x1024.webp)
 
 Dengan meningkatnya kesadaran masyarakat akan pentingnya pendidikan berkualitas, banyak investor tertarik untuk terjun ke sektor ini. Artikel ini akan membahas secara komprehensif tentang skema bisnis franchise pendidikan serta menghubungkannya dengan beberapa contoh nyata seperti Asy-Syams Islamic School.
 

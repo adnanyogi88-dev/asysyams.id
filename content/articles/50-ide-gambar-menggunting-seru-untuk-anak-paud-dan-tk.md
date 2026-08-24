@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217002752/https://asysyams.id/50-
 
 # 50+ Ide Gambar Menggunting Seru untuk Anak PAUD dan TK
 
-[Home](https://asysyams.id/) » 50+ Ide Gambar Menggunting Seru untuk Anak PAUD dan TK
+[Home](../) » 50+ Ide Gambar Menggunting Seru untuk Anak PAUD dan TK
 
 ## Sejak dini, anak-anak mulai mengenal kreasi visual melalui gambar menggunting.
 
-![Contoh Jasa di Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_d3de101f-768x1024.jpg)
+![Contoh Jasa di Bidang Pendidikan](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_d3de101f-768x1024.jpg)
 
 Oleh karena itu, mereka dapat mengembangkan motorik halus, imajinasi, serta konsentrasi. Selain itu, gambar menggunting menjadi media belajar yang menyenangkan dan efektif. Karena alasan tersebut, artikel ini menyajikan ide-ide gambar menggunting menarik serta praktis untuk anak PAUD dan TK. Selanjutnya, Anda akan menemukan informasi pendaftaran ke program Asy?Syams sehingga anak Anda berkembang secara optimal.
 
@@ -37,11 +37,11 @@ Setiap selesai menggunting dan menempel, anak merasa bangga terhadap hasil karya
 
 Asy?Syams menyediakan lingkungan belajar kreatif yang sangat mendukung kegiatan seperti menggambar, menggunting, dan menempel. Karena kegiatan ini masuk dalam kurikulum, maka perkembangan anak terjadi secara menyeluruh. Jika Anda ingin anak Anda berpartisipasi dalam pembelajaran seperti ini, maka segera daftarkan melalui:
 
-- [Pendaftaran PAUD Asy?Syams Tahun Ajaran 2024–2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- [Pendaftaran PAUD Asy?Syams Tahun Ajaran 2024–2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- [Pendaftaran Anak di Asy?Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di Asy?Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Pendaftaran Siswa TK Asy?Syams Sudah Dibuka!](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Pendaftaran Siswa TK Asy?Syams Sudah Dibuka!](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 ### 50+ Ide Gambar Menggunting Kreatif untuk Anak
 
@@ -118,11 +118,11 @@ Kerja sama antara sekolah dan orang tua sangat penting. Oleh sebab itu, beberapa
 
 Ingin anak Anda belajar dalam lingkungan kreatif seperti ini? Maka, segera daftarkan mereka ke Asy?Syams:
 
-- [PAUD Asy?Syams Tahun Ajaran 2024–2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- [PAUD Asy?Syams Tahun Ajaran 2024–2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- [Pendaftaran Anak di Asy?Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di Asy?Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Open Pendaftaran Siswa TK Asy?Syams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK Asy?Syams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 ### Kesimpulan
 

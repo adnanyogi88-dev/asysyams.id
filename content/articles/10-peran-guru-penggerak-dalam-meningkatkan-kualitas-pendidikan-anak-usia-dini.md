@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314172958/https://asysyams.id/10-
 
 # 10 Peran Guru Penggerak dalam Meningkatkan Kualitas Pendidikan Anak Usia Dini
 
-[Home](https://asysyams.id/) » 10 Peran Guru Penggerak dalam Meningkatkan Kualitas Pendidikan Anak Usia Dini
+[Home](../) » 10 Peran Guru Penggerak dalam Meningkatkan Kualitas Pendidikan Anak Usia Dini
 
 ## Dalam era transformasi pendidikan saat ini, keberadaan Guru Penggerak menjadi komponen penting dalam mendorong perubahan positif di lingkungan sekolah.
 
-![Waralaba Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
+![Waralaba Bidang Pendidikan](../wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
 
 Tidak hanya di jenjang pendidikan dasar dan menengah, namun juga pada pendidikan anak usia dini (PAUD) seperti yang di TK Asysyams lakukan, keberadaan Guru Penggerak mampu memberikan dampak signifikan terhadap kualitas pembelajaran anak.
 
@@ -79,11 +79,11 @@ Lebih dari itu, hubungan guru dan murid dibangun dengan kasih sayang, bukan otor
 
 Salah satu peran yang kian penting adalah keterlibatan Guru Penggerak dalam membangun inovasi-inovasi pendidikan yang berkelanjutan dan berdampak. TK Asysyams adalah contoh lembaga yang tidak hanya fokus pada akademik, tetapi juga mengembangkan potensi sekolah sebagai bagian dari wirausaha pendidikan yang memberi dampak sosial.
 
-Seperti yang terjelaskan dalam artikel [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/), sekolah seperti TK Asysyams dapat menjadi inspirasi model bisnis pendidikan yang sehat dan berdampak.
+Seperti yang terjelaskan dalam artikel [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/), sekolah seperti TK Asysyams dapat menjadi inspirasi model bisnis pendidikan yang sehat dan berdampak.
 
 ## Hubungan Guru Penggerak dengan Transformasi Pendidikan Nasional
 
-Peran Guru Penggerak juga erat kaitannya dengan tren dan peluang di dunia pendidikan. Dalam artikel [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](https://asysyams.id/bisnis-pendidikan-peluang-dan-tren-tahun-2025/), disebutkan bahwa inovasi pendidikan tidak bisa dilepaskan dari peran para guru yang adaptif, kreatif, dan mampu menciptakan solusi pembelajaran sesuai dengan tantangan zaman.
+Peran Guru Penggerak juga erat kaitannya dengan tren dan peluang di dunia pendidikan. Dalam artikel [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](../bisnis-pendidikan-peluang-dan-tren-tahun-2025/), disebutkan bahwa inovasi pendidikan tidak bisa dilepaskan dari peran para guru yang adaptif, kreatif, dan mampu menciptakan solusi pembelajaran sesuai dengan tantangan zaman.
 
 TK Asysyams, melalui para Guru Penggeraknya, terus berupaya menjadi bagian dari perubahan tersebut.
 
@@ -91,7 +91,7 @@ TK Asysyams, melalui para Guru Penggeraknya, terus berupaya menjadi bagian dari 
 
 Guru Penggerak memiliki pendekatan berbeda dibandingkan dengan metode belajar konvensional. Jika dulu guru hanya berperan sebagai penyampai ilmu, kini mereka adalah fasilitator dan pendamping proses belajar anak.
 
-Dalam konteks ini, sangat relevan untuk memahami penjelasan dalam artikel [Perbedaan Belajar, Mengajar dan Pembelajaran: Konsep dan Implikasinya dalam Dunia Pendidikan](https://asysyams.id/perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/) agar kita memahami bagaimana transformasi cara pandang terhadap pendidikan itu sendiri terjadi.
+Dalam konteks ini, sangat relevan untuk memahami penjelasan dalam artikel [Perbedaan Belajar, Mengajar dan Pembelajaran: Konsep dan Implikasinya dalam Dunia Pendidikan](../perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/) agar kita memahami bagaimana transformasi cara pandang terhadap pendidikan itu sendiri terjadi.
 
 ## Kesimpulan
 

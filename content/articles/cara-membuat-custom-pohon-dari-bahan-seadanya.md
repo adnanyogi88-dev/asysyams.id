@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216234800/https://asysyams.id/car
 
 # Cara Membuat Custom Pohon dari Bahan Seadanya
 
-[Home](https://asysyams.id/) » Cara Membuat Custom Pohon dari Bahan Seadanya
+[Home](../) » Cara Membuat Custom Pohon dari Bahan Seadanya
 
 ## Dalam dunia pendidikan anak dan aktivitas kreatif keluarga, membuat kerajinan tangan bukan hanya sekadar kegiatan pengisi waktu.
 
-![](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_bc5f3fc0-768x1024.jpg)
+![](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_bc5f3fc0-768x1024.jpg)
 
 Sebaliknya, ini adalah wadah belajar, wadah menumbuhkan daya cipta, serta mempererat hubungan emosional antara orang tua dan anak. Salah satu kegiatan yang unik dan sangat edukatif adalah membuat custom pohon dari bahan seadanya. Selain murah meriah, kegiatan ini sangat fleksibel untuk anda sesuaikan dengan usia dan kemampuan anak.
 
@@ -23,11 +23,11 @@ Artikel ini akan membahas secara lengkap bagaimana membuat pohon kreatif sendiri
 
 ai-nilai edukatif dan islami yang bisa dimasukkan dalam kegiatan ini. Selanjutnya, kami juga akan menghubungkan artikel ini dengan beberapa referensi penting seperti:
 
-- [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
+- [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
 
-- [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+- [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
-- [Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami](https://asysyams.id/cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/)
+- [Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami](../cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/)
 
 ## Mengapa Custom Pohon?
 
@@ -96,7 +96,7 @@ Setiap hari anak menambahkan daun saat mereka melakukan perbuatan baik seperti m
 ## Menghubungkan dengan Pendidikan Anak Usia Dini
 
 Kegiatan ini sangat cocok untuk anak-anak usia TK atau PAUD. Oleh sebab itu, jika Anda sedang mempertimbangkan mendaftarkan anak ke TK negeri, baca panduan ini:
-? [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
+? [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
 
 Kegiatan ini bahkan bisa menjadi bagian dari kurikulum di TK atau lembaga pendidikan berbasis Islami.
 
@@ -125,12 +125,12 @@ Di sisi lain, kolaborasi antara anak dan orang tua akan memperkuat ikatan emosio
 ## Kolaborasi dengan Lembaga Pendidikan
 
 Bagi Anda yang tertarik membuka lembaga pendidikan usia dini, kegiatan seperti ini bisa menjadi bagian dari pembelajaran kreatif. Temukan peluang bisnisnya di sini:
-? [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+? [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
 ## Memahami Kepribadian Anak Saat Berkreasi
 
 Anak yang keras kepala sering kali justru memiliki kemauan dan pendirian yang kuat. Maka dari itu, kegiatan ini bisa menjadi sarana pendekatan emosional. Temukan cara islami menghadapi anak seperti ini:
-? [Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami](https://asysyams.id/cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/)
+? [Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami](../cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/)
 
 ## Kesimpulan
 

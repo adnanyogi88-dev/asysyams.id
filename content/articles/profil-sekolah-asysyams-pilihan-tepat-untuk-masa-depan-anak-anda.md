@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314222440/https://asysyams.id/pro
 
 # Profil Sekolah Asysyams: Pilihan Tepat untuk Masa Depan Anak Anda
 
-[Home](https://asysyams.id/) » Profil Sekolah Asysyams: Pilihan Tepat untuk Masa Depan Anak Anda
+[Home](../) » Profil Sekolah Asysyams: Pilihan Tepat untuk Masa Depan Anak Anda
 
 ## Saat orang tua mempertimbangkan pilihan sekolah, mereka mencari lingkungan yang mendukung perkembangan akademik, karakter, dan spiritual anak.
 
-![franchise sekolah asyisyam](https://asysyams.id/wp-content/uploads/2024/09/Screenshot_12.png)
+![franchise sekolah asyisyam](../wp-content/uploads/2024/09/Screenshot_12.png)
 
 Sekolah Asysyams hadir sebagai solusi unggul yang memenuhi keinginan tersebut. Dengan visi mulia, fasilitas lengkap, dan metode pengajaran berkualitas, Asysyams menyajikan pendidikan komprehensif. Artikel ini menyajikan profil lengkap Asysyams serta panduan praktis untuk orang tua yang ingin mendaftarkan anak di sana.
 
@@ -156,7 +156,7 @@ Untuk mendaftar ke Asysyams, orang tua perlu memperhatikan beberapa tahapan:
 
 - Membayar fasilitas ujian/survey serta biaya masuk & SPP yang sesuai kebijakan.
 
-Silakan cek artikel lengkap tentang [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/) yang memberikan rincian biaya dan tips menyiapkan dana dengan efektif.
+Silakan cek artikel lengkap tentang [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/) yang memberikan rincian biaya dan tips menyiapkan dana dengan efektif.
 
 ### 10. Jadwal dan Waktu Pendaftaran TK
 
@@ -168,9 +168,9 @@ Bagi orang tua yang ingin mendaftarkan anak ke TK Islam Asysyams, jadwal penting
 
 Untuk panduan lengkap serta rekomendasi TK terbaik di kota-kota besar, seperti Bekasi, silakan baca artikel terperinci ini:
 
-- [Pendaftaran TK: Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- [Pendaftaran TK: Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ### 11. Alasan Memilih Asysyams
 
@@ -234,11 +234,11 @@ Secara keseluruhan, profil sekolah Asysyams menunjukkan bahwa lembaga ini:
 
 Oleh karena itu, untuk orang tua yang ingin pilihan sekolah yang kredibel dan terpercaya, Asysyams layak menjadi pertimbangan utama. Jangan lewatkan dua artikel penting berikut:
 
-- [Pendaftaran TK: Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- [Pendaftaran TK: Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 Silakan akses untuk informasi mendalam, jadwal pendaftaran, dan tips finansial. Semoga artikel ini membantu Anda dan keluarga memilih sekolah terbaik untuk anak tercinta.
 

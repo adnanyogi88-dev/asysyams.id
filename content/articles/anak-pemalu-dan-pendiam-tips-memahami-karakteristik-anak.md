@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314224822/https://asysyams.id/ana
 
 # Anak Pemalu dan Pendiam Tips Memahami Karakteristik Anak
 
-[Home](https://asysyams.id/) » Anak Pemalu dan Pendiam Tips Memahami Karakteristik Anak
+[Home](../) » Anak Pemalu dan Pendiam Tips Memahami Karakteristik Anak
 
 ## Setiap anak lahir dengan kepribadian yang unik. Di antara keanekaragaman karakter ini, ada anak-anak yang cenderung pemalu dan pendiam.
 
-![anak pemalu dan pendiam](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_409887352_18115150474353668_2330220815236413088_n-300x300.jpg)
+![anak pemalu dan pendiam](../wp-content/uploads/2024/09/ClipDown.App_409887352_18115150474353668_2330220815236413088_n-300x300.jpg)
 
 [sumber](https://www.instagram.com/p/C05CuJkvbBX/?img_index=1)
 
@@ -76,11 +76,11 @@ Orang tua, guru, atau teman-teman mungkin merasa frustrasi dengan anak yang pema
 
 Baca juga:
 
-[Memilih Sekolah PAUD untuk Anak Balita: Panduan Menuju TK Asyisyam](https://asysyams.id/memilih-sekolah-paud-untuk-anak-balita-panduan-menuju-tk-asyisyam/)
+[Memilih Sekolah PAUD untuk Anak Balita: Panduan Menuju TK Asyisyam](../memilih-sekolah-paud-untuk-anak-balita-panduan-menuju-tk-asyisyam/)
 
-[Sekolah PAUD Terbaik untuk Anak Berprestasi di Jakarta](https://asysyams.id/sekolah-paud-terbaik-untuk-anak-berprestasi-di-jakarta/)
+[Sekolah PAUD Terbaik untuk Anak Berprestasi di Jakarta](../sekolah-paud-terbaik-untuk-anak-berprestasi-di-jakarta/)
 
-[Panduan Memilih Sekolah yang Bagus untuk Balita Anda](https://asysyams.id/panduan-memilih-sekolah-yang-bagus-untuk-balita-anda/)
+[Panduan Memilih Sekolah yang Bagus untuk Balita Anda](../panduan-memilih-sekolah-yang-bagus-untuk-balita-anda/)
 
  
 

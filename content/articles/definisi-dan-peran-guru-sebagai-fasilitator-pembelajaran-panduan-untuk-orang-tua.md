@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314234046/https://asysyams.id/def
 
 # Definisi dan Peran Guru sebagai Fasilitator Pembelajaran: Panduan untuk Orang Tua
 
-[Home](https://asysyams.id/) » Definisi dan Peran Guru sebagai Fasilitator Pembelajaran: Panduan untuk Orang Tua
+[Home](../) » Definisi dan Peran Guru sebagai Fasilitator Pembelajaran: Panduan untuk Orang Tua
 
 ## Memasuki dunia pendidikan merupakan salah satu tahap penting dalam kehidupan anak.
 
-![cerita rakyat anak kecil](https://asysyams.id/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-1024x1024.jpg)
+![cerita rakyat anak kecil](../wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-1024x1024.jpg)
 
 Oleh karena itu, orang tua perlu memahami berbagai aspek yang memengaruhi kualitas pendidikan, termasuk peran guru. Salah satu peran krusial guru dalam proses belajar adalah sebagai fasilitator pembelajaran. Artikel ini akan mengupas secara mendalam tentang definisi dan peran guru sebagai fasilitator pembelajaran serta relevansinya dalam memilih sekolah yang tepat untuk anak.
 
@@ -81,11 +81,11 @@ Orang tua memiliki peran penting dalam memperkuat fungsi guru sebagai fasilitato
 
 Bagi orang tua yang sedang mencari sekolah dengan pendekatan fasilitatif, berikut beberapa rekomendasi dan panduan:
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)Artikel ini memberikan informasi tentang taman kanak-kanak yang tidak hanya unggul dalam fasilitas, tetapi juga mengedepankan pendekatan pembelajaran yang aktif dan menyenangkan.
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)Artikel ini memberikan informasi tentang taman kanak-kanak yang tidak hanya unggul dalam fasilitas, tetapi juga mengedepankan pendekatan pembelajaran yang aktif dan menyenangkan.
 
-- [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)Panduan ini sangat cocok bagi orang tua yang ingin mengetahui kriteria penting dalam memilih sekolah, termasuk dalam hal kualitas guru.
+- [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)Panduan ini sangat cocok bagi orang tua yang ingin mengetahui kriteria penting dalam memilih sekolah, termasuk dalam hal kualitas guru.
 
-- [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)Beberapa franchise pendidikan juga menawarkan sistem pembelajaran yang mengutamakan interaksi dan keterlibatan anak secara aktif.
+- [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)Beberapa franchise pendidikan juga menawarkan sistem pembelajaran yang mengutamakan interaksi dan keterlibatan anak secara aktif.
 
 ### Kesimpulan
 

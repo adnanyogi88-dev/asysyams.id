@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515072037/https://asysyams.id/fak
 
 # Faktor-faktor yang Mempengaruhi Motivasi Belajar Siswa
 
-[Home](https://asysyams.id/) » Faktor-faktor yang Mempengaruhi Motivasi Belajar Siswa
+[Home](../) » Faktor-faktor yang Mempengaruhi Motivasi Belajar Siswa
 
 ## Motivasi belajar siswa merupakan salah satu faktor penting yang mempengaruhi keberhasilan proses pembelajaran.
 
-![cara menigkatkan motifasi belajar siswa](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_457128721_18141624178353668_5274165255979170382_n-300x225.jpg)
+![cara menigkatkan motifasi belajar siswa](../wp-content/uploads/2024/09/ClipDown.App_457128721_18141624178353668_5274165255979170382_n-300x225.jpg)
 
 [sumber](https://www.instagram.com/p/C_FuY4CSGEB/?img_index=1)
 
@@ -83,11 +83,11 @@ Faktor-faktor eksternal adalah hal-hal yang datang dari lingkungan sekitar siswa
 
 Baca juga:
 
-[Mengatasi Anak yang Susah Makan: Solusi dan Strategi Efektif](https://asysyams.id/mengatasi-anak-yang-susah-makan-solusi-dan-strategi-efektif/)
+[Mengatasi Anak yang Susah Makan: Solusi dan Strategi Efektif](../mengatasi-anak-yang-susah-makan-solusi-dan-strategi-efektif/)
 
-[Anak Pemalu dan Pendiam Tips Memahami Karakteristik Anak](https://asysyams.id/anak-pemalu-dan-pendiam-tips-memahami-karakteristik-anak/)
+[Anak Pemalu dan Pendiam Tips Memahami Karakteristik Anak](../anak-pemalu-dan-pendiam-tips-memahami-karakteristik-anak/)
 
-[Metode Pembelajaran Efektif: Memahami Pendekatan yang Tepat untuk Meningkatkan Hasil Belajar](https://asysyams.id/metode-pembelajaran-efektif-memahami-pendekatan-yang-tepat-untuk-meningkatkan-hasil-belajar/)
+[Metode Pembelajaran Efektif: Memahami Pendekatan yang Tepat untuk Meningkatkan Hasil Belajar](../metode-pembelajaran-efektif-memahami-pendekatan-yang-tepat-untuk-meningkatkan-hasil-belajar/)
 
 ###  
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419145223/https://asysyams.id/huk
 
 # Hukum Membatalkan Puasa dengan Sengaja Konsekuensi dan Kaffarat
 
-[Home](https://asysyams.id/) » Hukum Membatalkan Puasa dengan Sengaja Konsekuensi dan Kaffarat
+[Home](../) » Hukum Membatalkan Puasa dengan Sengaja Konsekuensi dan Kaffarat
 
 ## Puasa Ramadhan adalah salah satu rukun Islam yang wajib Puasa Ramadhan adalah salah satu rukun Islam yang wajib Muslim laksanakan.
 
-![Waralaba Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
+![Waralaba Bidang Pendidikan](../wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
 
 Menjaga kesucian dan keutamaan bulan suci ini adalah tanggung jawab bersama, termasuk menahan diri dari perbuatan yang dapat membatalkan puasa tanpa alasan yang membenarkannya. Membatalkan puasa dengan sengaja tanpa uzur syar’i tidak hanya berdampak pada individu, tetapi juga memiliki implikasi sosial dan spiritual yang luas.?
 

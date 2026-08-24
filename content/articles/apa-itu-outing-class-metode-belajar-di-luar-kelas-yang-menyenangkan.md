@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314223822/https://asysyams.id/apa
 
 # Apa Itu Outing Class? Metode Belajar di Luar Kelas yang Menyenangkan
 
-[Home](https://asysyams.id/) » Apa Itu Outing Class? Metode Belajar di Luar Kelas yang Menyenangkan
+[Home](../) » Apa Itu Outing Class? Metode Belajar di Luar Kelas yang Menyenangkan
 
 ## Outing class menjadi salah satu metode pembelajaran modern yang semakin populer dalam dunia pendidikan Indonesia.
 
-![Tips Memasak Makanan agar Anak Sukai](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468436135_18151705096353668_8443808274442286350_n_1080-1024x682.jpg)
+![Tips Memasak Makanan agar Anak Sukai](../wp-content/uploads/2025/01/Snapinst.app_468436135_18151705096353668_8443808274442286350_n_1080-1024x682.jpg)
 
 Istilah ini mengacu pada aktivitas belajar yang anak lakukan di luar kelas konvensional atau di luar lingkungan sekolah, dengan tujuan memberikan pengalaman langsung yang relevan dengan materi pelajaran. Metode ini terancang untuk memperkaya wawasan siswa serta memberikan suasana pembelajaran yang lebih menyenangkan dan efektif jika membandingkannya dengan metode tradisional.
 
@@ -63,19 +63,19 @@ Berikut adalah beberapa contoh outing class yang sering sekolah adakan:
 
 Outing class memiliki hubungan erat dengan pendidikan karakter yang kini menjadi bagian penting dari kurikulum pendidikan di Indonesia. Melalui kegiatan outing class, siswa secara tidak langsung akan belajar mengenai nilai-nilai karakter yang harus oleh generasi penerus bangsa miliki. Kegiatan outing class mengajarkan siswa tentang kerja sama tim, empati, dan sikap tanggung jawab yang tinggi, serta menguatkan sikap saling menghormati antar sesama siswa dan masyarakat sekitar.
 
-Pendidikan karakter juga menanamkan nilai-nilai seperti rasa hormat dan bakti kepada orang tua, yang menjadi dasar penting dalam pendidikan. Dalam artikel terkait yang berjudul [“Kisah Anak yang Berbakti kepada Orang Tua, Teladan Sepanjang Masa”](https://asysyams.id/kisah-anak-yang-berbakti-kepada-orang-tua-teladan-sepanjang-masa/), terjelaskan bagaimana pendidikan karakter melalui kegiatan pembelajaran, seperti outing class, dapat menginspirasi siswa untuk meneladani sikap hormat dan berbakti kepada orang tua.
+Pendidikan karakter juga menanamkan nilai-nilai seperti rasa hormat dan bakti kepada orang tua, yang menjadi dasar penting dalam pendidikan. Dalam artikel terkait yang berjudul [“Kisah Anak yang Berbakti kepada Orang Tua, Teladan Sepanjang Masa”](../kisah-anak-yang-berbakti-kepada-orang-tua-teladan-sepanjang-masa/), terjelaskan bagaimana pendidikan karakter melalui kegiatan pembelajaran, seperti outing class, dapat menginspirasi siswa untuk meneladani sikap hormat dan berbakti kepada orang tua.
 
 ### Outing Class dalam Konteks Pendidikan Anak Usia Dini (PAUD)
 
 Outing class tidak hanya relevan untuk siswa tingkat dasar hingga menengah, tetapi juga penting dalam pendidikan anak usia dini (PAUD). PAUD adalah tahap pendidikan di mana anak-anak belajar melalui aktivitas bermain dan eksplorasi langsung. Dalam konteks ini, outing class menjadi metode yang sangat efektif karena sesuai dengan kebutuhan eksploratif anak-anak.
 
-Dalam artikel tentang [“Rekomendasi Franchise PAUD Terbaik untuk Memulai Bisnis Pendidikan”](https://asysyams.id/rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/), disebutkan pentingnya menghadirkan metode pembelajaran inovatif seperti outing class dalam kurikulum PAUD. Franchise PAUD yang sukses biasanya menawarkan program pembelajaran yang aktif, eksploratif, dan interaktif, di mana outing class menjadi bagian integral dari program tersebut.
+Dalam artikel tentang [“Rekomendasi Franchise PAUD Terbaik untuk Memulai Bisnis Pendidikan”](../rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/), disebutkan pentingnya menghadirkan metode pembelajaran inovatif seperti outing class dalam kurikulum PAUD. Franchise PAUD yang sukses biasanya menawarkan program pembelajaran yang aktif, eksploratif, dan interaktif, di mana outing class menjadi bagian integral dari program tersebut.
 
 ### Mendidik vs Mengajar dalam Outing Class
 
 Ada perbedaan mendasar antara konsep mendidik dan mengajar. Mengajar lebih berorientasi pada pemberian pengetahuan teoritis, sementara mendidik berfokus pada pembentukan karakter dan perilaku positif siswa. Dalam pelaksanaan outing class, kedua konsep ini digabungkan secara harmonis. Kegiatan ini bukan hanya sekadar mengajar siswa tentang teori-teori, tetapi juga mendidik mereka agar memiliki karakter positif yang berguna bagi kehidupan mereka kelak.
 
-Pembahasan tentang perbedaan kedua konsep tersebut dijelaskan lebih detail dalam artikel [“Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia”](https://asysyams.id/perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/). Melalui outing class, guru dapat menerapkan prinsip mendidik secara optimal, karena siswa tidak hanya mendapatkan ilmu tetapi juga nilai-nilai moral yang ditanamkan dalam setiap aktivitasnya.
+Pembahasan tentang perbedaan kedua konsep tersebut dijelaskan lebih detail dalam artikel [“Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia”](../perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/). Melalui outing class, guru dapat menerapkan prinsip mendidik secara optimal, karena siswa tidak hanya mendapatkan ilmu tetapi juga nilai-nilai moral yang ditanamkan dalam setiap aktivitasnya.
 
 ### Kesimpulan
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421034257/https://asysyams.id/con
 
 # Contoh Keberagaman Budaya di Lingkungan Sekolah: Pentingnya Toleransi Sejak Dini
 
-[Home](https://asysyams.id/) » Contoh Keberagaman Budaya di Lingkungan Sekolah: Pentingnya Toleransi Sejak Dini
+[Home](../) » Contoh Keberagaman Budaya di Lingkungan Sekolah: Pentingnya Toleransi Sejak Dini
 
 ## Membesarkan anak di era globalisasi menuntut orang tua untuk lebih peka terhadap lingkungan tempat anak belajar dan tumbuh.
 
-![Pendidikan Diniyah Formal](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
+![Pendidikan Diniyah Formal](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
 
 Salah satu aspek penting yang perlu diperhatikan dalam memilih sekolah adalah keberagaman budaya. Artikel ini akan membahas berbagai contoh keberagaman budaya di lingkungan sekolah, manfaatnya bagi anak, dan bagaimana orang tua dapat mengambil keputusan bijak dalam memilih institusi pendidikan yang menjunjung nilai toleransi dan inklusivitas.
 
@@ -71,11 +71,11 @@ Ketiga, orang tua bisa mendukung anak untuk berteman dengan siapa saja tanpa mel
 
 ### Rekomendasi Sekolah yang Menjunjung Keberagaman Budaya
 
-Jika Anda mencari sekolah yang tidak hanya mengutamakan akademik tetapi juga nilai budaya, TK Islam Asy Syams di Bekasi bisa menjadi pilihan yang tepat. Sekolah ini menawarkan lingkungan belajar yang inklusif, fasilitas lengkap, serta kegiatan yang mendorong toleransi sejak dini. Informasi lebih lanjut bisa Anda baca di artikel berikut: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Jika Anda mencari sekolah yang tidak hanya mengutamakan akademik tetapi juga nilai budaya, TK Islam Asy Syams di Bekasi bisa menjadi pilihan yang tepat. Sekolah ini menawarkan lingkungan belajar yang inklusif, fasilitas lengkap, serta kegiatan yang mendorong toleransi sejak dini. Informasi lebih lanjut bisa Anda baca di artikel berikut: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
-Selain itu, Anda juga bisa mengetahui waktu terbaik untuk mendaftarkan anak ke TK melalui artikel: [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
+Selain itu, Anda juga bisa mengetahui waktu terbaik untuk mendaftarkan anak ke TK melalui artikel: [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
 
-Bagi orang tua yang sedang merencanakan anggaran pendidikan anak, memahami biaya masuk PAUD juga sangat penting. Artikel ini bisa menjadi panduan: [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
+Bagi orang tua yang sedang merencanakan anggaran pendidikan anak, memahami biaya masuk PAUD juga sangat penting. Artikel ini bisa menjadi panduan: [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
 
 ### Kesimpulan
 

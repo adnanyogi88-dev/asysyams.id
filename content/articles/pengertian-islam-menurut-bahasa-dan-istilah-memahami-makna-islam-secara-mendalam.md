@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314234324/https://asysyams.id/pen
 
 # Pengertian Islam Menurut Bahasa dan Istilah: Memahami Makna Islam Secara Mendalam
 
-[Home](https://asysyams.id/) » Pengertian Islam Menurut Bahasa dan Istilah: Memahami Makna Islam Secara Mendalam
+[Home](../) » Pengertian Islam Menurut Bahasa dan Istilah: Memahami Makna Islam Secara Mendalam
 
 ## Islam adalah agama yang membawa ajaran penuh rahmat bagi seluruh umat manusia.
 
-![Doa Anak Saleh](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
+![Doa Anak Saleh](../wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
 
 Sebagai agama yang memiliki pedoman hidup yang jelas, Islam mengajarkan prinsip-prinsip yang membawa kedamaian, keadilan, dan kesejahteraan bagi pemeluknya. Untuk memahami Islam secara lebih mendalam, kita perlu mengetahui pengertian Islam menurut bahasa dan istilah.
 
@@ -47,13 +47,13 @@ Baca juga: [Franchise toko daging](http://meatfish.id)
 
 Islam disebut sebagai “Rahmatan Lil ‘Alamin” yang berarti rahmat bagi seluruh alam semesta. Hal ini karena ajaran Islam membawa manfaat tidak hanya bagi pemeluknya tetapi juga bagi semua makhluk hidup. Islam mengajarkan keadilan, kasih sayang, dan kepedulian sosial, sehingga menciptakan kehidupan yang harmonis di tengah masyarakat.
 
-Dalam kehidupan sehari-hari, nilai-nilai Islam bisa diajarkan sejak dini melalui cerita-cerita Islami yang menarik dan penuh hikmah. Bagi orang tua yang ingin mengenalkan ajaran Islam kepada anak-anaknya, dapat membaca kumpulan cerita Islami pendek yang bisa diakses melalui artikel berikut: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
+Dalam kehidupan sehari-hari, nilai-nilai Islam bisa diajarkan sejak dini melalui cerita-cerita Islami yang menarik dan penuh hikmah. Bagi orang tua yang ingin mengenalkan ajaran Islam kepada anak-anaknya, dapat membaca kumpulan cerita Islami pendek yang bisa diakses melalui artikel berikut: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
 
 ## Pendidikan Islam dalam Membentuk Karakter Anak
 
 Pendidikan Islam memiliki peran yang sangat penting dalam membentuk karakter seorang Muslim sejak usia dini. Dengan menanamkan nilai-nilai keislaman sejak kecil, anak-anak dapat tumbuh menjadi pribadi yang bertakwa, berakhlak mulia, dan memiliki pemahaman yang kuat tentang Islam.
 
-Untuk memastikan anak mendapatkan pendidikan berbasis nilai Islami, orang tua perlu memilih sekolah yang menerapkan kurikulum berbasis agama Islam. Salah satu pilihan yang baik adalah [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) yang mengajarkan pendidikan Islam sejak dini dalam lingkungan yang kondusif dan mendukung perkembangan anak.
+Untuk memastikan anak mendapatkan pendidikan berbasis nilai Islami, orang tua perlu memilih sekolah yang menerapkan kurikulum berbasis agama Islam. Salah satu pilihan yang baik adalah [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) yang mengajarkan pendidikan Islam sejak dini dalam lingkungan yang kondusif dan mendukung perkembangan anak.
 
 ## Hadits Tentang Pendidikan Anak Usia Dini dalam Islam
 
@@ -61,7 +61,7 @@ Islam sangat menekankan pentingnya pendidikan anak sejak usia dini. Rasulullah S
 
 “Tidaklah seorang anak dilahirkan, kecuali dalam keadaan fitrah. Maka kedua orang tuanyalah yang menjadikannya Yahudi, Nasrani, atau Majusi.” (HR. Bukhari dan Muslim).
 
-Hadits ini menunjukkan bahwa setiap anak terlahir dalam keadaan suci dan memiliki potensi untuk menjadi Muslim yang baik. Oleh karena itu, penting bagi orang tua untuk memberikan pendidikan Islam yang baik sejak dini. Jika Anda ingin mengetahui lebih banyak hadits mengenai pendidikan anak usia dini dan pentingnya pendidikan berbasis nilai Islami, Anda dapat membacanya di artikel berikut: [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
+Hadits ini menunjukkan bahwa setiap anak terlahir dalam keadaan suci dan memiliki potensi untuk menjadi Muslim yang baik. Oleh karena itu, penting bagi orang tua untuk memberikan pendidikan Islam yang baik sejak dini. Jika Anda ingin mengetahui lebih banyak hadits mengenai pendidikan anak usia dini dan pentingnya pendidikan berbasis nilai Islami, Anda dapat membacanya di artikel berikut: [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
 
 ## Kesimpulan
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515071352/https://asysyams.id/car
 
 # Cara Menjaga Kebersihan Balita Agar Tidak Gampang Sakit
 
-[Home](https://asysyams.id/) » Cara Menjaga Kebersihan Balita Agar Tidak Gampang Sakit
+[Home](../) » Cara Menjaga Kebersihan Balita Agar Tidak Gampang Sakit
 
 ## Kebersihan adalah aspek fundamental yang harus anda perhatikan dalam perawatan balita.
 
-![kebersihan balita](https://asysyams.id/wp-content/uploads/2024/08/DALL·E-2024-08-28-22.32.33-A-cozy-and-clean-living-room-with-a-toddler-playing-on-the-floor.-The-toddler-is-surrounded-by-clean-toys-and-the-room-has-a-tidy-appearance-with-wel-300x300.webp)
+![kebersihan balita](../wp-content/uploads/2024/08/DALL·E-2024-08-28-22.32.33-A-cozy-and-clean-living-room-with-a-toddler-playing-on-the-floor.-The-toddler-is-surrounded-by-clean-toys-and-the-room-has-a-tidy-appearance-with-wel-300x300.webp)
 
 Sebagai orang tua, menjaga kebersihan balita bukan hanya tentang menghindari penyakit, tetapi juga memastikan perkembangan mereka berjalan optimal. Artikel ini akan membahas secara mendalam mengenai pentingnya menjaga kebersihan balita, berbagai aspek kebersihan yang perlu anda perhatikan, serta tips praktis untuk orang tua dalam menjaga kebersihan balita mereka.
 
@@ -43,11 +43,11 @@ Meskipun gigi balita masih dalam tahap pertumbuhan, menjaga kebersihannya sangat
 
 Baca juga:
 
-[Panduan Memilih Sekolah yang Bagus untuk Balita Anda](https://asysyams.id/panduan-memilih-sekolah-yang-bagus-untuk-balita-anda/)
+[Panduan Memilih Sekolah yang Bagus untuk Balita Anda](../panduan-memilih-sekolah-yang-bagus-untuk-balita-anda/)
 
-[Cara Melatih Anak Usia Balita Agar Lebih Mandiri](https://asysyams.id/cara-melatih-anak-usia-balita-agar-lebih-mandiri/)
+[Cara Melatih Anak Usia Balita Agar Lebih Mandiri](../cara-melatih-anak-usia-balita-agar-lebih-mandiri/)
 
-[Penyakit Umum pada Anak Usia Balita: Penyebab, Gejala, Cara Penanganannya](https://asysyams.id/penyakit-umum-pada-anak-usia-balita-penyebab-gejala-cara-penanganannya/)
+[Penyakit Umum pada Anak Usia Balita: Penyebab, Gejala, Cara Penanganannya](../penyakit-umum-pada-anak-usia-balita-penyebab-gejala-cara-penanganannya/)
 
 ###  
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008073806/https://asysyams.id/tuj
 
 # Tujuan Projek Penguatan Profil Pelajar Pancasila: Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Tujuan Projek Penguatan Profil Pelajar Pancasila: Panduan Lengkap untuk Orang Tua
+[Home](../) » Tujuan Projek Penguatan Profil Pelajar Pancasila: Panduan Lengkap untuk Orang Tua
 
 ## Memilih sekolah terbaik bagi anak adalah keputusan besar bagi setiap orang tua.
 
-![belajar berhitung anak tk](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_409891184_18115151299353668_368608034652018528_n_1080-1024x1024.jpg)
+![belajar berhitung anak tk](../wp-content/uploads/2024/11/Snapinsta.app_409891184_18115151299353668_368608034652018528_n_1080-1024x1024.jpg)
 
 Di tengah banyaknya pilihan, para orang tua tentu ingin memastikan bahwa anaknya tumbuh dalam lingkungan yang tidak hanya cerdas secara akademis, tetapi juga kuat secara karakter. Oleh karena itu, penting bagi kita memahami salah satu program strategis yang tengah dikembangkan oleh pemerintah, yaitu Projek Penguatan Profil Pelajar Pancasila.
 
@@ -67,7 +67,7 @@ Peran orang tua sangatlah penting dalam keberhasilan Projek Penguatan Profil Pel
 
 Pastikan sekolah pilihan Anda benar-benar mengimplementasikan Kurikulum Merdeka dengan baik. Salah satu indikatornya adalah pelaksanaan projek-projek karakter seperti ini secara konsisten.
 
-Jika Anda berdomisili di Bekasi dan sedang mencari sekolah yang mendukung penguatan karakter anak sejak dini, Anda bisa mempertimbangkan [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Di sana, pendidikan karakter dan nilai-nilai Pancasila ditanamkan sejak usia dini.
+Jika Anda berdomisili di Bekasi dan sedang mencari sekolah yang mendukung penguatan karakter anak sejak dini, Anda bisa mempertimbangkan [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Di sana, pendidikan karakter dan nilai-nilai Pancasila ditanamkan sejak usia dini.
 
 #### 2. Terlibat dalam Proses Belajar Anak
 
@@ -105,7 +105,7 @@ Agar Anda tidak salah pilih, berikut beberapa ciri sekolah yang mendukung Projek
 
 - Menerapkan pendekatan pembelajaran aktif, kolaboratif, dan reflektif.
 
-Sekolah-sekolah modern yang berbasis Islam juga banyak yang mengadopsi pendekatan ini. Salah satunya adalah [TK Islam yang Bagus di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), yang telah terbukti mengintegrasikan nilai-nilai Pancasila dan ajaran Islam dalam keseharian anak.
+Sekolah-sekolah modern yang berbasis Islam juga banyak yang mengadopsi pendekatan ini. Salah satunya adalah [TK Islam yang Bagus di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), yang telah terbukti mengintegrasikan nilai-nilai Pancasila dan ajaran Islam dalam keseharian anak.
 
 ### Bagaimana Projek Ini Diintegrasikan ke dalam Kurikulum?
 
@@ -125,11 +125,11 @@ Sebelum mendaftarkan anak, pertimbangkan beberapa hal berikut:
 
 - Partisipasi orang tua: Apakah sekolah membuka ruang kolaborasi dengan wali murid?
 
-Jika Anda masih bingung memilih TK terdekat di Bekasi, Anda bisa membaca panduan [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/). Panduan tersebut akan membantu Anda mengambil keputusan yang lebih tepat.
+Jika Anda masih bingung memilih TK terdekat di Bekasi, Anda bisa membaca panduan [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/). Panduan tersebut akan membantu Anda mengambil keputusan yang lebih tepat.
 
 ### Hubungan dengan Dunia Industri dan Pendidikan Berbasis Wirausaha
 
-Selain penguatan karakter, Kurikulum Merdeka juga mendorong siswa mengenal dunia wirausaha sejak dini. Hal ini selaras dengan hadirnya banyak [franchise pendidikan lokal di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) yang menekankan pengembangan soft skill.
+Selain penguatan karakter, Kurikulum Merdeka juga mendorong siswa mengenal dunia wirausaha sejak dini. Hal ini selaras dengan hadirnya banyak [franchise pendidikan lokal di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) yang menekankan pengembangan soft skill.
 
 Sekolah yang bekerja sama dengan lembaga pendidikan berbasis franchise juga biasanya memiliki program kreatif, termasuk projek kewirausahaan mini yang sangat cocok untuk melatih kemandirian anak sejak dini.
 
@@ -139,7 +139,7 @@ Projek Penguatan Profil Pelajar Pancasila adalah langkah strategis dalam menyiap
 
 Jadi, ketika Anda memilih sekolah, jangan hanya melihat dari sisi akademik atau fasilitas. Perhatikan juga bagaimana sekolah membentuk karakter anak melalui kegiatan nyata, kreatif, dan kontekstual.
 
-Jika Anda tinggal di Bekasi dan sedang mencari referensi sekolah yang sesuai, jangan ragu untuk mengunjungi [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), atau pelajari lebih lanjut tentang [Cara Memilih TK Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/).
+Jika Anda tinggal di Bekasi dan sedang mencari referensi sekolah yang sesuai, jangan ragu untuk mengunjungi [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), atau pelajari lebih lanjut tentang [Cara Memilih TK Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/).
 
 Sudah siap memilih sekolah terbaik untuk anak Anda? Pastikan mereka tumbuh sebagai pelajar Pancasila sejak dini!
 

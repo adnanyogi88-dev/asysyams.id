@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216224501/https://asysyams.id/car
 
 # Cara Membuat Hiasan Dinding Kelas TK yang Kreatif dan Edukatif
 
-[Home](https://asysyams.id/) » Cara Membuat Hiasan Dinding Kelas TK yang Kreatif dan Edukatif
+[Home](../) » Cara Membuat Hiasan Dinding Kelas TK yang Kreatif dan Edukatif
 
 ## Menciptakan suasana yang menyenangkan dan edukatif di dalam kelas TK sangat penting untuk mendukung proses belajar anak usia dini.
 
-![hiasan dinding anak tk](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_295030377_606228761123674_3383741588028383489_n_1080-300x300.jpg)
+![hiasan dinding anak tk](../wp-content/uploads/2024/11/Snapinsta.app_295030377_606228761123674_3383741588028383489_n_1080-300x300.jpg)
 
 Salah satu cara yang efektif untuk mencapai hal ini adalah dengan menambahkan hiasan dinding yang tidak hanya menarik tetapi juga mendidik. Hiasan dinding di kelas TK bisa menjadi media visual yang membantu anak-anak lebih mudah memahami konsep-konsep dasar, seperti huruf, angka, warna, dan tema lingkungan. Berikut adalah beberapa ide dan cara membuat hiasan dinding kelas TK yang kreatif, edukatif, dan tentunya bisa kita implementasikan dengan mudah.
 
@@ -41,7 +41,7 @@ Hiasan ini selain membuat kelas terlihat ceria, juga memudahkan anak-anak untuk 
 
 ### 2. Hiasan Dinding Bertema Lingkungan
 
-Mengenalkan konsep kelestarian lingkungan kepada anak sejak dini bisa kita mulai dari hiasan dinding bertema lingkungan. TK Asysyams memandang pentingnya pemahaman tentang lingkungan bagi anak-anak, karena nilai-nilai ini akan menjadi fondasi karakter mereka di masa depan. (Baca lebih lanjut tentang cara sederhana mengenalkan konsep lingkungan kepada anak di [sini](https://asysyams.id/cara-sederhana-untuk-mengenalkan-konsep-kelestarian-lingkugan-ke-anak/)).
+Mengenalkan konsep kelestarian lingkungan kepada anak sejak dini bisa kita mulai dari hiasan dinding bertema lingkungan. TK Asysyams memandang pentingnya pemahaman tentang lingkungan bagi anak-anak, karena nilai-nilai ini akan menjadi fondasi karakter mereka di masa depan. (Baca lebih lanjut tentang cara sederhana mengenalkan konsep lingkungan kepada anak di [sini](../cara-sederhana-untuk-mengenalkan-konsep-kelestarian-lingkugan-ke-anak/)).
 
 Cara Membuatnya:
 
@@ -61,7 +61,7 @@ Hiasan ini dapat membantu anak-anak mengenal pentingnya alam dan lingkungan di s
 
 ### 3. Papan Pencapaian Anak
 
-Hiasan dinding yang satu ini bisa kita gunakan sebagai media untuk menampilkan pencapaian anak-anak, misalnya pencapaian dalam belajar menulis atau mengenal huruf. TK Asysyams mendukung pembelajaran awal menulis sebagai langkah membentuk generasi cerdas sejak usia dini. (Baca selengkapnya tentang belajar menulis untuk anak TK [di sini](https://asysyams.id/belajar-menulis-untuk-anak-tk-langkah-awal-membentuk-generasi-cerdas/)).
+Hiasan dinding yang satu ini bisa kita gunakan sebagai media untuk menampilkan pencapaian anak-anak, misalnya pencapaian dalam belajar menulis atau mengenal huruf. TK Asysyams mendukung pembelajaran awal menulis sebagai langkah membentuk generasi cerdas sejak usia dini. (Baca selengkapnya tentang belajar menulis untuk anak TK [di sini](../belajar-menulis-untuk-anak-tk-langkah-awal-membentuk-generasi-cerdas/)).
 
 Cara Membuatnya:
 
@@ -157,7 +157,7 @@ Dengan penerapan tema setiap bulan, suasana kelas akan selalu terasa baru dan me
 
 Di TK Asysyams, pendekatan pendidikan kreatif dan menyenangkan selalu menjadi prioritas utama. Penggunaan hiasan dinding yang edukatif tidak hanya menambah keindahan kelas tetapi juga mendorong anak-anak untuk belajar melalui observasi dan interaksi visual. Kelas yang dihiasi dengan dekorasi yang mendidik akan membantu anak-anak memahami konsep dasar dengan cara yang mudah dan menyenangkan.
 
-Jika Anda tertarik untuk mendaftarkan anak di TK Asysyams, silakan kunjungi [Pendaftaran Anak di Asy Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/). Di sini, anak-anak akan mendapatkan pendidikan yang berkualitas dan suasana belajar yang kreatif serta penuh kasih.
+Jika Anda tertarik untuk mendaftarkan anak di TK Asysyams, silakan kunjungi [Pendaftaran Anak di Asy Syams](../pendaftaran-anak-di-asy-syams/). Di sini, anak-anak akan mendapatkan pendidikan yang berkualitas dan suasana belajar yang kreatif serta penuh kasih.
 
 [
 WhatsApp Kami

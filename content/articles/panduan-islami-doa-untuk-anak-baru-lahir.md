@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421040407/https://asysyams.id/pan
 
 # Panduan Islami Doa untuk Anak Baru Lahir
 
-[Home](https://asysyams.id/) » Panduan Islami Doa untuk Anak Baru Lahir
+[Home](../) » Panduan Islami Doa untuk Anak Baru Lahir
 
 ## Kehadiran seorang anak baru lahir dalam keluarga adalah anugerah luar biasa dari Allah SWT.
 
-![doa anak baru lahir](https://asysyams.id/wp-content/uploads/2025/01/DALL·E-2025-01-08-18.18.04-An-illustration-of-a-peaceful-Islamic-family-celebrating-the-birth-of-a-baby.-The-scene-shows-parents-holding-a-newborn-baby-wrapped-in-a-soft-blanket.webp)
+![doa anak baru lahir](../wp-content/uploads/2025/01/DALL·E-2025-01-08-18.18.04-An-illustration-of-a-peaceful-Islamic-family-celebrating-the-birth-of-a-baby.-The-scene-shows-parents-holding-a-newborn-baby-wrapped-in-a-soft-blanket.webp)
 
 Anak merupakan amanah yang harus tetap terjaga dengan penuh cinta dan tanggung jawab. Dalam tradisi Islam, salah satu cara untuk menyambut kelahiran adalah dengan berdoa untuk kebaikan dan keberkahan hidupnya. Artikel ini akan membahas doa-doa yang terianjurkan untuk anak baru lahir, manfaatnya, serta bagaimana doa ini dapat mendukung perkembangan anak secara spiritual dan emosional.
 
@@ -61,11 +61,11 @@ Rasulullah SAW menganjurkan agar adzan kita bacakan di telinga kanan bayi, dan i
 
 Selain doa, orang tua juga perlu memberikan pendidikan Islami yang baik kepada anak. Salah satu caranya adalah dengan menerapkan nilai-nilai agama dalam kehidupan sehari-hari. Berikut beberapa artikel terkait yang dapat membantu:
 
-- [Doa Agar Anak Tidak Sakit dan Saleh](https://asysyams.id/doa-untuk-agar-anak-tidak-sakit-saleh-panduan-islami/) Artikel ini membahas tentang doa-doa khusus untuk kesehatan anak serta cara menjadikan mereka saleh. Dengan memahami isi artikel tersebut, orang tua dapat menambah variasi doa yang kita bacakan untuk anak mereka.
+- [Doa Agar Anak Tidak Sakit dan Saleh](../doa-untuk-agar-anak-tidak-sakit-saleh-panduan-islami/) Artikel ini membahas tentang doa-doa khusus untuk kesehatan anak serta cara menjadikan mereka saleh. Dengan memahami isi artikel tersebut, orang tua dapat menambah variasi doa yang kita bacakan untuk anak mereka.
 
-- [Doa Agar Anak Berbakti kepada Orang Tua](https://asysyams.id/doa-agar-anak-berbakti-kepada-orang-tua/) Doa ini sangat penting untuk memastikan bahwa anak tidak hanya sehat secara fisik tetapi juga memiliki akhlak mulia yang mencerminkan penghormatan kepada orang tua.
+- [Doa Agar Anak Berbakti kepada Orang Tua](../doa-agar-anak-berbakti-kepada-orang-tua/) Doa ini sangat penting untuk memastikan bahwa anak tidak hanya sehat secara fisik tetapi juga memiliki akhlak mulia yang mencerminkan penghormatan kepada orang tua.
 
-- [Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami](https://asysyams.id/cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/) Artikel ini memberikan panduan bagi orang tua untuk menghadapi anak dengan karakter keras kepala. Dengan pendekatan Islami, pendidikan menjadi lebih efektif.
+- [Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami](../cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/) Artikel ini memberikan panduan bagi orang tua untuk menghadapi anak dengan karakter keras kepala. Dengan pendekatan Islami, pendidikan menjadi lebih efektif.
 
 ### Adab dalam Berdoa untuk Anak
 

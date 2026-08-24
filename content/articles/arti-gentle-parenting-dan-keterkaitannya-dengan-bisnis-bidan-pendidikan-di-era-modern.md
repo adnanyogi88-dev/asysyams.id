@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419141536/https://asysyams.id/art
 
 # Arti Gentle Parenting dan Keterkaitannya dengan Bisnis Bidan Pendidikan di Era Modern
 
-[Home](https://asysyams.id/) » Arti Gentle Parenting dan Keterkaitannya dengan Bisnis Bidan Pendidikan di Era Modern
+[Home](../) » Arti Gentle Parenting dan Keterkaitannya dengan Bisnis Bidan Pendidikan di Era Modern
 
 ## Gentle parenting merupakan pendekatan pengasuhan yang mengutamakan empati, penghormatan,
 
-![Edukasi Anak Islami](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_457040692_18141624265353668_293612636027458384_n_1080-1024x768.jpg)
+![Edukasi Anak Islami](../wp-content/uploads/2024/11/Snapinsta.app_457040692_18141624265353668_293612636027458384_n_1080-1024x768.jpg)
 
 Serta komunikasi yang penuh kasih sayang antara orang tua dan anak. Gaya parenting ini semakin populer karena sejalan dengan kebutuhan emosional anak-anak zaman sekarang. Tidak hanya relevan dalam keluarga, gentle parenting juga memiliki dampak signifikan terhadap dunia pendidikan, khususnya bisnis di sektor bidan pendidikan.
 
@@ -49,19 +49,19 @@ Segmentasi pasar dalam bisnis pendidikan kini tidak lagi berfokus hanya pada pre
 
 Dengan demikian, lembaga pendidikan yang menerapkan gentle parenting mampu menarik perhatian segmen pasar ini. Mereka mencari tempat yang tidak hanya mencerdaskan anak secara intelektual, tetapi juga secara emosional dan sosial.
 
-Bagi para pelaku bisnis pendidikan, inilah peluang besar untuk mengembangkan lembaga yang benar-benar memenuhi kebutuhan zaman. Anda bisa membaca lebih lanjut tentang hal ini dalam artikel kami tentang [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](https://asysyams.id/bisnis-pendidikan-peluang-dan-tren-tahun-2025/).
+Bagi para pelaku bisnis pendidikan, inilah peluang besar untuk mengembangkan lembaga yang benar-benar memenuhi kebutuhan zaman. Anda bisa membaca lebih lanjut tentang hal ini dalam artikel kami tentang [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](../bisnis-pendidikan-peluang-dan-tren-tahun-2025/).
 
 ### Pengaruh Gentle Parenting terhadap Pendaftaran Murid Baru
 
 Lembaga pendidikan yang mengintegrasikan nilai gentle parenting biasanya lebih diminati saat masa pendaftaran murid baru. Orang tua merasa lebih percaya untuk menitipkan anak mereka di tempat yang aman, nyaman, dan mendukung tumbuh kembang optimal.
 
-Sebagai contoh, TK di Harapan Indah Bekasi telah menjadi pilihan banyak orang tua karena pendekatannya yang ramah anak dan penuh empati. Anda bisa mempelajari lebih lanjut dan mendaftarkan anak Anda melalui [pendaftaran murid TK di Harapan Indah Bekasi](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/).
+Sebagai contoh, TK di Harapan Indah Bekasi telah menjadi pilihan banyak orang tua karena pendekatannya yang ramah anak dan penuh empati. Anda bisa mempelajari lebih lanjut dan mendaftarkan anak Anda melalui [pendaftaran murid TK di Harapan Indah Bekasi](../pendaftaran-murid-tk-di-harapan-indah-bekasi/).
 
 ### Mengapa Bisnis Pendidikan Berbasis Gentle Parenting Layak Difranchisekan?
 
 Banyak pengusaha yang kini melirik model bisnis pendidikan berbasis gentle parenting untuk dijadikan franchise. Model ini terbukti berhasil menarik pasar dan menciptakan loyalitas tinggi dari orang tua. Di samping itu, sistem yang humanis membuat bisnis ini relevan jangka panjang.
 
-Bila Anda tertarik mengembangkan bisnis pendidikan berbasis gentle parenting, simak juga artikel tentang [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/).
+Bila Anda tertarik mengembangkan bisnis pendidikan berbasis gentle parenting, simak juga artikel tentang [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/).
 
 ### Kesimpulan
 

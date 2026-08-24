@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515082045/https://asysyams.id/car
 
 # Cara Melatih Intelegensi Anak: Panduan Komprehensif untuk Orang Tua
 
-[Home](https://asysyams.id/) » Cara Melatih Intelegensi Anak: Panduan Komprehensif untuk Orang Tua
+[Home](../) » Cara Melatih Intelegensi Anak: Panduan Komprehensif untuk Orang Tua
 
 ## Masa anak-anak adalah waktu yang sangat penting dalam perkembangan intelektual.
 
-![intelegensi anak](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-08-21.16.25-A-colorful-illustration-of-a-young-child-playing-with-educational-toys-such-as-puzzles-and-building-blocks-while-sitting-on-a-soft-rug-in-a-cozy-we-300x300.webp)
+![intelegensi anak](../wp-content/uploads/2024/09/DALL·E-2024-09-08-21.16.25-A-colorful-illustration-of-a-young-child-playing-with-educational-toys-such-as-puzzles-and-building-blocks-while-sitting-on-a-soft-rug-in-a-cozy-we-300x300.webp)
 
 Kemampuan berpikir, memecahkan masalah, dan keterampilan kognitif lainnya dapat sangat dipengaruhi oleh lingkungan dan pengalaman pada masa ini. Oleh karena itu, melatih intelegensi anak adalah langkah penting yang dapat diambil orang tua untuk memastikan anak-anak mereka tumbuh menjadi individu yang cerdas dan kreatif. Artikel ini akan membahas cara melatih intelegensi anak, dengan panduan langkah demi langkah yang dapat diikuti oleh orang tua.
 
@@ -105,11 +105,11 @@ Mendengarkan cerita juga memiliki manfaat besar. Anak yang mendengar cerita yang
 
 Baca juga:
 
-[Acara-Acara yang Biasanya Diikuti Oleh Anak TK](https://asysyams.id/acara-acara-yang-biasanya-diikuti-oleh-anak-tk/)
+[Acara-Acara yang Biasanya Diikuti Oleh Anak TK](../acara-acara-yang-biasanya-diikuti-oleh-anak-tk/)
 
-[Sekolah PAUD Terbaik untuk Anak Berprestasi di Jakarta](https://asysyams.id/sekolah-paud-terbaik-untuk-anak-berprestasi-di-jakarta/)
+[Sekolah PAUD Terbaik untuk Anak Berprestasi di Jakarta](../sekolah-paud-terbaik-untuk-anak-berprestasi-di-jakarta/)
 
-[Mengapa Asy-Syams Islamic School Adalah Pilihan Terbaik untuk Pendidikan Anak Anda](https://asysyams.id/mengapa-asy-syams-islamic-school-adalah-pilihan-terbaik-untuk-pendidikan-anak-anda/)
+[Mengapa Asy-Syams Islamic School Adalah Pilihan Terbaik untuk Pendidikan Anak Anda](../mengapa-asy-syams-islamic-school-adalah-pilihan-terbaik-untuk-pendidikan-anak-anda/)
 
 ####  
 

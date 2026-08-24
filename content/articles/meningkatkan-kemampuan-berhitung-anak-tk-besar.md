@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421035307/https://asysyams.id/men
 
 # Meningkatkan Kemampuan Berhitung Anak TK Besar
 
-[Home](https://asysyams.id/) » Meningkatkan Kemampuan Berhitung Anak TK Besar
+[Home](../) » Meningkatkan Kemampuan Berhitung Anak TK Besar
 
 ## Mengajari anak-anak berhitung sejak dini merupakan langkah penting dalam membangun fondasi matematika mereka.
 
-![meningkatkan kemampuan berhitung anak tk](https://asysyams.id/wp-content/uploads/2024/10/images-615147dd0101905a16497de2-1.jpg)
+![meningkatkan kemampuan berhitung anak tk](../wp-content/uploads/2024/10/images-615147dd0101905a16497de2-1.jpg)
 
 Untuk anak TK besar, belajar berhitung tidak hanya membantu dalam persiapan masuk sekolah dasar, tetapi juga mengembangkan keterampilan kognitif, motorik, dan sosial. Lembaga pendidikan seperti Asy Syams memiliki metode belajar yang terstruktur dan menyenangkan untuk membantu anak-anak memahami konsep berhitung secara efektif. Melalui metode-metode belajar yang kita terapkan, Asy Syams mendukung perkembangan anak secara holistik, sehingga setiap anak dapat belajar berhitung dengan penuh keceriaan.
 
@@ -118,17 +118,17 @@ Setiap anak memiliki kecepatan belajar yang berbeda. Di Asy Syams, metode belaja
 -
 
 Pendaftaran Anak di Asy Syams
-Untuk orang tua yang tertarik melihat bagaimana anak-anak belajar berhitung di Asy Syams, informasi mengenai [pendaftaran anak di Asy Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/) dapat ditemukan di website resmi Asy Syams.
+Untuk orang tua yang tertarik melihat bagaimana anak-anak belajar berhitung di Asy Syams, informasi mengenai [pendaftaran anak di Asy Syams](../pendaftaran-anak-di-asy-syams/) dapat ditemukan di website resmi Asy Syams.
 
 -
 
 Pelayanan Asy Syams
-Asy Syams memiliki berbagai layanan yang mendukung perkembangan belajar anak-anak, mulai dari kelas berhitung, membaca, menulis, hingga layanan bermain. Informasi mengenai [pelayanan Asy Syams](https://asysyams.id/pelayanan-asy-syams/) tersedia untuk memberikan gambaran lebih lengkap.
+Asy Syams memiliki berbagai layanan yang mendukung perkembangan belajar anak-anak, mulai dari kelas berhitung, membaca, menulis, hingga layanan bermain. Informasi mengenai [pelayanan Asy Syams](../pelayanan-asy-syams/) tersedia untuk memberikan gambaran lebih lengkap.
 
 -
 
 Metode Belajar Membaca untuk Anak TK
-Selain berhitung, kemampuan membaca juga menjadi fokus penting di Asy Syams. Dengan metode yang dirancang khusus, anak-anak diajak untuk belajar membaca dengan cara yang menyenangkan. Selengkapnya bisa dilihat di [metode belajar membaca untuk anak TK](https://asysyams.id/metode-belajar-membaca-untuk-anak-tk/).
+Selain berhitung, kemampuan membaca juga menjadi fokus penting di Asy Syams. Dengan metode yang dirancang khusus, anak-anak diajak untuk belajar membaca dengan cara yang menyenangkan. Selengkapnya bisa dilihat di [metode belajar membaca untuk anak TK](../metode-belajar-membaca-untuk-anak-tk/).
 
 ### Tips bagi Orang Tua dalam Mendukung Pembelajaran Berhitung di Rumah
 

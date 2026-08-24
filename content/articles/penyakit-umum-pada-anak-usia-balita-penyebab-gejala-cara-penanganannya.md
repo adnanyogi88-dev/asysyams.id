@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515071043/https://asysyams.id/pen
 
 # Penyakit Umum pada Anak Usia Balita: Penyebab, Gejala, Cara Penanganannya
 
-[Home](https://asysyams.id/) » Penyakit Umum pada Anak Usia Balita: Penyebab, Gejala, Cara Penanganannya
+[Home](../) » Penyakit Umum pada Anak Usia Balita: Penyebab, Gejala, Cara Penanganannya
 
 ## Masa balita adalah periode yang sangat penting dalam kehidupan seorang anak.
 
-![penyakit pada balita](https://asysyams.id/wp-content/uploads/2024/08/61de7d8415a62-300x200.jpg)
+![penyakit pada balita](../wp-content/uploads/2024/08/61de7d8415a62-300x200.jpg)
 
 Pada usia ini, tubuh dan pikiran mereka berkembang dengan sangat pesat, tetapi pada saat yang sama, mereka juga rentan terhadap berbagai penyakit. Mengetahui dan memahami penyakit umum yang sering menyerang anak usia balita dapat membantu orang tua dan pengasuh dalam mengatasi masalah kesehatan secara lebih efektif. Artikel ini akan membahas beberapa penyakit umum pada balita, termasuk penyebab, gejala, serta cara penanganannya.
 
@@ -67,11 +67,11 @@ Untuk mengatasi konstipasi pada balita, asupan serat dari buah-buahan, sayuran, 
 
 Baca juga:
 
-[Apa itu Toilet Training? Cara Mengenalkan kepada Balita](https://asysyams.id/apa-itu-toilet-training-cara-mengenalkan-kepada-balita/)
+[Apa itu Toilet Training? Cara Mengenalkan kepada Balita](../apa-itu-toilet-training-cara-mengenalkan-kepada-balita/)
 
-[Makanan yang Bagus untuk Perkembangan Otak Anak](https://asysyams.id/makanan-yang-bagus-untuk-perkembangan-otak-anak/)
+[Makanan yang Bagus untuk Perkembangan Otak Anak](../makanan-yang-bagus-untuk-perkembangan-otak-anak/)
 
-[Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan](https://asysyams.id/tips-mengelola-emosi-anak-agar-tidak-sampai-kebablasan/)
+[Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan](../tips-mengelola-emosi-anak-agar-tidak-sampai-kebablasan/)
 
  
 

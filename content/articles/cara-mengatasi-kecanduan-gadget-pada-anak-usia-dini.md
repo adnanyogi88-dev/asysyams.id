@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421043127/https://asysyams.id/car
 
 # Cara Mengatasi Kecanduan Gadget pada Anak Usia Dini
 
-[Home](https://asysyams.id/) » Cara Mengatasi Kecanduan Gadget pada Anak Usia Dini
+[Home](../) » Cara Mengatasi Kecanduan Gadget pada Anak Usia Dini
 
 ## Di era digital saat ini, gadget menjadi bagian tak terpisahkan dari kehidupan manusia, termasuk anak-anak.
 
-![mengasuh Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
+![mengasuh Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
 
 Namun, penggunaan gadget yang berlebihan pada anak usia dini dapat menimbulkan dampak negatif, seperti kurangnya interaksi sosial, gangguan konsentrasi, hingga masalah kesehatan fisik. Oleh karena itu, penting bagi orang tua untuk mengetahui cara mengatasi kecanduan gadget pada anak usia dini agar mereka dapat tumbuh dan berkembang secara optimal.
 
@@ -45,7 +45,7 @@ Orang tua perlu menerapkan aturan yang jelas mengenai durasi penggunaan gadget. 
 
 Anak-anak cenderung menggunakan gadget karena merasa bosan atau tidak memiliki kegiatan lain yang menarik. Oleh karena itu, orang tua dapat menyediakan berbagai aktivitas alternatif, seperti:
 
-- Membaca [kumpulan cerita islami pendek untuk anak dan keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) yang dapat mengasah imajinasi dan nilai moral anak.
+- Membaca [kumpulan cerita islami pendek untuk anak dan keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) yang dapat mengasah imajinasi dan nilai moral anak.
 
 - Bermain permainan edukatif seperti puzzle atau balok susun.
 
@@ -65,7 +65,7 @@ Orang tua dapat mengajak anak bermain bersama untuk meningkatkan interaksi sosia
 
 ### 6. Mendaftarkan Anak ke Pendidikan Anak Usia Dini (PAUD) atau TK
 
-Mengikuti pendidikan formal sejak dini dapat membantu anak lebih fokus pada kegiatan belajar dan interaksi sosial daripada gadget. Bagi orang tua yang sedang mencari informasi mengenai pendaftaran TK, Anda bisa membaca panduan lengkapnya di [Biaya Masuk TK Negeri](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/).
+Mengikuti pendidikan formal sejak dini dapat membantu anak lebih fokus pada kegiatan belajar dan interaksi sosial daripada gadget. Bagi orang tua yang sedang mencari informasi mengenai pendaftaran TK, Anda bisa membaca panduan lengkapnya di [Biaya Masuk TK Negeri](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/).
 
 ### 7. Menggunakan Aplikasi dan Kontrol Orang Tua
 
@@ -81,7 +81,7 @@ Buat rutinitas tidur yang sehat dengan menghindari penggunaan gadget setidaknya 
 
 ### 10. Menjajaki Pendidikan Berbasis Agama
 
-Pendidikan berbasis agama dapat menjadi alternatif yang baik untuk membantu anak lebih fokus pada kegiatan bermanfaat. Jika Anda tertarik dengan pendidikan berbasis Islam untuk anak, Anda bisa melihat peluang di [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+Pendidikan berbasis agama dapat menjadi alternatif yang baik untuk membantu anak lebih fokus pada kegiatan bermanfaat. Jika Anda tertarik dengan pendidikan berbasis Islam untuk anak, Anda bisa melihat peluang di [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 ## Kesimpulan
 

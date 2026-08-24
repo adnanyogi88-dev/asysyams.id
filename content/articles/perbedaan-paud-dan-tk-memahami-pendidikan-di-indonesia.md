@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419152737/https://asysyams.id/per
 
 # Perbedaan PAUD dan TK: Memahami Pendidikan di Indonesia
 
-[Home](https://asysyams.id/) » Perbedaan PAUD dan TK: Memahami Pendidikan di Indonesia
+[Home](../) » Perbedaan PAUD dan TK: Memahami Pendidikan di Indonesia
 
 ## Pendidikan anak usia dini merupakan fondasi penting dalam perkembangan seorang anak.
 
-![perbedaan tk dan paud](https://asysyams.id/wp-content/uploads/2024/08/perbedaan-paud-dan-tk-2-300x225.webp)
+![perbedaan tk dan paud](../wp-content/uploads/2024/08/perbedaan-paud-dan-tk-2-300x225.webp)
 
 [sumber](https://globalprestasi.sch.id/id/news-event/perbedaan-paud-dan-tk/)
 
@@ -51,11 +51,11 @@ PAUD memiliki peran penting dalam membentuk dasar bagi perkembangan anak. Melalu
 
 Baca juga:
 
-[Franchise Taman Kanak-Kanak Bisnis yang Sedang Ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
+[Franchise Taman Kanak-Kanak Bisnis yang Sedang Ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
 
-[Tips Parenting Sukses Untuk Anak Usia Dini](https://asysyams.id/tips-parenting-sukses-untuk-anak-usia-dini/)
+[Tips Parenting Sukses Untuk Anak Usia Dini](../tips-parenting-sukses-untuk-anak-usia-dini/)
 
-[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
  
 

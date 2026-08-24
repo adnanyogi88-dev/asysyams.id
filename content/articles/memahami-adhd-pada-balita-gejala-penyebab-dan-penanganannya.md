@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314234651/https://asysyams.id/mem
 
 # Memahami ADHD pada Balita: Gejala, Penyebab, dan Penanganannya
 
-[Home](https://asysyams.id/) » Memahami ADHD pada Balita: Gejala, Penyebab, dan Penanganannya
+[Home](../) » Memahami ADHD pada Balita: Gejala, Penyebab, dan Penanganannya
 
 ## Attention Deficit Hyperactivity Disorder (ADHD) adalah kondisi neurodevelopmental yang seringkali teridentifikasi pada anak-anak.
 
-![adhd balita](https://asysyams.id/wp-content/uploads/2024/08/DALL·E-2024-08-30-23.24.12-A-warm-gentle-illustration-of-a-young-child-toddler-exhibiting-behaviors-associated-with-ADHD.-The-child-is-in-a-playful-environment-with-toys-scat-300x300.webp)
+![adhd balita](../wp-content/uploads/2024/08/DALL·E-2024-08-30-23.24.12-A-warm-gentle-illustration-of-a-young-child-toddler-exhibiting-behaviors-associated-with-ADHD.-The-child-is-in-a-playful-environment-with-toys-scat-300x300.webp)
 
 Namun, ada banyak kesalahpahaman mengenai bagaimana ADHD memengaruhi balita, yaitu anak-anak berusia di bawah lima tahun. Mengidentifikasi dan memahami ADHD pada usia dini sangat penting untuk memastikan intervensi yang tepat dan mendukung perkembangan anak secara optimal. Dalam artikel ini, kita akan membahas secara mendalam tentang ADHD pada balita, mulai dari gejala, penyebab, hingga strategi penanganan yang efektif.
 
@@ -137,11 +137,11 @@ Tingkat Energi yang Sangat Tinggi: Sementara balita pada umumnya memang aktif, b
 
 Baca juga:
 
-[Informasi tumbuh kembang anak](https://asysyams.id/informasi-tumbuh-kembang-anak/)
+[Informasi tumbuh kembang anak](../informasi-tumbuh-kembang-anak/)
 
-[Cara Gabung Frachise Sekola Asysyam](https://asysyams.id/gabung-franchise-sekolah-asy-syams/)
+[Cara Gabung Frachise Sekola Asysyam](../gabung-franchise-sekolah-asy-syams/)
 
-[Pendaftaran Anak Di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+[Pendaftaran Anak Di Asy-Syams](../pendaftaran-anak-di-asy-syams/)
 
  
 

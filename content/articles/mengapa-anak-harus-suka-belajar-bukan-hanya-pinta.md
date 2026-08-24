@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421042027/https://asysyams.id/men
 
 # Mengapa Anak Harus Suka Belajar, Bukan Hanya Pinta
 
-[Home](https://asysyams.id/) » Mengapa Anak Harus Suka Belajar, Bukan Hanya Pinta
+[Home](../) » Mengapa Anak Harus Suka Belajar, Bukan Hanya Pinta
 
 ## Di era modern ini, banyak orang tua yang bangga jika anaknya dinilai pintar—dalam arti memiliki nilai akademik tinggi
 
-![Dampak Pemaksaan Jangka Panjang bagi Murid](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_409834928_18115151257353668_5783213910175005575_n_1080-1024x1024.jpg)
+![Dampak Pemaksaan Jangka Panjang bagi Murid](../wp-content/uploads/2024/11/Snapinsta.app_409834928_18115151257353668_5783213910175005575_n_1080-1024x1024.jpg)
 
 Atau bisa menjawab soal-soal rumit di sekolah. Namun, apakah kepintaran itu sudah cukup? Jawaban jujurnya adalah belum tentu. Yang jauh lebih penting adalah membangun minat belajar dalam diri anak. Anak yang suka belajar akan memiliki fondasi kuat untuk berkembang, tidak hanya secara akademik tetapi juga secara emosional, spiritual, dan sosial.
 
@@ -38,7 +38,7 @@ Inilah mengapa penting bagi orang tua untuk tidak sekadar fokus pada nilai, teta
 Masa usia dini adalah masa emas untuk menanamkan rasa suka belajar. Pada masa ini, otak anak berkembang pesat dan sangat responsif terhadap stimulasi.
 
 Dalam Islam sendiri, pentingnya pendidikan anak usia dini telah disampaikan melalui banyak hadits dan anjuran para ulama. Untuk penjelasan lebih lengkap tentang hal ini, Anda bisa membaca artikel:
-? [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/)
+? [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/)
 
 ### 4. Orang Tua Sebagai Role Model
 
@@ -57,7 +57,7 @@ Anak yang suka belajar terbentuk dari lingkungan yang menghargai proses, bukan h
 Dalam perspektif Islam, belajar bukan hanya kewajiban, tapi juga ibadah. Bahkan wahyu pertama yang diturunkan kepada Nabi Muhammad SAW adalah “Iqra”—bacalah. Artinya, Islam sangat menekankan pentingnya ilmu pengetahuan.
 
 Mendidik anak untuk mencintai belajar berarti mengajarkannya untuk mendekatkan diri kepada Allah SWT melalui ilmu. Selain itu, ada banyak doa yang bisa dibacakan agar anak diberi kemudahan dan keberkahan dalam pendidikannya, seperti yang dijelaskan dalam artikel berikut:
-? [Doa Agar Anak Sukses Pada Pendidikannya](https://asysyams.id/doa-agar-anak-sukses-pada-pendidikannya/)
+? [Doa Agar Anak Sukses Pada Pendidikannya](../doa-agar-anak-sukses-pada-pendidikannya/)
 
 ### 7. Anak yang Suka Belajar Lebih Adaptif di Dunia Nyata
 
@@ -72,7 +72,7 @@ Anak yang suka belajar cenderung tidak puas dengan jawaban standar. Ia akan meng
 Pendidikan berbasis proyek (project-based learning), eksperimen, dan diskusi terbuka sangat membantu menumbuhkan kreativitas ini. Di sinilah peran lembaga pendidikan dan jasa di bidang pendidikan menjadi sangat vital.
 
 Sebagai tambahan referensi, Anda bisa membaca contoh-contoh jasa di bidang pendidikan yang berkembang di Indonesia, termasuk layanan inovatif yang mendorong anak mencintai proses belajar:
-? [10 Contoh Jasa di Bidang Pendidikan di Indonesia](https://asysyams.id/10-contoh-jasa-di-bidang-pendidikan-di-indonesia/)
+? [10 Contoh Jasa di Bidang Pendidikan di Indonesia](../10-contoh-jasa-di-bidang-pendidikan-di-indonesia/)
 
 ### 9. Belajar Melatih Kesabaran dan Disiplin
 

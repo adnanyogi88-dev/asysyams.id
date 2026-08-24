@@ -13,7 +13,7 @@ archive_url: "https://web.archive.org/web/20260314233840/https://asysyams.id/per
 
 ## Memahami dan mendukung perkembangan anak usia dini adalah kunci untuk membentuk dasar yang kuat bagi pertumbuhan mereka.
 
-![waralaba daycare berbasis kemitraan](https://asysyams.id/wp-content/uploads/2024/10/Art-Performance-And-Graduation-Day-at-@hotelsantikapremierekhi-with-theme-Journey-to-the-amazing-world-@odirartwork-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.harapanin-1024x682.jpg)
+![waralaba daycare berbasis kemitraan](../wp-content/uploads/2024/10/Art-Performance-And-Graduation-Day-at-@hotelsantikapremierekhi-with-theme-Journey-to-the-amazing-world-@odirartwork-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.harapanin-1024x682.jpg)
 
 Artikel ini akan membahas tantangan umum yang anak-anak hadapi di tahap ini dan solusi yang bisa kita terapkan. Merujuk pada metode yang diadopsi oleh Asy-Syams Islamic School.
 
@@ -81,7 +81,7 @@ Proses pendaftaran franchise di Asy-Syams cukup mudah. Calon mitra dapat mengunj
 
 Franchise Asy-Syams menawarkan banyak keuntungan, seperti kurikulum yang sudah teruji, dukungan promosi, serta bantuan dalam proses perizinan. Sistem franchise yang telah terstruktur dengan baik ini memungkinkan mitra untuk mengelola lembaga pendidikan yang berkualitas tinggi dengan pendekatan holistik, yang sangat orang tua apresiasi yang ingin pendidikan terbaik untuk anak-anak mereka.
 
-Untuk informasi lebih lanjut tentang bagaimana Anda bisa bergabung dengan jaringan franchise Asy-Syams, Anda bisa mengunjungi [situs resmi Asy-Syams](https://asysyams.id/gabung-franchise-sekolah-asy-syams/). Di sana, Anda akan menemukan semua yang Anda butuhkan untuk memulai bisnis pendidikan yang sukses dan bermakna.
+Untuk informasi lebih lanjut tentang bagaimana Anda bisa bergabung dengan jaringan franchise Asy-Syams, Anda bisa mengunjungi [situs resmi Asy-Syams](../gabung-franchise-sekolah-asy-syams/). Di sana, Anda akan menemukan semua yang Anda butuhkan untuk memulai bisnis pendidikan yang sukses dan bermakna.
 
 ### Kesimpulan
 

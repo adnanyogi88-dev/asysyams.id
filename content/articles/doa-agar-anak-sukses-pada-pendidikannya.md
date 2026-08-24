@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419134751/https://asysyams.id/doa
 
 # Doa Agar Anak Sukses pada Pendidikannya
 
-[Home](https://asysyams.id/) » Doa Agar Anak Sukses pada Pendidikannya
+[Home](../) » Doa Agar Anak Sukses pada Pendidikannya
 
 ## Setiap orang tua pasti mendambakan kesuksesan anaknya, khususnya dalam pendidikan.
 
-![apa itu parenting trap](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_447776788_18133017943353668_4101983140652334970_n_1080-1024x683.jpg)
+![apa itu parenting trap](../wp-content/uploads/2024/10/Snapinsta.app_447776788_18133017943353668_4101983140652334970_n_1080-1024x683.jpg)
 
 Pendidikan adalah salah satu pilar utama dalam membangun masa depan anak yang cerah. Dalam Islam, doa memiliki peran penting untuk mendukung usaha dan kerja keras manusia. Artikel ini akan membahas bagaimana doa bisa menjadi bagian dari usaha orang tua untuk memastikan keberhasilan pendidikan anak. Selain itu, artikel ini akan mengaitkan pentingnya doa dengan peluang usaha di bidang pendidikan, penguatan karakter anak sejak usia dini, dan kontribusi franchise pendidikan lokal di Indonesia.
 
@@ -49,19 +49,19 @@ Doa yang tulus harus kita sertai dengan usaha nyata. Dalam konteks pendidikan an
 
 #### Peluang Usaha di Bidang Pendidikan untuk Anak Usia Dini
 
-Artikel di [Asysyams.id](https://asysyams.id/peluang-usaha-bidang-pendidikan-untuk-anak-usia-dini/) menjelaskan bahwa pendidikan usia dini adalah fondasi penting dalam perkembangan anak. Menurut penelitian, anak yang mendapatkan pendidikan sejak dini memiliki kemampuan sosial, emosional, dan kognitif yang lebih baik.
+Artikel di [Asysyams.id](../peluang-usaha-bidang-pendidikan-untuk-anak-usia-dini/) menjelaskan bahwa pendidikan usia dini adalah fondasi penting dalam perkembangan anak. Menurut penelitian, anak yang mendapatkan pendidikan sejak dini memiliki kemampuan sosial, emosional, dan kognitif yang lebih baik.
 
 Orang tua yang memiliki semangat berwirausaha bisa memanfaatkan peluang ini dengan mendirikan lembaga pendidikan anak usia dini. Misalnya, dengan membuka taman kanak-kanak atau kursus belajar. Dengan begitu, selain mendoakan kesuksesan anak, orang tua juga bisa berkontribusi dalam membangun generasi yang cerdas.
 
 #### Penguatan Pendidikan Karakter di Sekolah
 
-Dalam artikel [Asysyams.id](https://asysyams.id/penguatan-pendidikan-karakter-di-sekolah-tk-fondasi-untuk-generasi-berkarakter/), disebutkan bahwa pendidikan karakter adalah elemen penting dalam pembentukan generasi yang berkarakter. Karakter yang kuat, seperti disiplin, tanggung jawab, dan jujur, merupakan bekal penting untuk mencapai kesuksesan di bidang akademik maupun non-akademik.
+Dalam artikel [Asysyams.id](../penguatan-pendidikan-karakter-di-sekolah-tk-fondasi-untuk-generasi-berkarakter/), disebutkan bahwa pendidikan karakter adalah elemen penting dalam pembentukan generasi yang berkarakter. Karakter yang kuat, seperti disiplin, tanggung jawab, dan jujur, merupakan bekal penting untuk mencapai kesuksesan di bidang akademik maupun non-akademik.
 
 Sebagai orang tua, mendukung pendidikan karakter di sekolah adalah salah satu cara mewujudkan doa yang dipanjatkan. Misalnya, dengan memilih sekolah yang mengintegrasikan nilai-nilai moral dan agama dalam kurikulumnya.
 
 #### Peran Franchise Pendidikan dalam Mendukung Keberhasilan Anak
 
-Indonesia memiliki banyak franchise pendidikan lokal yang menawarkan berbagai program untuk anak. Dalam artikel [Asysyams.id](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/), disebutkan lima franchise pendidikan lokal yang sukses membantu anak-anak meningkatkan kemampuan mereka, baik dalam bidang akademik maupun keterampilan lainnya.
+Indonesia memiliki banyak franchise pendidikan lokal yang menawarkan berbagai program untuk anak. Dalam artikel [Asysyams.id](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/), disebutkan lima franchise pendidikan lokal yang sukses membantu anak-anak meningkatkan kemampuan mereka, baik dalam bidang akademik maupun keterampilan lainnya.
 
 Orang tua bisa memanfaatkan layanan dari franchise ini untuk mendukung proses belajar anak. Beberapa program seperti kursus bahasa Inggris, matematika, atau pengembangan kreativitas sangat bermanfaat untuk menambah kompetensi anak di luar sekolah.
 

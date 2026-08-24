@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217003338/https://asysyams.id/tep
 
 # Tepuk Puasa Metode Edukatif untuk Anak SD dalam Memahami Ibadah Puasa
 
-[Home](https://asysyams.id/) » Tepuk Puasa Metode Edukatif untuk Anak SD dalam Memahami Ibadah Puasa
+[Home](../) » Tepuk Puasa Metode Edukatif untuk Anak SD dalam Memahami Ibadah Puasa
 
 ## Puasa merupakan salah satu rukun Islam yang wajib kita perkenalkan kepada anak-anak sejak dini.
 
-![Pendidikan dalam Perspektif Islam](https://asysyams.id/wp-content/uploads/2025/02/IMG-20250207-WA00081-80x80.jpg)
+![Pendidikan dalam Perspektif Islam](../wp-content/uploads/2025/02/IMG-20250207-WA00081-80x80.jpg)
 
 Mengajarkan konsep puasa kepada siswa Sekolah Dasar (SD) memerlukan pendekatan yang kreatif dan menyenangkan agar mereka dapat memahami dan menjalankannya dengan baik. Salah satu metode yang efektif adalah melalui “Tepuk Puasa,” sebuah permainan edukatif yang menggabungkan gerakan tepuk tangan dengan lirik yang mengajarkan nilai-nilai puasa.
 
@@ -67,7 +67,7 @@ Untuk mengoptimalkan manfaat Tepuk Puasa dalam pembelajaran, guru dapat mengikut
 
 Pendidikan Agama Islam dan Budi Pekerti memiliki peran penting dalam membentuk karakter dan moral anak. Mengajarkan nilai-nilai puasa melalui Tepuk Puasa sejalan dengan tujuan pendidikan tersebut. Dengan metode ini, anak-anak tidak hanya memahami konsep puasa secara teoritis, tetapi juga menginternalisasi nilai-nilai seperti kesabaran, kejujuran, dan disiplin.
 
-Untuk informasi lebih lanjut tentang pentingnya pendidikan agama Islam dan budi pekerti di sekolah, Anda dapat mengunjungi artikel berikut: [Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah](https://asysyams.id/pentingnya-pendidikan-agama-islam-dan-budi-pekerti-di-sekolah/)
+Untuk informasi lebih lanjut tentang pentingnya pendidikan agama Islam dan budi pekerti di sekolah, Anda dapat mengunjungi artikel berikut: [Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah](../pentingnya-pendidikan-agama-islam-dan-budi-pekerti-di-sekolah/)
 
 ## Peran Orang Tua dalam Mendukung Pembelajaran Tepuk Puasa
 
@@ -95,9 +95,9 @@ Mengajarkan puasa kepada anak-anak usia SD tentu memiliki tantangan tersendiri. 
 
 Tepuk Puasa merupakan metode edukatif yang efektif dalam membantu anak-anak memahami dan menginternalisasi konsep puasa. Melalui kombinasi gerakan, nyanyian, dan pembelajaran interaktif, anak-anak dapat belajar tentang nilai-nilai puasa dengan cara yang menyenangkan dan bermakna. Dukungan dari guru dan orang tua sangat penting dalam memastikan anak-anak dapat menjalankan puasa dengan penuh kesadaran dan kesungguhan.
 
-Sebagai referensi tambahan, Anda juga bisa membaca artikel berikut mengenai peluang bisnis pendidikan di masa depan: [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/).
+Sebagai referensi tambahan, Anda juga bisa membaca artikel berikut mengenai peluang bisnis pendidikan di masa depan: [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/).
 
-Bagi orang tua yang membutuhkan layanan penitipan anak selama bulan Ramadan, Anda dapat membaca panduan berikut: [Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/).
+Bagi orang tua yang membutuhkan layanan penitipan anak selama bulan Ramadan, Anda dapat membaca panduan berikut: [Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/).
 
 [
 WhatsApp Kami

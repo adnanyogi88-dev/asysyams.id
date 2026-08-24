@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515073959/https://asysyams.id/usi
 
 # Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat
 
-[Home](https://asysyams.id/) » Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat
+[Home](../) » Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat
 
 ## Usia dini itu umur berapa? Pertanyaan ini sering muncul di kalangan orang tua maupun pendidik.
 
-![apa itu parenting trap](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_447776788_18133017943353668_4101983140652334970_n_1080.jpg)
+![apa itu parenting trap](../wp-content/uploads/2024/10/Snapinsta.app_447776788_18133017943353668_4101983140652334970_n_1080.jpg)
 
 Secara umum, usia dini adalah periode emas dalam perkembangan anak yang biasanya mulai sejak lahir hingga sekitar usia 6 tahun. Pada fase ini, anak berada dalam masa yang sangat kritis untuk menerima berbagai rangsangan dari lingkungan sekitar. Pendidikan di usia dini memiliki dampak jangka panjang dalam pembentukan karakter, intelektual, serta emosi anak. Maka dari itu, memilih pendidikan yang tepat, seperti sekolah untuk anak usia dini, sangatlah penting.
 
@@ -43,7 +43,7 @@ Ada beberapa keuntungan yang bisa anak dapatkan melalui sekolah untuk usia dini:
 
 - Kemampuan Bersosialisasi: Di sekolah, anak akan bertemu dengan teman-teman sebayanya sehingga mereka bisa belajar bagaimana berinteraksi, bekerja sama, dan berbagi.
 
-- Meningkatkan Kemandirian: Sekolah mengajarkan anak untuk melakukan berbagai hal sendiri, seperti memakai sepatu, mencuci tangan, atau merapikan mainan. (Baca juga tentang [kiat mendidik anak agar menjadi lebih mandiri](https://asysyams.id/kiat-mendidik-anak-agar-menjadi-lebih-mandiri/).)
+- Meningkatkan Kemandirian: Sekolah mengajarkan anak untuk melakukan berbagai hal sendiri, seperti memakai sepatu, mencuci tangan, atau merapikan mainan. (Baca juga tentang [kiat mendidik anak agar menjadi lebih mandiri](../kiat-mendidik-anak-agar-menjadi-lebih-mandiri/).)
 
 - Menanamkan Rasa Tanggung Jawab: Dengan mengikuti kegiatan di sekolah, anak kita ajarkan untuk bertanggung jawab atas apa yang mereka lakukan, baik itu tugas atau perilaku sehari-hari.
 
@@ -51,9 +51,9 @@ Ada beberapa keuntungan yang bisa anak dapatkan melalui sekolah untuk usia dini:
 
 Kegiatan di sekolah usia dini biasanya meliputi berbagai macam permainan edukatif dan aktivitas fisik yang terancang untuk merangsang keterampilan motorik kasar dan halus anak. Misalnya:
 
-- Mengarang Cerita: Kegiatan ini bermanfaat untuk mengembangkan kreativitas dan kemampuan verbal anak. (Lihat juga inspirasi mengarang cerita melalui [cerita liburan sekolah untuk anak SD](https://asysyams.id/tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/).)
+- Mengarang Cerita: Kegiatan ini bermanfaat untuk mengembangkan kreativitas dan kemampuan verbal anak. (Lihat juga inspirasi mengarang cerita melalui [cerita liburan sekolah untuk anak SD](../tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/).)
 
-- Membuat Hiasan Dinding Kelas: Aktivitas ini membantu anak untuk mengasah kreativitas dan juga memberi nuansa kelas yang menyenangkan. Contohnya, membuat hiasan dinding kelas yang kreatif dan edukatif bisa menjadi proyek yang melibatkan seluruh siswa di kelas TK. (Untuk ide lebih lanjut, cek [cara membuat hiasan dinding kelas TK yang kreatif dan edukatif](https://asysyams.id/cara-membuat-hiasan-dinding-kelas-tk-yang-kreatif-dan-edukatif/).)
+- Membuat Hiasan Dinding Kelas: Aktivitas ini membantu anak untuk mengasah kreativitas dan juga memberi nuansa kelas yang menyenangkan. Contohnya, membuat hiasan dinding kelas yang kreatif dan edukatif bisa menjadi proyek yang melibatkan seluruh siswa di kelas TK. (Untuk ide lebih lanjut, cek [cara membuat hiasan dinding kelas TK yang kreatif dan edukatif](../cara-membuat-hiasan-dinding-kelas-tk-yang-kreatif-dan-edukatif/).)
 
 #### 5. Peran Orang Tua dalam Pendidikan Anak Usia Dini
 

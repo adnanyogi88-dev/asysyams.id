@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260421033226/https://asysyams.id/bag
 
 # Bagaimana Cara Menanamkan Akidah dalam Diri Seseorang Sejak Usia Dini
 
-[Home](https://asysyams.id/) » Bagaimana Cara Menanamkan Akidah dalam Diri Seseorang Sejak Usia Dini
+[Home](../) » Bagaimana Cara Menanamkan Akidah dalam Diri Seseorang Sejak Usia Dini
 
 ## Membentuk akidah sejak usia dini merupakan salah satu tugas penting yang harus orang tua berikan kepada anak-anak. Akidah,
 
@@ -19,11 +19,11 @@ Berarti dasar keyakinan dalam Islam, adalah pondasi yang kuat untuk membentuk ka
 
 ### Mengenal Usia Dini
 
-Sebelum membahas cara-cara menanamkan akidah, penting untuk memahami apa yang termaksud dengan usia dini. Menurut artikel di [Asy Syams](https://asysyams.id/usia-dini-itu-umur-berapa-mengenal-lebih-dekat/), usia dini mencakup fase perkembangan anak dari lahir hingga usia delapan tahun. Ini adalah periode golden age atau masa emas di mana perkembangan otak berlangsung sangat cepat dan anak sangat menerima pengajaran. Oleh karena itu, periode ini sangat krusial untuk menanamkan nilai-nilai dasar, termasuk akidah.
+Sebelum membahas cara-cara menanamkan akidah, penting untuk memahami apa yang termaksud dengan usia dini. Menurut artikel di [Asy Syams](../usia-dini-itu-umur-berapa-mengenal-lebih-dekat/), usia dini mencakup fase perkembangan anak dari lahir hingga usia delapan tahun. Ini adalah periode golden age atau masa emas di mana perkembangan otak berlangsung sangat cepat dan anak sangat menerima pengajaran. Oleh karena itu, periode ini sangat krusial untuk menanamkan nilai-nilai dasar, termasuk akidah.
 
 ### Memperkenalkan Rukun Islam Sejak Dini
 
-Salah satu cara efektif untuk menanamkan akidah pada anak-anak adalah dengan memperkenalkan mereka kepada Rukun Islam. Artikel dari Asy Syams menjelaskan [manfaat mengenalkan Rukun Islam sejak dini kepada anak](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/). Mengajarkan Rukun Islam tidak hanya tentang ritual ibadah saja, tetapi juga mengenalkan konsep-konsep dasar seperti keimanan kepada Allah, Rasul, dan hari akhir yang dapat membentuk dasar pemikiran dan perilaku seorang anak.
+Salah satu cara efektif untuk menanamkan akidah pada anak-anak adalah dengan memperkenalkan mereka kepada Rukun Islam. Artikel dari Asy Syams menjelaskan [manfaat mengenalkan Rukun Islam sejak dini kepada anak](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/). Mengajarkan Rukun Islam tidak hanya tentang ritual ibadah saja, tetapi juga mengenalkan konsep-konsep dasar seperti keimanan kepada Allah, Rasul, dan hari akhir yang dapat membentuk dasar pemikiran dan perilaku seorang anak.
 
 ### Membangun Lingkungan yang Mendukung
 
@@ -35,7 +35,7 @@ Pendidikan akidah tidak harus formal atau kaku. Berbagai kegiatan interaktif sep
 
 ### Mengajarkan Nilai Melalui Kewirausahaan
 
-Salah satu aspek unik yang bisa kita perkenalkan kepada anak-anak dalam konteks ini adalah nilai kewirausahaan. Seperti yang kita bahas dalam artikel [apa tujuan mengenalkan wirausaha pada anak sejak kecil](https://asysyams.id/apa-tujuan-mengenalkan-wirausaha-pada-anak-sejak-kecil/) di Asy Syams, kewirausahaan bisa mengajarkan anak nilai-nilai seperti kemandirian, inovasi, dan etika kerja. Melalui kegiatan wirausaha, anak-anak belajar membuat keputusan yang baik dan menghadapi konsekuensi dari keputusan tersebut, yang adalah bagian penting dari berakhlak baik.
+Salah satu aspek unik yang bisa kita perkenalkan kepada anak-anak dalam konteks ini adalah nilai kewirausahaan. Seperti yang kita bahas dalam artikel [apa tujuan mengenalkan wirausaha pada anak sejak kecil](../apa-tujuan-mengenalkan-wirausaha-pada-anak-sejak-kecil/) di Asy Syams, kewirausahaan bisa mengajarkan anak nilai-nilai seperti kemandirian, inovasi, dan etika kerja. Melalui kegiatan wirausaha, anak-anak belajar membuat keputusan yang baik dan menghadapi konsekuensi dari keputusan tersebut, yang adalah bagian penting dari berakhlak baik.
 
 ### Konsistensi dan Sabar
 

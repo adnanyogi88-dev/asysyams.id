@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611130708/https://asysyams.id/car
 
 # Cara Atasi Anak Susah Berteman di Sekolah
 
-[Home](https://asysyams.id/) » Cara Atasi Anak Susah Berteman di Sekolah
+[Home](../) » Cara Atasi Anak Susah Berteman di Sekolah
 
 ## Sebagai orang tua, melihat anak kesulitan berteman di sekolah bisa menjadi hal yang membuat hati cemas.
 
-![Dampak Pemaksaan Jangka Panjang bagi Murid](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_409834928_18115151257353668_5783213910175005575_n_1080-1024x1024.jpg)
+![Dampak Pemaksaan Jangka Panjang bagi Murid](../wp-content/uploads/2024/11/Snapinsta.app_409834928_18115151257353668_5783213910175005575_n_1080-1024x1024.jpg)
 
 Anak yang merasa kesepian atau tidak punya teman seringkali kehilangan kepercayaan diri dan merasa kurang nyaman di lingkungan sekolah. Namun, masalah ini sebenarnya bisa teratasi dengan pendekatan yang tepat. Artikel ini akan membahas berbagai cara mengatasi anak yang sulit berteman di sekolah, serta menghubungkannya dengan peluang di dunia pendidikan seperti franchise TK Islami yang semakin banyak peminatnya.
 

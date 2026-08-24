@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515083425/https://asysyams.id/par
 
 # Parenting Adalah: Pentingnya Membangun Karakter Anak Sejak Dini
 
-[Home](https://asysyams.id/) » Parenting Adalah: Pentingnya Membangun Karakter Anak Sejak Dini
+[Home](../) » Parenting Adalah: Pentingnya Membangun Karakter Anak Sejak Dini
 
 ## Mengasuh dan membesarkan anak bukanlah tugas yang sederhana. Di balik semua rutinitas, tantangan, dan tanggung jawab,
 
-![parenting adalah](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-27-19.24.16-A-warm-and-loving-interaction-between-a-parent-and-a-young-child-in-a-cozy-home-environment.-The-parent-is-sitting-with-the-child-on-a-soft-rug-engag-300x300.webp)
+![parenting adalah](../wp-content/uploads/2024/09/DALL·E-2024-09-27-19.24.16-A-warm-and-loving-interaction-between-a-parent-and-a-young-child-in-a-cozy-home-environment.-The-parent-is-sitting-with-the-child-on-a-soft-rug-engag-300x300.webp)
 
 terdapat suatu proses bernama parenting. Parenting adalah upaya yang orang tua lakukan  untuk membimbing dan membentuk karakter anak agar tumbuh menjadi individu yang mandiri, bertanggung jawab, dan berkepribadian baik. Dalam artikel ini, kita akan mengeksplorasi apa yang termaksud dengan parenting, mengapa ini penting, serta bagaimana orang tua bisa menjalankannya dengan efektif.
 
@@ -106,9 +106,9 @@ Franchise Asy Syams tidak hanya menawarkan pendidikan akademis, tetapi juga foku
 
 Untuk informasi lebih lanjut, Anda bisa mengunjungi:
 
-- [Bergabung dalam kemitraan sekolah Asy Syams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/)
+- [Bergabung dalam kemitraan sekolah Asy Syams](../gabung-kemitraan-sekolah-asy-syams/)
 
-- [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+- [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
 ### Penutup
 

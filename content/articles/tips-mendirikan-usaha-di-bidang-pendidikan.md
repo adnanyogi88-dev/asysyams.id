@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260121225738/https://asysyams.id/tip
 
 # Tips Mendirikan Usaha di Bidang Pendidikan
 
-[Home](https://asysyams.id/) » Tips Mendirikan Usaha di Bidang Pendidikan
+[Home](../) » Tips Mendirikan Usaha di Bidang Pendidikan
 
 ## Mendirikan usaha di bidang pendidikan bisa menjadi peluang bisnis yang sangat menjanjikan,
 
-![Tantangan Pendidikan anak di Indonesia](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_457035294_18141623854353668_3576366696611035647_n-300x225.jpg)
+![Tantangan Pendidikan anak di Indonesia](../wp-content/uploads/2024/09/ClipDown.App_457035294_18141623854353668_3576366696611035647_n-300x225.jpg)
 
 terutama di era modern saat ini di mana kebutuhan akan pendidikan berkualitas terus meningkat. Pendidikan memiliki peran penting dalam membentuk masa depan generasi penerus, sehingga usaha di bidang ini cenderung memiliki pasar yang stabil. Namun, mendirikan usaha di bidang pendidikan bukanlah hal yang mudah. Perlu perencanaan yang matang, pengetahuan yang luas tentang sistem pendidikan, serta komitmen untuk memberikan layanan terbaik.
 
@@ -29,7 +29,7 @@ Untuk usaha playgroup atau PAUD, penting untuk mengetahui usia anak yang menjadi
 
 Franchise pendidikan seperti Asy-Syams Islamic School telah melakukan riset pasar yang mendalam dan memiliki pendekatan pendidikan berbasis Islam yang banyak peminatnya oleh banyak orang tua di Indonesia. Dengan bergabung melalui sistem franchise ini, Anda bisa memanfaatkan riset pasar yang telah mereka lakukan sebagai pondasi bisnis Anda.
 
-Untuk informasi lebih lanjut mengenai peluang franchise pendidikan, Anda dapat membaca artikel ini [cara bergabung kewirausahaan TK/PAUD di Harapan Indah Bekasi](https://asysyams.id/cara-gabung-kewirausahaan-tk-paud-di-harapan-indah-bekasi/).
+Untuk informasi lebih lanjut mengenai peluang franchise pendidikan, Anda dapat membaca artikel ini [cara bergabung kewirausahaan TK/PAUD di Harapan Indah Bekasi](../cara-gabung-kewirausahaan-tk-paud-di-harapan-indah-bekasi/).
 
 ### 2. Menentukan Konsep Pendidikan
 
@@ -45,7 +45,7 @@ Mendirikan usaha pendidikan juga membutuhkan perizinan khusus. Anda perlu memast
 
 Franchise Asy-Syams Islamic School dapat membantu Anda dalam proses perizinan ini. Dengan sistem franchise, Anda akan mendapatkan panduan lengkap tentang bagaimana memenuhi persyaratan legal untuk mendirikan sekolah, mulai dari perizinan operasional hingga lisensi pendidikan yang diperlukan.
 
-Jika Anda ingin mengetahui lebih lanjut tentang biaya dan langkah-langkah mendirikan usaha playgroup di kota besar seperti Jakarta, Anda dapat mengunjungi artikel berikut [biaya mendirikan usaha playgroup di Jakarta](https://asysyams.id/biaya-mendirikan-usaha-playgroup-di-jakarta/).
+Jika Anda ingin mengetahui lebih lanjut tentang biaya dan langkah-langkah mendirikan usaha playgroup di kota besar seperti Jakarta, Anda dapat mengunjungi artikel berikut [biaya mendirikan usaha playgroup di Jakarta](../biaya-mendirikan-usaha-playgroup-di-jakarta/).
 
 ### 4. Menyusun Kurikulum yang Relevan
 
@@ -61,7 +61,7 @@ Fasilitas adalah aspek lain yang sangat penting dalam mendirikan usaha di bidang
 
 Asy-Syams Islamic School memiliki standar fasilitas yang sudah teruji dan dapat Anda jadikan acuan dalam membangun sekolah. Mereka menyediakan panduan lengkap tentang bagaimana merancang lingkungan belajar yang aman, nyaman, dan mendukung tumbuh kembang anak secara optimal.
 
-Anda juga bisa membaca lebih lanjut mengenai rekomendasi franchise playgroup terbaik di Bekasi melalui artikel ini [franchise playgroup terbaik di Harapan Indah, Bekasi](https://asysyams.id/franchise-playgroup-terbaik-di-harapan-indah-bekasi/).
+Anda juga bisa membaca lebih lanjut mengenai rekomendasi franchise playgroup terbaik di Bekasi melalui artikel ini [franchise playgroup terbaik di Harapan Indah, Bekasi](../franchise-playgroup-terbaik-di-harapan-indah-bekasi/).
 
 ### 6. Mempromosikan Usaha Pendidikan Anda
 

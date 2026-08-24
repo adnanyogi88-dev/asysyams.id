@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421032655/https://asysyams.id/keg
 
 # Kegiatan Akhir Tahun Anak TK yang Menyenangkan
 
-[Home](https://asysyams.id/) » Kegiatan Akhir Tahun Anak TK yang Menyenangkan
+[Home](../) » Kegiatan Akhir Tahun Anak TK yang Menyenangkan
 
 ## Saat tahun ajaran hampir berakhir, banyak orang tua bertanya-tanya: apa kegiatan akhir tahun TK yang menyenangkan dan bermanfaat bagi anak?
 
-![Cara Menstimulasi Perkembangan Kognitif Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
+![Cara Menstimulasi Perkembangan Kognitif Anak](../wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
 
 Di TK Asy Syams Bekasi, pertanyaan itu bukan sekadar terjawab, tetapi terwujudkan menjadi pengalaman berkesan. Melalui berbagai kegiatan kreatif, edukatif, dan interaktif, TK Asy Syams berhasil menciptakan momen tak terlupakan untuk anak-anak usia dini.
 
@@ -59,11 +59,11 @@ Dengan demikian, kegiatan akhir tahun tidak hanya menyenangkan, tetapi juga berd
 
 ### Kenapa Harus TK Asy Syams Bekasi?
 
-Sebagai salah satu [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), TK Asy Syams memiliki banyak keunggulan. Mulai dari tenaga pengajar yang kompeten, lingkungan yang aman dan nyaman, hingga kurikulum yang seimbang antara akademik dan nilai-nilai Islam.
+Sebagai salah satu [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), TK Asy Syams memiliki banyak keunggulan. Mulai dari tenaga pengajar yang kompeten, lingkungan yang aman dan nyaman, hingga kurikulum yang seimbang antara akademik dan nilai-nilai Islam.
 
 Lebih dari itu, TK Asy Syams juga menyediakan berbagai kegiatan pendukung yang dirancang untuk menstimulasi semua aspek perkembangan anak. Maka dari itu, kegiatan akhir tahun mereka pun tidak pernah membosankan.
 
-Bagi orang tua yang sedang mencari sekolah terbaik untuk anak, kini [pendaftaran anak di Asy Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/) sudah dibuka. Jangan lewatkan juga informasi lengkap di [open pendaftaran siswa TK Asysyams.id sudah dibuka, yuk daftar sekarang!](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
+Bagi orang tua yang sedang mencari sekolah terbaik untuk anak, kini [pendaftaran anak di Asy Syams](../pendaftaran-anak-di-asy-syams/) sudah dibuka. Jangan lewatkan juga informasi lengkap di [open pendaftaran siswa TK Asysyams.id sudah dibuka, yuk daftar sekarang!](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
 
 ### Penutup: Ciptakan Kenangan Manis di TK Asy Syams
 

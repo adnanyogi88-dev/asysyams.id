@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314234832/https://asysyams.id/cer
 
 # Cerita Dongeng Anak TK Putri Duyung
 
-[Home](https://asysyams.id/) » Cerita Dongeng Anak TK Putri Duyung
+[Home](../) » Cerita Dongeng Anak TK Putri Duyung
 
 ## Dongeng putri duyung telah menjadi bagian integral dari budaya dan sastra di berbagai belahan dunia, termasuk Indonesia.
 
-![](https://asysyams.id/wp-content/uploads/2024/12/DALL·E-2024-12-06-10.04.31-A-beautifully-illustrated-scene-of-a-mythical-mermaid-princess-sitting-on-a-rock-surrounded-by-a-vibrant-underwater-world.-She-has-long-flowing-hair-.webp)
+![](../wp-content/uploads/2024/12/DALL·E-2024-12-06-10.04.31-A-beautifully-illustrated-scene-of-a-mythical-mermaid-princess-sitting-on-a-rock-surrounded-by-a-vibrant-underwater-world.-She-has-long-flowing-hair-.webp)
 
 Kisah-kisah ini tidak hanya menawarkan hiburan, tetapi juga mengandung nilai-nilai moral dan pelajaran hidup yang berharga. Dalam artikel ini, kita akan menjelajahi berbagai versi dongeng putri duyung, termasuk yang berasal dari Indonesia, serta menghubungkannya dengan artikel-artikel terkait yang membahas dongeng hewan dan cerita pengantar tidur untuk anak-anak.
 
@@ -33,7 +33,7 @@ Selain itu, dalam budaya Jawa, terdapat legenda Nyi Roro Kidul, Ratu Laut Selata
 
 Baca juga:
 
-[Franchise pendidikan anak usia dini](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+[Franchise pendidikan anak usia dini](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
 ## Nilai Moral dalam Dongeng Putri Duyung
 

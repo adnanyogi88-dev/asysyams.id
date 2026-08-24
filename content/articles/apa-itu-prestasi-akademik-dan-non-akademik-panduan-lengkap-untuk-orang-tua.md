@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421050200/https://asysyams.id/apa
 
 # Apa Itu Prestasi Akademik dan Non Akademik? Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Apa Itu Prestasi Akademik dan Non Akademik? Panduan Lengkap untuk Orang Tua
+[Home](../) » Apa Itu Prestasi Akademik dan Non Akademik? Panduan Lengkap untuk Orang Tua
 
 ## Ketika orang tua mulai memikirkan masa depan pendidikan anaknya, satu hal yang pasti akan menjadi perhatian utama adalah prestasi.
 
-![Pendidikan Pranatal](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_e65c4c34-1-768x1024.jpg)
+![Pendidikan Pranatal](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_e65c4c34-1-768x1024.jpg)
 
 Tidak hanya prestasi akademik, namun juga non akademik menjadi tolok ukur penting dalam membentuk karakter dan masa depan anak. Oleh karena itu, memahami secara menyeluruh tentang apa itu prestasi akademik dan non akademik sangat penting bagi orang tua. Artikel ini akan membahas secara lengkap kedua jenis prestasi ini, serta mengapa keduanya penting dalam pendidikan anak.
 
@@ -65,7 +65,7 @@ Dengan demikian, anak yang memiliki keseimbangan antara prestasi akademik dan no
 
 Sebagai orang tua, ada banyak hal yang bisa dilakukan untuk mendukung prestasi anak, baik akademik maupun non akademik. Pertama, berikan dukungan penuh terhadap minat dan bakat anak. Kedua, sediakan waktu untuk berdiskusi mengenai kegiatan sekolah anak. Ketiga, pilih lingkungan pendidikan yang tepat.
 
-Salah satu langkah bijak adalah memilih sekolah yang tidak hanya unggul dalam kurikulum akademik, tetapi juga menyediakan fasilitas untuk pengembangan non akademik. Untuk orang tua yang sedang mencari TK Islam yang bagus di Bekasi dengan fasilitas terbaik, Anda bisa membaca [artikel lengkap ini](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) sebagai panduan.
+Salah satu langkah bijak adalah memilih sekolah yang tidak hanya unggul dalam kurikulum akademik, tetapi juga menyediakan fasilitas untuk pengembangan non akademik. Untuk orang tua yang sedang mencari TK Islam yang bagus di Bekasi dengan fasilitas terbaik, Anda bisa membaca [artikel lengkap ini](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) sebagai panduan.
 
 ### Prestasi sebagai Alat Ukur Bukan Tujuan Akhir
 
@@ -77,7 +77,7 @@ Jika orang tua terlalu menekan anak untuk berprestasi hanya demi nilai atau pial
 
 Untuk membangun fondasi prestasi sejak dini, orang tua bisa mulai dari memilih taman kanak-kanak yang tepat. Pilihlah TK yang tidak hanya fokus pada membaca dan menulis, tetapi juga menanamkan nilai-nilai sosial, moral, dan keterampilan motorik anak.
 
-Jika Anda tinggal di Bekasi dan ingin mengetahui tips memilih TK terbaik, Anda bisa membaca artikel berikut ini: [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/).
+Jika Anda tinggal di Bekasi dan ingin mengetahui tips memilih TK terbaik, Anda bisa membaca artikel berikut ini: [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/).
 
 ### Memilih Sekolah yang Seimbang: Akademik dan Non Akademik
 
@@ -85,7 +85,7 @@ Sekolah ideal bagi anak adalah sekolah yang tidak hanya menekankan akademik sema
 
 Sekolah juga sebaiknya memiliki pendekatan pembelajaran yang aktif dan menyenangkan. Anak akan lebih mudah menyerap ilmu bila proses belajar berlangsung dalam suasana yang positif.
 
-Jika Anda ingin mengeksplorasi lebih jauh mengenai dunia pendidikan yang progresif dan menyenangkan, Anda bisa melihat referensi dari [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
+Jika Anda ingin mengeksplorasi lebih jauh mengenai dunia pendidikan yang progresif dan menyenangkan, Anda bisa melihat referensi dari [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
 
 ### Kesimpulan
 

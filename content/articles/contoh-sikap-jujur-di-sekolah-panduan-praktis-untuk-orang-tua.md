@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260611140001/https://asysyams.id/con
 
 # Contoh Sikap Jujur di Sekolah: Panduan Praktis untuk Orang Tua
 
-[Home](https://asysyams.id/) » Contoh Sikap Jujur di Sekolah: Panduan Praktis untuk Orang Tua
+[Home](../) » Contoh Sikap Jujur di Sekolah: Panduan Praktis untuk Orang Tua
 
 ### Pendahuluan
 
 ## Sebagai orang tua, Anda pasti ingin anak berkembang menjadi pribadi berkarakter kuat.
 
-![Numerasi Anak](https://asysyams.id/wp-content/uploads/2025/06/Screenshot_6-1.jpg)
+![Numerasi Anak](../wp-content/uploads/2025/06/Screenshot_6-1.jpg)
 
 Salah satu nilai utama adalah kejujuran. Di lingkungan sekolah, kejujuran bukan sekadar berbicara benar, melainkan menunjukkan integritas dalam tindakan sehari-hari. Artikel ini membahas contoh sikap jujur di sekolah, memberikan panduan konkret, dan membantu Anda menerapkannya di rumah agar anak secara alami menampilkan sikap jujur.
 
@@ -141,11 +141,11 @@ Orang tua perlu memastikan anak berada di lingkungan yang mendukung kejujuran. B
 
 Cari sekolah yang menjadikan value-based education bagian dari kurikulum. Sebagai referensi:
 
-- Artikel kami tentang [pendaftaran TK: Panduan lengkap untuk orang tua]([https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)) membahas sekolah yang menekankan etika dan karakter sejak dini.
+- Artikel kami tentang [pendaftaran TK: Panduan lengkap untuk orang tua]([../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)) membahas sekolah yang menekankan etika dan karakter sejak dini.
 
-- Artikel tentang [TK Islam berkualitas di Bekasi]([https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)) membantu Anda menemukan sekolah Islam yang secara aktif menanamkan nilai kejujuran.
+- Artikel tentang [TK Islam berkualitas di Bekasi]([../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)) membantu Anda menemukan sekolah Islam yang secara aktif menanamkan nilai kejujuran.
 
-- Panduan [biaya masuk PAUD]([https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)) memaparkan bagaimana memilih PAUD dengan lingkungan mendukung karakter.
+- Panduan [biaya masuk PAUD]([../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)) memaparkan bagaimana memilih PAUD dengan lingkungan mendukung karakter.
 
 #### 4.2 Mengkomunikasikan Nilai ke Sekolah
 
@@ -225,8 +225,8 @@ LangkahTindakan1.Tegaskan bahwa kejujuran jadi prioritas utama.2.Terapkan model 
 
 ### 10. Menguatkan dengan Pilihan Sekolah yang Tepat
 
-Memilih sekolah tidak hanya soal fasilitas, tetapi juga soal budaya dan nilai karakter. Sebagaimana dijelaskan pada artikel [pendaftaran TK bulan apa? Panduan lengkap untuk orang tua]([https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)), pendidik sebaiknya sudah menerapkan nilai kejujuran sejak TK. Jika Anda di Bekasi, artikel [TK Islam yang bagus di Bekasi dengan fasilitas terbaik]([https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)) membahas institusi unggul yang menanamkan karakter ini.
-Selain itu, artikel [biaya masuk PAUD: Panduan lengkap]([https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)) menekankan pentingnya memilih PAUD yang mendukung nilai karakter serta kesiapan anak di sekolah dasar.
+Memilih sekolah tidak hanya soal fasilitas, tetapi juga soal budaya dan nilai karakter. Sebagaimana dijelaskan pada artikel [pendaftaran TK bulan apa? Panduan lengkap untuk orang tua]([../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)), pendidik sebaiknya sudah menerapkan nilai kejujuran sejak TK. Jika Anda di Bekasi, artikel [TK Islam yang bagus di Bekasi dengan fasilitas terbaik]([../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)) membahas institusi unggul yang menanamkan karakter ini.
+Selain itu, artikel [biaya masuk PAUD: Panduan lengkap]([../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)) menekankan pentingnya memilih PAUD yang mendukung nilai karakter serta kesiapan anak di sekolah dasar.
 
 ### 11. Kesimpulan
 

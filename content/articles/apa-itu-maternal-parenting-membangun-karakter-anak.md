@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611130201/https://asysyams.id/apa
 
 # Apa itu Maternal Parenting Membangun Karakter Anak
 
-[Home](https://asysyams.id/) » Apa itu Maternal Parenting Membangun Karakter Anak
+[Home](../) » Apa itu Maternal Parenting Membangun Karakter Anak
 
 ## Maternal parenting adalah gaya pengasuhan yang berpusat pada peran ibu dalam mendidik, membimbing, dan membangun karakter anak sejak dini.
 
-![Dampak Pemaksaan Jangka Panjang bagi Murid](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_409834928_18115151257353668_5783213910175005575_n_1080-1024x1024.jpg)
+![Dampak Pemaksaan Jangka Panjang bagi Murid](../wp-content/uploads/2024/11/Snapinsta.app_409834928_18115151257353668_5783213910175005575_n_1080-1024x1024.jpg)
 
 Sebagai sosok pertama yang biasanya dekat dengan anak, ibu memiliki pengaruh signifikan dalam perkembangan emosional, sosial, dan kognitif anak. Dalam artikel ini, kita akan mengeksplorasi apa itu maternal parenting, pentingnya membangun karakter anak sejak dini, serta tantangan yang orang tua hadapi dalam praktik pengasuhan ini, termasuk jebakan yang dikenal sebagai parenting trap.
 

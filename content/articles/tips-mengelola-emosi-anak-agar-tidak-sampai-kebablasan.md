@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515082617/https://asysyams.id/tip
 
 # Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan
 
-[Home](https://asysyams.id/) » Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan
+[Home](../) » Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan
 
 ## Mengelola emosi anak adalah salah satu tantangan terbesar yang dihadapi oleh orang tua.
 
-![tips mengelola emosi anak](https://asysyams.id/wp-content/uploads/2024/08/anak-durhaka_ratio-16x9-1-300x169.jpg)
+![tips mengelola emosi anak](../wp-content/uploads/2024/08/anak-durhaka_ratio-16x9-1-300x169.jpg)
 
 [sumber](https://tirto.id/)
 
@@ -51,11 +51,11 @@ Remaja (13-18 Tahun) Remaja mengalami perubahan hormonal yang dapat memengaruhi 
 
 Baca juga:
 
-[Berikut Pendidikan Inklusif untuk Anak Usia 5-10 Tahun](https://asysyams.id/berikut-pendidikan-inklusif-untuk-anak-usia-5-10-tahun/)
+[Berikut Pendidikan Inklusif untuk Anak Usia 5-10 Tahun](../berikut-pendidikan-inklusif-untuk-anak-usia-5-10-tahun/)
 
-[Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak](https://asysyams.id/pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/)
+[Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak](../pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/)
 
-[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](https://asysyams.id/berapakah-berat-badan-ideal-anak-usia-5-tahun/)
+[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](../berapakah-berat-badan-ideal-anak-usia-5-tahun/)
 
  
 

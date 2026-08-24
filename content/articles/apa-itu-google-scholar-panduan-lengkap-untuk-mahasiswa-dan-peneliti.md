@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314231710/https://asysyams.id/apa
 
 # Apa Itu Google Scholar? Panduan Lengkap untuk Mahasiswa dan Peneliti
 
-[Home](https://asysyams.id/) » Apa Itu Google Scholar? Panduan Lengkap untuk Mahasiswa dan Peneliti
+[Home](../) » Apa Itu Google Scholar? Panduan Lengkap untuk Mahasiswa dan Peneliti
 
 ## Google Scholar adalah salah satu layanan pencarian yang dikembangkan oleh Google, yang khusus untuk mencari sumber referensi akademik,
 
-![franchise sekolah asyisyam](https://asysyams.id/wp-content/uploads/2024/09/Screenshot_12.png)
+![franchise sekolah asyisyam](../wp-content/uploads/2024/09/Screenshot_12.png)
 
 Jurnal ilmiah, buku, tesis, dan dokumen penelitian lainnya. Dengan menggunakan Google Scholar, mahasiswa, peneliti, dan akademisi dapat dengan mudah menemukan berbagai publikasi ilmiah dari berbagai bidang studi.
 
@@ -89,11 +89,11 @@ Dalam dunia pendidikan, Google Scholar berguna untuk:
 
 Di Indonesia, sektor pendidikan berkembang pesat, termasuk dalam bisnis pendidikan seperti franchise lembaga pendidikan. Jika Anda tertarik dengan peluang bisnis dalam bidang pendidikan, Anda dapat membaca artikel berikut:
 
-- [Potensi Bisnis Franchise Lembaga Pendidikan di Indonesia](https://asysyams.id/potensi-bisnis-franchise-lembaga-pendidikan-di-indonesia/)
+- [Potensi Bisnis Franchise Lembaga Pendidikan di Indonesia](../potensi-bisnis-franchise-lembaga-pendidikan-di-indonesia/)
 
-- [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+- [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
-- [Waralaba di Bidang Pendidikan yang Bagus Saat Ini](https://asysyams.id/waralaba-di-bidang-pendidikan-yang-bagus-saat-ini/)
+- [Waralaba di Bidang Pendidikan yang Bagus Saat Ini](../waralaba-di-bidang-pendidikan-yang-bagus-saat-ini/)
 
 ## Kelebihan dan Kelemahan Google Scholar
 

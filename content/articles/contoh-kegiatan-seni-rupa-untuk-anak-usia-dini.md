@@ -11,15 +11,15 @@ archive_url: "https://web.archive.org/web/20260419140005/https://asysyams.id/con
 
 # Contoh Kegiatan Seni Rupa untuk Anak Usia Dini
 
-[Home](https://asysyams.id/) » Contoh Kegiatan Seni Rupa untuk Anak Usia Dini
+[Home](../) » Contoh Kegiatan Seni Rupa untuk Anak Usia Dini
 
 ## Seni rupa adalah salah satu bentuk ekspresi yang sangat penting bagi perkembangan anak usia dini.
 
-![Mengetahui Perkembangan Moral Anak](https://asysyams.id/wp-content/uploads/2025/02/Snapinst.app_467401903_930954982302738_7986070128136047747_n_1080-2-1024x1024.jpg)
+![Mengetahui Perkembangan Moral Anak](../wp-content/uploads/2025/02/Snapinst.app_467401903_930954982302738_7986070128136047747_n_1080-2-1024x1024.jpg)
 
 Melalui kegiatan seni rupa, anak-anak dapat mengembangkan kreativitas, motorik halus, serta kemampuan berpikir kritis sejak usia dini. Oleh karena itu, penting bagi orang tua dan pendidik untuk mengenalkan berbagai contoh kegiatan seni rupa yang sesuai dengan usia anak-anak. Dalam artikel ini, kita akan membahas beberapa contoh kegiatan seni rupa yang menarik dan edukatif untuk anak usia dini.
 
-Selain itu, bagi yang ingin mendirikan usaha di bidang pendidikan untuk anak usia dini, Anda dapat melihat [contoh proposal usaha bidang pendidikan](https://asysyams.id/contoh-proposal-usaha-bidang-pendidikan/) sebagai referensi untuk memulai bisnis yang berfokus pada pendidikan kreatif.
+Selain itu, bagi yang ingin mendirikan usaha di bidang pendidikan untuk anak usia dini, Anda dapat melihat [contoh proposal usaha bidang pendidikan](../contoh-proposal-usaha-bidang-pendidikan/) sebagai referensi untuk memulai bisnis yang berfokus pada pendidikan kreatif.
 
 ## Manfaat Kegiatan Seni Rupa untuk Anak Usia Dini
 
@@ -37,7 +37,7 @@ Sebelum membahas contoh-contohnya, ada baiknya kita memahami manfaat dari kegiat
 
 - Menanamkan Nilai Keindahan dan Estetika – Anak-anak belajar untuk menghargai keindahan dan estetika dalam berbagai bentuk.
 
-Pendidikan berbasis nilai Islami juga memiliki peran penting dalam pengasuhan anak sejak usia dini. Untuk memahami lebih dalam tentang hal ini, Anda bisa membaca [hadits tentang pendidikan anak usia dini dan pentingnya pendidikan berbasis nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
+Pendidikan berbasis nilai Islami juga memiliki peran penting dalam pengasuhan anak sejak usia dini. Untuk memahami lebih dalam tentang hal ini, Anda bisa membaca [hadits tentang pendidikan anak usia dini dan pentingnya pendidikan berbasis nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
 
 ## Contoh Kegiatan Seni Rupa untuk Anak Usia Dini
 
@@ -135,7 +135,7 @@ Dalam Islam, seni rupa bisa digunakan untuk mengajarkan nilai-nilai Islam kepada
 
 Selain itu, seni rupa Islami juga dapat menjadi media dalam pengajaran etika dan akhlak kepada anak. Misalnya, menggambar ilustrasi kisah-kisah Islami dengan gaya sederhana atau membuat seni mozaik bertema Islami yang mengajarkan konsep estetika dalam Islam.
 
-Pendidikan berbasis Islam juga bisa diterapkan di sekolah-sekolah tahfidz yang mengajarkan Al-Qur’an sejak dini. Jika Anda tertarik dengan model pendidikan ini, Anda bisa melihat informasi lebih lanjut mengenai [franchise sekolah tahfidz Al-Qur’an Asy-Syams](https://asysyams.id/franchise-sekolah-tahfidz-al-quran-asy-syams/).
+Pendidikan berbasis Islam juga bisa diterapkan di sekolah-sekolah tahfidz yang mengajarkan Al-Qur’an sejak dini. Jika Anda tertarik dengan model pendidikan ini, Anda bisa melihat informasi lebih lanjut mengenai [franchise sekolah tahfidz Al-Qur’an Asy-Syams](../franchise-sekolah-tahfidz-al-quran-asy-syams/).
 
 ## Kesimpulan
 

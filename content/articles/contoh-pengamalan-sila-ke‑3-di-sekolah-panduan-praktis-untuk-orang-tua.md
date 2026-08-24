@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314163417/https://asysyams.id/con
 
 # Contoh Pengamalan Sila Ke?3 di Sekolah: Panduan Praktis untuk Orang Tua
 
-[Home](https://asysyams.id/) » Contoh Pengamalan Sila Ke?3 di Sekolah: Panduan Praktis untuk Orang Tua
+[Home](../) » Contoh Pengamalan Sila Ke?3 di Sekolah: Panduan Praktis untuk Orang Tua
 
 ## Pendahuluan
 
-![](https://asysyams.id/wp-content/uploads/2025/06/Screenshot_5.jpg)
+![](../wp-content/uploads/2025/06/Screenshot_5.jpg)
 
 Mengamalkan Sila Ke?3 Pancasila, yaitu Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan, berarti menumbuhkan sikap saling menghargai, musyawarah, serta bertanggung jawab. Sekolah jadi tempat ideal untuk mengajarkan nilai tersebut. Orang tua memegang peran penting sejak awal. Artikel ini mengurai contoh praktis di sekolah, panduan orang tua memilih TK/PAUD, dan sumber tambahan melalui artikel internal.
 
@@ -91,11 +91,11 @@ Apakah sekolah punya kegiatan praktek sikap demokrasi sederhana seperti voting p
 
 Pilih TK/PAUD yang memberikan kesempatan anak jadi panitia acara kecil seperti buka bersama kelas.
 
-Untuk orang tua yang sedang mempertimbangkan kapan mendaftarkan anak ke TK, baca artikel lengkap: [pendaftaran TK bulan apa: panduan lengkap untuk orang tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
+Untuk orang tua yang sedang mempertimbangkan kapan mendaftarkan anak ke TK, baca artikel lengkap: [pendaftaran TK bulan apa: panduan lengkap untuk orang tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
 
-Jika Anda mencari rekomendasi TK Islam di Bekasi dengan fasilitas yang mendukung pengamalan Pancasila secara aktif, termasuk Sila Ke?3, silakan baca: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Jika Anda mencari rekomendasi TK Islam di Bekasi dengan fasilitas yang mendukung pengamalan Pancasila secara aktif, termasuk Sila Ke?3, silakan baca: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
-Untuk panduan biaya masuk PAUD dan persiapan lainnya, lihat juga: [biaya masuk paud: panduan lengkap untuk orang tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
+Untuk panduan biaya masuk PAUD dan persiapan lainnya, lihat juga: [biaya masuk paud: panduan lengkap untuk orang tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
 
 ## 6. Langkah Konkret Sekolah dan Orang Tua
 
@@ -163,13 +163,13 @@ Pengamalan Sila Ke?3 di sekolah tidak hanya teori, tapi bisa diwujudkan melalui 
 
 ### Tautan Bermanfaat untuk Orang Tua
 
-- [Pendaftaran TK: kapan waktu yang tepat?](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- [Pendaftaran TK: kapan waktu yang tepat?](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 Panduan lengkap bagi orang tua yang ingin mendaftarkan anak-anak ke TK.
 
-- [TK Islam di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 Rekomendasi TK Islam berkualitas di Bekasi, cocok untuk mendukung pengamalan Pancasila.
 
-- [Biaya masuk PAUD: panduan komprehensif](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- [Biaya masuk PAUD: panduan komprehensif](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 Informasi biaya masuk PAUD, langkah persiapan, dan tips ekonomis untuk orang tua.
 
 ### ? Langkah Selanjutnya

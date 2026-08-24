@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421044147/https://asysyams.id/tk-
 
 # TK dengan CCTV: Keamanan dan Kenyamanan Anak di TK Asy Syams Bekasi
 
-[Home](https://asysyams.id/) » TK dengan CCTV: Keamanan dan Kenyamanan Anak di TK Asy Syams Bekasi
+[Home](../) » TK dengan CCTV: Keamanan dan Kenyamanan Anak di TK Asy Syams Bekasi
 
 ## Mengapa Keamanan di TK Sangat Penting?
 
-![Pendidikan dalam Perspektif Islam](https://asysyams.id/wp-content/uploads/2025/02/IMG-20250207-WA00081-80x80.jpg)
+![Pendidikan dalam Perspektif Islam](../wp-content/uploads/2025/02/IMG-20250207-WA00081-80x80.jpg)
 
 Dalam era modern ini, keamanan anak menjadi prioritas utama bagi orang tua. Terlebih lagi, ketika anak mulai memasuki dunia pendidikan di Taman Kanak-Kanak (TK), kekhawatiran akan keselamatan mereka meningkat. Oleh karena itu, memilih TK dengan sistem keamanan yang baik, seperti penggunaan CCTV, menjadi pertimbangan penting.[Instagram](https://www.instagram.com/reel/C-pqOFpyBOM/?utm_source=chatgpt.com)
 
@@ -73,11 +73,11 @@ Banyak orang tua yang merasa puas dengan layanan dan pendidikan di TK Asy Syams 
 
 Bagi orang tua yang tertarik mendaftarkan anaknya di TK Asy Syams Bekasi, proses pendaftaran sangat mudah. Informasi lengkap mengenai pendaftaran dapat diakses melalui link berikut:
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- [Pendaftaran Anak di Asy Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di Asy Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Open Pendaftaran Siswa TK AsySyams.id Sudah Dibuka, Yuk Daftar Sekarang!](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK AsySyams.id Sudah Dibuka, Yuk Daftar Sekarang!](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 ## Kesimpulan
 

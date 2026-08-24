@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260207020824/https://asysyams.id/per
 
 # Perilaku Menyimpang pada Anak: Penyebab, Dampak, dan Solusi
 
-[Home](https://asysyams.id/) » Perilaku Menyimpang pada Anak: Penyebab, Dampak, dan Solusi
+[Home](../) » Perilaku Menyimpang pada Anak: Penyebab, Dampak, dan Solusi
 
 ## Perilaku menyimpang pada anak merupakan fenomena yang semakin banyak mendapat perhatian dalam masyarakat modern.
 
  
 
-![](https://asysyams.id/wp-content/uploads/2024/09/Assalamualaikum-Wr-Wb.This-is-the-Nursery-schedule-and-evaluation-activities-form-Monday-to-Thursday.Monday-English-My-Class-and-My-BodyTuesday-Art-and-CraftWednesday-Motoric-and-CognitiveThursday-Themat-240x300.jpg)
+![](../wp-content/uploads/2024/09/Assalamualaikum-Wr-Wb.This-is-the-Nursery-schedule-and-evaluation-activities-form-Monday-to-Thursday.Monday-English-My-Class-and-My-BodyTuesday-Art-and-CraftWednesday-Motoric-and-CognitiveThursday-Themat-240x300.jpg)
 
 Banyak pihak, baik orang tua, guru, maupun pemerintah, khawatir dengan meningkatnya kasus perilaku menyimpang di kalangan anak-anak. Perilaku menyimpang dapat kita definisikan sebagai perilaku yang tidak sesuai dengan norma-norma sosial yang berlaku dalam masyarakat, yang sering kali merugikan diri sendiri atau orang lain. Artikel ini akan membahas secara mendalam mengenai penyebab perilaku menyimpang pada anak, dampaknya, serta solusi yang dapat kita terapkan untuk mencegah dan mengatasi masalah ini.
 
@@ -85,11 +85,11 @@ Beberapa faktor masyarakat yang berperan dalam pembentukan perilaku menyimpang a
 
 Baca juga:
 
-[Franchise Taman Kanak-Kanak Bisnis yang Sedang Ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
+[Franchise Taman Kanak-Kanak Bisnis yang Sedang Ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
 
-[Taman Kanak-Kanak Islam Terbaik di Jakarta: TK Islam Asy-Syams](https://asysyams.id/taman-kanak-kanak-islam-terbaik-di-jakarta-tk-islam-asy-syams/)
+[Taman Kanak-Kanak Islam Terbaik di Jakarta: TK Islam Asy-Syams](../taman-kanak-kanak-islam-terbaik-di-jakarta-tk-islam-asy-syams/)
 
-[Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif](https://asysyams.id/anak-anda-nakal-begini-cara-mengatasinya-dengan-efektif/)
+[Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif](../anak-anda-nakal-begini-cara-mengatasinya-dengan-efektif/)
 
 ###  
 

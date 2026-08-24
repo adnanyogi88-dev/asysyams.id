@@ -11,15 +11,15 @@ archive_url: "https://web.archive.org/web/20251008061855/https://asysyams.id/con
 
 # Contoh & Cara Mengisi Narasi Rapor PAUD Kurikulum Merdeka di TK Islam AsySyams
 
-[Home](https://asysyams.id/) » Contoh & Cara Mengisi Narasi Rapor PAUD Kurikulum Merdeka di TK Islam AsySyams
+[Home](../) » Contoh & Cara Mengisi Narasi Rapor PAUD Kurikulum Merdeka di TK Islam AsySyams
 
 ## Pentingnya Rapor pada PAUD
 
-![Artikel ini akan membahas berbagai sifat yang umumnya termiliki oleh anak-anak yang lahir di bulan Ramadhan](https://asysyams.id/wp-content/uploads/2025/02/Snapinst.app_468440040_1774420966633874_7917243912841489497_n_1080-1-1024x1024.jpg)
+![Artikel ini akan membahas berbagai sifat yang umumnya termiliki oleh anak-anak yang lahir di bulan Ramadhan](../wp-content/uploads/2025/02/Snapinst.app_468440040_1774420966633874_7917243912841489497_n_1080-1-1024x1024.jpg)
 
 Rapor pada Pendidikan Anak Usia Dini (PAUD) bukan sekadar dokumen administratif, melainkan laporan capaian pembelajaran yang menggambarkan pertumbuhan, perkembangan, dan pencapaian anak. Di TK Islam AsySyams, rapor menjadi jembatan komunikasi antara guru dan orang tua, agar perkembangan anak dapat dipantau bersama serta ditindaklanjuti di rumah.
 
-Rapor PAUD Kurikulum Merdeka memuat identitas peserta didik, data pertumbuhan anak, deskripsi capaian pembelajaran, serta refleksi orang tua. Hal ini sejalan dengan fungsi sekolah sebagai institusi pendidikan yang tidak hanya mengajarkan ilmu, tetapi juga membentuk karakter dan akhlak anak sejak dini. (Baca juga: [Apa Itu Institusi Pendidikan? Penjelasan Lengkap Fungsi dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/))
+Rapor PAUD Kurikulum Merdeka memuat identitas peserta didik, data pertumbuhan anak, deskripsi capaian pembelajaran, serta refleksi orang tua. Hal ini sejalan dengan fungsi sekolah sebagai institusi pendidikan yang tidak hanya mengajarkan ilmu, tetapi juga membentuk karakter dan akhlak anak sejak dini. (Baca juga: [Apa Itu Institusi Pendidikan? Penjelasan Lengkap Fungsi dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/))
 
 ## Cara Mengisi Narasi Rapor PAUD
 
@@ -41,7 +41,7 @@ Guru mengajak orang tua untuk mengisi lembar refleksi. Orang tua dapat berbagi p
 
 TK Islam AsySyams menekankan pentingnya komunikasi dua arah dengan orang tua. Guru biasanya menyiapkan portofolio hasil karya anak untuk ditunjukkan saat pertemuan. Cara ini membuat orang tua lebih mudah memahami perkembangan anak secara visual.
 
-Selain itu, guru juga menyampaikan progres anak dengan cara positif, lalu berdiskusi bersama orang tua mengenai cara mendukung capaian pembelajaran anak di rumah. Salah satunya bisa melalui pembiasaan membaca cerita islami yang mendukung nilai-nilai moral dan spiritual anak. (Simak juga: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/))
+Selain itu, guru juga menyampaikan progres anak dengan cara positif, lalu berdiskusi bersama orang tua mengenai cara mendukung capaian pembelajaran anak di rumah. Salah satunya bisa melalui pembiasaan membaca cerita islami yang mendukung nilai-nilai moral dan spiritual anak. (Simak juga: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/))
 
 ## Contoh Narasi Rapor PAUD di TK Islam AsySyams
 
@@ -61,7 +61,7 @@ Berikut beberapa contoh narasi capaian pembelajaran anak yang dapat digunakan:
 
 ## Peran TK Islam AsySyams dalam Laporan Capaian Pembelajaran
 
-Sebagai salah satu [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), TK Islam AsySyams mendesain rapor bukan hanya untuk menilai akademik, melainkan juga menumbuhkan akhlak mulia, kemandirian, dan rasa percaya diri pada anak.
+Sebagai salah satu [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), TK Islam AsySyams mendesain rapor bukan hanya untuk menilai akademik, melainkan juga menumbuhkan akhlak mulia, kemandirian, dan rasa percaya diri pada anak.
 
 Guru-guru di AsySyams berkomitmen menyajikan narasi rapor yang informatif, sederhana, dan bermanfaat, sehingga orang tua dapat memahami kelebihan anak sekaligus membantu mendukung perkembangan mereka di rumah.
 

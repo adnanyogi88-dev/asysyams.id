@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217001614/https://asysyams.id/bio
 
 # Biografi Menteri Pendidikan Sekarang Prof. Abdul Mu’ti
 
-[Home](https://asysyams.id/) » Biografi Menteri Pendidikan Sekarang Prof. Abdul Mu’ti
+[Home](../) » Biografi Menteri Pendidikan Sekarang Prof. Abdul Mu’ti
 
 ## Biografi Menteri Pendidikan Sekarang Prof. Dr. Abdul Mu’ti, M.Ed., lahir pada 2 September 1968 di Kudus, Jawa Tengah.
 
-![menteri pendidikan sekarang](https://asysyams.id/wp-content/uploads/2024/11/Abdul_Muti_Menteri_Pendidikan_Dasar_dan_Menengah_2024-231x300.jpg)
+![menteri pendidikan sekarang](../wp-content/uploads/2024/11/Abdul_Muti_Menteri_Pendidikan_Dasar_dan_Menengah_2024-231x300.jpg)
 
 Saat ini, beliau berusia 56 tahun. Beliau menjabat sebagai Menteri Pendidikan Dasar dan Menengah Indonesia sejak 21 Oktober 2024.
 

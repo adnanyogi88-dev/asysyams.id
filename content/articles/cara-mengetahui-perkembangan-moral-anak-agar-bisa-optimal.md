@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260513140441/https://asysyams.id/car
 
 # Cara Mengetahui Perkembangan Moral Anak Agar Bisa Optimal
 
-[Home](https://asysyams.id/) » Cara Mengetahui Perkembangan Moral Anak Agar Bisa Optimal
+[Home](../) » Cara Mengetahui Perkembangan Moral Anak Agar Bisa Optimal
 
 ## Perkembangan moral anak merupakan aspek penting yang perlu diperhatikan oleh orang tua dan pendidik.
 
-![Mengetahui Perkembangan Moral Anak](https://asysyams.id/wp-content/uploads/2025/02/Snapinst.app_467401903_930954982302738_7986070128136047747_n_1080-2-1024x1024.jpg)
+![Mengetahui Perkembangan Moral Anak](../wp-content/uploads/2025/02/Snapinst.app_467401903_930954982302738_7986070128136047747_n_1080-2-1024x1024.jpg)
 
 Moralitas tidak hanya berkaitan dengan perilaku baik dan buruk, tetapi juga mencakup nilai-nilai, empati, tanggung jawab, dan kemampuan anak untuk berinteraksi dengan lingkungan sekitarnya. Dalam konteks pendidikan, terutama pendidikan Islam, perkembangan moral anak menjadi fokus utama karena agama Islam menekankan pentingnya akhlak mulia sebagai pondasi kehidupan. Artikel ini akan membahas cara mengetahui perkembangan moral anak dan menghubungkannya dengan peran lembaga pendidikan Islam seperti yang terjelaskan dalam artikel-artikel dari Asysyams.id.
 

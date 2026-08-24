@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217002050/https://asysyams.id/mew
 
 # Mewarnai Gambar Bencana Banjir: Edukasi Kreatif untuk Anak Usia Dini
 
-[Home](https://asysyams.id/) » Mewarnai Gambar Bencana Banjir: Edukasi Kreatif untuk Anak Usia Dini
+[Home](../) » Mewarnai Gambar Bencana Banjir: Edukasi Kreatif untuk Anak Usia Dini
 
 ## Mewarnai gambar bukan sekadar kegiatan menyenangkan.
 
-![Mengetahui Perkembangan Moral Anak](https://asysyams.id/wp-content/uploads/2025/02/Snapinst.app_467401903_930954982302738_7986070128136047747_n_1080-2-1024x1024.jpg)
+![Mengetahui Perkembangan Moral Anak](../wp-content/uploads/2025/02/Snapinst.app_467401903_930954982302738_7986070128136047747_n_1080-2-1024x1024.jpg)
 
 Dalam dunia pendidikan anak usia dini, aktivitas ini bisa menjadi sarana pembelajaran yang efektif. Salah satu tema yang bisa berguna adalah mewarnai gambar bencana banjir. Melalui tema ini, anak-anak dapat belajar memahami fenomena alam sambil melatih keterampilan motorik halus mereka.
 
@@ -45,7 +45,7 @@ Banyak orang tua kini sadar bahwa pembelajaran tidak hanya terjadi di sekolah. M
 
 ### Integrasi Kurikulum PAUD dan TK
 
-Lembaga PAUD dan TK seperti [Asy Syams](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) telah mengintegrasikan pembelajaran berbasis tema ke dalam kurikulum mereka. Oleh karena itu, tema bencana banjir sangat relevan. Gambar-gambar yang digunakan bisa dimodifikasi sesuai kebutuhan pembelajaran di sekolah.
+Lembaga PAUD dan TK seperti [Asy Syams](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) telah mengintegrasikan pembelajaran berbasis tema ke dalam kurikulum mereka. Oleh karena itu, tema bencana banjir sangat relevan. Gambar-gambar yang digunakan bisa dimodifikasi sesuai kebutuhan pembelajaran di sekolah.
 
 ### Melatih Motorik Halus dan Fokus
 
@@ -91,7 +91,7 @@ Ketika anak mewarnai gambar orang membantu korban banjir, mereka mulai memahami 
 
 ### Pendaftaran Sekolah yang Mendukung Kreativitas Anak
 
-Jika Anda mencari sekolah yang mendukung metode belajar kreatif seperti ini, Anda bisa mempertimbangkan TK atau PAUD Asy Syams. [Klik di sini untuk pendaftaran PAUD](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/), [daftar anak sekarang juga](https://asysyams.id/pendaftaran-anak-di-asy-syams/), atau lihat [info lengkap pendaftaran TK Asy Syams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
+Jika Anda mencari sekolah yang mendukung metode belajar kreatif seperti ini, Anda bisa mempertimbangkan TK atau PAUD Asy Syams. [Klik di sini untuk pendaftaran PAUD](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/), [daftar anak sekarang juga](../pendaftaran-anak-di-asy-syams/), atau lihat [info lengkap pendaftaran TK Asy Syams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
 
 ### Penutup: Edukasi yang Menyenangkan dan Bermakna
 

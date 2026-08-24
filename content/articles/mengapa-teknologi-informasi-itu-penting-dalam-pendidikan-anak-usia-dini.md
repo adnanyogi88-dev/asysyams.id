@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421045719/https://asysyams.id/men
 
 # Mengapa Teknologi Informasi Itu Penting dalam Pendidikan Anak Usia Dini?
 
-[Home](https://asysyams.id/) » Mengapa Teknologi Informasi Itu Penting dalam Pendidikan Anak Usia Dini?
+[Home](../) » Mengapa Teknologi Informasi Itu Penting dalam Pendidikan Anak Usia Dini?
 
 ## Di era serba digital seperti sekarang, setiap orang tua tentu ingin memberikan yang terbaik untuk anaknya.
 
-![Nama Anak Laki-Laki](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_445360894_18133018432353668_4764748328340477896_n_1080-1024x683.jpg)
+![Nama Anak Laki-Laki](../wp-content/uploads/2024/11/Snapinsta.app_445360894_18133018432353668_4764748328340477896_n_1080-1024x683.jpg)
 
 Apalagi bagi anak-anak usia dini yang sedang dalam masa emas pertumbuhan. Karena itu, penting bagi kita untuk memahami mengapa teknologi informasi itu penting, khususnya dalam dunia pendidikan anak.
 
@@ -31,7 +31,7 @@ Tidak hanya guru yang terbantu dengan teknologi. Orang tua juga bisa lebih terli
 
 Bila Anda ingin mencari sekolah yang mendukung konsep pendidikan berbasis teknologi dan pendekatan personal, TK AsySyams menawarkan sistem yang menyatu antara edukasi dan teknologi modern. Maka, Anda tidak perlu bingung mencari tempat yang seimbang antara kasih sayang, teknologi, dan nilai-nilai keislaman.
 
-? Baca juga: [Waralaba Daycare Berbasis Kemitraan – Peluang Bisnis dan Dukungan Tumbuh Kembang Anak](https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/)
+? Baca juga: [Waralaba Daycare Berbasis Kemitraan – Peluang Bisnis dan Dukungan Tumbuh Kembang Anak](../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/)
 
 #### Mengapa Penting Bagi Sekolah Seperti TK AsySyams?
 
@@ -39,7 +39,7 @@ Sebagai lembaga pendidikan anak usia dini, TK AsySyams sangat memahami bahwa tek
 
 Di samping itu, sekolah juga memanfaatkan sistem informasi untuk manajemen data siswa, presensi, hingga laporan evaluasi perkembangan anak. Jadi, teknologi tidak hanya hadir di ruang kelas, tetapi juga mendukung administrasi dan transparansi kepada orang tua.
 
-? Lihat juga: [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+? Lihat juga: [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
 #### Bagaimana Teknologi Bisa Membantu Anda Memilih Sekolah?
 
@@ -47,7 +47,7 @@ Sering kali, orang tua bingung memilih sekolah terbaik untuk anak. Namun, dengan
 
 Misalnya, TK AsySyams menyediakan informasi lengkap melalui website dan kanal digital lainnya. Anda bahkan bisa mengakses estimasi biaya serta program pendidikan yang ditawarkan secara transparan.
 
-? Pelajari lebih lanjut: [Estimasi Biaya Penitipan Anak di Jakarta – Panduan Lengkap untuk Orang Tua](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/)
+? Pelajari lebih lanjut: [Estimasi Biaya Penitipan Anak di Jakarta – Panduan Lengkap untuk Orang Tua](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/)
 
 #### Kesimpulan: Jangan Takut Teknologi, Jadikan Sahabat Anak Anda
 

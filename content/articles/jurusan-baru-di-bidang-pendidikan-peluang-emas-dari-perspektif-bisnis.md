@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314175630/https://asysyams.id/jur
 
 # Jurusan Baru di Bidang Pendidikan: Peluang Emas dari Perspektif Bisnis
 
-[Home](https://asysyams.id/) » Jurusan Baru di Bidang Pendidikan: Peluang Emas dari Perspektif Bisnis
+[Home](../) » Jurusan Baru di Bidang Pendidikan: Peluang Emas dari Perspektif Bisnis
 
 ## Dalam era yang terus berubah, dunia pendidikan bergerak cepat mengikuti perkembangan zaman.
 
-![Cara Menstimulasi Perkembangan Kognitif Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
+![Cara Menstimulasi Perkembangan Kognitif Anak](../wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
 
 Maka dari itu, jurusan-jurusan baru di bidang pendidikan muncul sebagai respons terhadap kebutuhan industri dan masyarakat. Oleh sebab itu, pelaku bisnis wajib memandang fenomena ini sebagai peluang emas untuk menciptakan inovasi dan membuka lini usaha baru.
 
@@ -29,15 +29,15 @@ Seluruh dunia usaha saat ini menuntut tenaga kerja dengan kompetensi yang releva
 
 ## Transformasi Lembaga Pendidikan Jadi Peluang Usaha
 
-Apabila lembaga pendidikan menambahkan jurusan-jurusan baru, maka mereka secara otomatis membuka potensi bisnis baru. Misalnya, layanan konsultan pendidikan, penerbitan bahan ajar digital, serta pelatihan pengajar untuk jurusan baru. Dalam konteks ini, artikel [Contoh Proposal Usaha Bidang Pendidikan](https://asysyams.id/contoh-proposal-usaha-bidang-pendidikan/) memberikan gambaran rinci bagaimana memulai usaha di sektor tersebut.
+Apabila lembaga pendidikan menambahkan jurusan-jurusan baru, maka mereka secara otomatis membuka potensi bisnis baru. Misalnya, layanan konsultan pendidikan, penerbitan bahan ajar digital, serta pelatihan pengajar untuk jurusan baru. Dalam konteks ini, artikel [Contoh Proposal Usaha Bidang Pendidikan](../contoh-proposal-usaha-bidang-pendidikan/) memberikan gambaran rinci bagaimana memulai usaha di sektor tersebut.
 
 ## Menyambut Era Franchise Pendidikan
 
-Lebih lanjut, jurusan baru juga mendorong lahirnya model waralaba pendidikan berbasis keahlian terkini. Misalnya, lembaga kursus berbasis coding untuk anak-anak atau pelatihan AI untuk guru. Sebagai referensi, Anda bisa melihat [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) yang membuktikan bahwa inovasi di sektor ini berkembang pesat.
+Lebih lanjut, jurusan baru juga mendorong lahirnya model waralaba pendidikan berbasis keahlian terkini. Misalnya, lembaga kursus berbasis coding untuk anak-anak atau pelatihan AI untuk guru. Sebagai referensi, Anda bisa melihat [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) yang membuktikan bahwa inovasi di sektor ini berkembang pesat.
 
 ## Hubungan Erat antara Jurusan Baru dan Pembelajaran
 
-Sangat penting untuk memahami konsep pembelajaran sebagai inti dari setiap jurusan. Ketika lembaga menyusun jurusan baru, mereka harus memastikan bahwa pendekatan belajarnya relevan, kontekstual, dan aplikatif. Untuk memperdalam pemahaman, silakan telaah artikel [Perbedaan Belajar, Mengajar, dan Pembelajaran](https://asysyams.id/perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/) yang sangat bermanfaat.
+Sangat penting untuk memahami konsep pembelajaran sebagai inti dari setiap jurusan. Ketika lembaga menyusun jurusan baru, mereka harus memastikan bahwa pendekatan belajarnya relevan, kontekstual, dan aplikatif. Untuk memperdalam pemahaman, silakan telaah artikel [Perbedaan Belajar, Mengajar, dan Pembelajaran](../perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/) yang sangat bermanfaat.
 
 ## Rekomendasi Jurusan Baru Paling Potensial
 

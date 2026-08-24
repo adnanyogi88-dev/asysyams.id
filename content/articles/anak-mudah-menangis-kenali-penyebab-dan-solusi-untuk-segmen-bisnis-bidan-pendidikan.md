@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216233934/https://asysyams.id/ana
 
 # Anak Mudah Menangis? Kenali Penyebab dan Solusi untuk Segmen Bisnis Bidan Pendidikan
 
-[Home](https://asysyams.id/) » Anak Mudah Menangis? Kenali Penyebab dan Solusi untuk Segmen Bisnis Bidan Pendidikan
+[Home](../) » Anak Mudah Menangis? Kenali Penyebab dan Solusi untuk Segmen Bisnis Bidan Pendidikan
 
 ## Menghadapi anak yang mudah menangis memang sering kali membuat orang tua merasa khawatir.
 
-![Skema Bisnis Franchise](https://asysyams.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-01-18-at-09.59.31-1024x1024.webp)
+![Skema Bisnis Franchise](../wp-content/uploads/2024/10/WhatsApp-Image-2025-01-18-at-09.59.31-1024x1024.webp)
 
 Namun, situasi ini juga memberikan peluang emas bagi para pelaku bisnis di bidang bidan pendidikan. Artikel ini akan membahas secara menyeluruh mengapa anak mudah menangis, bagaimana para bidan dapat memberikan solusi, dan bagaimana bisnis Anda bisa tumbuh pesat dengan memahami fenomena ini. Mari kita jelajahi bersama langkah demi langkah!
 

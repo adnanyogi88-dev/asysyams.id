@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314174119/https://asysyams.id/mot
 
 # Motto Pendidikan Islami Menanam Nilai-nilai dalam Bisnis dan Kehidupan
 
-[Home](https://asysyams.id/) » Motto Pendidikan Islami Menanam Nilai-nilai dalam Bisnis dan Kehidupan
+[Home](../) » Motto Pendidikan Islami Menanam Nilai-nilai dalam Bisnis dan Kehidupan
 
 ## Pendidikan Islami bukan hanya tentang mempelajari ajaran agama, tetapi juga bagaimana nilai-nilai Islam
 
-![waralaba pendidikan tk](https://asysyams.id/wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-80x80.jpg)
+![waralaba pendidikan tk](../wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-80x80.jpg)
 
 Terterapkan dalam kehidupan sehari-hari, termasuk dalam dunia bisnis. Motto pendidikan Islami menjadi landasan penting dalam mencetak generasi yang cerdas dan berimu, tetapi juga berakhlak mulia. Dalam konteks ini, bisnis pendidikan Islami melalui model franchise menjadi salah satu inovasi yang relevan untuk menjawab kebutuhan zaman.
 
@@ -27,7 +27,7 @@ Dengan motto-motto Islami seperti “Al-ilmu nurun” (ilmu adalah cahaya), lemb
 
 ### Franchise Lembaga Pendidikan Islami di Indonesia
 
-Artikel dari Asysyams.id, “[Potensi Bisnis Franchise Lembaga Pendidikan di Indonesia](https://asysyams.id/potensi-bisnis-franchise-lembaga-pendidikan-di-indonesia/),” menjelaskan bahwa model bisnis franchise pendidikan Islami memiliki potensi besar. Dengan meningkatnya kesadaran masyarakat terhadap pentingnya pendidikan berbasis nilai-nilai Islam, peluang ini semakin terbuka lebar.
+Artikel dari Asysyams.id, “[Potensi Bisnis Franchise Lembaga Pendidikan di Indonesia](../potensi-bisnis-franchise-lembaga-pendidikan-di-indonesia/),” menjelaskan bahwa model bisnis franchise pendidikan Islami memiliki potensi besar. Dengan meningkatnya kesadaran masyarakat terhadap pentingnya pendidikan berbasis nilai-nilai Islam, peluang ini semakin terbuka lebar.
 
 Lembaga pendidikan Islami yang mengadopsi model franchise memiliki keunggulan karena membawa standar yang sudah teruji. Motto pendidikan Islami, seperti “Khairunnas anfa’uhum linnas” (sebaik-baik manusia adalah yang paling bermanfaat bagi sesamanya), menjadi panduan operasional yang membedakan lembaga ini dari pesaing lainnya.
 
@@ -41,13 +41,13 @@ Lembaga pendidikan Islami yang mengadopsi model franchise memiliki keunggulan ka
 
 ### Tren Usaha Franchise Pendidikan pada 2025
 
-Menurut artikel “[Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/),” tren ini diprediksi akan terus berkembang pesat. Teknologi akan memainkan peran penting dalam mendukung pendidikan Islami. Misalnya, penggunaan platform digital untuk pembelajaran jarak jauh dengan pendekatan Islami akan semakin diminati.
+Menurut artikel “[Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/),” tren ini diprediksi akan terus berkembang pesat. Teknologi akan memainkan peran penting dalam mendukung pendidikan Islami. Misalnya, penggunaan platform digital untuk pembelajaran jarak jauh dengan pendekatan Islami akan semakin diminati.
 
 Selain itu, masyarakat akan lebih selektif dalam memilih lembaga pendidikan. Faktor seperti motto yang jelas dan konsisten dengan nilai-nilai Islam akan menjadi salah satu indikator utama. Hal ini menegaskan pentingnya menciptakan motto yang tidak hanya menarik, tetapi juga mencerminkan esensi pendidikan Islami.
 
 ### Mengintegrasikan Pendidikan Islami dalam Kehidupan Sehari-hari
 
-Pendidikan Islami tidak hanya berhenti di ruang kelas. Artikel “[Cara Mendidik Anak Balita Secara Islami](https://asysyams.id/cara-mendidik-anak-balita-secara-islami/)” memberikan gambaran tentang bagaimana nilai-nilai Islam dapat diterapkan sejak dini. Motto seperti “Al-adabu fauqal ilmi” (adab di atas ilmu) mengajarkan bahwa pendidikan karakter harus menjadi prioritas utama.
+Pendidikan Islami tidak hanya berhenti di ruang kelas. Artikel “[Cara Mendidik Anak Balita Secara Islami](../cara-mendidik-anak-balita-secara-islami/)” memberikan gambaran tentang bagaimana nilai-nilai Islam dapat diterapkan sejak dini. Motto seperti “Al-adabu fauqal ilmi” (adab di atas ilmu) mengajarkan bahwa pendidikan karakter harus menjadi prioritas utama.
 
 #### Praktik Pendidikan Islami untuk Anak Balita:
 

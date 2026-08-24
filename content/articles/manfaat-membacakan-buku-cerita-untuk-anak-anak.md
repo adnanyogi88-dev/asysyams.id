@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421033758/https://asysyams.id/man
 
 # Manfaat Membacakan Buku Cerita untuk Anak-Anak
 
-[Home](https://asysyams.id/) » Manfaat Membacakan Buku Cerita untuk Anak-Anak
+[Home](../) » Manfaat Membacakan Buku Cerita untuk Anak-Anak
 
 ## Buku cerita anak-anak adalah karya sastra yang tertulis dan terrancang khusus untuk memenuhi kebutuhan dan daya tangkap anak-anak.
 
-![membacakan buku anak-anak](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-03-21.38.39-A-cozy-scene-of-a-child-reading-a-colorful-childrens-storybook-surrounded-by-soft-pillows-and-plush-toys.-The-child-is-sitting-cross-legged-on-the-f-300x300.webp)
+![membacakan buku anak-anak](../wp-content/uploads/2024/09/DALL·E-2024-09-03-21.38.39-A-cozy-scene-of-a-child-reading-a-colorful-childrens-storybook-surrounded-by-soft-pillows-and-plush-toys.-The-child-is-sitting-cross-legged-on-the-f-300x300.webp)
 
 Biasanya, buku-buku ini terpenuhi dengan ilustrasi yang menarik dan bahasa yang sederhana sehingga mudah anak-anak pahami. Namun, buku cerita anak-anak bukan hanya sekadar hiburan; mereka adalah alat yang sangat berharga dalam mendidik dan mengembangkan anak-anak.
 

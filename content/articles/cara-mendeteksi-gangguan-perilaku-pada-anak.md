@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314165659/https://asysyams.id/car
 
 # Cara Mendeteksi Gangguan Perilaku pada Anak
 
-[Home](https://asysyams.id/) » Cara Mendeteksi Gangguan Perilaku pada Anak
+[Home](../) » Cara Mendeteksi Gangguan Perilaku pada Anak
 
 ## Gangguan perilaku pada anak merupakan masalah yang bisa memengaruhi perkembangan emosional, sosial, dan akademis mereka.
 
-![daycare multi lingual](https://asysyams.id/wp-content/uploads/2024/10/Mom-your-my-sunshine-1024x1024.jpg)
+![daycare multi lingual](../wp-content/uploads/2024/10/Mom-your-my-sunshine-1024x1024.jpg)
 
 Memahami tanda-tanda gangguan perilaku sejak dini sangat penting agar penanganannya dapat dilakukan dengan cepat dan tepat. Artikel ini akan membahas cara mendeteksi gangguan perilaku pada anak dan menghubungkannya dengan pentingnya tumbuh kembang anak, manfaat membaca sholawat, serta peluang franchise pendidikan usia dini.
 
@@ -61,13 +61,13 @@ Jika beberapa tanda di atas muncul secara konsisten dan mengganggu aktivitas seh
 
 ## Dukungan dalam Tumbuh Kembang Anak
 
-Seiring dengan deteksi dini gangguan perilaku, mendukung tumbuh kembang anak menjadi hal yang sangat penting. Menurut artikel [Informasi Tumbuh Kembang Anak](https://asysyams.id/informasi-tumbuh-kembang-anak/), stimulasi yang sesuai pada setiap tahap perkembangan anak dapat membantu mereka mencapai potensi maksimal.
+Seiring dengan deteksi dini gangguan perilaku, mendukung tumbuh kembang anak menjadi hal yang sangat penting. Menurut artikel [Informasi Tumbuh Kembang Anak](../informasi-tumbuh-kembang-anak/), stimulasi yang sesuai pada setiap tahap perkembangan anak dapat membantu mereka mencapai potensi maksimal.
 
 Penting untuk memperhatikan aspek kognitif, fisik, dan emosional anak. Aktivitas seperti bermain, belajar, dan berinteraksi dengan teman sebaya adalah bagian penting dari proses ini.
 
 ## Manfaat Membaca Sholawat untuk Anak
 
-Artikel [Keutamaan Membaca Sholawat Nuridzati untuk Si Kecil](https://asysyams.id/keutamaan-membaca-sholawat-nuridzati-untuk-si-kecil/) menyebutkan bahwa membaca sholawat memiliki efek positif dalam membentuk karakter dan ketenangan hati anak. Membiasakan anak mendengar dan membaca sholawat bisa menjadi terapi emosional yang menenangkan.
+Artikel [Keutamaan Membaca Sholawat Nuridzati untuk Si Kecil](../keutamaan-membaca-sholawat-nuridzati-untuk-si-kecil/) menyebutkan bahwa membaca sholawat memiliki efek positif dalam membentuk karakter dan ketenangan hati anak. Membiasakan anak mendengar dan membaca sholawat bisa menjadi terapi emosional yang menenangkan.
 
 Manfaat membaca sholawat bagi anak:
 
@@ -79,7 +79,7 @@ Manfaat membaca sholawat bagi anak:
 
 ## Pentingnya Pendidikan Usia Dini
 
-Seperti dijelaskan dalam artikel [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/), pendidikan anak usia dini adalah investasi penting untuk membentuk fondasi kehidupan mereka.
+Seperti dijelaskan dalam artikel [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/), pendidikan anak usia dini adalah investasi penting untuk membentuk fondasi kehidupan mereka.
 
 Mengapa pendidikan usia dini penting?
 
@@ -89,7 +89,7 @@ Mengapa pendidikan usia dini penting?
 
 - Penanaman Moral: Anak belajar nilai-nilai moral seperti kejujuran, tanggung jawab, dan empati.
 
-[Potensi Franchise Pendidikan Usia Dini](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/): Membuka usaha franchise pendidikan anak usia dini bisa menjadi solusi dalam menyediakan layanan pendidikan berkualitas sekaligus peluang bisnis yang menguntungkan.
+[Potensi Franchise Pendidikan Usia Dini](../tren-usaha-franchise-2025-di-bidang-pendidikan/): Membuka usaha franchise pendidikan anak usia dini bisa menjadi solusi dalam menyediakan layanan pendidikan berkualitas sekaligus peluang bisnis yang menguntungkan.
 
 ## Kesimpulan
 

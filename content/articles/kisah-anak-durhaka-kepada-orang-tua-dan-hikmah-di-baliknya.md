@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207010940/https://asysyams.id/kis
 
 # Kisah Anak Durhaka kepada Orang Tua dan Hikmah di Baliknya
 
-[Home](https://asysyams.id/) » Kisah Anak Durhaka kepada Orang Tua dan Hikmah di Baliknya
+[Home](../) » Kisah Anak Durhaka kepada Orang Tua dan Hikmah di Baliknya
 
 ## Orang tua adalah anugerah terbesar dalam hidup seorang anak.
 
-![mengasuh Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
+![mengasuh Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
 
 Mereka adalah orang yang berjuang sejak kelahiran anaknya hingga tumbuh dewasa. Dalam Islam, berbakti kepada orang tua merupakan salah satu kewajiban yang sangat tertekankan. Namun, ada banyak kisah tentang anak-anak yang durhaka kepada orang tua mereka dan akhirnya menerima akibat dari perbuatannya. Kisah-kisah ini memberikan pelajaran berharga tentang pentingnya menghormati orang tua serta bagaimana akibat buruk dapat menimpa mereka yang mengabaikan kewajiban ini.
 
@@ -51,13 +51,13 @@ Dari kisah-kisah tersebut, ada beberapa hikmah yang dapat kita petik:
 
 ### Cara Mencegah Anak Menjadi Durhaka
 
-Agar anak tidak menjadi durhaka, pendidikan karakter harus ditanamkan sejak dini. Pendidikan karakter yang baik dapat membentuk kepribadian anak agar menjadi pribadi yang berakhlak mulia dan menghormati orang tua. Untuk mengetahui lebih dalam tentang pentingnya pendidikan karakter sejak dini, Anda dapat membaca artikel berikut: [Penguatan Pendidikan Karakter di Sekolah TK: Fondasi untuk Generasi Berkarakter](https://asysyams.id/penguatan-pendidikan-karakter-di-sekolah-tk-fondasi-untuk-generasi-berkarakter-2/).
+Agar anak tidak menjadi durhaka, pendidikan karakter harus ditanamkan sejak dini. Pendidikan karakter yang baik dapat membentuk kepribadian anak agar menjadi pribadi yang berakhlak mulia dan menghormati orang tua. Untuk mengetahui lebih dalam tentang pentingnya pendidikan karakter sejak dini, Anda dapat membaca artikel berikut: [Penguatan Pendidikan Karakter di Sekolah TK: Fondasi untuk Generasi Berkarakter](../penguatan-pendidikan-karakter-di-sekolah-tk-fondasi-untuk-generasi-berkarakter-2/).
 
-Selain itu, pendidikan berbasis Islam juga berperan penting dalam membentuk anak yang taat dan berbakti kepada orang tua. Sekolah Islam Terpadu misalnya, memiliki sistem pendidikan yang mengajarkan anak-anak nilai-nilai Islam sejak dini. Untuk mengetahui lebih lanjut tentang sekolah Islam terpadu, Anda dapat membaca artikel ini: [Sejarah Berdirinya Sekolah Islam Terpadu](https://asysyams.id/sejarah-berdirinya-sekolah-islam-terpadu/).
+Selain itu, pendidikan berbasis Islam juga berperan penting dalam membentuk anak yang taat dan berbakti kepada orang tua. Sekolah Islam Terpadu misalnya, memiliki sistem pendidikan yang mengajarkan anak-anak nilai-nilai Islam sejak dini. Untuk mengetahui lebih lanjut tentang sekolah Islam terpadu, Anda dapat membaca artikel ini: [Sejarah Berdirinya Sekolah Islam Terpadu](../sejarah-berdirinya-sekolah-islam-terpadu/).
 
 ### Doa untuk Anak Agar Berbakti kepada Orang Tua
 
-Selain pendidikan karakter, doa juga sangat penting dalam membentuk anak yang sukses dan berakhlak baik. Orang tua harus selalu berdoa agar anaknya diberikan hidayah dan tidak menjadi durhaka. Dalam Islam, ada beberapa doa yang bisa diamalkan untuk anak agar sukses dalam pendidikan dan kehidupannya. Anda bisa membaca lebih lanjut mengenai doa-doa ini dalam artikel berikut: [Doa Agar Anak Sukses pada Pendidikannya](https://asysyams.id/doa-agar-anak-sukses-pada-pendidikannya/).
+Selain pendidikan karakter, doa juga sangat penting dalam membentuk anak yang sukses dan berakhlak baik. Orang tua harus selalu berdoa agar anaknya diberikan hidayah dan tidak menjadi durhaka. Dalam Islam, ada beberapa doa yang bisa diamalkan untuk anak agar sukses dalam pendidikan dan kehidupannya. Anda bisa membaca lebih lanjut mengenai doa-doa ini dalam artikel berikut: [Doa Agar Anak Sukses pada Pendidikannya](../doa-agar-anak-sukses-pada-pendidikannya/).
 
 Beberapa doa yang bisa diamalkan antara lain:
 
@@ -71,7 +71,7 @@ Dengan doa dan usaha yang sungguh-sungguh, insyaAllah anak-anak akan tumbuh menj
 
 Kisah-kisah anak durhaka yang berakhir tragis mengajarkan kita betapa pentingnya berbakti kepada orang tua. Islam mengajarkan bahwa ridha Allah tergantung pada ridha orang tua, dan doa mereka sangat berpengaruh dalam kehidupan anak. Oleh karena itu, pendidikan karakter yang baik serta doa yang dipanjatkan oleh orang tua sangat penting dalam membentuk anak agar tumbuh menjadi individu yang menghormati orang tuanya.
 
-Melalui pendidikan yang baik, seperti yang diterapkan dalam [Sekolah Islam Terpadu](https://asysyams.id/sejarah-berdirinya-sekolah-islam-terpadu/), serta doa yang terus dipanjatkan, insyaAllah anak-anak akan tumbuh menjadi generasi yang berbakti kepada orang tua dan sukses dalam hidupnya.
+Melalui pendidikan yang baik, seperti yang diterapkan dalam [Sekolah Islam Terpadu](../sejarah-berdirinya-sekolah-islam-terpadu/), serta doa yang terus dipanjatkan, insyaAllah anak-anak akan tumbuh menjadi generasi yang berbakti kepada orang tua dan sukses dalam hidupnya.
 
 Semoga kita semua bisa mengambil hikmah dari kisah-kisah ini dan menjadi pribadi yang lebih baik dalam menghormati orang tua kita. Aamiin.
 

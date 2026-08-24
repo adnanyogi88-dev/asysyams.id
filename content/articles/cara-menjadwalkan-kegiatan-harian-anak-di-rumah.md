@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421044010/https://asysyams.id/car
 
 # Cara Menjadwalkan Kegiatan Harian Anak di Rumah
 
-[Home](https://asysyams.id/) » Cara Menjadwalkan Kegiatan Harian Anak di Rumah
+[Home](../) » Cara Menjadwalkan Kegiatan Harian Anak di Rumah
 
 ## Merencanakan jadwal kegiatan harian anak di rumah adalah salah satu langkah penting bagi orang tua
 
-![mengasuh Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
+![mengasuh Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
 
 Dalam memastikan anak memiliki rutinitas yang sehat dan terstruktur. Dengan jadwal yang baik, anak bisa belajar disiplin, mengatur waktu, serta tetap aktif dan kreatif sepanjang hari. Artikel ini akan membahas cara menyusun jadwal harian anak yang efektif serta bagaimana mengintegrasikan aktivitas yang bermanfaat.
 
@@ -39,7 +39,7 @@ Anak-anak perlu memiliki waktu tidur yang cukup agar tetap sehat dan berkembang 
 
 ### 2. Sisipkan Waktu untuk Ibadah dan Pembelajaran Islam
 
-Mengajarkan nilai-nilai Islam sejak dini sangat penting. Salah satu cara efektif adalah melalui cerita islami. Anda bisa menemukan berbagai [kumpulan cerita islami pendek untuk anak dan keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) untuk dibacakan kepada anak sebelum tidur atau di sela-sela aktivitas.
+Mengajarkan nilai-nilai Islam sejak dini sangat penting. Salah satu cara efektif adalah melalui cerita islami. Anda bisa menemukan berbagai [kumpulan cerita islami pendek untuk anak dan keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) untuk dibacakan kepada anak sebelum tidur atau di sela-sela aktivitas.
 
 ### 3. Atur Waktu Belajar
 
@@ -75,9 +75,9 @@ WaktuKegiatan06.00 – 06.30Bangun dan mandi06.30 – 07.00Sholat Subuh dan memb
 
 Bagi orang tua yang sedang mencari sekolah untuk anak, memilih TK yang tepat sangat penting untuk mendukung perkembangan akademik dan sosial anak. Artikel berikut dapat membantu:
 
-- [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/) – Bagi yang ingin mengetahui biaya masuk TK negeri dan persiapannya.
+- [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/) – Bagi yang ingin mengetahui biaya masuk TK negeri dan persiapannya.
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) – Rekomendasi TK Islam terbaik di Bekasi bagi yang menginginkan pendidikan berbasis nilai-nilai Islam.
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) – Rekomendasi TK Islam terbaik di Bekasi bagi yang menginginkan pendidikan berbasis nilai-nilai Islam.
 
 ## Kesimpulan
 

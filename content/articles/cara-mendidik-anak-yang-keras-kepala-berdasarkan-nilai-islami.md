@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314233613/https://asysyams.id/car
 
 # Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami
 
-[Home](https://asysyams.id/) » Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami
+[Home](../) » Cara Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami
 
 ## Mendidik anak adalah tanggung jawab besar yang memerlukan kesabaran, strategi, dan pendekatan yang tepat.
 
-![Doa Anak Saleh](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
+![Doa Anak Saleh](../wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
 
 Terlebih lagi, menghadapi anak yang keras kepala sering menjadi tantangan tersendiri bagi orang tua. Dalam artikel ini, kita akan membahas cara mendidik anak yang keras kepala dengan pendekatan Islami dan bagaimana pendidikan modern seperti franchise bimbingan belajar (bimbel) dapat membantu.
 
@@ -79,7 +79,7 @@ Dalam era modern ini, pendekatan tradisional seringkali perlu dilengkapi dengan 
 
 #### 1. Manfaat Bimbel Calistung untuk Anak Keras Kepala
 
-Artikel [Asysyams.id](https://asysyams.id/apa-itu-franchise-bimbel-calistung/) menyebutkan bahwa bimbel calistung dapat membantu anak yang memiliki kesulitan fokus atau sulit menerima metode pengajaran tradisional. Dengan pendekatan personal dan kreatif, anak keras kepala bisa belajar dengan lebih efektif.
+Artikel [Asysyams.id](../apa-itu-franchise-bimbel-calistung/) menyebutkan bahwa bimbel calistung dapat membantu anak yang memiliki kesulitan fokus atau sulit menerima metode pengajaran tradisional. Dengan pendekatan personal dan kreatif, anak keras kepala bisa belajar dengan lebih efektif.
 
 #### 2. Peluang Orang Tua untuk Berkolaborasi
 
@@ -87,7 +87,7 @@ Franchise pendidikan memungkinkan orang tua untuk berkolaborasi dengan pengajar 
 
 #### 3. Tren Franchise Pendidikan di Tahun 2025
 
-Menurut artikel [Asysyams.id](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/), tren franchise di bidang pendidikan semakin berkembang. Orang tua bisa memanfaatkan peluang ini, baik dengan mendaftarkan anak ke bimbel modern maupun membuka usaha pendidikan sendiri untuk memberikan dukungan ekstra.
+Menurut artikel [Asysyams.id](../tren-usaha-franchise-2025-di-bidang-pendidikan/), tren franchise di bidang pendidikan semakin berkembang. Orang tua bisa memanfaatkan peluang ini, baik dengan mendaftarkan anak ke bimbel modern maupun membuka usaha pendidikan sendiri untuk memberikan dukungan ekstra.
 
 ### Kombinasi Nilai Islami dan Pendidikan Modern
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611140506/https://asysyams.id/pen
 
 # Pentingnya 8 Standar Pendidikan Layak di Indonesia
 
-[Home](https://asysyams.id/) » Pentingnya 8 Standar Pendidikan Layak di Indonesia
+[Home](../) » Pentingnya 8 Standar Pendidikan Layak di Indonesia
 
 ## Indonesia memiliki standar pendidikan yang diharapkan dapat memastikan bahwa setiap lembaga pendidikan,
 
-![8 standar pendidikan](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_409891184_18115151299353668_368608034652018528_n_1080-300x300.jpg)
+![8 standar pendidikan](../wp-content/uploads/2024/11/Snapinsta.app_409891184_18115151299353668_368608034652018528_n_1080-300x300.jpg)
 
 baik negeri maupun swasta, memenuhi kriteria minimum untuk mencapai pendidikan berkualitas. Delapan standar nasional pendidikan ini mencakup aspek kurikulum, pendidik, sarana prasarana, dan lainnya yang menjadi dasar dalam menciptakan lingkungan belajar yang ideal.
 
@@ -23,7 +23,7 @@ Sebagai contoh, TK Asysyams mengimplementasikan standar-standar ini dalam kegiat
 
 Baca juga:
 
-[Usaha di Bidang Pendidikan: Peluang Emas Membangun Masa Depan](https://asysyams.id/usaha-di-bidang-pendidikan-peluang-emas-membangun-masa-depan/)
+[Usaha di Bidang Pendidikan: Peluang Emas Membangun Masa Depan](../usaha-di-bidang-pendidikan-peluang-emas-membangun-masa-depan/)
 
 ### 1. Standar Isi: Kurikulum yang Sesuai untuk Anak Usia Dini
 
@@ -31,7 +31,7 @@ Standar isi menekankan bahwa kurikulum harus sesuai dengan perkembangan usia dan
 
 Baca juga:
 
-Relevan dengan: [5 Implementasi Pendidikan Karakter pada Anak Usia Dini](https://asysyams.id/5-implementasi-pendidikan-karakter-pada-anak-usia-dini/)
+Relevan dengan: [5 Implementasi Pendidikan Karakter pada Anak Usia Dini](../5-implementasi-pendidikan-karakter-pada-anak-usia-dini/)
 
 ### 2. Standar Proses: Metode Belajar yang Interaktif dan Menarik
 
@@ -47,7 +47,7 @@ TK Asysyams merekrut tenaga pendidik yang memiliki kualifikasi sesuai dengan sta
 
 Baca juga:
 
-Relevan dengan: [Hadits tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/)
+Relevan dengan: [Hadits tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/)
 
 ### 5. Standar Sarana dan Prasarana: Fasilitas yang Aman dan Mendukung Pembelajaran
 

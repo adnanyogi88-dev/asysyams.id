@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216231802/https://asysyams.id/con
 
 # Contoh Bahan Bermain dan Bahan Belajar PAUD untuk Stimulasi Anak Usia Dini
 
-[Home](https://asysyams.id/) » Contoh Bahan Bermain dan Bahan Belajar PAUD untuk Stimulasi Anak Usia Dini
+[Home](../) » Contoh Bahan Bermain dan Bahan Belajar PAUD untuk Stimulasi Anak Usia Dini
 
 ## Pendidikan Anak Usia Dini (PAUD) merupakan fase penting dalam perkembangan anak.
 
-![Pendidikan Diniyah Formal](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
+![Pendidikan Diniyah Formal](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
 
 Pada masa ini, anak-anak membutuhkan stimulasi yang tepat untuk mengembangkan kemampuan kognitif, motorik, sosial, dan emosional mereka. Salah satu cara efektif untuk mendukung proses belajar anak adalah melalui penggunaan bahan bermain dan bahan belajar yang sesuai dengan usia mereka. Artikel ini akan membahas berbagai contoh bahan bermain dan bahan belajar PAUD, serta menghubungkannya dengan konsep pembelajaran yang ramah lingkungan dan berkelanjutan, termasuk inspirasi dari dunia usaha seperti bisnis seafood yang ramah lingkungan.
 

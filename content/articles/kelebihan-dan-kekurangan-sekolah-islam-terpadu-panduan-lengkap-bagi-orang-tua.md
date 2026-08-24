@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314175447/https://asysyams.id/kel
 
 # Kelebihan dan Kekurangan Sekolah Islam Terpadu: Panduan Lengkap Bagi Orang Tua
 
-[Home](https://asysyams.id/) » Kelebihan dan Kekurangan Sekolah Islam Terpadu: Panduan Lengkap Bagi Orang Tua
+[Home](../) » Kelebihan dan Kekurangan Sekolah Islam Terpadu: Panduan Lengkap Bagi Orang Tua
 
 ## Dalam beberapa tahun terakhir, konsep Sekolah Islam Terpadu (SIT) semakin populer di kalangan orang tua Muslim di Indonesia.
 
-![sekolah anak-anak bekasi](https://asysyams.id/wp-content/uploads/2024/10/Penampilan-Al-Islam-Nursery-ClassKinder-A-Classand-Kinder-B-Class-@odirartwork-SundayJune-2nd-2024-@hotelsantikapremierekhi-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.jpg.jpg)
+![sekolah anak-anak bekasi](../wp-content/uploads/2024/10/Penampilan-Al-Islam-Nursery-ClassKinder-A-Classand-Kinder-B-Class-@odirartwork-SundayJune-2nd-2024-@hotelsantikapremierekhi-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.jpg.jpg)
 
 SIT dianggap sebagai solusi pendidikan ideal yang menggabungkan kurikulum umum nasional dengan nilai-nilai keislaman dalam keseharian anak. Namun, apakah sekolah ini benar-benar cocok untuk semua keluarga? Artikel ini akan membahas secara mendalam kelebihan dan kekurangan sekolah Islam terpadu agar para orang tua bisa membuat keputusan terbaik untuk pendidikan anak mereka.
 
@@ -57,7 +57,7 @@ Namun demikian, SIT bukan tanpa tantangan. Berikut beberapa kekurangannya:
 
 Karena SIT umumnya dikelola oleh yayasan swasta dan memiliki fasilitas serta program unggulan yang cukup banyak, maka biaya bulanannya pun relatif lebih tinggi dibanding sekolah negeri atau bahkan sekolah swasta biasa.
 
-Jika Anda tertarik memulai sekolah atau lembaga pendidikan sendiri dengan konsep SIT, Anda bisa melihat referensi [contoh proposal usaha bidang pendidikan](https://asysyams.id/contoh-proposal-usaha-bidang-pendidikan/) yang telah kami ulas sebelumnya.
+Jika Anda tertarik memulai sekolah atau lembaga pendidikan sendiri dengan konsep SIT, Anda bisa melihat referensi [contoh proposal usaha bidang pendidikan](../contoh-proposal-usaha-bidang-pendidikan/) yang telah kami ulas sebelumnya.
 
 ### 2. Lokasi yang Terbatas
 
@@ -79,13 +79,13 @@ AspekSekolah Islam TerpaduSekolah RegulerPendidikan AgamaSangat intensifMinimalK
 
 Orang tua umumnya mempertimbangkan SIT karena ingin memberikan pendidikan agama yang kuat sejak dini. Di tengah tantangan globalisasi dan pergeseran nilai moral, SIT menjadi tempat yang dianggap aman dan positif untuk membentuk akhlak mulia.
 
-Selain itu, banyak SIT yang juga mengembangkan konsep bisnis pendidikan melalui sistem waralaba. Misalnya, [franchise taman kanak-kanak bisnis yang sedang ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/) berbasis Islam yang memberikan peluang usaha sambil berdakwah.
+Selain itu, banyak SIT yang juga mengembangkan konsep bisnis pendidikan melalui sistem waralaba. Misalnya, [franchise taman kanak-kanak bisnis yang sedang ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/) berbasis Islam yang memberikan peluang usaha sambil berdakwah.
 
 ## Bisakah Sekolah Islam Terpadu Menjadi Pilihan Bisnis?
 
 Tentu. Dengan semakin banyaknya minat masyarakat terhadap pendidikan Islam, membangun atau bergabung dalam franchise SIT bisa menjadi peluang usaha menjanjikan.
 
-Artikel [rekomendasi franchise PAUD terbaik untuk memulai bisnis pendidikan](https://asysyams.id/rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/) menjelaskan bagaimana Anda bisa memulai lembaga pendidikan Islam dari nol, baik dengan konsep mandiri maupun bergabung dalam sistem waralaba yang sudah teruji.
+Artikel [rekomendasi franchise PAUD terbaik untuk memulai bisnis pendidikan](../rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/) menjelaskan bagaimana Anda bisa memulai lembaga pendidikan Islam dari nol, baik dengan konsep mandiri maupun bergabung dalam sistem waralaba yang sudah teruji.
 
 ## Tips Memilih Sekolah Islam Terpadu untuk Anak Anda
 

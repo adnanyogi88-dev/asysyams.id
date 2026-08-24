@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314170443/https://asysyams.id/men
 
 # Mengenal Satuan Pendidikan Pesantren dan Pendidikan Diniyah Formal
 
-[Home](https://asysyams.id/) » Mengenal Satuan Pendidikan Pesantren dan Pendidikan Diniyah Formal
+[Home](../) » Mengenal Satuan Pendidikan Pesantren dan Pendidikan Diniyah Formal
 
 ## Pendidikan merupakan aspek penting dalam kehidupan manusia, terutama dalam membentuk karakter dan moral sejak usia dini.
 
-![Pendidikan Diniyah Formal](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
+![Pendidikan Diniyah Formal](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
 
 Di Indonesia, sistem pendidikan tidak hanya mencakup pendidikan formal seperti sekolah dasar, menengah, dan perguruan tinggi, tetapi juga pendidikan berbasis agama yang memiliki peran strategis dalam mencetak generasi berakhlak dan berpengetahuan luas. Salah satu bentuk yang berbasis agama yang memiliki sejarah panjang adalah pesantren dan pendidikan formal.
 
@@ -54,11 +54,11 @@ Hal ini memungkinkan peserta didik mendapatkan ijazah yang terakui oleh negara, 
 
 Pendidikan anak usia dini merupakan tahap yang sangat krusial dalam membangun fondasi karakter dan kecerdasan anak. Oleh karena itu, pengenalan nilai-nilai agama sejak dini sangat penting agar anak tumbuh dengan pemahaman yang kuat terhadap ajaran Islam.
 
-Bagi orang tua yang ingin memberikan pendidikan berbasis agama kepada anak sejak dini, mendirikan atau memilih lembaga pendidikan yang tepat merupakan hal yang penting. Dalam hal ini, ada beberapa aspek yang bisa menjadi pertimbangan, seperti [franchise pendidikan usia dini](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/) yang menjanjikan sebagai solusi pendidikan berbasis agama yang berkualitas.
+Bagi orang tua yang ingin memberikan pendidikan berbasis agama kepada anak sejak dini, mendirikan atau memilih lembaga pendidikan yang tepat merupakan hal yang penting. Dalam hal ini, ada beberapa aspek yang bisa menjadi pertimbangan, seperti [franchise pendidikan usia dini](../franchise-pendidikan-usia-dini-yang-menjanjikan/) yang menjanjikan sebagai solusi pendidikan berbasis agama yang berkualitas.
 
-Selain itu, bagi mereka yang tertarik untuk membangun lembaga pendidikan usia dini berbasis Islam, mengetahui [biaya mendirikan usaha playgroup di Jakarta](https://asysyams.id/biaya-mendirikan-usaha-playgroup-di-jakarta/) bisa menjadi langkah awal dalam mewujudkan rencana tersebut. Dengan adanya lembaga pendidikan yang berbasis Islam sejak usia dini, anak-anak dapat lebih mudah memahami ajaran agama secara lebih mendalam.
+Selain itu, bagi mereka yang tertarik untuk membangun lembaga pendidikan usia dini berbasis Islam, mengetahui [biaya mendirikan usaha playgroup di Jakarta](../biaya-mendirikan-usaha-playgroup-di-jakarta/) bisa menjadi langkah awal dalam mewujudkan rencana tersebut. Dengan adanya lembaga pendidikan yang berbasis Islam sejak usia dini, anak-anak dapat lebih mudah memahami ajaran agama secara lebih mendalam.
 
-Selain memilih pendidikan formal yang tepat, penting juga bagi orang tua untuk memperkenalkan nilai-nilai keislaman secara langsung di rumah. Salah satu cara yang efektif adalah dengan [mengenalkan rukun Islam sejak dini kepada anak](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/), agar mereka dapat memahami dan mengamalkan ajaran Islam dalam kehidupan sehari-hari.
+Selain memilih pendidikan formal yang tepat, penting juga bagi orang tua untuk memperkenalkan nilai-nilai keislaman secara langsung di rumah. Salah satu cara yang efektif adalah dengan [mengenalkan rukun Islam sejak dini kepada anak](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/), agar mereka dapat memahami dan mengamalkan ajaran Islam dalam kehidupan sehari-hari.
 
 ### Kesimpulan
 

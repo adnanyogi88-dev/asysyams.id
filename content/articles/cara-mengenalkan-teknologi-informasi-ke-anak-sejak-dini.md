@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207011522/https://asysyams.id/car
 
 # Cara Mengenalkan Teknologi Informasi ke Anak Sejak Dini
 
-[Home](https://asysyams.id/) » Cara Mengenalkan Teknologi Informasi ke Anak Sejak Dini
+[Home](../) » Cara Mengenalkan Teknologi Informasi ke Anak Sejak Dini
 
 ## Teknologi informasi (TI) telah menjadi bagian tak terpisahkan dari kehidupan sehari-hari. Dari perangkat pintar hingga akses ke internet,
 
-![Teknologi Informasi ke Anak Sejak Dini](https://asysyams.id/wp-content/uploads/2024/11/DALL·E-2024-11-18-21.43.51-An-educational-scene-showing-a-parent-and-child-interacting-with-technology-in-a-bright-colorful-room-filled-with-educational-toys-and-gadgets.-The-c.webp)
+![Teknologi Informasi ke Anak Sejak Dini](../wp-content/uploads/2024/11/DALL·E-2024-11-18-21.43.51-An-educational-scene-showing-a-parent-and-child-interacting-with-technology-in-a-bright-colorful-room-filled-with-educational-toys-and-gadgets.-The-c.webp)
 
 teknologi ini telah mengubah cara kita belajar, bekerja, dan berinteraksi. Mengingat pentingnya teknologi dalam dunia modern, mengenalkan teknologi informasi kepada anak sejak dini menjadi hal yang penting. Namun, bagaimana caranya agar pengenalan ini tepat, aman, dan sesuai dengan usia anak?
 
@@ -53,7 +53,7 @@ Anak perlu memahami bahwa teknologi memiliki aturan dan etika. Ajarkan mereka un
 #### 4. Kolaborasi dengan Lembaga Pendidikan
 
 Sekolah berperan penting dalam mengenalkan teknologi informasi kepada anak. Misalnya, sekolah dapat mengintegrasikan pelajaran teknologi ke dalam kurikulum. Anda bisa membaca lebih lanjut tentang pentingnya peran peserta didik sebagai pilar pendidikan dalam artikel ini:
-[Peserta Didik adalah Pilar Penting dalam Dunia Pendidikan](https://asysyams.id/peserta-didik-adalah-pilar-penting-dalam-dunia-pendidikan/).
+[Peserta Didik adalah Pilar Penting dalam Dunia Pendidikan](../peserta-didik-adalah-pilar-penting-dalam-dunia-pendidikan/).
 
 ### Peran Orang Tua dan Pendidikan Islami
 
@@ -62,7 +62,7 @@ Meskipun teknologi sangat penting, pengenalannya harus sejalan dengan nilai-nila
 #### 1. Dasar Pendidikan Islam dalam Teknologi
 
 Dalam Islam, pendidikan tidak hanya bertujuan untuk mencerdaskan otak tetapi juga membentuk akhlak mulia. Teknologi harus kita manfaatkan untuk tujuan-tujuan yang sesuai dengan nilai-nilai Islam, seperti belajar ilmu pengetahuan atau berdakwah. Anda bisa membaca tentang dasar-dasar pendidikan Islami lebih lanjut di artikel ini:
-[4 Dasar Pendidikan Islam Menurut Para Ahli](https://asysyams.id/4-dasar-pendidikan-islam-menurut-para-ahli/).
+[4 Dasar Pendidikan Islam Menurut Para Ahli](../4-dasar-pendidikan-islam-menurut-para-ahli/).
 
 #### 2. Mengintegrasikan Nilai Agama dengan Teknologi
 
@@ -101,7 +101,7 @@ Teknologi hanyalah alat, bukan pengganti aktivitas dunia nyata. Anak tetap harus
 ### Gabung dengan Kemitraan Sekolah untuk Pendidikan yang Lebih Baik
 
 Jika Anda mencari cara untuk mengenalkan teknologi secara lebih sistematis kepada anak, bergabung dengan kemitraan sekolah yang mendukung pendidikan berbasis teknologi adalah pilihan yang tepat. Salah satu program kemitraan yang layak dipertimbangkan adalah program Sekolah Asy-Syams. Anda bisa mengetahui lebih lanjut di tautan berikut:
-[Gabung Kemitraan Sekolah Asy-Syams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/).
+[Gabung Kemitraan Sekolah Asy-Syams](../gabung-kemitraan-sekolah-asy-syams/).
 
 ### Kesimpulan
 

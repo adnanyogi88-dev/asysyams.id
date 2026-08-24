@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216231254/https://asysyams.id/cit
 
 # Cita-Cita Anak Zaman Now: Panduan untuk Orang Tua dalam Membentuk Masa Depan Anak Sejak Dini
 
-[Home](https://asysyams.id/) » Cita-Cita Anak Zaman Now: Panduan untuk Orang Tua dalam Membentuk Masa Depan Anak Sejak Dini
+[Home](../) » Cita-Cita Anak Zaman Now: Panduan untuk Orang Tua dalam Membentuk Masa Depan Anak Sejak Dini
 
 ## Perubahan zaman yang begitu cepat telah memengaruhi cara berpikir dan bertindak anak-anak saat ini.
 
-![waralaba pesantren islami](https://asysyams.id/wp-content/uploads/2024/10/Assalamualaikum-friendsMasih-semangat-kan-belajarnya-Harus-yaa-Please-wherever-we-are-we-must-take-care-more-of-our-health.-If-you-dont-feel-well-its-OK-not-to-study-at-school.-The-teachers-will-always-1-1024x1024.jpg)
+![waralaba pesantren islami](../wp-content/uploads/2024/10/Assalamualaikum-friendsMasih-semangat-kan-belajarnya-Harus-yaa-Please-wherever-we-are-we-must-take-care-more-of-our-health.-If-you-dont-feel-well-its-OK-not-to-study-at-school.-The-teachers-will-always-1-1024x1024.jpg)
 
 Cita-cita anak zaman now tidak lagi sebatas menjadi dokter, guru, atau insinyur. Saat ini, banyak anak yang bermimpi menjadi YouTuber, desainer game, influencer, atau bahkan pengembang aplikasi. Fenomena ini membuka peluang sekaligus tantangan bagi para orang tua. Bagaimana cara mengarahkan anak agar cita-citanya tetap positif dan produktif di masa depan?
 
@@ -37,7 +37,7 @@ Selain itu, orang tua juga harus memberi dukungan dalam bentuk fasilitas, pendid
 
 Masa kanak-kanak adalah fondasi utama dalam membentuk karakter dan cita-cita. Oleh karena itu, penting bagi orang tua untuk memilih lembaga pendidikan yang tidak hanya mengajarkan kurikulum formal, tetapi juga membina kreativitas, kemandirian, dan karakter anak.
 
-Jika Anda tinggal di wilayah Bekasi, Anda bisa mempertimbangkan [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). TK ini menawarkan pendekatan pembelajaran yang holistik dan berbasis nilai-nilai keislaman, sehingga dapat menjadi pijakan awal yang kuat bagi perkembangan anak.
+Jika Anda tinggal di wilayah Bekasi, Anda bisa mempertimbangkan [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). TK ini menawarkan pendekatan pembelajaran yang holistik dan berbasis nilai-nilai keislaman, sehingga dapat menjadi pijakan awal yang kuat bagi perkembangan anak.
 
 ### Mengenal Minat dan Bakat Anak Sejak Dini
 
@@ -55,7 +55,7 @@ Untuk mengarahkan cita-cita anak, orang tua perlu mengenali minat dan bakat mere
 
 Selain sekolah formal, pendidikan non-formal juga berperan penting dalam membentuk cita-cita anak. Kursus, pelatihan, dan bimbingan ekstrakurikuler dapat menjadi jalan bagi anak untuk mengeksplorasi lebih dalam tentang profesi impian mereka.
 
-Indonesia kini memiliki banyak [franchise lokal dengan kategori pendidikan](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) yang bisa menjadi pilihan bagi orang tua. Franchise ini menawarkan berbagai program yang menyesuaikan kebutuhan perkembangan anak sesuai usia dan tahap pertumbuhan mereka.
+Indonesia kini memiliki banyak [franchise lokal dengan kategori pendidikan](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) yang bisa menjadi pilihan bagi orang tua. Franchise ini menawarkan berbagai program yang menyesuaikan kebutuhan perkembangan anak sesuai usia dan tahap pertumbuhan mereka.
 
 ### Mendidik Anak agar Punya Visi Masa Depan
 
@@ -73,7 +73,7 @@ Melalui pertanyaan-pertanyaan tersebut, anak akan terdorong untuk berpikir jauh 
 
 Anak-anak sangat dipengaruhi oleh lingkungan di sekitarnya. Jika mereka tumbuh di lingkungan yang suportif, mereka akan lebih percaya diri dalam mengejar cita-cita. Oleh karena itu, pilihlah lingkungan sekolah dan komunitas yang positif.
 
-Jika Anda berdomisili di Bekasi dan sedang mencari tempat pendidikan yang sesuai, penting untuk mengetahui [cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/). Artikel ini membahas kriteria penting dalam memilih TK yang tepat untuk anak Anda.
+Jika Anda berdomisili di Bekasi dan sedang mencari tempat pendidikan yang sesuai, penting untuk mengetahui [cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/). Artikel ini membahas kriteria penting dalam memilih TK yang tepat untuk anak Anda.
 
 ### Mengatasi Tantangan dalam Membimbing Anak
 

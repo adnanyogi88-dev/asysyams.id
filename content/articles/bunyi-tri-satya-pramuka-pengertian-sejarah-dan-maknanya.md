@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314174618/https://asysyams.id/bun
 
 # Bunyi Tri Satya Pramuka: Pengertian, Sejarah, dan Maknanya
 
-[Home](https://asysyams.id/) » Bunyi Tri Satya Pramuka: Pengertian, Sejarah, dan Maknanya
+[Home](../) » Bunyi Tri Satya Pramuka: Pengertian, Sejarah, dan Maknanya
 
 ## Pramuka adalah salah satu gerakan kepanduan yang memiliki peran penting dalam pembentukan karakter generasi muda.
 
-![Aplikasi Belajar Interaktif untuk Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468662964_18151706962353668_7010289007371154847_n_1080-80x80.jpg)
+![Aplikasi Belajar Interaktif untuk Anak](../wp-content/uploads/2025/01/Snapinst.app_468662964_18151706962353668_7010289007371154847_n_1080-80x80.jpg)
 
 Salah satu aspek utama dalam Pramuka adalah Tri Satya, yang menjadi janji dan pedoman bagi setiap anggota. Artikel ini akan membahas secara mendalam mengenai bunyi Tri Satya Pramuka, sejarahnya, serta maknanya bagi kehidupan dan pendidikan.
 
@@ -49,17 +49,17 @@ Bagian pertama dari Tri Satya mengajarkan bahwa setiap anggota Pramuka harus mem
 
 ### 2. Menolong Sesama dan Ikut Membangun Masyarakat
 
-Poin kedua menekankan pentingnya kepedulian sosial. Setiap anggota Pramuka diajarkan untuk berjiwa sosial, saling membantu, serta berkontribusi dalam pembangunan masyarakat. Sikap ini sangat penting dalam dunia pendidikan dan kehidupan sosial, sebagaimana yang dibahas dalam artikel berikut: [Perbedaan Belajar, Mengajar, dan Pembelajaran: Konsep dan Implikasinya dalam Dunia Pendidikan](https://asysyams.id/perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/).
+Poin kedua menekankan pentingnya kepedulian sosial. Setiap anggota Pramuka diajarkan untuk berjiwa sosial, saling membantu, serta berkontribusi dalam pembangunan masyarakat. Sikap ini sangat penting dalam dunia pendidikan dan kehidupan sosial, sebagaimana yang dibahas dalam artikel berikut: [Perbedaan Belajar, Mengajar, dan Pembelajaran: Konsep dan Implikasinya dalam Dunia Pendidikan](../perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/).
 
 ### 3. Menepati Dasa Dharma
 
-Dasa Dharma adalah sepuluh nilai dasar yang menjadi pedoman moral bagi anggota Pramuka. Dengan menepati Dasa Dharma, anggota Pramuka berkomitmen untuk menjalani kehidupan yang berakhlak mulia, disiplin, dan bertanggung jawab. Penerapan nilai-nilai ini sangat erat kaitannya dengan adab murid terhadap guru, sebagaimana yang dijelaskan dalam artikel berikut: [12 Adab Murid terhadap Guru sebagai Fondasi Pendidikan Berkualitas](https://asysyams.id/12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/).
+Dasa Dharma adalah sepuluh nilai dasar yang menjadi pedoman moral bagi anggota Pramuka. Dengan menepati Dasa Dharma, anggota Pramuka berkomitmen untuk menjalani kehidupan yang berakhlak mulia, disiplin, dan bertanggung jawab. Penerapan nilai-nilai ini sangat erat kaitannya dengan adab murid terhadap guru, sebagaimana yang dijelaskan dalam artikel berikut: [12 Adab Murid terhadap Guru sebagai Fondasi Pendidikan Berkualitas](../12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/).
 
 ## Relevansi Tri Satya dalam Pendidikan dan Karir
 
 Pramuka bukan sekadar kegiatan ekstrakurikuler, tetapi juga memberikan fondasi karakter yang kuat bagi anak-anak dan remaja. Nilai-nilai Tri Satya seperti tanggung jawab, disiplin, dan kepedulian sosial sangat berharga dalam dunia pendidikan dan karir. Bahkan, banyak institusi pendidikan yang memasukkan Pramuka sebagai bagian dari kurikulum mereka.
 
-Di era modern ini, konsep Tri Satya juga dapat dikembangkan dalam konteks pendidikan berbasis nilai-nilai Islam, seperti yang dibahas dalam artikel berikut: [Investasi Sekolah Islam Berbasis Franchise: Peluang Menjanjikan untuk Masa Depan](https://asysyams.id/investasi-sekolah-islam-berbasis-franchise-peluang-menjanjikan-untuk-masa-depan/). Pendidikan yang berbasis nilai-nilai moral dan agama akan semakin memperkuat karakter siswa sebagai calon pemimpin masa depan.
+Di era modern ini, konsep Tri Satya juga dapat dikembangkan dalam konteks pendidikan berbasis nilai-nilai Islam, seperti yang dibahas dalam artikel berikut: [Investasi Sekolah Islam Berbasis Franchise: Peluang Menjanjikan untuk Masa Depan](../investasi-sekolah-islam-berbasis-franchise-peluang-menjanjikan-untuk-masa-depan/). Pendidikan yang berbasis nilai-nilai moral dan agama akan semakin memperkuat karakter siswa sebagai calon pemimpin masa depan.
 
 ## Kesimpulan
 

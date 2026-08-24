@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314231551/https://asysyams.id/con
 
 # Contoh Asesmen Anak Usia Dini dan Relevansinya di TK Asysyams
 
-[Home](https://asysyams.id/) » Contoh Asesmen Anak Usia Dini dan Relevansinya di TK Asysyams
+[Home](../) » Contoh Asesmen Anak Usia Dini dan Relevansinya di TK Asysyams
 
 ## Pendidikan anak usia dini (PAUD) merupakan fondasi penting dalam perkembangan anak.
 
-![Contoh Asesmen Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_eb31dcd3-1024x1024.jpg)
+![Contoh Asesmen Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_eb31dcd3-1024x1024.jpg)
 
 Salah satu aspek krusial dalam PAUD adalah asesmen atau penilaian terhadap perkembangan anak. Asesmen ini tidak hanya bertujuan untuk mengevaluasi kemampuan akademis, tetapi juga mencakup aspek sosial, emosional, fisik, dan kognitif. Artikel ini akan membahas contoh asesmen anak usia dini dan bagaimana TK Asysyams menerapkannya dalam kurikulumnya. Selain itu, artikel ini juga akan mengaitkan pentingnya asesmen dengan potensi bisnis taman kanak-kanak, termasuk kemitraan dan franchise.
 
@@ -83,15 +83,15 @@ Asesmen anak usia dini tidak hanya penting dari segi pendidikan, tetapi juga mem
 
 ### 1. Gabung Kemitraan Sekolah Asy Syams
 
-Bagi yang tertarik untuk bergabung dalam kemitraan dengan TK Asysyams, memahami pentingnya asesmen adalah kunci. Kemitraan ini menawarkan peluang untuk membangun sekolah yang tidak hanya mengutamakan akademis, tetapi juga perkembangan holistik anak. Dengan sistem asesmen yang terstruktur, mitra dapat memastikan bahwa sekolah mereka memberikan nilai tambah bagi masyarakat. [Baca lebih lanjut tentang kemitraan di sini.](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/)
+Bagi yang tertarik untuk bergabung dalam kemitraan dengan TK Asysyams, memahami pentingnya asesmen adalah kunci. Kemitraan ini menawarkan peluang untuk membangun sekolah yang tidak hanya mengutamakan akademis, tetapi juga perkembangan holistik anak. Dengan sistem asesmen yang terstruktur, mitra dapat memastikan bahwa sekolah mereka memberikan nilai tambah bagi masyarakat. [Baca lebih lanjut tentang kemitraan di sini.](../gabung-kemitraan-sekolah-asy-syams/)
 
 ### 2. Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak
 
-Bisnis taman kanak-kanak memiliki potensi besar, terutama jika terkelola dengan pendekatan yang tepat. Asesmen yang baik dapat menjadi nilai jual utama, karena orang tua semakin sadar akan pentingnya pendidikan berkualitas sejak dini. TK Asysyams adalah contoh bagaimana asesmen yang komprehensif dapat meningkatkan reputasi sekolah. [Temukan potensi tersembunyi bisnis TK di sini.](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+Bisnis taman kanak-kanak memiliki potensi besar, terutama jika terkelola dengan pendekatan yang tepat. Asesmen yang baik dapat menjadi nilai jual utama, karena orang tua semakin sadar akan pentingnya pendidikan berkualitas sejak dini. TK Asysyams adalah contoh bagaimana asesmen yang komprehensif dapat meningkatkan reputasi sekolah. [Temukan potensi tersembunyi bisnis TK di sini.](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
 ### 3. Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits
 
-Franchise taman kanak-kanak adalah bisnis yang sedang naik daun. Dengan sistem yang sudah teruji seperti yang TK Asysyams miliki, franchisee dapat memanfaatkan metode asesmen yang efektif untuk menarik lebih banyak siswa. Selain itu, dukungan dari pihak franchisor memastikan bahwa standar kualitas tetap terjaga. [Pelajari lebih lanjut tentang franchise TK Asysyams di sini.](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
+Franchise taman kanak-kanak adalah bisnis yang sedang naik daun. Dengan sistem yang sudah teruji seperti yang TK Asysyams miliki, franchisee dapat memanfaatkan metode asesmen yang efektif untuk menarik lebih banyak siswa. Selain itu, dukungan dari pihak franchisor memastikan bahwa standar kualitas tetap terjaga. [Pelajari lebih lanjut tentang franchise TK Asysyams di sini.](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
 
 ## Kesimpulan
 
@@ -101,11 +101,11 @@ Bagi yang tertarik untuk terjun ke bisnis pendidikan anak usia dini, memahami pe
 
 Internal Links:
 
-- [Gabung Kemitraan Sekolah Asy Syams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/)
+- [Gabung Kemitraan Sekolah Asy Syams](../gabung-kemitraan-sekolah-asy-syams/)
 
-- [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+- [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
-- [Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
+- [Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
 
 ## Pengertian Asesmen dalam PAUD
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217002214/https://asysyams.id/fak
 
 # Faktor-Faktor yang Mempengaruhi Perilaku Anak
 
-[Home](https://asysyams.id/) » Faktor-Faktor yang Mempengaruhi Perilaku Anak
+[Home](../) » Faktor-Faktor yang Mempengaruhi Perilaku Anak
 
 ## Perilaku anak merupakan cerminan dari berbagai aspek kehidupan yang memengaruhi perkembangan mereka sejak dini.
 
-![perilaku anak](https://asysyams.id/wp-content/uploads/2024/09/445226799_18133018459353668_1842346722057462690_n-300x200.jpg)
+![perilaku anak](../wp-content/uploads/2024/09/445226799_18133018459353668_1842346722057462690_n-300x200.jpg)
 
 Perilaku ini tidak hanya mencakup tindakan sehari-hari, tetapi juga cara anak berinteraksi dengan lingkungannya, bagaimana mereka bereaksi terhadap emosi, serta cara mereka menyerap dan memahami informasi di sekitar mereka. Memahami perilaku anak sangat penting bagi orang tua dan pengasuh karena dapat membantu mereka menyesuaikan cara pengasuhan dan berkomunikasi dengan anak untuk mendukung perkembangan mereka secara optimal.
 
@@ -67,11 +67,11 @@ Beberapa anak cenderung menunjukkan perilaku tertutup, seperti lebih pendiam dan
 
 Baca juga:
 
-[Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif](https://asysyams.id/anak-anda-nakal-begini-cara-mengatasinya-dengan-efektif/)
+[Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif](../anak-anda-nakal-begini-cara-mengatasinya-dengan-efektif/)
 
-[Untuk Ayah Bunda, Pendidikan Anak Usia Dini Itu Sangat Penting!](https://asysyams.id/untuk-ayah-bunda-pendidikan-anak-usia-dini-itu-sangat-penting/)
+[Untuk Ayah Bunda, Pendidikan Anak Usia Dini Itu Sangat Penting!](../untuk-ayah-bunda-pendidikan-anak-usia-dini-itu-sangat-penting/)
 
-[Taman Kanak-Kanak Islam Terbaik di Jakarta: TK Islam Asy-Syams](https://asysyams.id/taman-kanak-kanak-islam-terbaik-di-jakarta-tk-islam-asy-syams/)
+[Taman Kanak-Kanak Islam Terbaik di Jakarta: TK Islam Asy-Syams](../taman-kanak-kanak-islam-terbaik-di-jakarta-tk-islam-asy-syams/)
 
  
 

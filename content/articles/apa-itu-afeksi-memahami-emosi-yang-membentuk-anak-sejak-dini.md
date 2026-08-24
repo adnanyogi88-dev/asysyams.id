@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217002119/https://asysyams.id/apa
 
 # Apa Itu Afeksi? Memahami Emosi yang Membentuk Anak Sejak Dini
 
-[Home](https://asysyams.id/) » Apa Itu Afeksi? Memahami Emosi yang Membentuk Anak Sejak Dini
+[Home](../) » Apa Itu Afeksi? Memahami Emosi yang Membentuk Anak Sejak Dini
 
 ## Sebagai permulaan, dalam dunia pendidikan anak usia dini, perhatian sering kali tertuju pada aspek kognitif dan akademik.
 
-![Membuat Custom Pohon](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_bc5f3fc0-768x1024.jpg)
+![Membuat Custom Pohon](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_bc5f3fc0-768x1024.jpg)
 
 Akan tetapi, ada satu aspek yang tidak kalah penting, yaitu afeksi. Oleh karena itu, banyak orang tua dan pendidik perlu memahami apa itu afeksi dan bagaimana peranannya dalam pembentukan karakter dan keberhasilan anak dalam jangka panjang.
 
@@ -61,7 +61,7 @@ Selanjutnya, ketika anak menangis atau merasa kecewa, menunjukkan empati dan men
 
 ## Pentingnya Afeksi dalam Dunia PAUD
 
-Perlu kita ketahui bahwa anak usia dini sangat membutuhkan afeksi karena mereka sedang berada pada masa emas perkembangan otak. Dalam hal ini, dalam konteks [pendaftaran PAUD Asysyams tahun ajaran 2024–2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/), konsep afeksi menjadi pilar penting dalam sistem pengajarannya.
+Perlu kita ketahui bahwa anak usia dini sangat membutuhkan afeksi karena mereka sedang berada pada masa emas perkembangan otak. Dalam hal ini, dalam konteks [pendaftaran PAUD Asysyams tahun ajaran 2024–2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/), konsep afeksi menjadi pilar penting dalam sistem pengajarannya.
 
 ### Dampak Afeksi pada Perkembangan Anak:
 
@@ -89,11 +89,11 @@ Tak jarang, orang tua menganggap afeksi adalah sesuatu yang “berlebihan” ata
 
 - Menanggapi emosi anak dengan sabar
 
-Bahkan, dalam proses memilih sekolah pun, banyak orang tua kini mempertimbangkan institusi yang menanamkan nilai-nilai afeksi dalam praktik pendidikannya. Sebagaimana dijelaskan dalam artikel [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/), penting untuk memilih lembaga pendidikan yang tidak hanya mengejar nilai akademik, tetapi juga perkembangan emosional.
+Bahkan, dalam proses memilih sekolah pun, banyak orang tua kini mempertimbangkan institusi yang menanamkan nilai-nilai afeksi dalam praktik pendidikannya. Sebagaimana dijelaskan dalam artikel [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/), penting untuk memilih lembaga pendidikan yang tidak hanya mengejar nilai akademik, tetapi juga perkembangan emosional.
 
 ## Afeksi dalam Dunia Pendidikan: Peran Guru Sangat Penting
 
-Sementara itu, guru di PAUD dan TK adalah sosok yang sangat berpengaruh dalam membentuk hubungan afeksi dengan anak. Di lembaga seperti [TK Asysyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/), pendekatan berbasis afeksi menjadi bagian tak terpisahkan dari metode belajar.
+Sementara itu, guru di PAUD dan TK adalah sosok yang sangat berpengaruh dalam membentuk hubungan afeksi dengan anak. Di lembaga seperti [TK Asysyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/), pendekatan berbasis afeksi menjadi bagian tak terpisahkan dari metode belajar.
 
 ### Guru yang mampu membangun afeksi dengan anak akan:
 
@@ -197,7 +197,7 @@ tidak bisa diajarkan secara efektif jika tidak disampaikan dengan pendekatan emo
 
 Secara keseluruhan, afeksi bukan sekadar pelengkap dalam pengasuhan dan pendidikan anak. Sebaliknya, afeksi adalah fondasi utama. Ketika orang tua dan pendidik memahami dan menerapkan afeksi dalam kehidupan sehari-hari, maka anak akan tumbuh menjadi pribadi yang sehat, percaya diri, dan berempati.
 
-Apabila Anda sedang mencari lembaga pendidikan yang menanamkan nilai afeksi sejak dini, maka [TK dan PAUD Asysyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) adalah pilihan yang tepat. Di sana, afeksi bukan sekadar teori, melainkan dipraktikkan dalam keseharian belajar anak-anak.
+Apabila Anda sedang mencari lembaga pendidikan yang menanamkan nilai afeksi sejak dini, maka [TK dan PAUD Asysyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) adalah pilihan yang tepat. Di sana, afeksi bukan sekadar teori, melainkan dipraktikkan dalam keseharian belajar anak-anak.
 
 [
 WhatsApp Kami

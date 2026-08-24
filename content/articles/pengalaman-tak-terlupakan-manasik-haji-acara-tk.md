@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611125925/https://asysyams.id/pen
 
 # Pengalaman Tak Terlupakan Manasik Haji Acara TK
 
-[Home](https://asysyams.id/) » Pengalaman Tak Terlupakan Manasik Haji Acara TK
+[Home](../) » Pengalaman Tak Terlupakan Manasik Haji Acara TK
 
 ## Manasik haji merupakan salah satu kegiatan yang sangat penting bagi umat Islam.
 
-![manasik haji acara tk](https://asysyams.id/wp-content/uploads/2024/08/89688640bb2f0c70e300a5ff627ae63f7983bfdc17559814bd8f5cea0fc19286-300x200.jpg)
+![manasik haji acara tk](../wp-content/uploads/2024/08/89688640bb2f0c70e300a5ff627ae63f7983bfdc17559814bd8f5cea0fc19286-300x200.jpg)
 
 [sumber](https://www.cimahikota.go.id/)
 

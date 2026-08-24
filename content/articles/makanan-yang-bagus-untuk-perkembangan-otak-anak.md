@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421040118/https://asysyams.id/mak
 
 # Makanan yang Bagus untuk Perkembangan Otak Anak
 
-[Home](https://asysyams.id/) » Makanan yang Bagus untuk Perkembangan Otak Anak
+[Home](../) » Makanan yang Bagus untuk Perkembangan Otak Anak
 
 ## Perkembangan otak anak merupakan salah satu aspek paling krusial dalam masa tumbuh kembang mereka.
 
-![perkembangan otak anak](https://asysyams.id/wp-content/uploads/2024/08/032690400_1550221519-Dampak-Gawai-terhadap-Otak-Anak-By-metamorworks-Shutterstock-300x191.webp)
+![perkembangan otak anak](../wp-content/uploads/2024/08/032690400_1550221519-Dampak-Gawai-terhadap-Otak-Anak-By-metamorworks-Shutterstock-300x191.webp)
 
 [sumber](https://www.klikdokter.com/ibu-anak/kesehatan-anak/dampak-gawai-terhadap-otak-anak)
 
@@ -57,11 +57,11 @@ Sayuran berdaun hijau seperti bayam, kale, dan brokoli kaya akan folat dan vitam
 
 Baca juga:
 
-[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](https://asysyams.id/berapakah-berat-badan-ideal-anak-usia-5-tahun/)
+[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](../berapakah-berat-badan-ideal-anak-usia-5-tahun/)
 
-[Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
+[Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
 
-[Memahami Tumbuh Kembang Anak: Panduan Lengkap](https://asysyams.id/memahami-tumbuh-kembang-anak-panduan-lengkap/)
+[Memahami Tumbuh Kembang Anak: Panduan Lengkap](../memahami-tumbuh-kembang-anak-panduan-lengkap/)
 
  
 

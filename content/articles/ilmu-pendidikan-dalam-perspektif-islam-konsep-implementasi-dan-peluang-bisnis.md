@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421041431/https://asysyams.id/ilm
 
 # Ilmu Pendidikan dalam Perspektif Islam: Konsep, Implementasi, dan Peluang Bisnis
 
-[Home](https://asysyams.id/) » Ilmu Pendidikan dalam Perspektif Islam: Konsep, Implementasi, dan Peluang Bisnis
+[Home](../) » Ilmu Pendidikan dalam Perspektif Islam: Konsep, Implementasi, dan Peluang Bisnis
 
 ## Pendidikan merupakan aspek fundamental dalam kehidupan manusia.
 
-![Pendidikan dalam Perspektif Islam](https://asysyams.id/wp-content/uploads/2025/02/IMG-20250207-WA00081-80x80.jpg)
+![Pendidikan dalam Perspektif Islam](../wp-content/uploads/2025/02/IMG-20250207-WA00081-80x80.jpg)
 
 Dalam Islam, pendidikan tidak hanya terbatas pada ilmu duniawi, tetapi juga mencakup aspek spiritual dan moral. Ilmu pendidikan dalam perspektif Islam memiliki landasan yang kuat dalam Al-Qur’an dan Hadis, yang menekankan pentingnya ilmu sebagai jalan menuju kebaikan dan kesejahteraan di dunia dan akhirat. Artikel ini akan mengulas konsep ilmu pendidikan dalam Islam, implementasinya dalam kehidupan sehari-hari, serta bagaimana pendidikan Islam dapat menjadi peluang bisnis yang menjanjikan.
 
@@ -61,15 +61,15 @@ Seiring dengan meningkatnya kesadaran masyarakat terhadap pentingnya pendidikan 
 
 ### 1. Tren Bisnis Pendidikan Islam Tahun 2025
 
-Menurut [artikel ini](https://asysyams.id/bisnis-pendidikan-peluang-dan-tren-tahun-2025/), bisnis pendidikan memiliki peluang besar di masa depan. Dengan semakin meningkatnya kebutuhan akan pendidikan berkualitas, lembaga pendidikan Islam berpotensi menjadi sektor yang berkembang pesat.
+Menurut [artikel ini](../bisnis-pendidikan-peluang-dan-tren-tahun-2025/), bisnis pendidikan memiliki peluang besar di masa depan. Dengan semakin meningkatnya kebutuhan akan pendidikan berkualitas, lembaga pendidikan Islam berpotensi menjadi sektor yang berkembang pesat.
 
 ### 2. Franchise Lembaga Pendidikan Islam
 
-Model bisnis franchise dalam dunia pendidikan Islam juga semakin banyak peminatnya. Dengan adanya sistem franchise, lembaga pendidikan dapat berkembang lebih cepat dan menjangkau lebih banyak peserta didik. Untuk informasi lebih lanjut mengenai potensi bisnis ini, Anda dapat membaca [artikel tentang franchise lembaga pendidikan di Indonesia](https://asysyams.id/potensi-bisnis-franchise-lembaga-pendidikan-di-indonesia/).
+Model bisnis franchise dalam dunia pendidikan Islam juga semakin banyak peminatnya. Dengan adanya sistem franchise, lembaga pendidikan dapat berkembang lebih cepat dan menjangkau lebih banyak peserta didik. Untuk informasi lebih lanjut mengenai potensi bisnis ini, Anda dapat membaca [artikel tentang franchise lembaga pendidikan di Indonesia](../potensi-bisnis-franchise-lembaga-pendidikan-di-indonesia/).
 
 ### 3. Peluang Bisnis Pendidikan Usia Dini
 
-Salah satu segmen yang paling berkembang dalam bisnis pendidikan Islam adalah pendidikan usia dini. Banyak orang tua yang mencari lembaga pendidikan berbasis Islam untuk anak-anak mereka. Bisnis ini sangat potensial dan telah terbukti sukses di berbagai daerah, sebagaimana dibahas dalam [artikel mengenai franchise pendidikan usia dini](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/).
+Salah satu segmen yang paling berkembang dalam bisnis pendidikan Islam adalah pendidikan usia dini. Banyak orang tua yang mencari lembaga pendidikan berbasis Islam untuk anak-anak mereka. Bisnis ini sangat potensial dan telah terbukti sukses di berbagai daerah, sebagaimana dibahas dalam [artikel mengenai franchise pendidikan usia dini](../franchise-pendidikan-usia-dini-yang-menjanjikan/).
 
 ## Kesimpulan
 

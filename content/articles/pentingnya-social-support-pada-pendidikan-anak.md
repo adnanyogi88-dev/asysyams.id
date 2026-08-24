@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260308040138/https://asysyams.id/pen
 
 # Pentingnya Social Support pada Pendidikan Anak
 
-[Home](https://asysyams.id/) » Pentingnya Social Support pada Pendidikan Anak
+[Home](../) » Pentingnya Social Support pada Pendidikan Anak
 
 ## Pendidikan anak adalah fondasi utama yang menentukan masa depan generasi penerus.
 
-![pendidikan anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
+![pendidikan anak](../wp-content/uploads/2025/01/Snapinst.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
 
 Di tengah perkembangan zaman yang semakin dinamis, tantangan dalam dunia pendidikan pun semakin kompleks. Salah satu elemen penting yang sering kali luput dari perhatian adalah peran social support atau dukungan sosial. Dukungan ini mencakup kontribusi dari keluarga, teman sebaya, guru, hingga komunitas. Artikel ini akan membahas pentingnya social support dalam pendidikan anak, serta menghubungkannya dengan peluang investasi dan model franchise pendidikan berbasis nilai Islami.
 
@@ -57,15 +57,15 @@ Model franchise pendidikan berbasis nilai Islami adalah salah satu cara untuk me
 
 #### 1. Franchise TK Islami: Mendukung Pendidikan Berbasis Nilai
 
-Artikel [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/) menyoroti peluang bagi masyarakat untuk bergabung dengan sistem pendidikan berbasis Islam. Franchise TK Islami menyediakan lingkungan belajar yang mendukung perkembangan anak tidak hanya secara akademik, tetapi juga secara moral dan spiritual. Dengan pendekatan holistik ini, anak-anak mendapatkan social support yang seimbang dari guru, teman sebaya, dan lingkungan sekolah.
+Artikel [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/) menyoroti peluang bagi masyarakat untuk bergabung dengan sistem pendidikan berbasis Islam. Franchise TK Islami menyediakan lingkungan belajar yang mendukung perkembangan anak tidak hanya secara akademik, tetapi juga secara moral dan spiritual. Dengan pendekatan holistik ini, anak-anak mendapatkan social support yang seimbang dari guru, teman sebaya, dan lingkungan sekolah.
 
 #### 2. Investasi dalam Pendidikan Berbasis Franchise: Peluang untuk Masa Depan
 
-Investasi pada model sekolah Islami berbasis franchise, sebagaimana dijelaskan dalam artikel [Investasi Sekolah Islam Berbasis Franchise: Peluang Menjanjikan untuk Masa Depan](https://asysyams.id/investasi-sekolah-islam-berbasis-franchise-peluang-menjanjikan-untuk-masa-depan/), menawarkan manfaat jangka panjang tidak hanya bagi investor, tetapi juga bagi komunitas. Sekolah-sekolah ini dapat menjadi pusat social support yang menyediakan pendidikan berkualitas dengan nilai-nilai Islami. Selain itu, adanya standar yang ditetapkan oleh franchise memastikan bahwa setiap anak mendapatkan pendidikan yang sama baiknya di mana pun lokasinya.
+Investasi pada model sekolah Islami berbasis franchise, sebagaimana dijelaskan dalam artikel [Investasi Sekolah Islam Berbasis Franchise: Peluang Menjanjikan untuk Masa Depan](../investasi-sekolah-islam-berbasis-franchise-peluang-menjanjikan-untuk-masa-depan/), menawarkan manfaat jangka panjang tidak hanya bagi investor, tetapi juga bagi komunitas. Sekolah-sekolah ini dapat menjadi pusat social support yang menyediakan pendidikan berkualitas dengan nilai-nilai Islami. Selain itu, adanya standar yang ditetapkan oleh franchise memastikan bahwa setiap anak mendapatkan pendidikan yang sama baiknya di mana pun lokasinya.
 
 #### 3. Bisnis Franchise Taman Kanak-Kanak: Menguatkan Komunitas
 
-Artikel [Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/) menunjukkan bagaimana model bisnis ini dapat menjadi jembatan bagi orang tua untuk memberikan pendidikan terbaik bagi anak-anak mereka. Franchise ini tidak hanya menawarkan kurikulum yang terstruktur tetapi juga mendukung keterlibatan orang tua dalam proses pendidikan, sehingga menciptakan social support yang lebih kuat.
+Artikel [Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/) menunjukkan bagaimana model bisnis ini dapat menjadi jembatan bagi orang tua untuk memberikan pendidikan terbaik bagi anak-anak mereka. Franchise ini tidak hanya menawarkan kurikulum yang terstruktur tetapi juga mendukung keterlibatan orang tua dalam proses pendidikan, sehingga menciptakan social support yang lebih kuat.
 
 ### Keuntungan Social Support di Sekolah Berbasis Franchise
 

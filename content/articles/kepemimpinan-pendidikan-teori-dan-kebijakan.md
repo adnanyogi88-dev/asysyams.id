@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260118010859/https://asysyams.id/kep
 
 # Mengenal Pendidikan Non Formal: Pengertian, Jenis-Jenis, Contoh, dan Manfaat
 
-[Home](https://asysyams.id/) » Mengenal Pendidikan Non Formal: Pengertian, Jenis-Jenis, Contoh, dan Manfaat
+[Home](../) » Mengenal Pendidikan Non Formal: Pengertian, Jenis-Jenis, Contoh, dan Manfaat
 
 ## Pendidikan merupakan fondasi utama dalam membentuk karakter dan kemampuan individu.
 
-![cerita rakyat anak kecil](https://asysyams.id/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-1024x1024.jpg)
+![cerita rakyat anak kecil](../wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-1024x1024.jpg)
 
 Secara umum, pendidikan terbagi menjadi tiga jalur utama: formal, non-formal, dan informal. Pendidikan formal mencakup sekolah dan universitas yang terstruktur dengan kurikulum tertentu, sedangkan pendidikan informal terjadi secara alami dalam kehidupan sehari-hari, seperti pembelajaran dalam keluarga. Di antara keduanya, terdapat pendidikan non-formal yang menawarkan fleksibilitas dan beragam metode pembelajaran. Artikel ini akan membahas secara mendalam mengenai pendidikan non-formal, termasuk pengertian, jenis-jenis, contoh, dan manfaatnya.
 
@@ -65,7 +65,7 @@ Berikut adalah beberapa contoh konkret dari pendidikan non-formal yang ada di In
 
 ### 1. Bimbingan Belajar (Bimbel)
 
-Bimbingan belajar adalah lembaga yang menyediakan bantuan belajar tambahan bagi siswa di luar jam sekolah formal. Tujuannya adalah membantu siswa memahami materi pelajaran yang diajarkan di sekolah dan mempersiapkan mereka menghadapi ujian. [Baca lebih lanjut tentang pentingnya pendidikan anak usia dini di sini](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
+Bimbingan belajar adalah lembaga yang menyediakan bantuan belajar tambahan bagi siswa di luar jam sekolah formal. Tujuannya adalah membantu siswa memahami materi pelajaran yang diajarkan di sekolah dan mempersiapkan mereka menghadapi ujian. [Baca lebih lanjut tentang pentingnya pendidikan anak usia dini di sini](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
 
 ### 2. Homeschooling
 
@@ -77,7 +77,7 @@ Pesantren adalah lembaga pendidikan Islam tradisional yang mengajarkan ilmu agam
 
 ### 4. Kursus Keterampilan
 
-Berbagai kursus keterampilan tersedia di Indonesia, seperti kursus menjahit, memasak, atau reparasi elektronik. Kursus-kursus ini membantu peserta mengembangkan keterampilan praktis yang dapat digunakan untuk meningkatkan pendapatan atau sekadar sebagai hobi. [Simak peluang usaha di bidang pendidikan melalui franchise lokal di sini](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
+Berbagai kursus keterampilan tersedia di Indonesia, seperti kursus menjahit, memasak, atau reparasi elektronik. Kursus-kursus ini membantu peserta mengembangkan keterampilan praktis yang dapat digunakan untuk meningkatkan pendapatan atau sekadar sebagai hobi. [Simak peluang usaha di bidang pendidikan melalui franchise lokal di sini](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
 
 ### 5. Program Keaksaraan Fungsional
 
@@ -95,7 +95,7 @@ Pendidikan non-formal menawarkan berbagai manfaat yang signifikan bagi individu 
 
 - Peningkatan Kesejahteraan Masyarakat: Program-program pendidikan non-formal sering kali berkaitan dengan pengembangan ekonomi dan sosial masyarakat.
 
-- Mendorong Kewirausahaan: Banyak kursus dan pelatihan yang membekali peserta dengan keterampilan untuk memulai usaha sendiri. [Ketahui lebih lanjut tentang biaya mendirikan playgroup di Jakarta di sini](https://asysyams.id/biaya-mendirikan-usaha-playgroup-di-jakarta/).
+- Mendorong Kewirausahaan: Banyak kursus dan pelatihan yang membekali peserta dengan keterampilan untuk memulai usaha sendiri. [Ketahui lebih lanjut tentang biaya mendirikan playgroup di Jakarta di sini](../biaya-mendirikan-usaha-playgroup-di-jakarta/).
 
 Dengan berbagai manfaatnya, pendidikan non-formal menjadi solusi alternatif bagi masyarakat yang ingin terus belajar dan berkembang tanpa terikat pada sistem pendidikan formal. Semoga artikel ini bermanfaat dan memberikan wawasan yang lebih luas tentang pentingnya pendidikan non-formal dalam kehidupan kita.
 

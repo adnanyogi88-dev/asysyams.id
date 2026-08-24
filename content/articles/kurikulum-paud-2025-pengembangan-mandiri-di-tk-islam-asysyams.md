@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20251008063646/https://asysyams.id/kur
 
 # Kurikulum PAUD 2025: Pengembangan Mandiri di TK Islam AsySyams
 
-[Home](https://asysyams.id/) » Kurikulum PAUD 2025: Pengembangan Mandiri di TK Islam AsySyams
+[Home](../) » Kurikulum PAUD 2025: Pengembangan Mandiri di TK Islam AsySyams
 
 ## Pengantar
 
 ## Kurikulum Tingkat Satuan Pendidikan (KTSP) merupakan kurikulum operasional yang tersusun dan terlaksanakan secara mandiri oleh masing-masing lembaga pendidikan.
 
-![mengasuh Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
+![mengasuh Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
 
 Memasuki tahun 2025, kurikulum PAUD terus mengalami penyempurnaan agar sesuai dengan kebutuhan peserta didik.
 
@@ -37,10 +37,10 @@ Hal ini sejalan dengan semangat desentralisasi pendidikan yang memberi ruang kel
 
 ## Kurikulum di TK Islam AsySyams
 
-Sebagai salah satu [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), TK Islam AsySyams mengembangkan kurikulumnya dengan beberapa fokus utama:
+Sebagai salah satu [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), TK Islam AsySyams mengembangkan kurikulumnya dengan beberapa fokus utama:
 
 - Penguatan Pendidikan Karakter Islami
-Setiap kegiatan pembelajaran kita arahkan untuk membiasakan anak dalam akhlak mulia, seperti disiplin, berbagi, dan berkata jujur. Cerita-cerita Islami pendek juga digunakan sebagai media pembelajaran sehari-hari. Contohnya dapat anda lihat dalam [kumpulan cerita Islami pendek untuk anak dan keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
+Setiap kegiatan pembelajaran kita arahkan untuk membiasakan anak dalam akhlak mulia, seperti disiplin, berbagi, dan berkata jujur. Cerita-cerita Islami pendek juga digunakan sebagai media pembelajaran sehari-hari. Contohnya dapat anda lihat dalam [kumpulan cerita Islami pendek untuk anak dan keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
 
 - Pendekatan Tematik dan Kontekstual
 Pembelajaran kita lakukan berbasis tema, tersesuaikan dengan kehidupan sehari-hari anak sehingga lebih mudah kita pahami dan kita terapkan.
@@ -53,7 +53,7 @@ Anak lebih banyak melakukan kegiatan bermain sambil belajar, baik di dalam kelas
 
 ## TK Islam AsySyams Sebagai Institusi Pendidikan
 
-Sebagai institusi pendidikan, TK Islam AsySyams menjalankan fungsinya tidak hanya sebagai tempat belajar formal, tetapi juga sebagai rumah kedua bagi anak-anak. Peran ini sejalan dengan penjelasan mengenai [apa itu institusi pendidikan, fungsi, dan contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/), di mana sekolah menjadi bagian penting dalam membentuk generasi yang beriman, berilmu, dan berakhlak mulia.
+Sebagai institusi pendidikan, TK Islam AsySyams menjalankan fungsinya tidak hanya sebagai tempat belajar formal, tetapi juga sebagai rumah kedua bagi anak-anak. Peran ini sejalan dengan penjelasan mengenai [apa itu institusi pendidikan, fungsi, dan contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/), di mana sekolah menjadi bagian penting dalam membentuk generasi yang beriman, berilmu, dan berakhlak mulia.
 
 ## Penutup
 

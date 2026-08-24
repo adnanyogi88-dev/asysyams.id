@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515071306/https://asysyams.id/con
 
 # Contoh Teks Deskripsi tentang Sekolah: Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Contoh Teks Deskripsi tentang Sekolah: Panduan Lengkap untuk Orang Tua
+[Home](../) » Contoh Teks Deskripsi tentang Sekolah: Panduan Lengkap untuk Orang Tua
 
 ## Memilih sekolah yang tepat untuk anak merupakan keputusan besar bagi setiap orang tua.
 
-![belajar berhitung anak tk](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_409891184_18115151299353668_368608034652018528_n_1080-1024x1024.jpg)
+![belajar berhitung anak tk](../wp-content/uploads/2024/11/Snapinsta.app_409891184_18115151299353668_368608034652018528_n_1080-1024x1024.jpg)
 
 Oleh karena itu, penting menilai berbagai aspek sebelum mengambil keputusan. Pertama, orang tua harus memahami visi dan misi sekolah, serta fasilitas dan kurikulum yang ditawarkan. Selain itu, lingkungan sekolah turut menentukan kenyamanan dan efektivitas proses belajar mengajar.
 
@@ -53,12 +53,12 @@ Pilih sekolah yang punya guru bersertifikat, berpengalaman, dan kompeten. Selain
 Keamanan lingkungan sekolah sangat penting. Selain itu, faktor lokasi dekat rumah memudahkan orang tua mengantar dan menjemput; ini sangat membantu dalam rutinitas harian keluarga.
 
 2.6 Biaya dan sistem pembayaran
-Transparansi biaya masuk, SPP, dan uang kegiatan harus jelas. Orang tua perlu mengetahui seluruh komponen biaya sehingga tidak kaget di kemudian hari. Untuk panduan lebih lengkap, Anda bisa membaca artikel kami mengenai [biaya masuk PAUD – panduan lengkap untuk orang tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
+Transparansi biaya masuk, SPP, dan uang kegiatan harus jelas. Orang tua perlu mengetahui seluruh komponen biaya sehingga tidak kaget di kemudian hari. Untuk panduan lebih lengkap, Anda bisa membaca artikel kami mengenai [biaya masuk PAUD – panduan lengkap untuk orang tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
 
 ### 3. Panduan Tahapan Seleksi dan Pendaftaran
 
 3.1 Mulai dari jadwal pendaftaran
-Pendaftaran TK biasanya dimulai pada bulan awal tahun ajaran, antara Januari–Maret. Namun, ada juga sekolah yang membuka pendaftaran semester genap. Untuk tahu persis, silakan cek panduan lengkap di artikel kami [pendaftaran TK bulan apa – panduan lengkap untuk orang tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
+Pendaftaran TK biasanya dimulai pada bulan awal tahun ajaran, antara Januari–Maret. Namun, ada juga sekolah yang membuka pendaftaran semester genap. Untuk tahu persis, silakan cek panduan lengkap di artikel kami [pendaftaran TK bulan apa – panduan lengkap untuk orang tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
 
 3.2 Siapkan dokumen penting
 Orang tua perlu menyediakan:
@@ -85,7 +85,7 @@ TK Islam menanamkan nilai agama sejak dini, seperti adab, shalat, hafalan doa, d
 Kurikulum TK Islam menggabungkan pembelajaran tematik dan nilai agama. Selain itu, kegiatan keagamaan seperti shalat berjamaah rutin dilaksanakan.
 
 4.3 Fasilitas pendukung keislaman
-Beberapa TK Islam memiliki mushalla, pojok baca Al?Qur’an, dan kegiatan khusus keagamaan. Bagi yang tertarik, bisa membaca artikel “[TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)” yang menyoroti contoh nyata sekolah unggul.
+Beberapa TK Islam memiliki mushalla, pojok baca Al?Qur’an, dan kegiatan khusus keagamaan. Bagi yang tertarik, bisa membaca artikel “[TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)” yang menyoroti contoh nyata sekolah unggul.
 
 ### 5. Tips Memilih Sekolah
 
@@ -142,11 +142,11 @@ Dengan penelitian yang matang dan dukungan penuh, anak Anda akan memasuki dunia 
 
 Internal Links:
 
-- Pendaftaran: [https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- Pendaftaran: [../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- TK Islam Bekasi: [https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- TK Islam Bekasi: [../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- Biaya PAUD: [https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- Biaya PAUD: [../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 Semoga artikel ini sesuai harapan Anda! Jika perlu penyesuaian gaya bahasa atau penambahan subtopik, silakan masukkan.
 

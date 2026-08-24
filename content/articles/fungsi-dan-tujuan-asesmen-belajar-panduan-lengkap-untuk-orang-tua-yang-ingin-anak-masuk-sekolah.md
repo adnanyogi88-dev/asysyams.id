@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421034555/https://asysyams.id/fun
 
 # Fungsi dan Tujuan Asesmen Belajar: Panduan Lengkap untuk Orang Tua yang Ingin Anak Masuk Sekolah
 
-[Home](https://asysyams.id/) » Fungsi dan Tujuan Asesmen Belajar: Panduan Lengkap untuk Orang Tua yang Ingin Anak Masuk Sekolah
+[Home](../) » Fungsi dan Tujuan Asesmen Belajar: Panduan Lengkap untuk Orang Tua yang Ingin Anak Masuk Sekolah
 
 ## Menyekolahkan anak adalah keputusan besar yang membutuhkan pertimbangan matang.
 
-![Pentingkah Masuk PAUD](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_f4230a7e-768x1024.jpg)
+![Pentingkah Masuk PAUD](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_f4230a7e-768x1024.jpg)
 
 Setiap orang tua tentu ingin memberikan pendidikan terbaik bagi buah hatinya. Namun, sebelum memutuskan sekolah mana yang tepat, penting bagi orang tua untuk memahami apa itu asesmen belajar, serta fungsi dan tujuan asesmen belajar dalam konteks pendidikan anak usia dini.
 
@@ -95,7 +95,7 @@ Melibatkan kegiatan nyata yang mencerminkan situasi belajar di dunia nyata. Misa
 
 Waktu yang tepat untuk melakukan asesmen belajar adalah sebelum anak masuk ke jenjang pendidikan berikutnya. Misalnya, sebelum masuk TK atau SD. Dengan melakukan asesmen terlebih dahulu, Anda bisa memastikan kesiapan anak dan memilih sekolah yang sesuai dengan kebutuhan serta karakteristik anak.
 
-Jika Anda sedang mencari TK Islam terbaik di Bekasi, asesmen dapat membantu menilai kesiapan anak untuk mengikuti kurikulum yang ditawarkan. Anda bisa mempertimbangkan pilihan seperti [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Jika Anda sedang mencari TK Islam terbaik di Bekasi, asesmen dapat membantu menilai kesiapan anak untuk mengikuti kurikulum yang ditawarkan. Anda bisa mempertimbangkan pilihan seperti [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ### Manfaat Asesmen Belajar bagi Orang Tua
 
@@ -121,13 +121,13 @@ Setelah Anda memahami hasil asesmen anak, langkah selanjutnya adalah memilih sek
 
 - Rekomendasi dan Kredibilitas: Pilih sekolah dengan reputasi baik dan testimoni positif dari orang tua lain.
 
-Jika Anda masih bingung memilih sekolah, artikel [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) ini bisa menjadi referensi berguna.
+Jika Anda masih bingung memilih sekolah, artikel [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) ini bisa menjadi referensi berguna.
 
 ### Asesmen dan Pendidikan Franchise: Apa Hubungannya?
 
 Jika Anda tertarik dengan sistem pendidikan franchise, asesmen tetap menjadi bagian penting dalam proses belajar. Franchise pendidikan biasanya memiliki standar asesmen yang terukur dan terintegrasi. Hal ini memastikan bahwa setiap anak mendapat pengalaman belajar yang setara dan berkualitas.
 
-Untuk mengetahui lebih banyak tentang pilihan franchise pendidikan lokal, baca artikel [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
+Untuk mengetahui lebih banyak tentang pilihan franchise pendidikan lokal, baca artikel [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
 
 ### Kesimpulan
 

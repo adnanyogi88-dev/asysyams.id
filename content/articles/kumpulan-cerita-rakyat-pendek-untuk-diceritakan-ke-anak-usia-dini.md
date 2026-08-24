@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314223600/https://asysyams.id/kum
 
 # Kumpulan Cerita Rakyat Pendek untuk Diceritakan ke Anak Usia Dini
 
-[Home](https://asysyams.id/) » Kumpulan Cerita Rakyat Pendek untuk Diceritakan ke Anak Usia Dini
+[Home](../) » Kumpulan Cerita Rakyat Pendek untuk Diceritakan ke Anak Usia Dini
 
 ## Mendongengkan cerita rakyat kepada anak usia dini memiliki peran penting dalam pembentukan karakter dan pengenalan budaya sejak dini.
 
-![cerita rakyat anak kecil](https://asysyams.id/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-1024x1024.jpg)
+![cerita rakyat anak kecil](../wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-1024x1024.jpg)
 
 Cerita-cerita ini tidak hanya menghibur, tetapi juga sarat dengan pesan moral yang dapat membimbing anak dalam memahami nilai-nilai kehidupan. Berikut ini adalah kumpulan cerita rakyat pendek yang cocok untuk diceritakan kepada anak-anak, lengkap dengan pesan moral yang terkandung di dalamnya.
 
@@ -95,7 +95,7 @@ Menceritakan cerita rakyat kepada anak memiliki berbagai manfaat, di antaranya:
 
 Mendongengkan cerita rakyat kepada anak usia dini adalah cara yang menyenangkan dan edukatif untuk mengenalkan nilai-nilai moral serta budaya. Dengan cerita-cerita yang menarik dan penuh hikmah, anak-anak dapat belajar banyak hal yang berguna bagi perkembangan karakter mereka.
 
-Bagi Anda yang tertarik dengan cerita Islami untuk anak, silakan kunjungi artikel berikut: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/). Jika Anda ingin mengetahui lebih lanjut tentang bisnis pendidikan anak usia dini, baca artikel [Franchise Taman Kanak-Kanak, Bisnis yang Sedang Ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/) dan [Rekomendasi Franchise PAUD Terbaik untuk Memulai Bisnis Pendidikan](https://asysyams.id/rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/).
+Bagi Anda yang tertarik dengan cerita Islami untuk anak, silakan kunjungi artikel berikut: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/). Jika Anda ingin mengetahui lebih lanjut tentang bisnis pendidikan anak usia dini, baca artikel [Franchise Taman Kanak-Kanak, Bisnis yang Sedang Ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/) dan [Rekomendasi Franchise PAUD Terbaik untuk Memulai Bisnis Pendidikan](../rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/).
 
 [
 WhatsApp Kami

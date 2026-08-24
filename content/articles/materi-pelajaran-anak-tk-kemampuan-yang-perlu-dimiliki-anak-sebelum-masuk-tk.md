@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419151607/https://asysyams.id/mat
 
 # Materi Pelajaran Anak TK, Kemampuan yang Perlu Dimiliki Anak Sebelum Masuk TK
 
-[Home](https://asysyams.id/) » Materi Pelajaran Anak TK, Kemampuan yang Perlu Dimiliki Anak Sebelum Masuk TK
+[Home](../) » Materi Pelajaran Anak TK, Kemampuan yang Perlu Dimiliki Anak Sebelum Masuk TK
 
 ## Mempersiapkan anak sebelum masuk Taman Kanak-Kanak (TK) adalah langkah penting untuk mendukung tumbuh kembangnya.
 
-![paud fasilitas lengkap](https://asysyams.id/wp-content/uploads/2024/10/ClipDown.App_457035294_18141623854353668_3576366696611035647_n-1024x768.jpg)
+![paud fasilitas lengkap](../wp-content/uploads/2024/10/ClipDown.App_457035294_18141623854353668_3576366696611035647_n-1024x768.jpg)
 
 Kemampuan sederhana yang dimiliki anak akan mempermudah proses adaptasi dan belajar di lingkungan sekolah. Selain itu, memahami materi pelajaran yang diajarkan di TK dapat membantu orang tua mempersiapkan pendidikan yang optimal.
 
@@ -53,7 +53,7 @@ Kemampuan motorik sangat penting untuk mendukung aktivitas belajar di TK. Ini me
 
 - Mengatur Diri: Memakai dan melepas baju sendiri serta mengatur barang-barang pribadi.
 
-Untuk memperdalam wawasan tentang pendidikan anak usia dini, Anda dapat membaca artikel menarik di [Dasar Pendidikan Islam Menurut Para Ahli](https://asysyams.id/4-dasar-pendidikan-islam-menurut-para-ahli).
+Untuk memperdalam wawasan tentang pendidikan anak usia dini, Anda dapat membaca artikel menarik di [Dasar Pendidikan Islam Menurut Para Ahli](../4-dasar-pendidikan-islam-menurut-para-ahli).
 
 ## Materi Pelajaran Anak TK
 
@@ -99,7 +99,7 @@ Anak-anak di TK belajar melalui permainan dan kegiatan interaktif. Berikut adala
 
 - Permainan Tradisional: Bermain engklek, lompat tali, atau petak umpet.
 
-Untuk mendapatkan wawasan lebih luas tentang peluang pendidikan anak TK Islami, Anda bisa membaca artikel di [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+Untuk mendapatkan wawasan lebih luas tentang peluang pendidikan anak TK Islami, Anda bisa membaca artikel di [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 ## Materi Pelajaran Anak TK
 
@@ -145,7 +145,7 @@ Anak-anak di TK belajar melalui permainan dan kegiatan interaktif. Berikut adala
 
 - Permainan Tradisional: Bermain engklek, lompat tali, atau petak umpet.
 
-Untuk mendapatkan wawasan lebih luas tentang peluang pendidikan anak TK Islami, Anda bisa membaca artikel di [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+Untuk mendapatkan wawasan lebih luas tentang peluang pendidikan anak TK Islami, Anda bisa membaca artikel di [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 ## Mengapa Pendidikan TK Sangat Penting?
 
@@ -167,7 +167,7 @@ Pendidikan TK sangat penting bagi anak dan orang tua karena memberikan fondasi y
 
 - Kolaborasi dengan Guru: Orang tua dapat bekerja sama dengan guru untuk memantau dan mendukung perkembangan anak.
 
-Bagi orang tua yang ingin bergabung dalam pengelolaan sekolah berbasis pendidikan Islam, Anda bisa melihat peluang kemitraan di [Gabung Kemitraan Sekolah Asy Syams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/).
+Bagi orang tua yang ingin bergabung dalam pengelolaan sekolah berbasis pendidikan Islam, Anda bisa melihat peluang kemitraan di [Gabung Kemitraan Sekolah Asy Syams](../gabung-kemitraan-sekolah-asy-syams/).
 
 ### Kesimpulan
 

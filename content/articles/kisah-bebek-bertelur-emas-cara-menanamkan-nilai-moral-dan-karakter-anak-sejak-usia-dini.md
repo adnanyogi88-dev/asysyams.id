@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314162927/https://asysyams.id/kis
 
 # Kisah Bebek Bertelur Emas: Cara Menanamkan Nilai Moral dan Karakter Anak Sejak Usia Dini
 
-[Home](https://asysyams.id/) » Kisah Bebek Bertelur Emas: Cara Menanamkan Nilai Moral dan Karakter Anak Sejak Usia Dini
+[Home](../) » Kisah Bebek Bertelur Emas: Cara Menanamkan Nilai Moral dan Karakter Anak Sejak Usia Dini
 
 ## Dalam dunia pendidikan anak usia dini, dongeng menjadi jembatan emas untuk menanamkan nilai moral dan membentuk karakter sejak dini.
 
-![Pendidikan adalah Usaha Sadar dan Terencana](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_284352727_4979725025458682_8259901919731520470_n_1080-1024x1024.jpg)
+![Pendidikan adalah Usaha Sadar dan Terencana](../wp-content/uploads/2024/11/Snapinsta.app_284352727_4979725025458682_8259901919731520470_n_1080-1024x1024.jpg)
 
 Salah satu kisah yang memiliki kekuatan besar untuk tujuan ini adalah kisah bebek bertelur emas. Cerita ini bukan sekadar dongeng biasa. Sebaliknya, ia menjadi sarana luar biasa untuk membuka wawasan anak, membentuk perilaku positif, serta menanamkan nilai luhur yang akan tertanam dalam hati mereka seumur hidup.
 
@@ -57,11 +57,11 @@ Lembaga pendidikan anak seperti PAUD dan TK memiliki peran vital dalam menanamka
 
 Di PAUD Asy-Syams, misalnya, pendekatan pendidikan berbasis karakter sangat ditekankan. Anak tidak hanya belajar membaca dan berhitung, tetapi juga diajak merenungkan nilai-nilai kebaikan. Cerita-cerita seperti ini menjadi bagian dari kurikulum harian.
 
-Jika Anda mencari lembaga pendidikan yang menanamkan nilai karakter sejak dini, PAUD Asy-Syams telah membuka pendaftaran tahun ajaran 2024-2025. Anda bisa mendapatkan informasi lengkapnya di [pendaftaran PAUD Asy-Syams tahun ajaran 2024-2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/).
+Jika Anda mencari lembaga pendidikan yang menanamkan nilai karakter sejak dini, PAUD Asy-Syams telah membuka pendaftaran tahun ajaran 2024-2025. Anda bisa mendapatkan informasi lengkapnya di [pendaftaran PAUD Asy-Syams tahun ajaran 2024-2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/).
 
-Selain itu, bagi orang tua yang ingin segera mendaftarkan anaknya ke sekolah yang menerapkan pendidikan berbasis nilai, silakan kunjungi [pendaftaran anak di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/).
+Selain itu, bagi orang tua yang ingin segera mendaftarkan anaknya ke sekolah yang menerapkan pendidikan berbasis nilai, silakan kunjungi [pendaftaran anak di Asy-Syams](../pendaftaran-anak-di-asy-syams/).
 
-Dan jangan lewatkan juga [open pendaftaran siswa TK Asy-Syams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) yang sudah dibuka!
+Dan jangan lewatkan juga [open pendaftaran siswa TK Asy-Syams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) yang sudah dibuka!
 
 ### Testimoni dari Guru dan Orang Tua
 
@@ -91,11 +91,11 @@ Kisah bebek bertelur emas adalah cerita sederhana dengan pelajaran luar biasa. D
 
 Jika Anda ingin anak mendapatkan pendidikan karakter yang kuat sejak dini, ayo daftarkan mereka ke PAUD dan TK Asy-Syams. Untuk info lengkap dan formulir pendaftaran, kunjungi:
 
-- [Pendaftaran PAUD Asy-Syams Tahun Ajaran 2024-2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- [Pendaftaran PAUD Asy-Syams Tahun Ajaran 2024-2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- [Pendaftaran Anak di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di Asy-Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Open Pendaftaran Siswa TK Asy-Syams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK Asy-Syams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 Karakter anak dibentuk sejak kecil. Maka, mari mulai dari hari ini.
 

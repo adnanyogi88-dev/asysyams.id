@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314231757/https://asysyams.id/men
 
 # Mengatasi Anak yang Tidak Semangat Sekolah: Strategi Jitu untuk Orang Tua
 
-[Home](https://asysyams.id/) » Mengatasi Anak yang Tidak Semangat Sekolah: Strategi Jitu untuk Orang Tua
+[Home](../) » Mengatasi Anak yang Tidak Semangat Sekolah: Strategi Jitu untuk Orang Tua
 
 ## Setiap orang tua tentu menginginkan anaknya tumbuh menjadi pribadi yang cerdas, rajin, dan semangat dalam menjalani kegiatan belajar di sekolah.
 
-![apa itu parenting islami](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_447206323_18132872335353668_7510575450558454136_n_1080-1024x768.jpg)
+![apa itu parenting islami](../wp-content/uploads/2024/10/Snapinsta.app_447206323_18132872335353668_7510575450558454136_n_1080-1024x768.jpg)
 
 Namun, kenyataan di lapangan tidak selalu demikian. Tidak sedikit orang tua yang menghadapi tantangan ketika anak menunjukkan tanda-tanda kurang semangat, malas, bahkan enggan pergi ke sekolah. Fenomena ini tidak hanya terjadi pada anak usia sekolah dasar, tetapi juga pada jenjang pendidikan lainnya, termasuk PAUD dan TK.
 
@@ -79,7 +79,7 @@ Pemilihan sekolah sangat penting bagi perkembangan anak. Sekolah yang memiliki p
 
 Jika Anda sedang mencari alternatif pendidikan anak usia dini yang berkualitas, Anda bisa melihat beberapa referensi seperti:
 
-? [Rekomendasi Franchise PAUD Terbaik untuk Memulai Bisnis Pendidikan](https://asysyams.id/rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/)
+? [Rekomendasi Franchise PAUD Terbaik untuk Memulai Bisnis Pendidikan](../rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/)
 
 Artikel tersebut membahas franchise PAUD yang tidak hanya fokus pada aspek akademik, tetapi juga pengalaman belajar yang menyenangkan untuk anak.
 
@@ -95,7 +95,7 @@ Jika anak menangis atau menolak pergi ke sekolah, jangan langsung memarahinya. C
 
 Persiapan biaya juga merupakan hal penting. Informasi mengenai biaya masuk TK negeri misalnya, bisa menjadi referensi awal bagi orang tua:
 
-? [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
+? [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
 
 Dengan memahami komponen biaya, orang tua bisa lebih fokus pada hal-hal penting lain seperti membangun kebiasaan positif sejak dini.
 
@@ -119,7 +119,7 @@ Sekolah seringkali hanya dilihat sebagai tempat belajar akademik. Padahal, sekol
 
 Jika Anda sebagai orang tua juga memiliki minat pada dunia pendidikan dan ingin terlibat lebih jauh, peluang bisnis di sektor ini terbuka luas. Salah satunya adalah usaha waralaba pendidikan yang sedang berkembang pesat di Indonesia:
 
-? [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/)
+? [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/)
 
 Melalui artikel tersebut, Anda dapat melihat bagaimana pendidikan bisa menjadi ladang bisnis yang juga berdampak sosial, terutama dalam menciptakan ekosistem pendidikan yang positif bagi generasi muda.
 

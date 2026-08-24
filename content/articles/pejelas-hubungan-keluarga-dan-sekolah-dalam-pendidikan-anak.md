@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515075507/https://asysyams.id/pej
 
 # Pejelas Hubungan Keluarga dan Sekolah dalam Pendidikan Anak
 
-[Home](https://asysyams.id/) » Pejelas Hubungan Keluarga dan Sekolah dalam Pendidikan Anak
+[Home](../) » Pejelas Hubungan Keluarga dan Sekolah dalam Pendidikan Anak
 
 ## Pendidikan anak merupakan fondasi penting dalam membentuk karakter, keterampilan, dan masa depan mereka.
 
-![jelaskan Hubungan Keluarga dan Sekolah dalam Pendidikan Anak](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_b7a5702c-1024x768.jpg)
+![jelaskan Hubungan Keluarga dan Sekolah dalam Pendidikan Anak](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_b7a5702c-1024x768.jpg)
 
 Dalam perjalanan pendidikan ini, dua institusi utama memiliki peran yang sangat penting, yaitu keluarga dan sekolah. Keduanya harus berjalan seiring dalam menciptakan lingkungan belajar yang kondusif bagi anak. Hubungan yang harmonis antara keluarga dan sekolah dapat memberikan dampak positif yang besar bagi perkembangan anak, baik dari segi akademik maupun sosial.
 
@@ -62,11 +62,11 @@ Orang tua dan sekolah harus memiliki pendekatan yang sejalan dalam mendidik anak
 
 ### Peluang Bisnis di Bidang Pendidikan
 
-Hubungan erat antara keluarga dan sekolah juga menciptakan peluang besar dalam dunia bisnis pendidikan. Salah satu bisnis yang sedang berkembang adalah bisnis taman kanak-kanak (TK). Pendidikan usia dini sangat penting dalam membentuk karakter dan kecerdasan anak. Peluang bisnis taman kanak-kanak dapat dimanfaatkan oleh para pengusaha yang ingin berkontribusi dalam dunia pendidikan. Selengkapnya, Anda dapat membaca artikel berikut: [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/).
+Hubungan erat antara keluarga dan sekolah juga menciptakan peluang besar dalam dunia bisnis pendidikan. Salah satu bisnis yang sedang berkembang adalah bisnis taman kanak-kanak (TK). Pendidikan usia dini sangat penting dalam membentuk karakter dan kecerdasan anak. Peluang bisnis taman kanak-kanak dapat dimanfaatkan oleh para pengusaha yang ingin berkontribusi dalam dunia pendidikan. Selengkapnya, Anda dapat membaca artikel berikut: [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/).
 
-Selain itu, tren usaha franchise di bidang pendidikan juga semakin berkembang. Dengan sistem waralaba, pengusaha dapat membuka lembaga pendidikan dengan lebih mudah karena sudah memiliki sistem dan konsep yang teruji. Artikel ini membahas lebih lanjut mengenai tren tersebut: [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/).
+Selain itu, tren usaha franchise di bidang pendidikan juga semakin berkembang. Dengan sistem waralaba, pengusaha dapat membuka lembaga pendidikan dengan lebih mudah karena sudah memiliki sistem dan konsep yang teruji. Artikel ini membahas lebih lanjut mengenai tren tersebut: [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/).
 
-Di tahun 2025, bisnis pendidikan akan terus mengalami perkembangan dengan berbagai inovasi dan teknologi baru. Peluang dan tren bisnis pendidikan di masa depan bisa Anda pelajari lebih dalam melalui artikel berikut: [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](https://asysyams.id/bisnis-pendidikan-peluang-dan-tren-tahun-2025/).
+Di tahun 2025, bisnis pendidikan akan terus mengalami perkembangan dengan berbagai inovasi dan teknologi baru. Peluang dan tren bisnis pendidikan di masa depan bisa Anda pelajari lebih dalam melalui artikel berikut: [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](../bisnis-pendidikan-peluang-dan-tren-tahun-2025/).
 
 ### Kesimpulan
 

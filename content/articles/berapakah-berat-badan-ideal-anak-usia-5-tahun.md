@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207004635/https://asysyams.id/ber
 
 # Berapakah Berat Badan Ideal Anak Usia 5 Tahun?
 
-[Home](https://asysyams.id/) » Berapakah Berat Badan Ideal Anak Usia 5 Tahun?
+[Home](../) » Berapakah Berat Badan Ideal Anak Usia 5 Tahun?
 
 ## Mengetahui berat badan ideal anak adalah langkah penting bagi orang tua untuk memantau kesehatan dan pertumbuhan si kecil.
 
-![berat anak umur 5 tahun](https://asysyams.id/wp-content/uploads/2024/08/Rh6lYhNYA7-300x209.webp)
+![berat anak umur 5 tahun](../wp-content/uploads/2024/08/Rh6lYhNYA7-300x209.webp)
 
 [sumber](https://www.ibudanbalita.com/)
 
@@ -81,11 +81,11 @@ Indeks Massa Tubuh (BMI) juga dapat anda gunakan untuk menentukan apakah berat b
 
 Baca juga:
 
-[Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
+[Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
 
-[Memahami Tumbuh Kembang Anak: Panduan Lengkap](https://asysyams.id/memahami-tumbuh-kembang-anak-panduan-lengkap/)
+[Memahami Tumbuh Kembang Anak: Panduan Lengkap](../memahami-tumbuh-kembang-anak-panduan-lengkap/)
 
-[Perbedaan PAUD dan TK: Memahami Pendidikan di Indonesia](https://asysyams.id/perbedaan-paud-dan-tk-memahami-pendidikan-di-indonesia/)
+[Perbedaan PAUD dan TK: Memahami Pendidikan di Indonesia](../perbedaan-paud-dan-tk-memahami-pendidikan-di-indonesia/)
 
  
 

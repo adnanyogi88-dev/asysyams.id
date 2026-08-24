@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419152246/https://asysyams.id/daf
 
 # Daftar Tokoh di Indonesia yang Dekat Dengan Anak-anak
 
-[Home](https://asysyams.id/) » Daftar Tokoh di Indonesia yang Dekat Dengan Anak-anak
+[Home](../) » Daftar Tokoh di Indonesia yang Dekat Dengan Anak-anak
 
 ## Indonesia memiliki sejumlah tokoh yang telah memberikan kontribusi signifikan pada anak anak indonesia
 
-![tokoh dekat dengan anak](https://asysyams.id/wp-content/uploads/2025/01/DALL·E-2025-01-31-10.01.17-A-vibrant-illustration-of-famous-Indonesian-figures-who-are-known-for-their-contributions-to-childrens-education-and-development.-The-image-features-.webp)
+![tokoh dekat dengan anak](../wp-content/uploads/2025/01/DALL·E-2025-01-31-10.01.17-A-vibrant-illustration-of-famous-Indonesian-figures-who-are-known-for-their-contributions-to-childrens-education-and-development.-The-image-features-.webp)
 
 Mendekatkan diri dengan anak-anak melalui berbagai bidang seperti pendidikan, seni, dan hiburan. Artikel ini akan membahas beberapa tokoh yang dekat dengan anak anak dan mengaitkannya dengan pentingnya pendidikan anak usia dini serta peluang waralaba di bidang pendidikan.
 
@@ -31,7 +31,7 @@ R.A. Kartini terkenal sebagai pelopor emansipasi wanita di Indonesia. Melalui su
 
 Dewi Sartika adalah tokoh pendidikan yang mendirikan Sakola Istri pada tahun 1904 di Bandung. Sekolah ini tertuju untuk perempuan agar mereka mendapatkan pendidikan dan keterampilan yang berguna dalam kehidupan sehari-hari. Usahanya dalam memajukan pendidikan perempuan turut berkontribusi pada peningkatan kualitas pendidikan bagi anak-anak di Indonesia.
 
-Baca juga: [Rekomendasi Pre School Islam Bekasi untuk Pendidikan Anak Usia Dini](https://asysyams.id/rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
+Baca juga: [Rekomendasi Pre School Islam Bekasi untuk Pendidikan Anak Usia Dini](../rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
 
 ### 4. Pak Tino Sidin
 
@@ -45,7 +45,7 @@ Seto Mulyadi, atau yang akrab kita sapa Kak Seto, adalah psikolog anak yang tela
 
 Sandiah, yang lebih terkenal sebagai Ibu Kasur, adalah tokoh pendidikan anak yang bersama suaminya, Pak Kasur, mendirikan TK Mini pada tahun 1965. Ia juga aktif dalam program televisi anak-anak, seperti “Taman Indria,” yang berfokus pada pendidikan dan hiburan bagi anak-anak. Perannya dalam dunia pendidikan anak menjadikannya sosok yang dekat dan dicintai oleh anak-anak.
 
-Baca juga: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+Baca juga: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ### 7. Kak Awam Prakoso
 
@@ -63,7 +63,7 @@ Ario Kiswinar Teguh, atau yang dikenal sebagai Kak Aio, adalah pendiri komunitas
 
 Selain dikenal sebagai Kak Seto, Dr. Seto Mulyadi juga merupakan Ketua Lembaga Perlindungan Anak Indonesia (LPAI). Ia aktif dalam advokasi hak-hak anak dan sering terlibat dalam penyelesaian kasus-kasus yang melibatkan anak-anak, menjadikannya figur penting dalam perlindungan anak di Indonesia.
 
-Baca juga: [Waralaba di Bidang Pendidikan yang Bagus Saat Ini](https://asysyams.id/waralaba-di-bidang-pendidikan-yang-bagus-saat-ini/)
+Baca juga: [Waralaba di Bidang Pendidikan yang Bagus Saat Ini](../waralaba-di-bidang-pendidikan-yang-bagus-saat-ini/)
 
 ## Pentingnya Pendidikan Anak Usia Dini
 

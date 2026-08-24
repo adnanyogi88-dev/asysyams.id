@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314170813/https://asysyams.id/men
 
 # Mengapa Merawat Tanaman di Sekolah Penting? Ini Aturan dan Peran Orang Tua
 
-[Home](https://asysyams.id/) » Mengapa Merawat Tanaman di Sekolah Penting? Ini Aturan dan Peran Orang Tua
+[Home](../) » Mengapa Merawat Tanaman di Sekolah Penting? Ini Aturan dan Peran Orang Tua
 
 ## Sekolah tak hanya tempat belajar akademis. Sekolah juga lingkungan yang membantu anak belajar bertanggung jawab.
 
-![](https://asysyams.id/wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-01_45_33-PM.jpg)
+![](../wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-01_45_33-PM.jpg)
 
 Salah satu cara nyatanya adalah merawat tanaman di sekolah. Oleh karena itu, sekolah perlu menetapkan aturan jelas agar kegiatan ini berjalan lancar. Orang tua perlu memahami dan mendukung program ini. Selain itu, merawat tanaman memberikan banyak manfaat untuk tumbuh kembang anak. Berikut akan dijelaskan aturan perawatan tanaman di sekolah, langkah implementasi, dan peran orang tua untuk mendukung kesuksesan program.
 
@@ -109,11 +109,11 @@ Untuk memulai dan membuat aturan berjalan dengan sistematis, ikuti langkah berik
 
 Pada awal tahun ajaran, sekolah mengirim surat atau mengumumkan program penanaman ini. Selain itu, sekolah bisa membagikan panduan singkat dan link ke artikel seputar pendidikan, misalnya tentang TK dan PAUD:
 
-- Info mengenai pendaftaran TK: [Pendaftaran TK — Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- Info mengenai pendaftaran TK: [Pendaftaran TK — Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- TK Islam di wilayah Bekasi dengan fasilitas terbaik: [TK Islam Bagus di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- TK Islam di wilayah Bekasi dengan fasilitas terbaik: [TK Islam Bagus di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- Biaya masuk PAUD: [Biaya Masuk PAUD — Panduan Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- Biaya masuk PAUD: [Biaya Masuk PAUD — Panduan Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 Dengan internal link ini, orang tua bisa mendapat wawasan tambahan.
 
@@ -207,11 +207,11 @@ Merawat tanaman di sekolah bukan hanya sekadar menyiram dan menanam. Program ini
 
 Dengan begitu, program merawat tanaman di sekolah berjalan lancar, anak-anak merasa bangga, dan lingkungan sekolah menjadi lebih asri. Kami mengundang orang tua untuk aktif berperan, bukan sekadar mendukung. Jika Anda ingin mengetahui lebih lanjut tentang pendaftaran TK, fasilitas TK Islam terbaik di Bekasi, dan biaya PAUD, silakan klik pada link berikut:
 
-- Pendaftaran TK lengkap untuk orang tua ? [Pendaftaran TK — Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- Pendaftaran TK lengkap untuk orang tua ? [Pendaftaran TK — Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- TK Islam bagus di Bekasi ? [TK Islam Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- TK Islam bagus di Bekasi ? [TK Islam Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- Biaya masuk PAUD ? [Biaya Masuk PAUD — Panduan Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- Biaya masuk PAUD ? [Biaya Masuk PAUD — Panduan Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 Ayo bangun generasi masa depan yang peduli lingkungan dari bangku sekolah mulai sekarang!
 

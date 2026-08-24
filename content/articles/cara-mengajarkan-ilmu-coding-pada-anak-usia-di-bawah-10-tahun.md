@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216235902/https://asysyams.id/car
 
 # Cara Mengajarkan Ilmu Coding pada Anak Usia di Bawah 10 Tahun
 
-[Home](https://asysyams.id/) » Cara Mengajarkan Ilmu Coding pada Anak Usia di Bawah 10 Tahun
+[Home](../) » Cara Mengajarkan Ilmu Coding pada Anak Usia di Bawah 10 Tahun
 
 ## Teknologi telah menjadi bagian tak terpisahkan dari kehidupan sehari-hari.
 
-![ilmu coding pada anak](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_263374320_205548935071428_1871976368862371942_n-240x300.jpg)
+![ilmu coding pada anak](../wp-content/uploads/2024/09/ClipDown.App_263374320_205548935071428_1871976368862371942_n-240x300.jpg)
 
 Dengan perkembangan pesat teknologi informasi dan komputer, kemampuan untuk menguasai bahasa pemrograman atau coding semakin menjadi keterampilan penting bagi generasi muda. Tidak hanya orang dewasa yang diharapkan mampu beradaptasi dengan kemajuan ini, tetapi juga anak-anak. Menariknya, coding atau pemrograman komputer sudah bisa kita ajarkan sejak dini, bahkan untuk anak-anak di bawah usia 10 tahun. Mengajarkan coding pada anak bukan hanya tentang bagaimana mereka bisa menulis kode, tetapi juga mengajarkan logika berpikir, pemecahan masalah, kreativitas, dan cara berkolaborasi.
 
@@ -77,11 +77,11 @@ Code.org adalah organisasi nirlaba yang fokus pada memperkenalkan coding kepada 
 
 Baca juga:
 
-[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](https://asysyams.id/berapakah-berat-badan-ideal-anak-usia-5-tahun/)
+[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](../berapakah-berat-badan-ideal-anak-usia-5-tahun/)
 
-[Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
+[Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
 
-[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
  
 

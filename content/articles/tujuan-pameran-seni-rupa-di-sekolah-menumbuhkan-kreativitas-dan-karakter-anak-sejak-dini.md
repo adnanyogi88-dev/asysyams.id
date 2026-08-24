@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207004315/https://asysyams.id/tuj
 
 # Tujuan Pameran Seni Rupa di Sekolah: Menumbuhkan Kreativitas dan Karakter Anak Sejak Dini
 
-[Home](https://asysyams.id/) » Tujuan Pameran Seni Rupa di Sekolah: Menumbuhkan Kreativitas dan Karakter Anak Sejak Dini
+[Home](../) » Tujuan Pameran Seni Rupa di Sekolah: Menumbuhkan Kreativitas dan Karakter Anak Sejak Dini
 
 ## Pendidikan anak usia dini tidak hanya terbatas pada pelajaran membaca, menulis, dan berhitung.
 
-![Contoh Waralaba di Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468251183_1276089726761377_548764875902831477_n_1080-1024x1024.jpg)
+![Contoh Waralaba di Bidang Pendidikan](../wp-content/uploads/2025/01/Snapinst.app_468251183_1276089726761377_548764875902831477_n_1080-1024x1024.jpg)
 
 Dalam perkembangan zaman yang semakin dinamis, pendekatan pendidikan harus menyeluruh. Salah satu metode yang terbukti efektif dalam menumbuhkan kreativitas, empati, serta kepercayaan diri anak adalah melalui kegiatan pameran seni rupa di sekolah.
 
@@ -77,11 +77,11 @@ Jika Anda ingin anak Anda tumbuh kreatif dan memiliki karakter yang kuat, maka p
 
 Untuk referensi, Anda bisa membaca artikel berikut:
 
-- [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 ### Kesimpulan
 

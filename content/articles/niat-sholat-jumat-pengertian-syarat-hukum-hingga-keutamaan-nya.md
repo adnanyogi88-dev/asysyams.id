@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216235705/https://asysyams.id/nia
 
 # Niat Sholat Jumat: Pengertian, Syarat, Hukum, hingga Keutamaan-Nya!
 
-[Home](https://asysyams.id/) » Niat Sholat Jumat: Pengertian, Syarat, Hukum, hingga Keutamaan-Nya!
+[Home](../) » Niat Sholat Jumat: Pengertian, Syarat, Hukum, hingga Keutamaan-Nya!
 
 ## Sholat Jumat adalah salah satu ibadah wajib bagi kaum Muslimin laki-laki yang telah baligh dan memenuhi syarat-syaratnya.
 
-![pendidikan agama islam dan budi pekerti](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-1024x769.jpg)
+![pendidikan agama islam dan budi pekerti](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-1024x769.jpg)
 
 Sholat ini terlaksanakan pada hari Jumat sebagai pengganti sholat dzuhur dengan berjamaah di masjid. Dalam artikel ini, kita akan membahas tentang niat sholat Jumat, pengertian, syarat, hukum, hingga keutamaannya.
 
@@ -95,11 +95,11 @@ Agar mendapatkan keutamaan sholat Jumat secara maksimal, ada beberapa adab dan s
 
 ## Hubungan Sholat Jumat dengan Pendidikan Islam
 
-Pendidikan Islam sejak dini sangat penting dalam membentuk karakter seorang Muslim agar selalu menjalankan ibadah dengan baik. Salah satu bentuk pendidikan yang dapat diberikan kepada anak adalah mengenalkan rukun Islam sejak dini. Untuk memahami lebih dalam mengenai manfaat mengenalkan rukun Islam kepada anak, Anda dapat membaca artikel berikut: [Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/).
+Pendidikan Islam sejak dini sangat penting dalam membentuk karakter seorang Muslim agar selalu menjalankan ibadah dengan baik. Salah satu bentuk pendidikan yang dapat diberikan kepada anak adalah mengenalkan rukun Islam sejak dini. Untuk memahami lebih dalam mengenai manfaat mengenalkan rukun Islam kepada anak, Anda dapat membaca artikel berikut: [Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/).
 
-Selain itu, bagi para orang tua yang ingin memberikan pendidikan terbaik bagi anak-anak mereka, memilih sekolah berbasis tahfidz Al-Qur’an bisa menjadi pilihan yang tepat. Salah satu rekomendasi sekolah tahfidz terbaik adalah melalui sistem franchise sekolah tahfidz yang bisa Anda simak di artikel berikut: [Franchise Sekolah Tahfidz Al-Qur’an Asy-Syams](https://asysyams.id/franchise-sekolah-tahfidz-al-quran-asy-syams/).
+Selain itu, bagi para orang tua yang ingin memberikan pendidikan terbaik bagi anak-anak mereka, memilih sekolah berbasis tahfidz Al-Qur’an bisa menjadi pilihan yang tepat. Salah satu rekomendasi sekolah tahfidz terbaik adalah melalui sistem franchise sekolah tahfidz yang bisa Anda simak di artikel berikut: [Franchise Sekolah Tahfidz Al-Qur’an Asy-Syams](../franchise-sekolah-tahfidz-al-quran-asy-syams/).
 
-Jika Anda tertarik untuk memulai bisnis di bidang pendidikan Islam, ada berbagai pilihan franchise yang dapat membantu Anda dalam mendirikan sekolah berbasis Islam. Untuk informasi lebih lanjut, baca artikel berikut: [Rekomendasi Franchise PAUD Terbaik untuk Memulai Bisnis Pendidikan](https://asysyams.id/rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/).
+Jika Anda tertarik untuk memulai bisnis di bidang pendidikan Islam, ada berbagai pilihan franchise yang dapat membantu Anda dalam mendirikan sekolah berbasis Islam. Untuk informasi lebih lanjut, baca artikel berikut: [Rekomendasi Franchise PAUD Terbaik untuk Memulai Bisnis Pendidikan](../rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/).
 
 ## Kesimpulan
 

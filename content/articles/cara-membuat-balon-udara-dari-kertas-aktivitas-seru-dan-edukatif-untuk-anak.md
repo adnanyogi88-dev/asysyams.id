@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611131510/https://asysyams.id/car
 
 # Cara Membuat Balon Udara dari Kertas: Aktivitas Seru dan Edukatif untuk Anak
 
-[Home](https://asysyams.id/) » Cara Membuat Balon Udara dari Kertas: Aktivitas Seru dan Edukatif untuk Anak
+[Home](../) » Cara Membuat Balon Udara dari Kertas: Aktivitas Seru dan Edukatif untuk Anak
 
 ## Mencari aktivitas edukatif sekaligus menyenangkan untuk anak memang menjadi tantangan tersendiri bagi orang tua dan pendidik.
 
-![](https://asysyams.id/wp-content/uploads/2025/06/ChatGPT-Image-Jun-11-2025-03_44_44-PM.jpg)
+![](../wp-content/uploads/2025/06/ChatGPT-Image-Jun-11-2025-03_44_44-PM.jpg)
 
 Salah satu kegiatan yang patut dicoba adalah membuat balon udara dari kertas. Selain murah dan mudah dilakukan, kegiatan ini juga mampu mengasah kreativitas serta keterampilan motorik anak. Dalam artikel ini, kita akan membahas secara lengkap cara membuat balon udara dari kertas, sekaligus menghubungkannya dengan segmen bisnis pendidikan anak.
 
@@ -77,11 +77,11 @@ Lembaga pendidikan anak seperti PAUD dan TK dapat memasukkan kegiatan ini ke dal
 
 Salah satu lembaga pendidikan yang dapat menjadi pilihan orang tua dalam mengembangkan potensi anak adalah PAUD Asy Syams. Dengan kurikulum yang kreatif dan penuh eksplorasi, anak-anak akan lebih siap menghadapi jenjang pendidikan selanjutnya.
 
-Untuk informasi pendaftaran PAUD Asy Syams Tahun Ajaran 2024/2025, silakan kunjungi tautan berikut: [https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+Untuk informasi pendaftaran PAUD Asy Syams Tahun Ajaran 2024/2025, silakan kunjungi tautan berikut: [../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-Bagi orang tua yang ingin langsung mendaftarkan anaknya, dapat mengakses: [https://asysyams.id/pendaftaran-anak-di-asy-syams/](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+Bagi orang tua yang ingin langsung mendaftarkan anaknya, dapat mengakses: [../pendaftaran-anak-di-asy-syams/](../pendaftaran-anak-di-asy-syams/)
 
-Jangan lewatkan juga informasi pendaftaran siswa TK Asy Syams melalui link berikut: [https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+Jangan lewatkan juga informasi pendaftaran siswa TK Asy Syams melalui link berikut: [../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 ### Tips Keselamatan Saat Melibatkan Anak
 

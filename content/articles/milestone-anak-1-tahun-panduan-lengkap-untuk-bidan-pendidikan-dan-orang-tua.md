@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314170651/https://asysyams.id/mil
 
 # Milestone Anak 1 Tahun: Panduan Lengkap untuk Bidan Pendidikan dan Orang Tua
 
-[Home](https://asysyams.id/) » Milestone Anak 1 Tahun: Panduan Lengkap untuk Bidan Pendidikan dan Orang Tua
+[Home](../) » Milestone Anak 1 Tahun: Panduan Lengkap untuk Bidan Pendidikan dan Orang Tua
 
 ## Saat anak menginjak usia satu tahun, banyak perubahan signifikan yang terjadi dalam hidupnya.
 
-![Membuat Murid Selamat dan Bahagia](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_457035294_18141623854353668_3576366696611035647_n_1080-1024x768.jpg)
+![Membuat Murid Selamat dan Bahagia](../wp-content/uploads/2024/11/Snapinsta.app_457035294_18141623854353668_3576366696611035647_n_1080-1024x768.jpg)
 
 Oleh karena itu, penting bagi para bidan pendidikan untuk memahami setiap aspek perkembangan ini. Dengan begitu, mereka tidak hanya mendukung tumbuh kembang anak, tetapi juga bisa memanfaatkan momen ini sebagai peluang untuk memperluas peran mereka secara profesional.
 

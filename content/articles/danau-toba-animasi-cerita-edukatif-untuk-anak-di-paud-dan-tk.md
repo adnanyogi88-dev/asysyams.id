@@ -11,9 +11,9 @@ archive_url: "https://web.archive.org/web/20260121230025/https://asysyams.id/dan
 
 # Danau Toba Animasi Cerita Edukatif untuk Anak di PAUD dan TK
 
-[Home](https://asysyams.id/) » Danau Toba Animasi Cerita Edukatif untuk Anak di PAUD dan TK
+[Home](../) » Danau Toba Animasi Cerita Edukatif untuk Anak di PAUD dan TK
 
-![danau toba animasi](https://asysyams.id/wp-content/uploads/2025/06/ChatGPT-Image-Jun-11-2025-03_40_50-PM.jpg)
+![danau toba animasi](../wp-content/uploads/2025/06/ChatGPT-Image-Jun-11-2025-03_40_50-PM.jpg)
 
 ### 1. Pertama, Mengapa “Danau Toba Animasi” Penting untuk Pendidikan Anak?
 
@@ -102,13 +102,13 @@ archive_url: "https://web.archive.org/web/20260121230025/https://asysyams.id/dan
 - Yuk, segera cek link berikut untuk info lengkap:
 
 - Pendaftaran PAUD Asy?Syams untuk tahun ajaran 2024–2025 ?
-[https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+[../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
 - Cara mendaftarkan anak di Asy?Syams ?
-[https://asysyams.id/pendaftaran-anak-di-asy-syams/](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+[../pendaftaran-anak-di-asy-syams/](../pendaftaran-anak-di-asy-syams/)
 
 - Pendaftaran TK Asy?Syams sudah dibuka ?
-[https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+[../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 ### 7. Selanjutnya, Tips Membuat Animasi “Danau Toba” Sendiri di Rumah
 

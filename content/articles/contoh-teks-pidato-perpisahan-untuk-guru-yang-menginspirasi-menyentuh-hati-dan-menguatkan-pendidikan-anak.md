@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216233523/https://asysyams.id/con
 
 # Contoh Teks Pidato Perpisahan untuk Guru yang Menginspirasi: Menyentuh Hati dan Menguatkan Pendidikan Anak
 
-[Home](https://asysyams.id/) » Contoh Teks Pidato Perpisahan untuk Guru yang Menginspirasi: Menyentuh Hati dan Menguatkan Pendidikan Anak
+[Home](../) » Contoh Teks Pidato Perpisahan untuk Guru yang Menginspirasi: Menyentuh Hati dan Menguatkan Pendidikan Anak
 
 ## Perpisahan bukan akhir dari segalanya.
 
-![mengasuh Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
+![mengasuh Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
 
 Sebaliknya, perpisahan adalah momen reflektif yang memperkuat kenangan, mempertegas nilai, dan meneguhkan semangat belajar. Dalam dunia pendidikan, momen perpisahan guru menjadi titik penting untuk mengungkapkan rasa terima kasih, penghargaan, dan harapan. Melalui artikel ini, kami akan membagikan contoh teks pidato perpisahan untuk guru yang menyentuh hati dan relevan bagi lingkungan pendidikan anak.
 
@@ -81,11 +81,11 @@ Lembaga pendidikan yang memperhatikan aspek emosional anak akan menciptakan gene
 
 Jika Anda sedang mencari sekolah yang mengedepankan pendidikan karakter dan emosional anak, kami merekomendasikan untuk melihat informasi berikut:
 
-- [Pendaftaran PAUD AsySyams Tahun Ajaran 2024-2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- [Pendaftaran PAUD AsySyams Tahun Ajaran 2024-2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- [Pendaftaran Anak di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di Asy-Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Open Pendaftaran Siswa TK AsySyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK AsySyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 Melalui link di atas, Anda dapat menemukan informasi lengkap tentang program pendidikan anak usia dini yang penuh kasih sayang dan nilai islami.
 

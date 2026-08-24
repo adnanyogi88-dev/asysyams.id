@@ -11,15 +11,15 @@ archive_url: "https://web.archive.org/web/20260611141122/https://asysyams.id/15-
 
 # 15 Cerita Dongeng yang Melibatkan Hewan dan Menginspirasi Anak-Anak
 
-[Home](https://asysyams.id/) » 15 Cerita Dongeng yang Melibatkan Hewan dan Menginspirasi Anak-Anak
+[Home](../) » 15 Cerita Dongeng yang Melibatkan Hewan dan Menginspirasi Anak-Anak
 
 ## Dongeng selalu menjadi bagian penting dari dunia anak-anak.
 
-![Cerita Dongeng hewan](https://asysyams.id/wp-content/uploads/2024/12/DALL·E-2024-12-03-17.34.53-A-vibrant-illustration-featuring-a-scene-from-a-fairy-tale-involving-animals.-The-image-showcases-a-clever-rabbit-tricking-crocodiles-to-cross-a-river.webp)
+![Cerita Dongeng hewan](../wp-content/uploads/2024/12/DALL·E-2024-12-03-17.34.53-A-vibrant-illustration-featuring-a-scene-from-a-fairy-tale-involving-animals.-The-image-showcases-a-clever-rabbit-tricking-crocodiles-to-cross-a-river.webp)
 
 Selain memberikan hiburan, cerita dongeng juga sering kali menyisipkan pesan moral yang mendalam. Dalam artikel ini, kita akan membahas 15 cerita dongeng yang melibatkan hewan, mulai dari yang klasik hingga yang memiliki sentuhan budaya lokal. Dengan cerita-cerita ini, anak-anak dapat belajar banyak tentang kehidupan, persahabatan, dan kebaikan hati.
 
-Sebelum kita masuk ke dalam cerita-cerita tersebut, Anda juga bisa membaca artikel menarik tentang [5 cerita dongeng sebelum tidur untuk anak-anak](https://asysyams.id/5-cerita-dongeng-sebelum-tidur-untuk-anak-anak-yang-memikat/) yang pastinya memikat hati si kecil.
+Sebelum kita masuk ke dalam cerita-cerita tersebut, Anda juga bisa membaca artikel menarik tentang [5 cerita dongeng sebelum tidur untuk anak-anak](../5-cerita-dongeng-sebelum-tidur-untuk-anak-anak-yang-memikat/) yang pastinya memikat hati si kecil.
 
 ### 1. Kelinci dan Kura-Kura
 
@@ -41,7 +41,7 @@ Gagak yang haus menemukan kendi yang berisi air. Namun, karena airnya terlalu re
 
 Kisah ini berasal dari budaya Indonesia. Kancil yang cerdik berhasil menipu buaya untuk membantunya menyeberangi sungai. Kisah ini sering kali diceritakan untuk mengajarkan anak-anak tentang pentingnya kecerdikan dan akal sehat dalam menghadapi situasi sulit.
 
-Untuk inspirasi mengarang cerita lainnya, Anda bisa mengunjungi artikel tentang [mengarang cerita liburan sekolah untuk anak SD dan TK](https://asysyams.id/mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/).
+Untuk inspirasi mengarang cerita lainnya, Anda bisa mengunjungi artikel tentang [mengarang cerita liburan sekolah untuk anak SD dan TK](../mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/).
 
 ### 6. Burung Pipit dan Pohon Gandaria
 
@@ -87,7 +87,7 @@ Kisah ini menceritakan perjalanan seekor ulat yang berubah menjadi kupu-kupu. Do
 
 Dari 15 cerita di atas, kita dapat melihat bagaimana dongeng-dongeng yang melibatkan hewan mampu menyampaikan pesan-pesan penting dalam kehidupan. Cerita-cerita ini tidak hanya menghibur, tetapi juga memberikan pelajaran moral yang relevan bagi anak-anak.
 
-Jika Anda ingin mengetahui lebih banyak tentang dunia anak dan pendidikan, jangan lewatkan artikel menarik tentang [franchise pendidikan usia dini yang menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/). Franchise ini bisa menjadi peluang besar bagi Anda yang ingin berkontribusi dalam membangun generasi penerus yang lebih baik.
+Jika Anda ingin mengetahui lebih banyak tentang dunia anak dan pendidikan, jangan lewatkan artikel menarik tentang [franchise pendidikan usia dini yang menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/). Franchise ini bisa menjadi peluang besar bagi Anda yang ingin berkontribusi dalam membangun generasi penerus yang lebih baik.
 
 Melalui dongeng-dongeng yang melibatkan hewan, kita dapat membantu anak-anak belajar dengan cara yang menyenangkan. Jadi, jangan ragu untuk membacakan atau bahkan mengarang cerita bersama mereka!
 

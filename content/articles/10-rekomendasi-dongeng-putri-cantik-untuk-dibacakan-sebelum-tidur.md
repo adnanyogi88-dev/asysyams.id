@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314223659/https://asysyams.id/10-
 
 # 10 Rekomendasi Dongeng Putri Cantik untuk Dibacakan Sebelum Tidur
 
-[Home](https://asysyams.id/) » 10 Rekomendasi Dongeng Putri Cantik untuk Dibacakan Sebelum Tidur
+[Home](../) » 10 Rekomendasi Dongeng Putri Cantik untuk Dibacakan Sebelum Tidur
 
 ## Membacakan dongeng sebelum tidur adalah tradisi yang bermanfaat bagi perkembangan anak.
 
-![membacakan buku anak-anak](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-03-21.38.39-A-cozy-scene-of-a-child-reading-a-colorful-childrens-storybook-surrounded-by-soft-pillows-and-plush-toys.-The-child-is-sitting-cross-legged-on-the-f.webp)
+![membacakan buku anak-anak](../wp-content/uploads/2024/09/DALL·E-2024-09-03-21.38.39-A-cozy-scene-of-a-child-reading-a-colorful-childrens-storybook-surrounded-by-soft-pillows-and-plush-toys.-The-child-is-sitting-cross-legged-on-the-f.webp)
 
 Selain menjadi momen kedekatan antara orang tua dan anak, dongeng juga memperkaya imajinasi, menanamkan nilai moral, dan meningkatkan kemampuan berbahasa anak. Berikut ini adalah 10 dongeng putri cantik yang penuh pesan inspiratif dan cocok untuk dibacakan sebelum tidur.
 

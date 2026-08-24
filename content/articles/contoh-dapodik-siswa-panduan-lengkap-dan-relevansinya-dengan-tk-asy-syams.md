@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217000819/https://asysyams.id/con
 
 # Contoh Dapodik Siswa: Panduan Lengkap dan Relevansinya dengan TK Asy Syams
 
-[Home](https://asysyams.id/) » Contoh Dapodik Siswa: Panduan Lengkap dan Relevansinya dengan TK Asy Syams
+[Home](../) » Contoh Dapodik Siswa: Panduan Lengkap dan Relevansinya dengan TK Asy Syams
 
 ## Data Pokok Pendidikan (Dapodik) adalah sistem pendataan nasional yang sangat penting.
 
-![dapodik siswa](https://asysyams.id/wp-content/uploads/2025/05/ChatGPT-Image-May-14-2025-09_00_47-AM-1024x683.png)
+![dapodik siswa](../wp-content/uploads/2025/05/ChatGPT-Image-May-14-2025-09_00_47-AM-1024x683.png)
 
 Selain itu, Dapodik terelola langsung oleh Kementerian Pendidikan dan Kebudayaan (Kemendikbud) Indonesia. Karena itu, sistem ini mencakup data krusial seperti informasi siswa, guru, serta sekolah. Oleh karena itu, pengisian data Dapodik harus kita lakukan dengan sangat cermat. Bahkan, data ini berguna untuk mendukung berbagai program pendidikan penting, termasuk Program Indonesia Pintar (PIP).
 
@@ -71,11 +71,11 @@ Pengisian data Dapodik yang akurat sangat penting bagi pendidikan nasional. Seba
 
 Untuk mengetahui lebih jauh mengenai peran TK Asy Syams dalam pengembangan anak usia dini dan bisnis yang menyertainya, kunjungi artikel-artikel berikut:
 
-- [Waralaba Daycare Berbasis Kemitraan: Peluang Bisnis dan Dukungan Tumbuh Kembang Anak](https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/)
+- [Waralaba Daycare Berbasis Kemitraan: Peluang Bisnis dan Dukungan Tumbuh Kembang Anak](../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/)
 
-- [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+- [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
-- [Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/)
+- [Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/)
 
 [
 WhatsApp Kami

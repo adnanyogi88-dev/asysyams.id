@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314174439/https://asysyams.id/gam
 
 # Games untuk Meningkatkan Kemampuan Motorik Anak
 
-[Home](https://asysyams.id/) » Games untuk Meningkatkan Kemampuan Motorik Anak
+[Home](../) » Games untuk Meningkatkan Kemampuan Motorik Anak
 
 ## Kemampuan motorik anak merupakan aspek penting dalam perkembangan mereka.
 
-![kemampuan motorik anak,](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-20-22.43.20-A-colorful-scene-of-children-playing-both-physical-and-digital-games.-On-one-side-children-are-running-jumping-rope-and-riding-bicycles-in-a-park-f-300x300.webp)
+![kemampuan motorik anak,](../wp-content/uploads/2024/09/DALL·E-2024-09-20-22.43.20-A-colorful-scene-of-children-playing-both-physical-and-digital-games.-On-one-side-children-are-running-jumping-rope-and-riding-bicycles-in-a-park-f-300x300.webp)
 
 Ini berkaitan dengan bagaimana anak menggunakan otot-otot tubuh untuk melakukan berbagai aktivitas fisik. Motorik terbagi menjadi dua jenis utama: motorik kasar dan motorik halus. Motorik kasar melibatkan otot-otot besar yang berguna untuk gerakan seperti berlari, melompat, dan memanjat, sementara motorik halus melibatkan otot-otot kecil yang berguna untuk kegiatan seperti menulis, menggambar, dan mengikat tali sepatu.
 
@@ -87,11 +87,11 @@ Permainan edukatif yang terancang khusus untuk anak-anak sering kali menggabungk
 
 Baca juga:
 
-[Lembaga Kursus Untuk Anak Usia TK](https://asysyams.id/lembaga-kursus-untuk-anak-usia-tk/)
+[Lembaga Kursus Untuk Anak Usia TK](../lembaga-kursus-untuk-anak-usia-tk/)
 
-[Cara Mengajarkan Ilmu Coding pada Anak Usia di Bawah 10 Tahun](https://asysyams.id/cara-mengajarkan-ilmu-coding-pada-anak-usia-di-bawah-10-tahun/)
+[Cara Mengajarkan Ilmu Coding pada Anak Usia di Bawah 10 Tahun](../cara-mengajarkan-ilmu-coding-pada-anak-usia-di-bawah-10-tahun/)
 
-[Prospek Bisnis Franchise Sekolah TK AsySyams](https://asysyams.id/prospek-bisnis-franchise-sekolah-tk-asysyams/)
+[Prospek Bisnis Franchise Sekolah TK AsySyams](../prospek-bisnis-franchise-sekolah-tk-asysyams/)
 
  
 

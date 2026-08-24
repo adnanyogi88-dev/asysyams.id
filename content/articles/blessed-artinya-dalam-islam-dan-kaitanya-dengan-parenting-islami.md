@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216235609/https://asysyams.id/ble
 
 # Blessed Artinya dalam Islam dan Kaitanya Dengan Parenting Islami
 
-[Home](https://asysyams.id/) » Blessed Artinya dalam Islam dan Kaitanya Dengan Parenting Islami
+[Home](../) » Blessed Artinya dalam Islam dan Kaitanya Dengan Parenting Islami
 
 ## Kata “blessed” sering kita gunakan dalam berbagai konteks, baik dalam kehidupan sehari-hari maupun dalam tradisi agama.
 
-![blessing islami](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_263374320_205548935071428_1871976368862371942_n-819x1024.jpg)
+![blessing islami](../wp-content/uploads/2024/09/ClipDown.App_263374320_205548935071428_1871976368862371942_n-819x1024.jpg)
 
 Dalam Islam, “blessed” dapat kita terjemahkan sebagai “diberkahi” atau “dianugerahi rahmat.” Makna ini meliputi segala bentuk kebaikan, rahmat, dan karunia yang Allah SWT diberikan kepada hamba-Nya. Artikel ini akan membahas arti “blessed” dalam perspektif Islam dan menghubungkannya dengan konsep parenting Islami serta tantangan yang dihadapi dalam dunia pendidikan anak.
 
@@ -57,7 +57,7 @@ Parenting Islami menempatkan konsep berkah sebagai fondasi dalam membesarkan ana
 
 ### Kaitan dengan Parenting Trap
 
-Artikel [“Apa itu Parenting Trap dan Apa Implikasinya terhadap Anak?”](https://asysyams.id/apa-itu-parenting-trap-dan-apa-implikasinya-terhadap-anak/) membahas jebakan-jebakan dalam pola asuh yang dapat merusak perkembangan anak. Salah satu jebakan ini adalah pola asuh yang berorientasi pada pencapaian duniawi semata, tanpa memperhatikan aspek spiritual dan keberkahan.
+Artikel [“Apa itu Parenting Trap dan Apa Implikasinya terhadap Anak?”](../apa-itu-parenting-trap-dan-apa-implikasinya-terhadap-anak/) membahas jebakan-jebakan dalam pola asuh yang dapat merusak perkembangan anak. Salah satu jebakan ini adalah pola asuh yang berorientasi pada pencapaian duniawi semata, tanpa memperhatikan aspek spiritual dan keberkahan.
 
 #### Menghindari Parenting Trap dengan Berkah
 
@@ -71,7 +71,7 @@ Artikel [“Apa itu Parenting Trap dan Apa Implikasinya terhadap Anak?”](https
 
 ### Berkah dalam Dunia Pendidikan Islami
 
-Dalam artikel [“Kesempatan Mengikuti Franchise Pendidikan TK Islami”](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/), terjelaskan bahwa pendidikan berbasis nilai-nilai Islam memiliki potensi besar untuk melahirkan generasi yang terberkahi. Pendidikan ini tidak hanya mengajarkan ilmu duniawi, tetapi juga memprioritaskan pendidikan akhlak dan agama.
+Dalam artikel [“Kesempatan Mengikuti Franchise Pendidikan TK Islami”](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/), terjelaskan bahwa pendidikan berbasis nilai-nilai Islam memiliki potensi besar untuk melahirkan generasi yang terberkahi. Pendidikan ini tidak hanya mengajarkan ilmu duniawi, tetapi juga memprioritaskan pendidikan akhlak dan agama.
 
 ### Ciri Pendidikan Islami yang Membawa Berkah
 

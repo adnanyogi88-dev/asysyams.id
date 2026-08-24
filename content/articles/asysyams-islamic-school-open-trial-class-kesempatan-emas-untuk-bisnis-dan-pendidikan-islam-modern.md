@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260513123315/https://asysyams.id/asy
 
 # Asysyams Islamic School Open Trial Class: Kesempatan Emas untuk Bisnis dan Pendidikan Islam Modern
 
-[Home](https://asysyams.id/) » Asysyams Islamic School Open Trial Class: Kesempatan Emas untuk Bisnis dan Pendidikan Islam Modern
+[Home](../) » Asysyams Islamic School Open Trial Class: Kesempatan Emas untuk Bisnis dan Pendidikan Islam Modern
 
 Selain itu, untuk menjawab kebutuhan dunia pendidikan yang terus berkembang, Asysyams Islamic School
 
-![open trial class](https://asysyams.id/wp-content/uploads/2025/06/open-trial-class.webp)
+![open trial class](../wp-content/uploads/2025/06/open-trial-class.webp)
 
 Memperkenalkan program khusus bernama asySyams Islamic School Open Trial Class. Lebih jauh lagi, program ini terancang khusus untuk memberikan pengalaman langsung kepada peserta dalam mengakses metode pengajaran inovatif, kemudian memacu antusiasme mereka terhadap proses belajar. Bahkan, melalui Open Trial Class, Asysyams Islamic School berusaha membangun kepercayaan konsumen bisnis yang mencari mitra pendidikan handal. Oleh karena itu, artikel ini akan menjelaskan secara terperinci mengenai konsep, manfaat, dan cara mendaftar program Open Trial Class, terlebih lagi menghubungkan dengan target konsumen bisnis.
 
@@ -63,7 +63,7 @@ Lebih jauh lagi, bagi peserta individu, sertifikat trial menjadi nilai tambah da
 
 ## Cara Mendaftar Open Trial Class
 
-Pertama, calon peserta dapat mengunjungi halaman pendaftaran resmi. Selain itu, bagi orang tua yang tertarik pada program PAUD, silakan akses [Pendaftaran PAUD Asysyams Tahun Ajaran 2024-2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/). Selanjutnya, untuk pendaftaran siswa TK, kunjungi [Open Pendaftaran Siswa TK Asysyams 2024/2025](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/). Terlebih lagi, khusus bagi pencari TK islam terbaik di Bekasi, cek info lengkap di [TK Islam Terbaik di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Pertama, calon peserta dapat mengunjungi halaman pendaftaran resmi. Selain itu, bagi orang tua yang tertarik pada program PAUD, silakan akses [Pendaftaran PAUD Asysyams Tahun Ajaran 2024-2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/). Selanjutnya, untuk pendaftaran siswa TK, kunjungi [Open Pendaftaran Siswa TK Asysyams 2024/2025](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/). Terlebih lagi, khusus bagi pencari TK islam terbaik di Bekasi, cek info lengkap di [TK Islam Terbaik di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 Lebih jauh lagi, formulir pendaftaran dapat diisi online dengan mencantumkan data lengkap peserta serta tujuan trial. Dengan demikian, tim administrasi akan segera memverifikasi data dalam waktu 1×24 jam. Selain itu, biaya trial class bersifat gratis sebagai bentuk komitmen sosial Asysyams Islamic School.
 

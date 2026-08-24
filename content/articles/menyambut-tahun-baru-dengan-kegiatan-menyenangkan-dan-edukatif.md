@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207015617/https://asysyams.id/men
 
 # Menyambut Tahun Baru Dengan Kegiatan Menyenangkan dan Edukatif
 
-[Home](https://asysyams.id/) » Menyambut Tahun Baru Dengan Kegiatan Menyenangkan dan Edukatif
+[Home](../) » Menyambut Tahun Baru Dengan Kegiatan Menyenangkan dan Edukatif
 
 ## Tahun baru adalah momen yang penuh keceriaan dan harapan, terutama bagi anak-anak.
 
-![Kegiatan Edukatif tahun baru](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
+![Kegiatan Edukatif tahun baru](../wp-content/uploads/2024/12/Snapinsta.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
 
 Di TK AsySyams, kami percaya bahwa menyambut tahun baru bukan hanya tentang perayaan, tetapi juga kesempatan untuk mengajarkan nilai-nilai penting dalam kehidupan. Artikel ini akan membahas berbagai ide kegiatan yang dapat kita lakukan untuk menyambut tahun baru bersama anak-anak TK dengan cara yang menyenangkan, edukatif, dan bermakna.
 
@@ -51,13 +51,13 @@ Aktivitas membuat topi tahun baru, kartu ucapan, dan dekorasi warna-warni dapat 
 Adakan lomba kostum bertema “Karakter Impian di Tahun Baru.” Anak-anak dapat mengenakan pakaian yang sesuai dengan cita-cita mereka.
 
 Cerita Inspiratif Tahun Baru
-Guru bisa membacakan cerita inspiratif yang mengajarkan nilai kerja keras, harapan, dan semangat. Beberapa kutipan motivasi Islami juga dapat diselipkan. [Baca lebih lanjut tentang kata mutiara Islami di sini](https://asysyams.id/kata-mutiara-islami-sumber-inspirasi-dan-motivasi-hidup/).
+Guru bisa membacakan cerita inspiratif yang mengajarkan nilai kerja keras, harapan, dan semangat. Beberapa kutipan motivasi Islami juga dapat diselipkan. [Baca lebih lanjut tentang kata mutiara Islami di sini](../kata-mutiara-islami-sumber-inspirasi-dan-motivasi-hidup/).
 
 Resolusi Anak-Anak
 Ajak anak membuat “pohon harapan” di kelas. Mereka dapat menulis atau menggambar keinginan dan harapan untuk tahun baru.
 
 Kegiatan Olahraga dan Lomba Tradisional
-Aktivitas fisik seperti lomba lari kecil, senam, dan permainan tradisional akan membuat suasana semakin meriah dan mendukung pertumbuhan anak secara fisik. Simak panduan tentang tinggi ideal anak perempuan [di sini](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/).
+Aktivitas fisik seperti lomba lari kecil, senam, dan permainan tradisional akan membuat suasana semakin meriah dan mendukung pertumbuhan anak secara fisik. Simak panduan tentang tinggi ideal anak perempuan [di sini](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/).
 
 Pentas Seni Tahun Baru
 Anak-anak dapat menampilkan bakat mereka seperti menyanyi, menari, dan bermain peran di atas panggung.
@@ -73,11 +73,11 @@ Orang tua dan anak-anak bisa membawa makanan sehat untuk dinikmati bersama sambi
 
 ### 3. Cerita Inspiratif Tahun Baru
 
-Guru bisa membacakan cerita inspiratif yang mengajarkan nilai kerja keras, harapan, dan semangat. Beberapa kutipan motivasi Islami juga dapat kita selipkan. [Baca lebih lanjut tentang kata mutiara Islami di sini](https://asysyams.id/kata-mutiara-islami-sumber-inspirasi-dan-motivasi-hidup/).
+Guru bisa membacakan cerita inspiratif yang mengajarkan nilai kerja keras, harapan, dan semangat. Beberapa kutipan motivasi Islami juga dapat kita selipkan. [Baca lebih lanjut tentang kata mutiara Islami di sini](../kata-mutiara-islami-sumber-inspirasi-dan-motivasi-hidup/).
 
 ### 5. Kegiatan Olahraga dan Lomba Tradisional
 
-Aktivitas fisik seperti lomba lari kecil, senam, dan permainan tradisional akan membuat suasana semakin meriah dan mendukung pertumbuhan anak secara fisik. Simak panduan tentang tinggi ideal anak perempuan [di sini](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/).
+Aktivitas fisik seperti lomba lari kecil, senam, dan permainan tradisional akan membuat suasana semakin meriah dan mendukung pertumbuhan anak secara fisik. Simak panduan tentang tinggi ideal anak perempuan [di sini](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/).
 
 ## Perayaan yang Bernilai Edukatif di TK AsySyams
 
@@ -99,7 +99,7 @@ TK AsySyams percaya bahwa keterlibatan orang tua sangat penting dalam perkembang
 
 ## Tahun Baru, Semangat Baru Bersama TK AsySyams
 
-TK AsySyams tidak hanya menyediakan pendidikan berkualitas, tetapi juga menciptakan lingkungan yang penuh kasih sayang dan inspirasi bagi anak-anak. Kami terus berinovasi untuk menjadi bagian dari perkembangan terbaik anak-anak Anda. Untuk mengetahui lebih lanjut tentang tren usaha di bidang pendidikan, kunjungi artikel kami tentang [tren usaha franchise di bidang pendidikan 2025](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/).
+TK AsySyams tidak hanya menyediakan pendidikan berkualitas, tetapi juga menciptakan lingkungan yang penuh kasih sayang dan inspirasi bagi anak-anak. Kami terus berinovasi untuk menjadi bagian dari perkembangan terbaik anak-anak Anda. Untuk mengetahui lebih lanjut tentang tren usaha di bidang pendidikan, kunjungi artikel kami tentang [tren usaha franchise di bidang pendidikan 2025](../tren-usaha-franchise-2025-di-bidang-pendidikan/).
 
 Dengan semangat baru, mari bersama-sama menciptakan kenangan indah dan berharga di tahun yang akan datang. Selamat Tahun Baru dari keluarga besar TK AsySyams! Semoga tahun ini membawa kebaikan, keberkahan, dan kesuksesan untuk semua.**
 

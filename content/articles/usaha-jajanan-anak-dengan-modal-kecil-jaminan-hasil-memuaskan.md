@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260611134918/https://asysyams.id/usa
 
 # Usaha Jajanan Anak dengan Modal Kecil Jaminan Hasil Memuaskan
 
-[Home](https://asysyams.id/) » Usaha Jajanan Anak dengan Modal Kecil Jaminan Hasil Memuaskan
+[Home](../) » Usaha Jajanan Anak dengan Modal Kecil Jaminan Hasil Memuaskan
 
 ## Usaha jajanan anak dengan modal kecil telah menjadi salah satu pilihan bisnis yang menjanjikan.
 

@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260611130301/https://asysyams.id/car
 
 # Cara Mudah Menggambar Beruang untuk Anak TK
 
-[Home](https://asysyams.id/) » Cara Mudah Menggambar Beruang untuk Anak TK
+[Home](../) » Cara Mudah Menggambar Beruang untuk Anak TK
 
 ## Menggambar adalah kegiatan yang menyenangkan dan kreatif untuk anak-anak, terutama bagi anak-anak Taman Kanak-Kanak (TK).
 
@@ -37,13 +37,13 @@ Untuk wajahnya, tambahkan dua lingkaran kecil sebagai mata, kemudian gambar hidu
 - Warnai Beruang
 Setelah selesai menggambar, ajak anak-anak mewarnai beruang. Gunakan warna coklat untuk tubuhnya, hitam untuk hidung, dan putih untuk bagian perut jika diinginkan.
 
-![](https://asysyams.id/wp-content/uploads/2024/11/DALL·E-2024-11-26-09.18.51-A-step-by-step-illustration-showing-how-to-draw-a-cute-bear-for-kindergarten-children.-Step-1_-Draw-a-circle-for-the-head.-Step-2_-Add-two-small-circl.webp)
+![](../wp-content/uploads/2024/11/DALL·E-2024-11-26-09.18.51-A-step-by-step-illustration-showing-how-to-draw-a-cute-bear-for-kindergarten-children.-Step-1_-Draw-a-circle-for-the-head.-Step-2_-Add-two-small-circl.webp)
 
 ### Mengembangkan Kreativitas Anak Melalui Menggambar
 
 Menggambar tidak hanya menyenangkan, tetapi juga membantu anak-anak mengembangkan keterampilan motorik halus dan meningkatkan kreativitas mereka. Kegiatan seperti menggambar beruang ini juga bisa menjadi cara untuk mempererat hubungan antara orang tua dan anak. Untuk para pendidik atau orang tua yang tertarik untuk memberikan pendidikan yang lebih baik bagi anak-anak TK, ada beberapa peluang menarik untuk dipertimbangkan.
 
-Peluang tersebut bisa berupa [franchise pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/) yang memberikan pendekatan khusus pada pendidikan dini anak-anak dengan nilai-nilai Islami. Selain itu, bisnis [franchise taman kanak-kanak](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/) saat ini sedang sangat diminati, mengingat semakin banyak orang tua yang menyadari pentingnya pendidikan sejak dini. Ternyata, ada banyak [potensi tersembunyi dari bisnis taman kanak-kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/) yang bisa memberikan manfaat baik secara finansial maupun sosial.
+Peluang tersebut bisa berupa [franchise pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/) yang memberikan pendekatan khusus pada pendidikan dini anak-anak dengan nilai-nilai Islami. Selain itu, bisnis [franchise taman kanak-kanak](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/) saat ini sedang sangat diminati, mengingat semakin banyak orang tua yang menyadari pentingnya pendidikan sejak dini. Ternyata, ada banyak [potensi tersembunyi dari bisnis taman kanak-kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/) yang bisa memberikan manfaat baik secara finansial maupun sosial.
 
 Jadi, sambil menggambar bersama anak-anak, Anda juga bisa mulai berpikir tentang bagaimana memberikan pendidikan terbaik untuk mereka. Semoga artikel ini membantu Anda dan anak-anak bersenang-senang sambil belajar!
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314233819/https://asysyams.id/pen
 
 # Pentingnya Pendidikan bagi Generasi Muda: Investasi Masa Depan yang Tak Ternilai
 
-[Home](https://asysyams.id/) » Pentingnya Pendidikan bagi Generasi Muda: Investasi Masa Depan yang Tak Ternilai
+[Home](../) » Pentingnya Pendidikan bagi Generasi Muda: Investasi Masa Depan yang Tak Ternilai
 
 ## Pendidikan merupakan salah satu aspek terpenting dalam kehidupan manusia, terutama bagi generasi muda.
 
-![Pentingnya Pendidikan bagi Generasi Muda](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_6b532fa1-1024x1024.jpg)
+![Pentingnya Pendidikan bagi Generasi Muda](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_6b532fa1-1024x1024.jpg)
 
 Pendidikan tidak hanya sekadar proses transfer ilmu pengetahuan, tetapi juga sebagai fondasi untuk membentuk karakter, keterampilan, dan nilai-nilai kehidupan yang akan membawa generasi muda menuju masa depan yang lebih cerah. Di era globalisasi dan kemajuan teknologi seperti sekarang ini, pendidikan menjadi kunci utama untuk bersaing di tingkat lokal maupun global. Artikel ini akan membahas mengapa pendidikan sangat penting bagi generasi muda dan bagaimana pendidikan dapat menjadi investasi jangka panjang bagi kemajuan suatu bangsa.
 

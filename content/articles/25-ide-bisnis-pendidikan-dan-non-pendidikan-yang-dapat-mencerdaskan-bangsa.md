@@ -13,7 +13,7 @@ archive_url: "https://web.archive.org/web/20260314175518/https://asysyams.id/25-
 
 ## Di era modern ini, banyak peluang bisnis yang dapat membantu mencerdaskan bangsa.
 
-![ide bisnis pendidikan dan non pendidikan](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_457035294_18141623854353668_3576366696611035647_n-1024x768.jpg)
+![ide bisnis pendidikan dan non pendidikan](../wp-content/uploads/2024/09/ClipDown.App_457035294_18141623854353668_3576366696611035647_n-1024x768.jpg)
 
 Bisnis-bisnis ini tidak hanya memberikan keuntungan finansial, tetapi juga berkontribusi pada peningkatan kualitas sumber daya manusia. Dalam artikel ini, kami akan membahas 25 ide bisnis pendidikan dan non-pendidikan yang potensial. Beberapa di antaranya dapat diimplementasikan dengan mudah dan memiliki dampak positif yang signifikan. Selain itu, artikel ini akan menghubungkan Anda dengan beberapa sumber terpercaya mengenai franchise pendidikan anak usia dini dan pentingnya mengenalkan wirausaha sejak dini.
 
@@ -31,7 +31,7 @@ Lebih jauh lagi, kemampuan seperti komunikasi, manajemen waktu, dan pemecahan ma
 
 ### 4. Franchise Pendidikan Anak Usia Dini
 
-Jika Anda mencari ide bisnis dengan dampak besar, franchise pendidikan anak usia dini adalah pilihan tepat. Anda bisa mengetahui lebih lanjut di artikel ini: [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/).
+Jika Anda mencari ide bisnis dengan dampak besar, franchise pendidikan anak usia dini adalah pilihan tepat. Anda bisa mengetahui lebih lanjut di artikel ini: [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/).
 
 ### 5. Aplikasi Belajar Online
 
@@ -63,7 +63,7 @@ Tidak hanya bisnis pendidikan formal, berbagai ide bisnis non-pendidikan berikut
 
 ### 11. Pusat Pelatihan Wirausaha
 
-Beranjak ke bidang kewirausahaan, mendirikan pusat pelatihan wirausaha dapat menciptakan generasi mandiri. Anda bisa memahami lebih lanjut di artikel ini: [Tujuan Mengenalkan Wirausaha pada Anak Sejak Kecil](https://asysyams.id/tag/tujuan-mengenalkan-wirausaha-pada-anak-sejak-kecil/).
+Beranjak ke bidang kewirausahaan, mendirikan pusat pelatihan wirausaha dapat menciptakan generasi mandiri. Anda bisa memahami lebih lanjut di artikel ini: [Tujuan Mengenalkan Wirausaha pada Anak Sejak Kecil](../tag/tujuan-mengenalkan-wirausaha-pada-anak-sejak-kecil/).
 
 ### 12. Pertanian Organik
 
@@ -131,7 +131,7 @@ Terakhir, dengan meningkatnya kebutuhan akan teknologi canggih, pusat pelatihan 
 
 ### Kesimpulan
 
-Mencerdaskan bangsa bukan hanya tanggung jawab pemerintah, tetapi juga peluang bagi setiap individu untuk berkontribusi melalui bisnis. Dengan memilih salah satu dari 25 ide di atas, Anda tidak hanya menciptakan keuntungan, tetapi juga memberikan dampak positif bagi masyarakat. Jika Anda tertarik memulai bisnis di bidang pendidikan, pertimbangkan untuk membaca lebih lanjut tentang franchise pendidikan anak usia dini di artikel berikut: [Franchise Pendidikan Usia Dini](https://asysyams.id/franchise-pendidikan-usia-dini/).
+Mencerdaskan bangsa bukan hanya tanggung jawab pemerintah, tetapi juga peluang bagi setiap individu untuk berkontribusi melalui bisnis. Dengan memilih salah satu dari 25 ide di atas, Anda tidak hanya menciptakan keuntungan, tetapi juga memberikan dampak positif bagi masyarakat. Jika Anda tertarik memulai bisnis di bidang pendidikan, pertimbangkan untuk membaca lebih lanjut tentang franchise pendidikan anak usia dini di artikel berikut: [Franchise Pendidikan Usia Dini](../franchise-pendidikan-usia-dini/).
 
 Masa depan bangsa ada di tangan kita. Mari berkontribusi untuk mencerdaskan generasi berikutnya dengan cara yang kreatif dan berkelanjutan!
 

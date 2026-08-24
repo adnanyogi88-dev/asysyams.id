@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314232601/https://asysyams.id/per
 
 # Perbedaan Pendidikan Madrasah dan Sekolah Umum
 
-[Home](https://asysyams.id/) » Perbedaan Pendidikan Madrasah dan Sekolah Umum
+[Home](../) » Perbedaan Pendidikan Madrasah dan Sekolah Umum
 
 ## Dalam menentukan pendidikan terbaik untuk anak, orang tua kerap terhadapkan pada pilihan antara madrasah dan sekolah umum.
 
-![play group terbaik di bekasi](https://asysyams.id/wp-content/uploads/2024/10/foto-anak-anak-80x80.jpg)
+![play group terbaik di bekasi](../wp-content/uploads/2024/10/foto-anak-anak-80x80.jpg)
 
 Kedua jenis lembaga pendidikan ini memiliki keunggulan, pendekatan, dan fokus yang berbeda. Untuk membantu orang tua memahami mana yang lebih sesuai dengan kebutuhan anak, penting untuk mengenali perbedaan antara pendidikan madrasah dan sekolah umum secara menyeluruh.
 
@@ -77,7 +77,7 @@ Pemilihan antara madrasah dan sekolah umum sangat bergantung pada nilai keluarga
 
 Tidak peduli mana yang dipilih, penting bagi orang tua untuk tetap mengatur jadwal kegiatan anak di rumah agar seimbang antara belajar, ibadah, dan bermain. Panduan yang dapat membantu adalah artikel berikut:
 
-? [Cara Menjadwalkan Kegiatan Harian Anak di Rumah](https://asysyams.id/cara-menjadwalkan-kegiatan-harian-anak-di-rumah/)
+? [Cara Menjadwalkan Kegiatan Harian Anak di Rumah](../cara-menjadwalkan-kegiatan-harian-anak-di-rumah/)
 
 Artikel tersebut memberikan panduan tentang cara mengatur kegiatan anak agar tetap produktif di rumah, baik untuk anak madrasah maupun sekolah umum.
 
@@ -93,13 +93,13 @@ Pentingnya mengenalkan budaya dan seni kepada anak sejak dini juga bisa diintegr
 
 Sebagai contoh, Anda bisa membaca lebih lanjut tentang pentingnya kesenian dalam pendidikan di artikel berikut:
 
-? [Jenis Tarian untuk Anak di Indonesia: Warisan Budaya dan Kreasi Modern](https://asysyams.id/jenis-tarian-untuk-anak-di-indonesia-warisan-budaya-dan-kreasi-modern/)
+? [Jenis Tarian untuk Anak di Indonesia: Warisan Budaya dan Kreasi Modern](../jenis-tarian-untuk-anak-di-indonesia-warisan-budaya-dan-kreasi-modern/)
 
 ## Membangun Karakter dari Bulan Lahir
 
 Tahukah Anda bahwa karakter anak juga bisa dipengaruhi oleh waktu kelahirannya? Anak yang lahir di bulan Ramadhan, misalnya, seringkali diasosiasikan dengan karakteristik religius dan penyabar. Pengetahuan ini bisa membantu orang tua memilih pendidikan yang sesuai dengan potensi karakter anak.
 
-? [Sifat Anak yang Lahir di Bulan Ramadhan dan Cara Menanamkannya Sejak Dini](https://asysyams.id/sifat-anak-yang-lahir-di-bulan-ramadhan-dan-cara-menanamkannya-sejak-dini/)
+? [Sifat Anak yang Lahir di Bulan Ramadhan dan Cara Menanamkannya Sejak Dini](../sifat-anak-yang-lahir-di-bulan-ramadhan-dan-cara-menanamkannya-sejak-dini/)
 
 ## Penutup: Pendidikan Harus Menyesuaikan dengan Anak, Bukan Sebaliknya
 

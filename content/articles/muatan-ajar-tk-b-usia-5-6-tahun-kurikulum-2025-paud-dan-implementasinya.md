@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20251008063216/https://asysyams.id/mua
 
 # Muatan Ajar TK-B (Usia 5–6 Tahun) Kurikulum 2025 PAUD dan Implementasinya
 
-[Home](https://asysyams.id/) » Muatan Ajar TK-B (Usia 5–6 Tahun) Kurikulum 2025 PAUD dan Implementasinya
+[Home](../) » Muatan Ajar TK-B (Usia 5–6 Tahun) Kurikulum 2025 PAUD dan Implementasinya
 
 ## Pentingnya Muatan Ajar PAUD
 
@@ -53,7 +53,7 @@ Muatan ajar ini bukan sekadar “materi hafalan”, tetapi lebih kepada pengalam
 
 ## TK Islam AsySyams dan Implementasi Muatan Ajar K13 PAUD
 
-Sebagai salah satu lembaga pendidikan anak usia dini, [TK Islam AsySyams](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) menerapkan muatan ajar Kurikulum 2025 dengan pendekatan Islami. Guru tidak hanya mengajarkan aspek kognitif, tetapi juga menanamkan nilai-nilai keislaman sejak dini.
+Sebagai salah satu lembaga pendidikan anak usia dini, [TK Islam AsySyams](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) menerapkan muatan ajar Kurikulum 2025 dengan pendekatan Islami. Guru tidak hanya mengajarkan aspek kognitif, tetapi juga menanamkan nilai-nilai keislaman sejak dini.
 
 Beberapa bentuk implementasinya antara lain:
 
@@ -61,7 +61,7 @@ Beberapa bentuk implementasinya antara lain:
 
 - Kegiatan tematik Islami yang terintegrasi dalam RPPM, misalnya tema “Ciptaan Allah” atau “Teladan Nabi”.
 
-- Cerita Islami yang memperkaya muatan ajar, sesuai dengan koleksi di artikel [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
+- Cerita Islami yang memperkaya muatan ajar, sesuai dengan koleksi di artikel [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/).
 
 - Pembelajaran sosial-emosional Islami, seperti menumbuhkan sikap saling menghargai, sabar, dan rendah hati.
 
@@ -85,7 +85,7 @@ Sebagai contoh, tema “Hewan Ciptaan Allah” bisa mencakup kegiatan bercerita 
 
 ## Hubungan Muatan Ajar PAUD dengan Institusi Pendidikan
 
-Muatan ajar yang disusun dan dilaksanakan di lembaga PAUD seperti TK Islam AsySyams merupakan bagian penting dari fungsi sebuah institusi pendidikan. Guru, orang tua, dan sekolah bersama-sama berperan mendukung perkembangan anak sesuai penjelasan dalam artikel [Apa Itu Institusi Pendidikan: Fungsi dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
+Muatan ajar yang disusun dan dilaksanakan di lembaga PAUD seperti TK Islam AsySyams merupakan bagian penting dari fungsi sebuah institusi pendidikan. Guru, orang tua, dan sekolah bersama-sama berperan mendukung perkembangan anak sesuai penjelasan dalam artikel [Apa Itu Institusi Pendidikan: Fungsi dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
 
 ## Kesimpulan
 

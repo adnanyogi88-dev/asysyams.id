@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260421041316/https://asysyams.id/art
 
 # Arti Intrakurikuler: Panduan Lengkap untuk Orang Tua Pemula
 
-[Home](https://asysyams.id/) » Arti Intrakurikuler: Panduan Lengkap untuk Orang Tua Pemula
+[Home](../) » Arti Intrakurikuler: Panduan Lengkap untuk Orang Tua Pemula
 
 ## Pendahuluan
 
 ## Sebagai orang tua, memahami istilah-istilah dalam dunia pendidikan sangat penting.
 
-![Kegiatan Edukatif tahun baru](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
+![Kegiatan Edukatif tahun baru](../wp-content/uploads/2024/12/Snapinsta.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
 
 Salah satu istilah yang sering muncul adalah intrakurikuler. Banyak orang tua pemula merasa bingung dengan arti intrakurikuler, padahal istilah ini sangat dekat dengan keseharian anak di sekolah.
 
@@ -138,7 +138,7 @@ Agar anak lebih bersemangat, orang tua bisa mencoba tips berikut:
 
 - Gunakan media belajar kreatif seperti poster, kartu kata, atau permainan edukatif.
 
-- Sisipkan cerita-cerita islami sebagai inspirasi ?baca juga: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)?.
+- Sisipkan cerita-cerita islami sebagai inspirasi ?baca juga: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)?.
 
 - Libatkan anak dalam diskusi ringan seputar pelajaran.
 
@@ -148,7 +148,7 @@ Agar anak lebih bersemangat, orang tua bisa mencoba tips berikut:
 
 Bagi orang tua yang memilih sekolah Islam, kegiatan intrakurikuler biasanya dipadukan dengan nilai-nilai agama. Misalnya, anak tidak hanya belajar membaca dan menulis, tetapi juga menghafal doa, surat pendek, dan hadis pilihan.
 
-Contoh nyata bisa dilihat di berbagai TK Islam di Bekasi. Beberapa sekolah sudah menggabungkan kegiatan intrakurikuler dengan program pembinaan karakter islami ?baca juga: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)?.
+Contoh nyata bisa dilihat di berbagai TK Islam di Bekasi. Beberapa sekolah sudah menggabungkan kegiatan intrakurikuler dengan program pembinaan karakter islami ?baca juga: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)?.
 
 Dengan demikian, anak bukan hanya cerdas secara akademik, tetapi juga tumbuh dengan akhlak yang baik.
 
@@ -156,7 +156,7 @@ Dengan demikian, anak bukan hanya cerdas secara akademik, tetapi juga tumbuh den
 
 Agar lebih memahami arti intrakurikuler, orang tua juga perlu mengenal konsep institusi pendidikan. Institusi pendidikan adalah lembaga resmi yang menyusun, melaksanakan, dan mengevaluasi kurikulum.
 
-Melalui institusi pendidikan, kegiatan intrakurikuler dirancang sesuai kebutuhan anak. Setiap mata pelajaran sudah dipetakan dengan tujuan yang jelas ?baca juga: [Apa Itu Institusi Pendidikan? Penjelasan Lengkap, Fungsi, dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/)?.
+Melalui institusi pendidikan, kegiatan intrakurikuler dirancang sesuai kebutuhan anak. Setiap mata pelajaran sudah dipetakan dengan tujuan yang jelas ?baca juga: [Apa Itu Institusi Pendidikan? Penjelasan Lengkap, Fungsi, dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/)?.
 
 Dengan memahami peran institusi pendidikan, orang tua bisa lebih percaya diri mendampingi anak dan berkolaborasi dengan guru.
 

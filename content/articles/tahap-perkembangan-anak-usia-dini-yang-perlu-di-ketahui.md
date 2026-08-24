@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260118014015/https://asysyams.id/tah
 
 # Tahap Perkembangan Anak Usia Dini yang Perlu Di Ketahui
 
-[Home](https://asysyams.id/) » Tahap Perkembangan Anak Usia Dini yang Perlu Di Ketahui
+[Home](../) » Tahap Perkembangan Anak Usia Dini yang Perlu Di Ketahui
 
 ## Memahami tahap perkembangan anak usia dini adalah langkah penting dalam mendukung pertumbuhan dan pembelajaran mereka.
 
-![tahapan perkembangan anak usia dini](https://asysyams.id/wp-content/uploads/2024/08/images-2.jpeg)
+![tahapan perkembangan anak usia dini](../wp-content/uploads/2024/08/images-2.jpeg)
 
 [sumber](https://satujam.com/)
 
@@ -67,11 +67,11 @@ Tahap Praoperasional (2-7 tahun): Anak-anak mulai menggunakan bahasa dan simbol 
 
 Baca juga:
 
-[Syarat Masuk SD Umur Berapa: Panduan untuk Orang Tua](https://asysyams.id/syarat-masuk-sd-umur-berapa-panduan-untuk-orang-tua/)
+[Syarat Masuk SD Umur Berapa: Panduan untuk Orang Tua](../syarat-masuk-sd-umur-berapa-panduan-untuk-orang-tua/)
 
-[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](https://asysyams.id/berapakah-berat-badan-ideal-anak-usia-5-tahun/)
+[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](../berapakah-berat-badan-ideal-anak-usia-5-tahun/)
 
-[Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
+[Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
 
  
 

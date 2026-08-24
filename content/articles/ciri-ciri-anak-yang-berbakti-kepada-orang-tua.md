@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216234051/https://asysyams.id/cir
 
 # Ciri-Ciri Anak yang Berbakti kepada Orang Tua
 
-[Home](https://asysyams.id/) » Ciri-Ciri Anak yang Berbakti kepada Orang Tua
+[Home](../) » Ciri-Ciri Anak yang Berbakti kepada Orang Tua
 
 ## Berbakti kepada orang tua adalah salah satu nilai luhur yang diajarkan dalam berbagai budaya dan agama.
 
-![perilaku menyimpang pada anak](https://asysyams.id/wp-content/uploads/2024/09/Assalamualaikum-Wr-Wb.This-is-the-Nursery-schedule-and-evaluation-activities-form-Monday-to-Thursday.Monday-English-My-Class-and-My-BodyTuesday-Art-and-CraftWednesday-Motoric-and-CognitiveThursday-Themat-819x1024.jpg)
+![perilaku menyimpang pada anak](../wp-content/uploads/2024/09/Assalamualaikum-Wr-Wb.This-is-the-Nursery-schedule-and-evaluation-activities-form-Monday-to-Thursday.Monday-English-My-Class-and-My-BodyTuesday-Art-and-CraftWednesday-Motoric-and-CognitiveThursday-Themat-819x1024.jpg)
 
 Anak yang berbakti memiliki sikap hormat, kasih sayang, dan perhatian yang tulus terhadap orang tua. Dalam artikel ini, kita akan membahas ciri-ciri anak yang berbakti kepada orang tua serta bagaimana nilai ini dapat diperkaya dengan inspirasi dari beberapa artikel terkait.
 
@@ -35,7 +35,7 @@ Kasih sayang kepada orang tua tidak hanya kita tunjukkan melalui ucapan, tetapi 
 
 ### Inspirasi Hadiah untuk Orang Tua:
 
-Dalam artikel [Kumpulan Hadiah yang Bisa Diberikan kepada Ibu untuk Menyambut Hari Ibu](https://asysyams.id/kumpulan-hadiah-yang-bisa-diberikan-kepada-ibu-untuk-menyambut-hari-ibu/), tersebutkan berbagai ide hadiah yang dapat menjadi bentuk kasih sayang. Memberikan hadiah sederhana seperti bunga, perhiasan, atau bahkan waktu berkualitas bersama dapat menunjukkan rasa cinta yang tulus.
+Dalam artikel [Kumpulan Hadiah yang Bisa Diberikan kepada Ibu untuk Menyambut Hari Ibu](../kumpulan-hadiah-yang-bisa-diberikan-kepada-ibu-untuk-menyambut-hari-ibu/), tersebutkan berbagai ide hadiah yang dapat menjadi bentuk kasih sayang. Memberikan hadiah sederhana seperti bunga, perhiasan, atau bahkan waktu berkualitas bersama dapat menunjukkan rasa cinta yang tulus.
 
 ## 3. Membantu dalam Kehidupan Sehari-Hari
 
@@ -53,7 +53,7 @@ Dalam banyak ajaran agama, mendoakan orang tua kita anggap sebagai bentuk bakti 
 
 ### Keutamaan Doa:
 
-Artikel [Keutamaan Membaca Surat Maryam untuk Ibu Hamil](https://asysyams.id/keutamaan-membaca-surat-maryam-untuk-ibu-hamil/) menggarisbawahi pentingnya doa dalam kehidupan. Meskipun pembahasannya terkait ibu hamil, nilai doa dalam kehidupan keluarga mencakup pula anak yang senantiasa mendoakan kebaikan untuk orang tuanya.
+Artikel [Keutamaan Membaca Surat Maryam untuk Ibu Hamil](../keutamaan-membaca-surat-maryam-untuk-ibu-hamil/) menggarisbawahi pentingnya doa dalam kehidupan. Meskipun pembahasannya terkait ibu hamil, nilai doa dalam kehidupan keluarga mencakup pula anak yang senantiasa mendoakan kebaikan untuk orang tuanya.
 
 ## 5. Memberikan Perhatian di Masa Tua
 
@@ -71,7 +71,7 @@ Menjaga nama baik keluarga adalah salah satu bentuk bakti yang tidak langsung. A
 
 ### Relevansi dengan Dunia Pendidikan:
 
-Dalam artikel [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/), disebutkan bahwa investasi dalam pendidikan mencerminkan nilai bakti kepada keluarga. Anak yang berprestasi atau mendirikan usaha pendidikan juga mengangkat nama baik keluarga dan menjadi sumber kebahagiaan orang tua.
+Dalam artikel [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/), disebutkan bahwa investasi dalam pendidikan mencerminkan nilai bakti kepada keluarga. Anak yang berprestasi atau mendirikan usaha pendidikan juga mengangkat nama baik keluarga dan menjadi sumber kebahagiaan orang tua.
 
 ## 7. Bersyukur dan Tidak Lupa Jasa Orang Tua
 

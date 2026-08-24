@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260515082825/https://asysyams.id/pen
 
 # Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah
 
-[Home](https://asysyams.id/) » Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah
+[Home](../) » Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah
 
 ## Pendidikan agama Islam dan budi pekerti merupakan dua hal yang sangat penting dalam membentuk karakter anak-anak di Indonesia.
 
-![pendidikan agama islam dan budi pekerti](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-300x225.jpg)
+![pendidikan agama islam dan budi pekerti](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-300x225.jpg)
 
-![](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-300x225.jpg)
+![](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-300x225.jpg)
 
 Sebagai negara dengan mayoritas penduduk Muslim, pendidikan agama Islam berperan krusial untuk menanamkan nilai-nilai moral dan keagamaan sejak dini. Melalui pendidikan agama dan budi pekerti di sekolah, anak-anak harus kita ajarkan tidak hanya tentang pengetahuan agama, tetapi juga tentang cara berperilaku dan berinteraksi yang baik dengan orang lain. Di antara berbagai pilihan sekolah yang menawarkan pendidikan agama, TK Islam Asysyams hadir sebagai lembaga yang memiliki komitmen tinggi dalam mengajarkan nilai-nilai Islam dan budi pekerti kepada anak-anak sejak usia dini.
 
@@ -29,7 +29,7 @@ Pendidikan agama di sekolah bukan hanya sekadar mata pelajaran yang kita ajarkan
 
 Di sekolah seperti TK Islam Asysyams, pendidikan agama kita berikan secara sistematis dan terpadu. Para guru di TK Islam Asysyams mengajarkan anak-anak untuk mengenal Allah, mengenal Rasulullah, serta memahami ibadah dasar Ibadah. Hal ini sangat penting untuk membangun kecintaan anak terhadap agamanya sejak dini.
 
-[Lanjutkan membaca mengenai hakikat pendidikan anak usia dini di sini.](https://asysyams.id/hakikat-pendidikan-anak-usia-dini-yang-harus-orang-tua-ketahui/)
+[Lanjutkan membaca mengenai hakikat pendidikan anak usia dini di sini.](../hakikat-pendidikan-anak-usia-dini-yang-harus-orang-tua-ketahui/)
 
 ### Pentingnya Budi Pekerti dalam Kehidupan Sehari-hari
 
@@ -37,13 +37,13 @@ Budi pekerti mencakup sikap dan perilaku baik yang sejalan dengan nilai-nilai mo
 
 Pendidikan budi pekerti juga mendorong anak-anak untuk memiliki sikap disiplin, jujur, dan hormat. Di TK Islam Asysyams, nilai-nilai ini kita tanamkan melalui berbagai kegiatan seperti permainan kelompok, pembelajaran cerita-cerita teladan, dan interaksi sosial di lingkungan sekolah. Semua aktivitas tersebut terancang untuk membantu anak-anak belajar bagaimana bersikap santun dan menjaga hubungan baik dengan orang lain.
 
-[Ada 10 hak anak di sekolah yang perlu diperhatikan oleh sekolah dan orang tua, klik di sini untuk lebih jelasnya.](https://asysyams.id/10-hak-anak-di-sekolah-yang-wajib-dipenuhi-sekolah/)
+[Ada 10 hak anak di sekolah yang perlu diperhatikan oleh sekolah dan orang tua, klik di sini untuk lebih jelasnya.](../10-hak-anak-di-sekolah-yang-wajib-dipenuhi-sekolah/)
 
 ### Pendidikan Agama Islam dan Budi Pekerti: Kolaborasi yang Harmonis
 
 Pendidikan agama Islam dan budi pekerti saling melengkapi. Agama memberikan panduan tentang apa yang benar dan salah, sementara budi pekerti menunjukkan cara menerapkan panduan tersebut dalam kehidupan sehari-hari. Di TK Islam Asysyams, pendidikan agama dan budi pekerti kita berikan secara bersamaan. Hal  ini memastikan anak-anak tumbuh menjadi individu yang berakhlak mulia dan memiliki sikap yang baik. Pendidikan yang mereka terima di TK Islam Asysyams akan menjadi bekal penting dalam menjalani kehidupan di masa depan.
 
-[Temukan metode edukasi anak yang Islami untuk panduan lengkap mendidik anak dengan nilai-nilai agama.](https://asysyams.id/metode-edukasi-anak-yang-islami-panduan-lengkap-mendidik-anak-dengan-nilai-nilai-agama/)
+[Temukan metode edukasi anak yang Islami untuk panduan lengkap mendidik anak dengan nilai-nilai agama.](../metode-edukasi-anak-yang-islami-panduan-lengkap-mendidik-anak-dengan-nilai-nilai-agama/)
 
 ### Peran TK Islam Asysyams dalam Pendidikan Karakter Anak
 

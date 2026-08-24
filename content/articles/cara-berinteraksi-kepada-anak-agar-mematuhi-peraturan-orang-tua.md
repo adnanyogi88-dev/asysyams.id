@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314171413/https://asysyams.id/car
 
 # Cara Berinteraksi Kepada Anak Agar Mematuhi Peraturan Orang Tua
 
-[Home](https://asysyams.id/) » Cara Berinteraksi Kepada Anak Agar Mematuhi Peraturan Orang Tua
+[Home](../) » Cara Berinteraksi Kepada Anak Agar Mematuhi Peraturan Orang Tua
 
 ## Mendidik anak untuk mematuhi peraturan orang tua adalah salah satu tantangan utama dalam pengasuhan.
 
-![Cara Berinteraksi Kepada Anak](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-27-19.24.16-A-warm-and-loving-interaction-between-a-parent-and-a-young-child-in-a-cozy-home-environment.-The-parent-is-sitting-with-the-child-on-a-soft-rug-engag-300x300.webp)
+![Cara Berinteraksi Kepada Anak](../wp-content/uploads/2024/09/DALL·E-2024-09-27-19.24.16-A-warm-and-loving-interaction-between-a-parent-and-a-young-child-in-a-cozy-home-environment.-The-parent-is-sitting-with-the-child-on-a-soft-rug-engag-300x300.webp)
 
 Orang tua sering kali merasa kesulitan untuk mendapatkan ketaatan anak mereka tanpa harus menggunakan pendekatan yang keras atau berlebihan. Namun, ada banyak cara yang dapat anda ambil untuk membangun hubungan yang sehat dan harmonis dengan anak sehingga mereka lebih cenderung mematuhi peraturan. Artikel ini akan membahas berbagai pendekatan, teknik, dan strategi yang dapat orang tua gunakan  untuk berinteraksi dengan anak-anak mereka agar anak-anak dengan sukarela mematuhi peraturan yang ditetapkan.
 
@@ -55,11 +55,11 @@ Selain kepatuhan terhadap peraturan, orang tua juga perlu menunjukkan cara menge
 
 Baca juga:
 
-[Cara Memperkuat Mental Anak Agar Cepat Beradaptasi dengan Lingkungan](https://asysyams.id/cara-memperkuat-mental-anak-agar-cepat-beradaptasi-dengan-lingkungan/)
+[Cara Memperkuat Mental Anak Agar Cepat Beradaptasi dengan Lingkungan](../cara-memperkuat-mental-anak-agar-cepat-beradaptasi-dengan-lingkungan/)
 
-[Apa yang Akan Anak Dapatkan Jika Bersekolah di Sekolah Islam Asysyam](https://asysyams.id/apa-yang-akan-anak-dapatkan-jika-bersekolah-di-sekolah-islam-asysyam/)
+[Apa yang Akan Anak Dapatkan Jika Bersekolah di Sekolah Islam Asysyam](../apa-yang-akan-anak-dapatkan-jika-bersekolah-di-sekolah-islam-asysyam/)
 
-[Apa Kelebihan dari Franchise Sekolah AsySyams Dibanding Sekolah Lain?](https://asysyams.id/apa-kelebihan-dari-franchise-sekolah-asysyams-dibanding-sekolah-lain/)
+[Apa Kelebihan dari Franchise Sekolah AsySyams Dibanding Sekolah Lain?](../apa-kelebihan-dari-franchise-sekolah-asysyams-dibanding-sekolah-lain/)
 
 ###  
 

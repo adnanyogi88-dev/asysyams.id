@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421043504/https://asysyams.id/car
 
 # Cara Menuntun Anak Berkreasi dengan Kertas
 
-[Home](https://asysyams.id/) » Cara Menuntun Anak Berkreasi dengan Kertas
+[Home](../) » Cara Menuntun Anak Berkreasi dengan Kertas
 
 ## Kreativitas adalah salah satu keterampilan penting yang perlu anak kembangkan sejak usia dini.
 
-![Buku Perkembangan Fisik Motorik Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
+![Buku Perkembangan Fisik Motorik Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
 
 Dalam dunia pendidikan anak usia dini, berkreasi menggunakan media sederhana seperti kertas memiliki manfaat besar bagi perkembangan motorik halus, imajinasi, serta kemampuan berpikir kritis anak-anak. Orang tua dan guru bisa memainkan peran penting dalam menuntun anak-anak untuk berkreasi dengan kertas melalui cara-cara yang menyenangkan dan edukatif. Berikut ini panduan lengkap mengenai cara menuntun anak berkreasi dengan kertas.
 

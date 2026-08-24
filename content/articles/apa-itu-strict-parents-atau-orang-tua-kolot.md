@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216223627/https://asysyams.id/apa
 
 # Apa Itu Strict Parents? Atau Orang Tua Kolot
 
-[Home](https://asysyams.id/) » Apa Itu Strict Parents? Atau Orang Tua Kolot
+[Home](../) » Apa Itu Strict Parents? Atau Orang Tua Kolot
 
 ## Dalam dunia parenting, istilah “strict parents” atau orang tua yang ketat sering kali memunculkan berbagai pandangan dan pendapat.
 
-![Apa Itu Strict Parents](https://asysyams.id/wp-content/uploads/2024/10/DALL·E-2024-10-28-21.09.20-An-illustration-of-a-young-family-with-two-parents-and-a-child-in-a-home-setting-where-the-parents-are-shown-gently-but-firmly-setting-rules-for-the--300x300.webp)
+![Apa Itu Strict Parents](../wp-content/uploads/2024/10/DALL·E-2024-10-28-21.09.20-An-illustration-of-a-young-family-with-two-parents-and-a-child-in-a-home-setting-where-the-parents-are-shown-gently-but-firmly-setting-rules-for-the--300x300.webp)
 
 Namun, apa sebenarnya sebenarnya strict parents? Apa saja kelebihan dan kekurangannya, dan bagaimana gaya parenting ini dapat memengaruhi perkembangan anak, baik secara emosional maupun sosial?
 
@@ -64,18 +64,18 @@ Strict parenting memiliki beberapa keuntungan, terutama dalam membangun disiplin
 -
 
 Kekurangan dan Tantangan
-Di sisi lain, strict parenting juga bisa berdampak negatif pada perkembangan psikologis anak. Anak mungkin merasa kurang percaya diri, sulit mengekspresikan pendapat, atau bahkan merasa tertekan karena takut melanggar aturan. [Hakikat Pendidikan Anak Usia Dini yang Harus Orang Tua Ketahui](https://asysyams.id/hakikat-pendidikan-anak-usia-dini-yang-harus-orang-tua-ketahui/) juga perlu anda jadikan panduan agar gaya parenting dapat anda terapkan dengan cara yang lebih seimbang.
+Di sisi lain, strict parenting juga bisa berdampak negatif pada perkembangan psikologis anak. Anak mungkin merasa kurang percaya diri, sulit mengekspresikan pendapat, atau bahkan merasa tertekan karena takut melanggar aturan. [Hakikat Pendidikan Anak Usia Dini yang Harus Orang Tua Ketahui](../hakikat-pendidikan-anak-usia-dini-yang-harus-orang-tua-ketahui/) juga perlu anda jadikan panduan agar gaya parenting dapat anda terapkan dengan cara yang lebih seimbang.
 
 -
 
 Keseimbangan Emosional Anak
-Keseimbangan dalam pola asuh sangat penting untuk memastikan anak tumbuh dengan mental yang sehat. Pendaftaran anak di sekolah seperti [Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/) yang memiliki program pendidikan usia dini dapat membantu memberikan ruang bagi anak untuk tumbuh dan berkembang dengan dukungan emosional yang baik.
+Keseimbangan dalam pola asuh sangat penting untuk memastikan anak tumbuh dengan mental yang sehat. Pendaftaran anak di sekolah seperti [Asy-Syams](../pendaftaran-anak-di-asy-syams/) yang memiliki program pendidikan usia dini dapat membantu memberikan ruang bagi anak untuk tumbuh dan berkembang dengan dukungan emosional yang baik.
 
 ### Kesimpulan dan Saran bagi Orang Tua
 
 Menjadi orang tua yang baik tidak selalu harus menjadi strict parents. Penting bagi setiap orang tua untuk menyesuaikan gaya pengasuhan dengan kebutuhan anak dan memperhatikan keseimbangan antara ketegasan dan dukungan. Gaya parenting yang tepat tidak hanya membentuk karakter anak, tetapi juga menjaga kesehatannya secara mental dan emosional.
 
-Artikel ini akan diakhiri dengan penjabaran lebih lanjut tentang pentingnya keseimbangan antara aturan dan kebebasan dalam mendidik anak. Orang tua juga dapat menemukan informasi tambahan terkait perkembangan anak seperti dalam artikel [Contoh Data Berat Badan Menurut Usia Anak PAUD](https://asysyams.id/contoh-data-berat-badan-menurut-usia-anak-paud-panduan-untuk-orang-tua/), yang bisa menjadi referensi dalam memantau kesehatan fisik anak di usia dini.
+Artikel ini akan diakhiri dengan penjabaran lebih lanjut tentang pentingnya keseimbangan antara aturan dan kebebasan dalam mendidik anak. Orang tua juga dapat menemukan informasi tambahan terkait perkembangan anak seperti dalam artikel [Contoh Data Berat Badan Menurut Usia Anak PAUD](../contoh-data-berat-badan-menurut-usia-anak-paud-panduan-untuk-orang-tua/), yang bisa menjadi referensi dalam memantau kesehatan fisik anak di usia dini.
 
 [
 WhatsApp Kami

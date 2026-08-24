@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421034057/https://asysyams.id/kum
 
 # Kumpulan Makanan Penunjang Nutrisi Anak Usia Dini
 
-[Home](https://asysyams.id/) » Kumpulan Makanan Penunjang Nutrisi Anak Usia Dini
+[Home](../) » Kumpulan Makanan Penunjang Nutrisi Anak Usia Dini
 
 ## Masa usia dini merupakan periode emas bagi pertumbuhan dan perkembangan anak.
 
-![pendidikan karakter pada anak usia dini](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_457064447_18141624292353668_3101345649590181187_n_1080-1024x768.jpg)
+![pendidikan karakter pada anak usia dini](../wp-content/uploads/2024/10/Snapinsta.app_457064447_18141624292353668_3101345649590181187_n_1080-1024x768.jpg)
 
 Nutrisi yang optimal menjadi salah satu fondasi utama untuk memastikan anak tumbuh sehat, cerdas, dan berenergi. Tidak hanya berfungsi untuk menunjang pertumbuhan fisik, nutrisi juga memengaruhi perkembangan kognitif, emosi, dan sosial anak.
 

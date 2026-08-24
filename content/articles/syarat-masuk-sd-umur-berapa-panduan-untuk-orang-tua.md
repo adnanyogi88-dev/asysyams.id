@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515071805/https://asysyams.id/sya
 
 # Syarat Masuk SD Umur Berapa: Panduan untuk Orang Tua
 
-[Home](https://asysyams.id/) » Syarat Masuk SD Umur Berapa: Panduan untuk Orang Tua
+[Home](../) » Syarat Masuk SD Umur Berapa: Panduan untuk Orang Tua
 
 ## Masuk Sekolah Dasar (SD) adalah salah satu tonggak penting dalam kehidupan seorang anak di Indonesia.
 
-![syarat usia anak sd](https://asysyams.id/wp-content/uploads/2024/08/anak-sd-5bd9a52143322f599f0eeb13-300x200.jpg)
+![syarat usia anak sd](../wp-content/uploads/2024/08/anak-sd-5bd9a52143322f599f0eeb13-300x200.jpg)
 
 [sumber](https://www.kompasiana.com/)
 
@@ -87,11 +87,11 @@ Memulai sekolah pada usia yang tepat sangat penting untuk perkembangan anak seca
 
 Baca juga:
 
-[Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
+[Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
 
-[Memahami Tumbuh Kembang Anak: Panduan Lengkap](https://asysyams.id/memahami-tumbuh-kembang-anak-panduan-lengkap/)
+[Memahami Tumbuh Kembang Anak: Panduan Lengkap](../memahami-tumbuh-kembang-anak-panduan-lengkap/)
 
-[Perbedaan PAUD dan TK: Memahami Pendidikan di Indonesia](https://asysyams.id/perbedaan-paud-dan-tk-memahami-pendidikan-di-indonesia/)
+[Perbedaan PAUD dan TK: Memahami Pendidikan di Indonesia](../perbedaan-paud-dan-tk-memahami-pendidikan-di-indonesia/)
 
 ###  
 

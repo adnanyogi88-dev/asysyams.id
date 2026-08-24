@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216231938/https://asysyams.id/car
 
 # Cara Terbaik Mengenalkan Karya Seni kepada Anak Sejak Dini
 
-[Home](https://asysyams.id/) » Cara Terbaik Mengenalkan Karya Seni kepada Anak Sejak Dini
+[Home](../) » Cara Terbaik Mengenalkan Karya Seni kepada Anak Sejak Dini
 
 ## Pengenalan seni kepada anak sejak usia dini bukan hanya tentang mengasah kreativitas,
 
-![karya seni anak sejak dini](https://asysyams.id/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-2-1024x1024.jpg)
+![karya seni anak sejak dini](../wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-2-1024x1024.jpg)
 
 tetapi juga menjadi langkah awal membangun karakter mereka secara menyeluruh. Seni memiliki kemampuan unik untuk mengembangkan kecerdasan emosional, meningkatkan keterampilan motorik halus, dan memperkuat hubungan anak dengan dunia di sekitarnya. Dalam artikel ini, kita akan membahas berbagai cara terbaik mengenalkan seni kepada anak, menghubungkannya dengan nilai-nilai yang terajarkan dalam franchise AsySyams, serta menyediakan tautan internal yang relevan.
 
@@ -63,15 +63,15 @@ Franchise AsySyams dikenal dengan pendekatannya yang holistik dalam membangun ka
 
 #### 1. Pendidikan Karakter melalui Seni
 
-Dalam pendidikan seni, AsySyams mengintegrasikan nilai-nilai moral ke dalam kegiatan kreatif. Misalnya, anak diajak untuk membuat kerajinan tangan yang menggambarkan kisah inspiratif dari Al-Qur’an atau melukis tema-tema yang mengajarkan pentingnya menghormati orang tua. Lebih lanjut tentang hal ini bisa dibaca di artikel [Ciri-Ciri Anak yang Berbakti kepada Orang Tua](https://asysyams.id/ciri-ciri-anak-yang-berbakti-kepada-orang-tua/).
+Dalam pendidikan seni, AsySyams mengintegrasikan nilai-nilai moral ke dalam kegiatan kreatif. Misalnya, anak diajak untuk membuat kerajinan tangan yang menggambarkan kisah inspiratif dari Al-Qur’an atau melukis tema-tema yang mengajarkan pentingnya menghormati orang tua. Lebih lanjut tentang hal ini bisa dibaca di artikel [Ciri-Ciri Anak yang Berbakti kepada Orang Tua](../ciri-ciri-anak-yang-berbakti-kepada-orang-tua/).
 
 #### 2. Pentingnya Maternal Parenting dalam Mengenalkan Seni
 
-Salah satu pendekatan utama dalam franchise AsySyams adalah maternal parenting, di mana peran ibu sangat sentral dalam mendampingi anak mengenal seni. Dengan pendekatan ini, ibu dapat memberikan pengasuhan penuh kasih sayang sekaligus mengenalkan seni sebagai alat pendidikan. Informasi lebih lanjut bisa ditemukan di artikel [Apa Itu Maternal Parenting? Membangun Karakter Anak](https://asysyams.id/apa-itu-maternal-parenting-membangun-karakter-anak/).
+Salah satu pendekatan utama dalam franchise AsySyams adalah maternal parenting, di mana peran ibu sangat sentral dalam mendampingi anak mengenal seni. Dengan pendekatan ini, ibu dapat memberikan pengasuhan penuh kasih sayang sekaligus mengenalkan seni sebagai alat pendidikan. Informasi lebih lanjut bisa ditemukan di artikel [Apa Itu Maternal Parenting? Membangun Karakter Anak](../apa-itu-maternal-parenting-membangun-karakter-anak/).
 
 #### 3. Mempersiapkan Generasi Kreatif melalui Franchise 2025
 
-Franchise AsySyams juga berkomitmen untuk mencetak generasi yang kreatif dan inovatif melalui program-program seni yang berkelanjutan. Program ini menjadi salah satu daya tarik utama dalam ekspansi mereka di tahun 2025. Selengkapnya tentang program ini dapat dibaca di [Franchise 2025](https://asysyams.id/tag/franchise-2025/).
+Franchise AsySyams juga berkomitmen untuk mencetak generasi yang kreatif dan inovatif melalui program-program seni yang berkelanjutan. Program ini menjadi salah satu daya tarik utama dalam ekspansi mereka di tahun 2025. Selengkapnya tentang program ini dapat dibaca di [Franchise 2025](../tag/franchise-2025/).
 
 ### Kesimpulan
 

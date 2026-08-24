@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515080608/https://asysyams.id/kia
 
 # Kiat Mendidik Anak Agar Menjadi Lebih Mandiri
 
-[Home](https://asysyams.id/) » Kiat Mendidik Anak Agar Menjadi Lebih Mandiri
+[Home](../) » Kiat Mendidik Anak Agar Menjadi Lebih Mandiri
 
 ## Mendidik anak untuk menjadi mandiri adalah salah satu tugas penting bagi setiap orang tua.
 
-![Kiat Mendidik Anak Agar Menjadi Lebih Mandiri](https://asysyams.id/wp-content/uploads/2024/08/cara-mendidik-anak-untuk-mandiri-sesuai-usia-mereka-300x169.jpg)
+![Kiat Mendidik Anak Agar Menjadi Lebih Mandiri](../wp-content/uploads/2024/08/cara-mendidik-anak-untuk-mandiri-sesuai-usia-mereka-300x169.jpg)
 
 [sumber](https://www.cussonskids.co.id/)
 
@@ -79,11 +79,11 @@ Tidak jarang anak menunjukkan perlawanan atau ketidakpatuhan ketika diminta untu
 
 Baca juga:
 
-[Biaya Mendirikan Usaha Playgroup di Jakarta](https://asysyams.id/biaya-mendirikan-usaha-playgroup-di-jakarta/)
+[Biaya Mendirikan Usaha Playgroup di Jakarta](../biaya-mendirikan-usaha-playgroup-di-jakarta/)
 
-[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
-[Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini](https://asysyams.id/strategi-mengembangkan-kecerdasan-emosional-anak-sejak-dini/)
+[Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini](../strategi-mengembangkan-kecerdasan-emosional-anak-sejak-dini/)
 
  
 

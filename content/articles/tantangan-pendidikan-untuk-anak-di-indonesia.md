@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515080022/https://asysyams.id/tan
 
 # Tantangan Pendidikan untuk Anak di Indonesia
 
-[Home](https://asysyams.id/) » Tantangan Pendidikan untuk Anak di Indonesia
+[Home](../) » Tantangan Pendidikan untuk Anak di Indonesia
 
 ## Pendidikan adalah salah satu pilar utama dalam pembangunan bangsa.
 
-![Tantangan Pendidikan anak di Indonesia](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_457035294_18141623854353668_3576366696611035647_n-300x225.jpg)
+![Tantangan Pendidikan anak di Indonesia](../wp-content/uploads/2024/09/ClipDown.App_457035294_18141623854353668_3576366696611035647_n-300x225.jpg)
 
 Sebagai negara berkembang dengan populasi terbesar keempat di dunia, Indonesia menghadapi berbagai tantangan dalam menyediakan akses pendidikan berkualitas bagi semua anak. Meskipun telah terjadi banyak kemajuan, tantangan-tantangan struktural, sosial, ekonomi, dan geografis masih menjadi penghambat signifikan bagi pendidikan anak-anak di Indonesia.
 
@@ -55,11 +55,11 @@ Selama pandemi COVID-19, tantangan infrastruktur ini semakin nyata ketika banyak
 
 Baca juga:
 
-[Anak Pemalu dan Pendiam Tips Memahami Karakteristik Anak](https://asysyams.id/anak-pemalu-dan-pendiam-tips-memahami-karakteristik-anak/)
+[Anak Pemalu dan Pendiam Tips Memahami Karakteristik Anak](../anak-pemalu-dan-pendiam-tips-memahami-karakteristik-anak/)
 
-[Mengatasi Anak yang Susah Makan: Solusi dan Strategi Efektif](https://asysyams.id/mengatasi-anak-yang-susah-makan-solusi-dan-strategi-efektif/)
+[Mengatasi Anak yang Susah Makan: Solusi dan Strategi Efektif](../mengatasi-anak-yang-susah-makan-solusi-dan-strategi-efektif/)
 
-[Perilaku Menyimpang pada Anak: Penyebab, Dampak, dan Solusi](https://asysyams.id/perilaku-menyimpang-pada-anak-penyebab-dampak-dan-solusi/)
+[Perilaku Menyimpang pada Anak: Penyebab, Dampak, dan Solusi](../perilaku-menyimpang-pada-anak-penyebab-dampak-dan-solusi/)
 
  
 

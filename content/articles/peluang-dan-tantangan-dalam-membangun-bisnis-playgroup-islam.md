@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611130559/https://asysyams.id/pel
 
 # Peluang dan Tantangan dalam Membangun Bisnis Playgroup Islam
 
-[Home](https://asysyams.id/) » Peluang dan Tantangan dalam Membangun Bisnis Playgroup Islam
+[Home](../) » Peluang dan Tantangan dalam Membangun Bisnis Playgroup Islam
 
 ## Di era modern ini, pendidikan anak usia dini menjadi salah satu prioritas bagi banyak orang tua.
 
-![bisnis playgroup islam](https://asysyams.id/wp-content/uploads/2024/08/playground-islami-300x140.jpg)
+![bisnis playgroup islam](../wp-content/uploads/2024/08/playground-islami-300x140.jpg)
 
 [sumber](https://www.vecteezy.com/)
 
@@ -73,11 +73,11 @@ Selain itu, penting untuk membangun tim yang solid, mulai dari kepala sekolah, g
 
 Baca juga:
 
-[Informasi Tumbuh Kembang Anak](https://asysyams.id/informasi-tumbuh-kembang-anak/)
+[Informasi Tumbuh Kembang Anak](../informasi-tumbuh-kembang-anak/)
 
-[gabung franchise sekolah asy-syams](https://asysyams.id/gabung-franchise-sekolah-asy-syams/)
+[gabung franchise sekolah asy-syams](../gabung-franchise-sekolah-asy-syams/)
 
-[Pelayanan Asy-Syams](https://asysyams.id/pelayanan-asy-syams/)
+[Pelayanan Asy-Syams](../pelayanan-asy-syams/)
 
 ###  
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314223304/https://asysyams.id/ala
 
 # Alasan Seorang Muslim Harus Memuliakan Gurunya Adalah: Perspektif Islam dan Pendidikan
 
-[Home](https://asysyams.id/) » Alasan Seorang Muslim Harus Memuliakan Gurunya Adalah: Perspektif Islam dan Pendidikan
+[Home](../) » Alasan Seorang Muslim Harus Memuliakan Gurunya Adalah: Perspektif Islam dan Pendidikan
 
 ## Dalam Islam, guru menempati posisi yang sangat tinggi karena perannya dalam mentransmisikan ilmu dan membimbing manusia ke jalan yang benar.
 
-![waralaba pendidikan tk](https://asysyams.id/wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-80x80.jpg)
+![waralaba pendidikan tk](../wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-80x80.jpg)
 
 Seorang Muslim wajib memuliakan gurunya sebagai bentuk penghormatan atas ilmu yang telah tuhan guru berikan. Memuliakan guru bukan sekadar etika, tetapi juga bagian dari ajaran Islam yang berlandaskan Al-Qur’an dan Hadis.
 
@@ -65,13 +65,13 @@ Pendidikan usia dini memiliki peran penting dalam membentuk karakter anak sejak 
 
 Jika Anda tertarik dengan dunia pendidikan usia dini dan bisnis yang berhubungan dengan pendidikan Islam, Anda bisa membaca artikel berikut:
 
-- [Peluang dan Tantangan dalam Membangun Bisnis Playgroup Islam](https://asysyams.id/peluang-dan-tantangan-dalam-membangun-bisnis-playgroup-islam/)
+- [Peluang dan Tantangan dalam Membangun Bisnis Playgroup Islam](../peluang-dan-tantangan-dalam-membangun-bisnis-playgroup-islam/)
 
-- [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+- [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
 Selain itu, penting juga untuk memahami perbedaan antara mendidik dan mengajar dalam sistem pendidikan agar dapat membangun generasi yang beradab dan berilmu. Anda bisa membaca lebih lanjut di artikel berikut:
 
-- [Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia](https://asysyams.id/perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/)
+- [Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia](../perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/)
 
 ### Kesimpulan
 

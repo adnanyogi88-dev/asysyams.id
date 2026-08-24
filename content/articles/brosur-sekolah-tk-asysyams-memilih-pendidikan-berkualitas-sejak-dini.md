@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314233718/https://asysyams.id/bro
 
 # Brosur Sekolah TK Asysyams: Memilih Pendidikan Berkualitas Sejak Dini
 
-[Home](https://asysyams.id/) » Brosur Sekolah TK Asysyams: Memilih Pendidikan Berkualitas Sejak Dini
+[Home](../) » Brosur Sekolah TK Asysyams: Memilih Pendidikan Berkualitas Sejak Dini
 
 ## Memulai pendidikan anak dari usia dini memegang peranan sangat penting.
 
-![brosure tk asysyams](https://asysyams.id/wp-content/uploads/2025/05/May-3-2025-01_19_09-AM-683x1024.png)
+![brosure tk asysyams](../wp-content/uploads/2025/05/May-3-2025-01_19_09-AM-683x1024.png)
 
 Oleh karena itu, para orang tua selalu mencari pilihan terbaik yang dapat menunjang perkembangan anak secara holistik. Dalam konteks ini, TK Asysyams hadir sebagai solusi yang tepat. Selain menawarkan pendekatan islami yang mendalam, TK Asysyams juga memadukan metode pembelajaran yang aktif, kreatif, dan menyenangkan.
 
@@ -39,7 +39,7 @@ Pertama-tama, brosur TK Asysyams tidak hanya menyampaikan data. Sebaliknya, bros
 
 ### Sertakan Informasi Pendaftaran yang Jelas
 
-Selain itu, bagian paling penting dari brosur adalah informasi teknis terkait pendaftaran. TK Asysyams telah menempatkan bagian ini secara strategis di brosur, dengan penjelasan ringkas, tautan pendaftaran online seperti di [pendaftaran murid TK di Harapan Indah Bekasi](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/), serta petunjuk kontak yang mudah diakses.
+Selain itu, bagian paling penting dari brosur adalah informasi teknis terkait pendaftaran. TK Asysyams telah menempatkan bagian ini secara strategis di brosur, dengan penjelasan ringkas, tautan pendaftaran online seperti di [pendaftaran murid TK di Harapan Indah Bekasi](../pendaftaran-murid-tk-di-harapan-indah-bekasi/), serta petunjuk kontak yang mudah diakses.
 
 ### Tampilkan Keunggulan yang Terukur
 
@@ -79,7 +79,7 @@ Di era digital, brosur tidak cukup hanya berbentuk fisik. Oleh karena itu, versi
 
 ### Landing Page dan Tautan Khusus
 
-Tak hanya itu, brosur digital sering kali dilengkapi dengan tautan pendaftaran yang langsung mengarah ke halaman resmi [pendaftaran anak di Asysyams](https://asysyams.id/pendaftaran-anak-di-asy-syams/). Hal ini memudahkan proses bagi orang tua yang ingin langsung mendaftarkan anaknya tanpa datang ke sekolah.
+Tak hanya itu, brosur digital sering kali dilengkapi dengan tautan pendaftaran yang langsung mengarah ke halaman resmi [pendaftaran anak di Asysyams](../pendaftaran-anak-di-asy-syams/). Hal ini memudahkan proses bagi orang tua yang ingin langsung mendaftarkan anaknya tanpa datang ke sekolah.
 
 ## Integrasi Brosur dengan Strategi Branding Sekolah
 
@@ -99,7 +99,7 @@ CTA semacam ini terbukti efektif mendorong tindakan langsung dari pembaca.
 
 ### Sinkronisasi dengan Kalender Akademik
 
-Tidak hanya itu, brosur selalu mencantumkan jadwal penting seperti open house, jadwal [pendaftaran PAUD Asysyams](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/), dan masa orientasi siswa baru. Semua ini memperkuat fungsi brosur sebagai media informasi lengkap.
+Tidak hanya itu, brosur selalu mencantumkan jadwal penting seperti open house, jadwal [pendaftaran PAUD Asysyams](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/), dan masa orientasi siswa baru. Semua ini memperkuat fungsi brosur sebagai media informasi lengkap.
 
 ## Evaluasi Efektivitas Brosur
 

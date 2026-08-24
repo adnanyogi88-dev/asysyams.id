@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260314162424/https://asysyams.id/cer
 
 # Cerpen Inspiratif Tentang Sekolah: Menumbuhkan Harapan dan Semangat Anak
 
-[Home](https://asysyams.id/) » Cerpen Inspiratif Tentang Sekolah: Menumbuhkan Harapan dan Semangat Anak
+[Home](../) » Cerpen Inspiratif Tentang Sekolah: Menumbuhkan Harapan dan Semangat Anak
 
 ### 1. Pendahuluan
 
 ## Sekolah bukan sekadar tempat belajar akademis.
 
-![Tabungan Pendidikan Anak yang Bagus](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_54065a9f-80x80.jpg)
+![Tabungan Pendidikan Anak yang Bagus](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_54065a9f-80x80.jpg)
 
 Malahan, sekolah menjadi panggung bagi anak-anak untuk mengeksplorasi diri dan membangun kepercayaan diri. Oleh karena itu, dalam cerpen ini, kita akan menyelami kehidupan seorang anak bernama Rafi, yang awalnya minder, tetapi kemudian berkembang menjadi percaya diri berkat dukungan orang tua dan guru.
 
@@ -33,17 +33,17 @@ Ibu guru, Bu Maya, segera mengenal Rafi dan menaruh perhatian khusus padanya. Ba
 
 Sementara itu, di rumah, ayah dan ibu selalu mengapresiasi setiap usaha Rafi. Selain memberi pujian, keduanya juga menemani Rafi belajar dengan sabar. Bahkan, ketika Rafi mengalami kesulitan memahami pelajaran matematika, ayah dkk mencari metode belajar yang menyenangkan untuknya.
 
-Di bagian ini, Anda bisa melihat bagaimana pentingnya pendaftaran TK yang tepat. Orang tua bisa mempertimbangkan waktu pendaftaran yang ideal agar anak masuk ke jenjang lebih tinggi tanpa tekanan. Pelajari pedoman lengkapnya di artikel ini: [Pendaftaran TK bulan apa? – Panduan lengkap untuk orang tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+Di bagian ini, Anda bisa melihat bagaimana pentingnya pendaftaran TK yang tepat. Orang tua bisa mempertimbangkan waktu pendaftaran yang ideal agar anak masuk ke jenjang lebih tinggi tanpa tekanan. Pelajari pedoman lengkapnya di artikel ini: [Pendaftaran TK bulan apa? – Panduan lengkap untuk orang tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
 ### 5. Pilih Sekolah TK/PAUD yang Tepat: Modal Awal Keberhasilan
 
 Sebelum Rafi masuk SD, orang tua sempat mempertimbangkan banyak pilihan TK. Mereka memilih TK Islam yang berkualitas di Bekasi, sebab fasilitasnya lengkap dan mendidik dengan pondasi agama yang kuat. Selain itu, para guru profesional membuat anak cepat menyesuaikan diri.
 
-Lebih jauh lagi, Anda bisa mendapatkan inspirasi sekolah berkualitas di wilayah Anda dari artikel ini: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+Lebih jauh lagi, Anda bisa mendapatkan inspirasi sekolah berkualitas di wilayah Anda dari artikel ini: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ### 6. Mengenal Biaya Masuk PAUD/Sekolah: Persiapan Finansial
 
-Selama mencari sekolah bagi Rafi, orang tua juga mengalokasikan dana yang sesuai. Mereka menyusun anggaran sehingga biaya masuk dan iuran bulanan tidak memberatkan. Bahkan, orang tua lain juga bisa belajar dari panduan biaya masuk PAUD berikut: [Biaya Masuk PAUD – Panduan lengkap untuk orang tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+Selama mencari sekolah bagi Rafi, orang tua juga mengalokasikan dana yang sesuai. Mereka menyusun anggaran sehingga biaya masuk dan iuran bulanan tidak memberatkan. Bahkan, orang tua lain juga bisa belajar dari panduan biaya masuk PAUD berikut: [Biaya Masuk PAUD – Panduan lengkap untuk orang tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 ### 7. Hari Pertama Rafi Sekolah: Penuh Warna
 
@@ -99,11 +99,11 @@ Cerita Rafi menunjukkan bahwa semangat dan dukungan yang aktif, baik dari pihak 
 
 Lebih jauh lagi, orang tua dapat mengambil langkah awal melalui artikel:
 
-- [Pendaftaran TK – Panduan lengkap untuk orang tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- [Pendaftaran TK – Panduan lengkap untuk orang tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- [TK Islam bagus di Bekasi – Fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam bagus di Bekasi – Fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- [Biaya masuk PAUD – Panduan lengkap untuk orang tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- [Biaya masuk PAUD – Panduan lengkap untuk orang tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 Dengan membaca dan memanfaatkan referensi tersebut, orang tua akan lebih siap dalam memilih sekolah, menyiapkan anak, dan memastikan proses pendidikan berlangsung lancar dan menyenangkan—ajeg!
 

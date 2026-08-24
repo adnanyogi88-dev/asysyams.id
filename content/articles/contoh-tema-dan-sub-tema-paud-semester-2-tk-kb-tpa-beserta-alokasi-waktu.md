@@ -11,15 +11,15 @@ archive_url: "https://web.archive.org/web/20251008073453/https://asysyams.id/con
 
 # Contoh Tema dan Sub Tema PAUD Semester 2 (TK, KB, TPA) Beserta Alokasi Waktu
 
-[Home](https://asysyams.id/) » Contoh Tema dan Sub Tema PAUD Semester 2 (TK, KB, TPA) Beserta Alokasi Waktu
+[Home](../) » Contoh Tema dan Sub Tema PAUD Semester 2 (TK, KB, TPA) Beserta Alokasi Waktu
 
 ## Pembelajaran di Pendidikan Anak Usia Dini (PAUD) pada Kurikulum 2025 tetap menekankan pentingnya tema dan subtema
 
-![Cara Memacu Tinggi Fisik Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468449514_18151706926353668_4004946162877868786_n_1080-1024x768.jpg)
+![Cara Memacu Tinggi Fisik Anak](../wp-content/uploads/2025/01/Snapinst.app_468449514_18151706926353668_4004946162877868786_n_1080-1024x768.jpg)
 
 sebagai bingkai kegiatan belajar yang menyenangkan dan bermakna. Oleh karena itu, tema berfungsi untuk menyatukan isi program pengembangan dalam satu kesatuan yang utuh, memperkaya kosa kata peserta didik, serta mendekatkan anak dengan lingkungannya.
 
-Artikel ini akan mengulas contoh tema dan subtema PAUD untuk satu tahun penuh, tersesuaikan dengan Kurikulum PAUD 2025. Selain itu, kami juga akan menyoroti praktik penerapan tema pembelajaran di TK Islam AsySyams, salah satu [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Artikel ini akan mengulas contoh tema dan subtema PAUD untuk satu tahun penuh, tersesuaikan dengan Kurikulum PAUD 2025. Selain itu, kami juga akan menyoroti praktik penerapan tema pembelajaran di TK Islam AsySyams, salah satu [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ## Prinsip Pemilihan Tema PAUD
 
@@ -123,11 +123,11 @@ Jika kita perhatikan, tema semester 2 mulai mengajak anak untuk memahami kebutuh
 
 ## Penerapan di TK Islam AsySyams
 
-Sebagai lembaga pendidikan anak usia dini berbasis Islam, [TK Islam AsySyams](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/) menerapkan pendekatan tematik Kurikulum 2025 dengan sentuhan nilai-nilai Islami.
+Sebagai lembaga pendidikan anak usia dini berbasis Islam, [TK Islam AsySyams](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/) menerapkan pendekatan tematik Kurikulum 2025 dengan sentuhan nilai-nilai Islami.
 
 Misalnya, pada tema “Keluargaku”, anak-anak tidak hanya belajar mengenal anggota keluarga, tetapi juga diajarkan adab kepada orang tua sesuai ajaran Islam. Selain itu, pada tema “Lingkunganku”, pembelajaran dikaitkan dengan nilai kepedulian dan gotong royong yang ditekankan dalam hadis.
 
-Kemudian, TK Islam AsySyams memperkaya pembelajaran dengan [kumpulan cerita Islami pendek untuk anak dan keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/). Cerita-cerita ini membantu menanamkan akhlak mulia, sekaligus memperkaya kosa kata anak melalui kegiatan bercerita yang interaktif.
+Kemudian, TK Islam AsySyams memperkaya pembelajaran dengan [kumpulan cerita Islami pendek untuk anak dan keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/). Cerita-cerita ini membantu menanamkan akhlak mulia, sekaligus memperkaya kosa kata anak melalui kegiatan bercerita yang interaktif.
 
 Dengan cara ini, pembelajaran di TK Islam AsySyams tidak hanya menekankan aspek kognitif, tetapi juga membangun karakter Islami. Oleh karena itu, sekolah ini menjadi contoh penerapan kurikulum yang seimbang antara akademik dan nilai agama.
 

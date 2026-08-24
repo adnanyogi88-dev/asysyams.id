@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421044456/https://asysyams.id/ino
 
 # Inovasi Pendidikan: Pengertian, Contoh, Sasaran
 
-[Home](https://asysyams.id/) » Inovasi Pendidikan: Pengertian, Contoh, Sasaran
+[Home](../) » Inovasi Pendidikan: Pengertian, Contoh, Sasaran
 
 ## Inovasi pendidikan merupakan suatu pembaruan dalam sistem pendidikan yang bertujuan untuk meningkatkan kualitas pembelajaran,
 
-![apa itu parenting trap](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_447776788_18133017943353668_4101983140652334970_n_1080-1024x683.jpg)
+![apa itu parenting trap](../wp-content/uploads/2024/10/Snapinsta.app_447776788_18133017943353668_4101983140652334970_n_1080-1024x683.jpg)
 
 Efektivitas pengajaran, serta hasil belajar siswa. Inovasi ini dapat mencakup berbagai aspek, seperti metode pengajaran, teknologi pendidikan, kurikulum, serta pendekatan pembelajaran yang lebih modern dan adaptif.
 
@@ -37,7 +37,7 @@ Terdapat berbagai contoh inovasi pendidikan yang telah terterapkan di berbagai i
 
 - Pendidikan Karakter dan Religius
 
-- Pendidikan tidak hanya berfokus pada aspek kognitif, tetapi juga pada pengembangan karakter dan moral. Dalam hal ini, cerita islami pendek untuk anak dan keluarga dapat menjadi salah satu media efektif dalam menanamkan nilai-nilai moral dan religius sejak dini. [Baca lebih lanjut](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
+- Pendidikan tidak hanya berfokus pada aspek kognitif, tetapi juga pada pengembangan karakter dan moral. Dalam hal ini, cerita islami pendek untuk anak dan keluarga dapat menjadi salah satu media efektif dalam menanamkan nilai-nilai moral dan religius sejak dini. [Baca lebih lanjut](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
 
 - Pendidikan Inklusif
 
@@ -45,7 +45,7 @@ Terdapat berbagai contoh inovasi pendidikan yang telah terterapkan di berbagai i
 
 - Pengembangan Sekolah Berbasis Kewirausahaan
 
-- Sekolah tidak hanya menjadi tempat belajar akademik, tetapi juga menjadi pusat pengembangan keterampilan kewirausahaan bagi siswa. Misalnya, bisnis taman kanak-kanak yang mengusung konsep edukatif dapat menjadi inovasi bisnis dalam dunia pendidikan. [Pelajari lebih lanjut](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+- Sekolah tidak hanya menjadi tempat belajar akademik, tetapi juga menjadi pusat pengembangan keterampilan kewirausahaan bagi siswa. Misalnya, bisnis taman kanak-kanak yang mengusung konsep edukatif dapat menjadi inovasi bisnis dalam dunia pendidikan. [Pelajari lebih lanjut](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
 ### Sasaran Inovasi Pendidikan
 
@@ -77,7 +77,7 @@ Inovasi pendidikan memiliki sasaran yang luas, mencakup berbagai aspek dalam dun
 
 ### Penerapan Inovasi Pendidikan dalam Dunia Nyata
 
-Inovasi pendidikan tidak hanya sebatas konsep, tetapi juga harus terimplementasikan dalam dunia nyata. Salah satu caranya adalah dengan mengembangkan proposal usaha di bidang pendidikan yang dapat diaplikasikan di sekolah atau komunitas belajar. [Lihat contoh proposal usaha di bidang pendidikan](https://asysyams.id/contoh-proposal-usaha-bidang-pendidikan/)
+Inovasi pendidikan tidak hanya sebatas konsep, tetapi juga harus terimplementasikan dalam dunia nyata. Salah satu caranya adalah dengan mengembangkan proposal usaha di bidang pendidikan yang dapat diaplikasikan di sekolah atau komunitas belajar. [Lihat contoh proposal usaha di bidang pendidikan](../contoh-proposal-usaha-bidang-pendidikan/)
 
 Dalam penerapan inovasi pendidikan, perlu adanya kolaborasi antara pemerintah, lembaga pendidikan, tenaga pengajar, serta masyarakat agar inovasi yang diterapkan dapat berjalan dengan optimal dan memberikan manfaat yang luas.
 

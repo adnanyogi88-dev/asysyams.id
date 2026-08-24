@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20251008070840/https://asysyams.id/car
 
 # Cara Mengapresiasi Diri Sendiri dalam Pandangan Islam: Panduan untuk Pebisnis Pemula
 
-[Home](https://asysyams.id/) » Cara Mengapresiasi Diri Sendiri dalam Pandangan Islam: Panduan untuk Pebisnis Pemula
+[Home](../) » Cara Mengapresiasi Diri Sendiri dalam Pandangan Islam: Panduan untuk Pebisnis Pemula
 
 ## Pendahuluan
 
@@ -119,7 +119,7 @@ Hasilnya, motivasi Ahmad terus terjaga. Dalam dua tahun, usahanya berkembang men
 
 Apresiasi diri juga erat kaitannya dengan pendidikan karakter. Pebisnis yang menghargai dirinya akan lebih mudah menghargai orang lain. Prinsip ini berlaku tidak hanya di dunia usaha, tetapi juga di bidang pendidikan.
 
-Jika Anda tertarik memahami peran lembaga pendidikan dalam pembentukan karakter, silakan baca artikel berikut: [Apa Itu Institusi Pendidikan: Penjelasan Lengkap, Fungsi, dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
+Jika Anda tertarik memahami peran lembaga pendidikan dalam pembentukan karakter, silakan baca artikel berikut: [Apa Itu Institusi Pendidikan: Penjelasan Lengkap, Fungsi, dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
 
 ## Pentingnya Menanamkan Apresiasi Diri Sejak Dini
 
@@ -127,9 +127,9 @@ Nilai apresiasi diri sebaiknya ditanamkan sejak masa kanak-kanak. Pendidikan ana
 
 Bagi orang tua, memahami biaya dan fasilitas sekolah sangat penting. Anda bisa mempelajarinya di:
 
-- [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
+- [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ## Kesimpulan
 

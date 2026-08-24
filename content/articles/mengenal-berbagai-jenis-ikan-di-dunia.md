@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207020638/https://asysyams.id/men
 
 # Mengenal Berbagai Jenis Ikan di Dunia
 
-[Home](https://asysyams.id/) » Mengenal Berbagai Jenis Ikan di Dunia
+[Home](../) » Mengenal Berbagai Jenis Ikan di Dunia
 
 ## Ikan adalah hewan yang hidup di air dan bernapas dengan insang. Mereka memiliki sirip untuk berenang dan tubuh yang licin.
 
-![jenis-jenis ikan](https://asysyams.id/wp-content/uploads/2024/08/ikan-kembung-300x200.jpg)
+![jenis-jenis ikan](../wp-content/uploads/2024/08/ikan-kembung-300x200.jpg)
 
 [sumber](http://indofishmart.id)
 
@@ -49,11 +49,11 @@ Ikan koi adalah jenis ikan yang sangat populer di Jepang dan negara-negara lain.
 
 Baca juga:
 
-[Pentingnya Gizi untuk Pertumbuhan dan Perkembangan Anak](https://asysyams.id/pentingnya-gizi-untuk-pertumbuhan-dan-perkembangan-anak/)
+[Pentingnya Gizi untuk Pertumbuhan dan Perkembangan Anak](../pentingnya-gizi-untuk-pertumbuhan-dan-perkembangan-anak/)
 
-[Rekomendasi Makanan yang Bagus untuk Kecerdasan Otak Anak](https://asysyams.id/rekomendasi-makanan-yang-bagus-untuk-kecerdasan-otak-anak/)
+[Rekomendasi Makanan yang Bagus untuk Kecerdasan Otak Anak](../rekomendasi-makanan-yang-bagus-untuk-kecerdasan-otak-anak/)
 
-[Tugas Rumah yang Bisa Dikerjakan Bersama Anak Anda di Rumah](https://asysyams.id/tugas-rumah-yang-bisa-dikerjakan-bersama-anak-anda-di-rumah/)
+[Tugas Rumah yang Bisa Dikerjakan Bersama Anak Anda di Rumah](../tugas-rumah-yang-bisa-dikerjakan-bersama-anak-anda-di-rumah/)
 
  
 

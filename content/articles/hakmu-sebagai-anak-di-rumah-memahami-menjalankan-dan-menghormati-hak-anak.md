@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314232300/https://asysyams.id/hak
 
 # Hakmu sebagai Anak di Rumah: Memahami, Menjalankan, dan Menghormati Hak Anak
 
-[Home](https://asysyams.id/) » Hakmu sebagai Anak di Rumah: Memahami, Menjalankan, dan Menghormati Hak Anak
+[Home](../) » Hakmu sebagai Anak di Rumah: Memahami, Menjalankan, dan Menghormati Hak Anak
 
 ## Setiap anak memiliki hak yang harus kita hormati dan penuhi, baik oleh orang tua, keluarga, maupun masyarakat.
 
-![Waralaba Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
+![Waralaba Bidang Pendidikan](../wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
 
 Hak-hak ini tidak hanya berlaku di sekolah atau lingkungan sosial, tetapi juga di dalam rumah. Sebagai anak, memahami hakmu di rumah adalah langkah awal untuk tumbuh dan berkembang dengan baik, serta membentuk pribadi yang mandiri dan bertanggung jawab.
 
@@ -29,7 +29,7 @@ Kasih sayang merupakan kebutuhan emosional utama bagi anak. Orang tua dan anggot
 
 ### b. Hak untuk Mendapatkan Pendidikan
 
-Setiap anak berhak mendapatkan pendidikan yang layak, baik secara formal maupun nonformal. Pendidikan tidak hanya terbatas pada sekolah, tetapi juga meliputi pembelajaran di rumah, seperti membaca, menulis, dan belajar keterampilan hidup. Bagi anak yang memiliki minat khusus, seperti menggambar, penting untuk mendapatkan dukungan dari keluarga dalam memilih jalur pendidikan yang sesuai. (Baca juga: [Anak Hobi Menggambar, Cocoknya Masuk Jurusan Apa?](https://asysyams.id/anak-hobi-menggambar-cocoknya-masuk-jurusan-apa/))
+Setiap anak berhak mendapatkan pendidikan yang layak, baik secara formal maupun nonformal. Pendidikan tidak hanya terbatas pada sekolah, tetapi juga meliputi pembelajaran di rumah, seperti membaca, menulis, dan belajar keterampilan hidup. Bagi anak yang memiliki minat khusus, seperti menggambar, penting untuk mendapatkan dukungan dari keluarga dalam memilih jalur pendidikan yang sesuai. (Baca juga: [Anak Hobi Menggambar, Cocoknya Masuk Jurusan Apa?](../anak-hobi-menggambar-cocoknya-masuk-jurusan-apa/))
 
 ### c. Hak untuk Mendapatkan Perlindungan
 
@@ -49,7 +49,7 @@ Komunikasi yang baik antara anak dan orang tua adalah kunci utama dalam memenuhi
 
 ### b. Menyediakan Sarana untuk Berkembang
 
-Selain pendidikan formal, anak juga perlu mendapatkan kesempatan untuk mengembangkan bakat dan minatnya. Jika anak memiliki minat di bidang seni, olahraga, atau sains, orang tua bisa memberikan dukungan dengan menyediakan fasilitas yang dibutuhkan. Jika tertarik pada bidang pendidikan, anak bisa belajar lebih lanjut tentang legalitas dan optimalisasi pendidikan. (Baca juga: [Franchise Pendidikan: Legalitas, Optimalisasi, dan Komersialisasi](https://asysyams.id/franchise-pendidikan-legalitas-optimalisasi-dan-komersialisasi/))
+Selain pendidikan formal, anak juga perlu mendapatkan kesempatan untuk mengembangkan bakat dan minatnya. Jika anak memiliki minat di bidang seni, olahraga, atau sains, orang tua bisa memberikan dukungan dengan menyediakan fasilitas yang dibutuhkan. Jika tertarik pada bidang pendidikan, anak bisa belajar lebih lanjut tentang legalitas dan optimalisasi pendidikan. (Baca juga: [Franchise Pendidikan: Legalitas, Optimalisasi, dan Komersialisasi](../franchise-pendidikan-legalitas-optimalisasi-dan-komersialisasi/))
 
 ### c. Menciptakan Lingkungan yang Aman dan Nyaman
 
@@ -77,7 +77,7 @@ Anak cenderung meniru perilaku orang tua. Oleh karena itu, orang tua harus membe
 
 ## 4. Keterkaitan Hak Anak dengan Budaya dan Sejarah
 
-Hak anak juga berhubungan erat dengan budaya dan sejarah. Misalnya, banyak lagu anak-anak yang mengandung pesan moral dan nilai-nilai kehidupan yang bisa membantu membentuk karakter anak. Salah satu contoh lagu yang dikenal luas adalah “Nina Bobo” yang memiliki latar belakang kisah yang menarik. (Baca juga: [Asal-Usul Lagu Anak-Anak “Nina Bobo” dan Kisah di Baliknya](https://asysyams.id/asal-usul-lagu-anak-anak-nina-bobo-dan-kisah-di-baliknya/))
+Hak anak juga berhubungan erat dengan budaya dan sejarah. Misalnya, banyak lagu anak-anak yang mengandung pesan moral dan nilai-nilai kehidupan yang bisa membantu membentuk karakter anak. Salah satu contoh lagu yang dikenal luas adalah “Nina Bobo” yang memiliki latar belakang kisah yang menarik. (Baca juga: [Asal-Usul Lagu Anak-Anak “Nina Bobo” dan Kisah di Baliknya](../asal-usul-lagu-anak-anak-nina-bobo-dan-kisah-di-baliknya/))
 
 ## Kesimpulan
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260118005341/https://asysyams.id/per
 
 # Perlengkapan untuk Mengikuti Pesantren Putra dan Putri
 
-[Home](https://asysyams.id/) » Perlengkapan untuk Mengikuti Pesantren Putra dan Putri
+[Home](../) » Perlengkapan untuk Mengikuti Pesantren Putra dan Putri
 
 ## Memasuki dunia pesantren adalah langkah besar, baik bagi anak maupun orang tua.
 
-![Contoh Jasa di Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_d3de101f-768x1024.jpg)
+![Contoh Jasa di Bidang Pendidikan](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_d3de101f-768x1024.jpg)
 
 Pesantren bukan sekadar tempat menimba ilmu agama, tetapi juga menjadi wadah pembentukan karakter, kedisiplinan, serta kemandirian. Oleh karena itu, mempersiapkan perlengkapan untuk mengikuti pesantren—baik untuk putra maupun putri—menjadi langkah awal yang sangat penting.
 
@@ -215,19 +215,19 @@ Selanjutnya, orang tua dapat melihat persiapan ini sebagai bagian dari investasi
 
 Berbicara tentang pendidikan pesantren, penting juga bagi orang tua untuk memahami peluang investasi di sektor pendidikan Islam. Tidak hanya menyiapkan anak sebagai santri, tetapi juga berkontribusi dalam pengembangan lembaga pendidikan yang unggul. Misalnya, melalui model sekolah Islam berbasis franchise.
 
-? Baca juga: [Investasi Sekolah Islam Berbasis Franchise: Peluang Menjanjikan untuk Masa Depan](https://asysyams.id/investasi-sekolah-islam-berbasis-franchise-peluang-menjanjikan-untuk-masa-depan/)
+? Baca juga: [Investasi Sekolah Islam Berbasis Franchise: Peluang Menjanjikan untuk Masa Depan](../investasi-sekolah-islam-berbasis-franchise-peluang-menjanjikan-untuk-masa-depan/)
 
 ## Ingin Membangun Brand Pendidikan Sejak Dini?
 
 Jika Anda tertarik membangun lembaga PAUD atau TK yang Islami dan profesional, penting sekali memahami cara membangun brand yang kuat. Sebab, merek yang tepat akan menarik lebih banyak murid dan kepercayaan orang tua.
 
-? Pelajari selengkapnya: [Cara Membangun Brand PAUD yang Kuat dan Profesional](https://asysyams.id/cara-membangun-brand-paud-yang-kuat-dan-profesional/)
+? Pelajari selengkapnya: [Cara Membangun Brand PAUD yang Kuat dan Profesional](../cara-membangun-brand-paud-yang-kuat-dan-profesional/)
 
 ## Menemukan Sekolah Terbaik di Bekasi?
 
 Bagi Anda yang berada di Bekasi dan ingin mencari TK atau sekolah Islam untuk persiapan sebelum pesantren, ada panduan lengkap yang bisa Anda simak.
 
-? Simak artikel berikut: [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
+? Simak artikel berikut: [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
 
 [
 WhatsApp Kami

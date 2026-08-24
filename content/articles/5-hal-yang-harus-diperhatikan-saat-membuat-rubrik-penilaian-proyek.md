@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20250913050759/https://asysyams.id/5-h
 
 # 5 Hal yang Harus Diperhatikan saat Membuat Rubrik Penilaian Proyek
 
-[Home](https://asysyams.id/) » 5 Hal yang Harus Diperhatikan saat Membuat Rubrik Penilaian Proyek
+[Home](../) » 5 Hal yang Harus Diperhatikan saat Membuat Rubrik Penilaian Proyek
 
 ## Saat anak bersiap memulai proyek sekolah, orang tua atau guru bisa membuat rubrik penilaian agar evaluasi berlangsung adil, sistematis, serta informatif.
 
@@ -101,7 +101,7 @@ Sebagai orang tua, Anda mungkin merasa terbantu ketika:
 
 Jika Anda ingin mencari informasi lebih lanjutan, ternyata ada banyak referensi berguna untuk memilih TK terbaik, franchise pendidikan, dan taman kanak?kanak di Bekasi. Anda bisa membaca lebih lanjut melalui tautan berikut:
 
-- Bagi orang tua yang mencari TK Islam yang bagus di Bekasi dengan fasilitas terbaik, kunjungi halaman ini: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+- Bagi orang tua yang mencari TK Islam yang bagus di Bekasi dengan fasilitas terbaik, kunjungi halaman ini: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 - Jika tertarik dengan franchise pendidikan lokal di Indonesia, silakan baca artikel ini: [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia]().
 

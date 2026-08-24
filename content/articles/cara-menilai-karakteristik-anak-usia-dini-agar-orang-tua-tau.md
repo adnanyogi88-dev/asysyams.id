@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515073602/https://asysyams.id/car
 
 # Cara Menilai Karakteristik Anak Usia Dini Agar Orang Tua Tau
 
-[Home](https://asysyams.id/) » Cara Menilai Karakteristik Anak Usia Dini Agar Orang Tua Tau
+[Home](../) » Cara Menilai Karakteristik Anak Usia Dini Agar Orang Tua Tau
 
 ## Anak usia dini, yang biasanya berada dalam rentang usia 0-6 tahun, merupakan fase emas (golden age) dalam perkembangan manusia.
 
-![Karakteristik Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_44de6d6e-80x80.jpg)
+![Karakteristik Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_44de6d6e-80x80.jpg)
 
 Pada masa ini, anak mengalami pertumbuhan dan perkembangan yang sangat pesat, baik secara fisik, kognitif, emosional, maupun sosial. Oleh karena itu, memahami dan menilai karakteristik anak usia dini menjadi hal yang sangat penting, terutama bagi orang tua, pendidik, dan pihak-pihak yang terlibat dalam pengasuhan dan pendidikan anak. Artikel ini akan membahas cara menilai karakteristik anak usia dini dan menghubungkannya dengan pentingnya pendidikan TK Islami, serta peluang untuk mengembangkan lembaga pendidikan anak usia dini melalui franchise atau kemitraan.
 
@@ -91,13 +91,13 @@ Kurikulum di TK Islami dirancang untuk mengembangkan seluruh aspek perkembangan 
 
 Bagi Anda yang tertarik untuk berkontribusi dalam dunia pendidikan anak usia dini, mengikuti franchise atau kemitraan TK Islami bisa menjadi pilihan yang tepat. Berikut adalah beberapa artikel yang dapat menjadi referensi:
 
-- [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
+- [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
 Artikel ini membahas peluang untuk bergabung dalam franchise pendidikan TK Islami. Dengan mengikuti franchise, Anda dapat memanfaatkan sistem yang sudah teruji dan mendapatkan dukungan penuh dari pihak franchisor.
 
-- [Waralaba Kindergarten Islami: Peluang Emas Membuka TK Islami](https://asysyams.id/waralaba-kindergarten-islami-peluang-emas-membuka-tk-islami/)
+- [Waralaba Kindergarten Islami: Peluang Emas Membuka TK Islami](../waralaba-kindergarten-islami-peluang-emas-membuka-tk-islami/)
 Membuka TK Islami melalui waralaba adalah peluang emas untuk berkontribusi dalam pendidikan anak usia dini sekaligus menjalankan bisnis yang menguntungkan.
 
-- [Gabung Kemitraan Sekolah Asy-Syams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/)
+- [Gabung Kemitraan Sekolah Asy-Syams](../gabung-kemitraan-sekolah-asy-syams/)
 Artikel ini menjelaskan tentang kemitraan dengan Sekolah Asy-Syams, sebuah lembaga pendidikan yang telah terpercaya dalam menyelenggarakan pendidikan TK Islami.
 
 ### Indikator yang Perlu Diketahui Oleh Orang Tua

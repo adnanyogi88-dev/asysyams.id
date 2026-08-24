@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421034527/https://asysyams.id/car
 
 # Cara Memantik Rasa Inisiatif Anak: Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Cara Memantik Rasa Inisiatif Anak: Panduan Lengkap untuk Orang Tua
+[Home](../) » Cara Memantik Rasa Inisiatif Anak: Panduan Lengkap untuk Orang Tua
 
 ## Membesarkan anak yang mandiri dan penuh inisiatif merupakan impian hampir setiap orang tua.
 
-![Doa Anak Saleh](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
+![Doa Anak Saleh](../wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
 
 Apalagi, saat anak bersiap memasuki jenjang pendidikan seperti taman kanak-kanak, kemampuan untuk berinisiatif menjadi salah satu indikator penting dalam kesiapan sekolah. Maka dari itu, penting bagi orang tua untuk memahami cara memantik rasa inisiatif anak sejak dini.
 
@@ -61,7 +61,7 @@ Ajari anak bahwa kesalahan adalah bagian dari proses belajar. Daripada memarahi,
 
 Lingkungan yang aman dan positif sangat membantu dalam memantik rasa inisiatif anak. Sekolah dengan pendekatan pembelajaran aktif dan fasilitas yang memadai sangat direkomendasikan.
 
-Misalnya, [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) bisa menjadi pilihan ideal. Di sana, anak akan terpapar dengan program pendidikan yang mendukung kemandirian dan kreativitas.
+Misalnya, [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) bisa menjadi pilihan ideal. Di sana, anak akan terpapar dengan program pendidikan yang mendukung kemandirian dan kreativitas.
 
 ### Hindari Perilaku Orang Tua yang Menghambat Inisiatif
 
@@ -103,11 +103,11 @@ Luangkan waktu untuk berbicara dengan anak mengenai hal-hal yang telah dilakukan
 
 Memilih sekolah yang tepat juga menjadi faktor kunci. Sekolah yang menekankan pengembangan karakter, tidak hanya akademik, mampu memperkuat upaya orang tua di rumah.
 
-Simak panduan lengkap [cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) agar Anda tak salah pilih.
+Simak panduan lengkap [cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) agar Anda tak salah pilih.
 
 ### Kenalkan Dunia Pendidikan Sejak Dini
 
-Selain mengasah inisiatif, mengenalkan dunia pendidikan sejak dini membuat anak lebih siap secara mental dan sosial. Jika Anda tertarik mengenalkan anak pada pendidikan melalui jalur bisnis seperti waralaba, Anda bisa membaca referensi [5 franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) untuk melihat potensinya.
+Selain mengasah inisiatif, mengenalkan dunia pendidikan sejak dini membuat anak lebih siap secara mental dan sosial. Jika Anda tertarik mengenalkan anak pada pendidikan melalui jalur bisnis seperti waralaba, Anda bisa membaca referensi [5 franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) untuk melihat potensinya.
 
 ### Kesimpulan
 

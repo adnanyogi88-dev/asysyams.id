@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260118011222/https://asysyams.id/kon
 
 # Konsep Pembelajaran Tari pada Anak Usia Dini dan Relevansinya dalam Pendidikan Islami
 
-[Home](https://asysyams.id/) » Konsep Pembelajaran Tari pada Anak Usia Dini dan Relevansinya dalam Pendidikan Islami
+[Home](../) » Konsep Pembelajaran Tari pada Anak Usia Dini dan Relevansinya dalam Pendidikan Islami
 
 ## Pembelajaran tari pada anak usia dini bukan sekadar aktivitas fisik atau hiburan semata.
 
-![Artikel ini akan membahas ide Outfit of The Day (OOTD) anak perempuan berhijab yang cocok untuk berbagai aktivitas liburan.](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_447819442_18133018825353668_4331571284613163541_n_1080-80x80.jpg)
+![Artikel ini akan membahas ide Outfit of The Day (OOTD) anak perempuan berhijab yang cocok untuk berbagai aktivitas liburan.](../wp-content/uploads/2024/11/Snapinsta.app_447819442_18133018825353668_4331571284613163541_n_1080-80x80.jpg)
 
 Lebih dari itu, kegiatan ini merupakan sarana penting untuk mengembangkan aspek motorik, kognitif, emosional, sosial, dan nilai-nilai budaya sejak dini. Dalam konteks pendidikan modern, integrasi seni tari ke dalam kurikulum anak usia dini telah menjadi perhatian para pendidik, mengingat manfaatnya yang holistik. Artikel ini akan membahas konsep pembelajaran tari untuk anak usia dini, strategi pengajarannya, serta kaitannya dengan pendidikan berbasis nilai Islami dan peluang pengembangan melalui kemitraan pendidikan seperti franchise pendidikan usia dini yang menjanjikan.
 
@@ -58,7 +58,7 @@ Pembelajaran tari tidak hanya fokus pada gerakan, tetapi juga dapat terintegrasi
 
 Musik adalah elemen kunci dalam tari. Pemilihan lagu dengan tempo lambat hingga cepat membantu anak memahami dinamika gerakan. Cerita pendek juga bisa digunakan sebagai tema tari, seperti “Petualangan di Hutan” atau “Kisah Nabi Sulaiman”, yang sekaligus mengajarkan pesan moral.
 
-Baca juga: [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+Baca juga: [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
 ### Strategi Mengajar Tari untuk Anak Usia Dini
 
@@ -84,7 +84,7 @@ Agar tidak monoton, tari bisa dikombinasikan dengan menggambar, bernyanyi, atau 
 
 Orang tua bisa dilibatkan dalam proses belajar, misalnya melalui pentas seni atau workshop di rumah. Lembaga seperti Asy-Syams juga menawarkan program Gabung Kemitraan Sekolah Asy-Syams untuk memperkuat sinergi antara sekolah dan keluarga.
 
-Baca juga: [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/)
+Baca juga: [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/)
 
 ### Tantangan dalam Pembelajaran Tari untuk Anak Usia Dini
 
@@ -117,7 +117,7 @@ Gerakan tari bisa dikreasikan sesuai ayat-ayat tertentu, misalnya menirukan gera
 
 Pendekatan ini selaras dengan artikel Hadits tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami, yang menekankan pendidikan karakter sejak dini.
 
-Baca juga: [gabung kemitraan franchise pendidikan asysyams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/)
+Baca juga: [gabung kemitraan franchise pendidikan asysyams](../gabung-kemitraan-sekolah-asy-syams/)
 
 ### Peran Lembaga Pendidikan dalam Mengoptimalkan Pembelajaran Tari
 

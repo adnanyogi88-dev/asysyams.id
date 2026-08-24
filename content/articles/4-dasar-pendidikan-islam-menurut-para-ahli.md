@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515075951/https://asysyams.id/4-d
 
 # 4 Dasar Pendidikan Islam Menurut Para Ahli
 
-[Home](https://asysyams.id/) » 4 Dasar Pendidikan Islam Menurut Para Ahli
+[Home](../) » 4 Dasar Pendidikan Islam Menurut Para Ahli
 
 ## Pendidikan Islam memiliki peran penting dalam membentuk individu yang berakhlak mulia, cerdas, dan berkontribusi positif terhadap masyarakat.
 
-![4 dasar pendidikan islam](https://asysyams.id/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-1-1024x1024.jpg)
+![4 dasar pendidikan islam](../wp-content/uploads/2024/09/WhatsApp-Image-2024-09-15-at-14.49.21-1-1024x1024.jpg)
 
 Dalam konsep Islam, pendidikan bukan hanya proses transfer ilmu, tetapi juga upaya pembentukan karakter yang sesuai dengan nilai-nilai agama. Banyak ahli pendidikan Islam telah menjelaskan dasar-dasar pendidikan Islam yang menjadi fondasi dalam sistem pendidikan berbasis agama ini. Artikel ini akan membahas empat dasar pendidikan Islam menurut para ahli serta menghubungkannya dengan praktik pendidikan di TK Islam AsySyams.
 
@@ -46,21 +46,21 @@ Sebagai contoh:
 - Pembelajaran akhlak kita berikan melalui pendekatan langsung, misalnya mempraktikkan berbagi dengan teman dan menggunakan bahasa yang santun.
 
 Bagi Anda yang tertarik dengan sistem pendidikan Islami ini, TK Islam AsySyams juga menawarkan peluang franchise pendidikan Islami yang menjanjikan. Informasi lebih lanjut dapat diakses melalui artikel berikut:
-[Franchise Pendidikan TK Islami yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/).
+[Franchise Pendidikan TK Islami yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/).
 
 ### Peluang Franchise TK Islam AsySyams: Membuka Jalan untuk Pendidikan Islami
 
 Jika Anda berminat untuk terlibat dalam dunia pendidikan usia dini berbasis Islam, TK Islam AsySyams membuka peluang franchise pendidikan Islami yang dapat menjadi pilihan menarik. Sistem ini memungkinkan Anda menjalankan lembaga pendidikan dengan dukungan penuh dari pihak AsySyams, termasuk pelatihan kurikulum, manajemen, dan pengelolaan operasional.
 
 Peluang ini sangat relevan mengingat semakin tingginya minat orang tua untuk memberikan pendidikan berbasis nilai-nilai Islam sejak dini. Selain itu, franchise ini menawarkan potensi keuntungan yang menjanjikan, mengingat tingginya kebutuhan masyarakat terhadap lembaga pendidikan berkualitas. Untuk mengetahui lebih lanjut, silakan kunjungi:
-[Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+[Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 ### Menulis Cerita Liburan untuk Anak SD: Membantu Anak Mengasah Kreativitas
 
 Selain membangun pendidikan usia dini melalui TK Islam, penting pula untuk melanjutkan pembelajaran kreatif bagi anak-anak di jenjang SD. Salah satu cara untuk mendorong kreativitas anak adalah dengan menulis cerita. Aktivitas ini melatih imajinasi, kemampuan berbahasa, dan kecintaan terhadap literasi.
 
 Bagi Anda yang tertarik dengan metode ini, AsySyams memiliki artikel menarik tentang mengarang cerita liburan sekolah untuk anak SD. Artikel ini memberikan panduan praktis bagi guru dan orang tua untuk mendukung anak-anak dalam menulis cerita kreatif:
-[Tag: Mengarang Cerita Liburan Sekolah untuk Anak SD](https://asysyams.id/tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/).
+[Tag: Mengarang Cerita Liburan Sekolah untuk Anak SD](../tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/).
 
 ### Kesimpulan
 
@@ -68,11 +68,11 @@ Empat dasar pendidikan Islam—tauhid, akhlak, ilmu pengetahuan, dan ibadah—ad
 
 Jika Anda tertarik untuk menjadi bagian dari revolusi pendidikan ini, jangan ragu untuk mengeksplorasi lebih lanjut tentang peluang-peluang yang ditawarkan oleh TK Islam AsySyams melalui tautan-tautan berikut:
 
-- [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
+- [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
 
-- [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+- [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
-- [Mengarang Cerita Liburan Sekolah untuk Anak SD](https://asysyams.id/tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/)
+- [Mengarang Cerita Liburan Sekolah untuk Anak SD](../tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/)
 
 Dengan dukungan pendidikan yang tepat, kita dapat membentuk generasi masa depan yang tidak hanya cerdas secara intelektual, tetapi juga kokoh dalam iman dan akhlak.
 

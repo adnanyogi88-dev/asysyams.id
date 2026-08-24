@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260314171617/https://asysyams.id/mai
 
 # Mainan STEM Anak Usia Dini Investasi Cerdas untuk Masa Depan Anak
 
-[Home](https://asysyams.id/) » Mainan STEM Anak Usia Dini Investasi Cerdas untuk Masa Depan Anak
+[Home](../) » Mainan STEM Anak Usia Dini Investasi Cerdas untuk Masa Depan Anak
 
 ## Pendidikan anak usia dini memegang peran penting dalam membentuk karakter, keterampilan, dan pola pikir anak.
 
-![pendidikan jasmani anak](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_456948128_18141624256353668_448733488593152241_n_1080-1-1024x768.jpg)
+![pendidikan jasmani anak](../wp-content/uploads/2024/10/Snapinsta.app_456948128_18141624256353668_448733488593152241_n_1080-1-1024x768.jpg)
 
-Salah satu pendekatan yang kini semakin populer adalah melalui mainan STEM (Science, Technology, Engineering, Mathematics). Mainan ini terancang untuk merangsang rasa ingin tahu, kreativitas, dan keterampilan berpikir kritis anak. Artikel ini akan membahas manfaat mainan STEM untuk anak usia dini, jenis-jenisnya, serta kaitannya dengan pentingnya dukungan sosial dan pendidikan anak seperti yang terulas dalam [AsySyams.id](https://asysyams.id/).
+Salah satu pendekatan yang kini semakin populer adalah melalui mainan STEM (Science, Technology, Engineering, Mathematics). Mainan ini terancang untuk merangsang rasa ingin tahu, kreativitas, dan keterampilan berpikir kritis anak. Artikel ini akan membahas manfaat mainan STEM untuk anak usia dini, jenis-jenisnya, serta kaitannya dengan pentingnya dukungan sosial dan pendidikan anak seperti yang terulas dalam [AsySyams.id](../).
 
 ### Mengapa Mainan STEM Penting untuk Anak Usia Dini?
 
@@ -47,7 +47,7 @@ Berikut beberapa contoh mainan STEM yang cocok untuk anak usia dini:
 
 ### Pentingnya Dukungan Sosial dalam Pendidikan Anak
 
-Artikel [AsySyams.id](https://asysyams.id/) tentang pentingnya dukungan sosial dalam pendidikan anak menyoroti bahwa pendidikan anak tidak hanya tanggung jawab sekolah, tetapi juga keluarga dan komunitas. Mainan STEM menjadi alat yang efektif untuk melibatkan berbagai pihak dalam proses belajar anak. Berikut kaitannya:
+Artikel [AsySyams.id](../) tentang pentingnya dukungan sosial dalam pendidikan anak menyoroti bahwa pendidikan anak tidak hanya tanggung jawab sekolah, tetapi juga keluarga dan komunitas. Mainan STEM menjadi alat yang efektif untuk melibatkan berbagai pihak dalam proses belajar anak. Berikut kaitannya:
 
 - Peran Orang Tua Orang tua dapat menggunakan mainan STEM untuk mendampingi anak belajar di rumah. Aktivitas ini memperkuat hubungan emosional dan memberikan dukungan moral bagi anak.
 
@@ -57,7 +57,7 @@ Artikel [AsySyams.id](https://asysyams.id/) tentang pentingnya dukungan sosial d
 
 ### Hubungan Mainan STEM dengan Pendidikan Holistik
 
-Pendidikan holistik yang menyeluruh mencakup aspek kognitif, emosional, sosial, dan spiritual anak. Konsep ini sejalan dengan visi yang diusung oleh [AsySyams.id](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/), yaitu menyediakan pendidikan berbasis nilai-nilai Islam yang mendukung perkembangan anak secara menyeluruh.
+Pendidikan holistik yang menyeluruh mencakup aspek kognitif, emosional, sosial, dan spiritual anak. Konsep ini sejalan dengan visi yang diusung oleh [AsySyams.id](../pendaftaran-murid-tk-di-harapan-indah-bekasi/), yaitu menyediakan pendidikan berbasis nilai-nilai Islam yang mendukung perkembangan anak secara menyeluruh.
 
 #### 1. Aspek Kognitif
 
@@ -89,7 +89,7 @@ Agar manfaatnya maksimal, mainan STEM harus dipilih dengan hati-hati. Berikut be
 
 ### Peran Lembaga Pendidikan dalam Mengintegrasikan Mainan STEM
 
-Sekolah atau lembaga pendidikan memiliki peran penting dalam mempromosikan penggunaan mainan STEM. Sebagai contoh, di [TK Harapan Indah Bekasi](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/), program pembelajaran dirancang untuk mendukung perkembangan holistik anak. Integrasi mainan STEM dalam kurikulum dapat membantu:
+Sekolah atau lembaga pendidikan memiliki peran penting dalam mempromosikan penggunaan mainan STEM. Sebagai contoh, di [TK Harapan Indah Bekasi](../pendaftaran-murid-tk-di-harapan-indah-bekasi/), program pembelajaran dirancang untuk mendukung perkembangan holistik anak. Integrasi mainan STEM dalam kurikulum dapat membantu:
 
 - Meningkatkan minat belajar anak.
 
@@ -99,7 +99,7 @@ Sekolah atau lembaga pendidikan memiliki peran penting dalam mempromosikan pengg
 
 ### Kesimpulan
 
-Mainan STEM adalah investasi cerdas untuk masa depan anak. Selain memberikan manfaat edukasi, mainan ini juga memperkuat hubungan antara anak, orang tua, dan komunitas. Dengan dukungan sosial yang kuat seperti yang diulas dalam [AsySyams.id](https://asysyams.id/), serta pendidikan berbasis nilai seperti di [TK Harapan Indah Bekasi](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/), mainan STEM dapat menjadi bagian integral dari perjalanan pendidikan anak usia dini.
+Mainan STEM adalah investasi cerdas untuk masa depan anak. Selain memberikan manfaat edukasi, mainan ini juga memperkuat hubungan antara anak, orang tua, dan komunitas. Dengan dukungan sosial yang kuat seperti yang diulas dalam [AsySyams.id](../), serta pendidikan berbasis nilai seperti di [TK Harapan Indah Bekasi](../pendaftaran-murid-tk-di-harapan-indah-bekasi/), mainan STEM dapat menjadi bagian integral dari perjalanan pendidikan anak usia dini.
 
 Penting bagi orang tua, guru, dan komunitas untuk bekerja sama dalam memilih dan memanfaatkan mainan STEM, sehingga anak dapat tumbuh menjadi individu yang kreatif, kritis, dan berkarakter.
 

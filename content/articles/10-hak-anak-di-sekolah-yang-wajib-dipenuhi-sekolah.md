@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314223505/https://asysyams.id/10-
 
 # 10 Hak Anak di Sekolah yang Wajib Dipenuhi Sekolah
 
-[Home](https://asysyams.id/) » 10 Hak Anak di Sekolah yang Wajib Dipenuhi Sekolah
+[Home](../) » 10 Hak Anak di Sekolah yang Wajib Dipenuhi Sekolah
 
 ## Saat ini, semakin banyak orang tua yang menyadari pentingnya lingkungan pendidikan yang aman, inklusif, dan mendukung bagi anak-anak mereka.
 
-![10 Hak Anak di Sekolah](https://asysyams.id/wp-content/uploads/2024/11/DALL·E-2024-11-07-14.50.30-A-colorful-welcoming-kindergarten-classroom-scene-showing-children-engaging-in-playful-learning-activities.-The-room-is-well-lit-with-soft-natural--300x171.webp)
+![10 Hak Anak di Sekolah](../wp-content/uploads/2024/11/DALL·E-2024-11-07-14.50.30-A-colorful-welcoming-kindergarten-classroom-scene-showing-children-engaging-in-playful-learning-activities.-The-room-is-well-lit-with-soft-natural--300x171.webp)
 
 Setiap anak memiliki hak-hak fundamental yang wajib terpenuhi di sekolah, terutama pada tahap awal pendidikan seperti di TK. Pemenuhan hak-hak ini penting untuk memastikan mereka tumbuh menjadi individu yang sehat, cerdas, dan berkarakter. Artikel ini akan menguraikan sepuluh hak utama anak di sekolah, dengan menyoroti bagaimana TK Asysyams berupaya memenuhi kebutuhan ini.
 
@@ -27,7 +27,7 @@ Pendidikan adalah hak dasar setiap anak. Sekolah harus menyediakan kurikulum ber
 
 Rasa aman adalah kebutuhan utama bagi anak-anak di lingkungan sekolah. Di sekolah, anak-anak berhak merasa aman baik secara fisik maupun emosional. TK Asysyams sangat memahami pentingnya menciptakan lingkungan yang bebas dari kekerasan dan ancaman. Sekolah kami menerapkan aturan yang ketat untuk memastikan setiap anak merasa terlindungi dan nyaman selama berada di sekolah. Pendekatan ini memungkinkan anak-anak untuk belajar dengan lebih efektif tanpa takut akan bullying atau diskriminasi.
 
-Baca Juga: [5 Implementasi Pendidikan Karakter pada Anak Usia Dini](https://asysyams.id/5-implementasi-pendidikan-karakter-pada-anak-usia-dini/)
+Baca Juga: [5 Implementasi Pendidikan Karakter pada Anak Usia Dini](../5-implementasi-pendidikan-karakter-pada-anak-usia-dini/)
 
 ### 3. Hak atas Pembelajaran yang Setara
 
@@ -41,7 +41,7 @@ Anak-anak memiliki hak untuk menyuarakan pendapat dan perasaannya. Di TK Asysyam
 
 Pendidikan tidak hanya mencakup aspek akademis, tetapi juga kesehatan fisik dan mental anak. Anak-anak memerlukan nutrisi yang baik serta dukungan untuk kesehatan mental mereka. Di TK Asysyams, kami selalu memperhatikan kebutuhan nutrisi dan kesejahteraan psikologis anak. Lingkungan yang sehat dan positif sangat penting untuk mendukung perkembangan otak dan kemampuan kognitif mereka.
 
-Baca Juga: [Rekomendasi Makanan yang Bagus untuk Kecerdasan Otak Anak](https://asysyams.id/rekomendasi-makanan-yang-bagus-untuk-kecerdasan-otak-anak/)
+Baca Juga: [Rekomendasi Makanan yang Bagus untuk Kecerdasan Otak Anak](../rekomendasi-makanan-yang-bagus-untuk-kecerdasan-otak-anak/)
 
 ### 6. Hak atas Aktivitas Fisik yang Cukup
 
@@ -59,7 +59,7 @@ Anak-anak belajar lebih baik saat mereka merasa senang dan menikmati prosesnya. 
 
 Anak-anak perlu didorong untuk mengembangkan kemampuan kognitif dan sosial mereka. TK Asysyams memberikan perhatian besar pada pengembangan keterampilan berpikir kritis, pemecahan masalah, dan kemampuan sosial. Kami percaya bahwa sekolah adalah tempat di mana anak-anak belajar untuk berinteraksi, berbagi, dan menghargai keberagaman, sehingga mereka dapat tumbuh menjadi individu yang lebih empatik dan terbuka.
 
-Baca Juga: [Tinggi Ideal Anak Perempuan – Panduan Lengkap untuk Orang Tua](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
+Baca Juga: [Tinggi Ideal Anak Perempuan – Panduan Lengkap untuk Orang Tua](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
 
 ### 10. Hak untuk Berkembang Menjadi Pribadi yang Mandiri dan Berkarakter
 

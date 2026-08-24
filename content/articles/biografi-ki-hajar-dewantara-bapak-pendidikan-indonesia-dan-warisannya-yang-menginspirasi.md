@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207022106/https://asysyams.id/bio
 
 # Biografi Ki Hajar Dewantara: Bapak Pendidikan Indonesia dan Warisannya yang Menginspirasi
 
-[Home](https://asysyams.id/) » Biografi Ki Hajar Dewantara: Bapak Pendidikan Indonesia dan Warisannya yang Menginspirasi
+[Home](../) » Biografi Ki Hajar Dewantara: Bapak Pendidikan Indonesia dan Warisannya yang Menginspirasi
 
 ## Ki Hajar Dewantara, atau yang lahir dengan nama Raden Mas Soewardi Soerjaningrat, adalah sosok penting dalam sejarah pendidikan Indonesia.
 
-![foto ki hajar dewantara](https://asysyams.id/wp-content/uploads/2024/11/ki-hajar-dewantara-80x80.webp)
+![foto ki hajar dewantara](../wp-content/uploads/2024/11/ki-hajar-dewantara-80x80.webp)
 
 Beliau bukan hanya pendiri lembaga pendidikan Taman Siswa tetapi juga pencetus filosofi pendidikan yang menghargai nilai-nilai kemandirian,. Dalam artikel ini, kita akan mengenal lebih dekat siapa beliau, perjuangannya dalam memperjuangkan pendidikan bagi rakyat Indonesia, dan bagaimana semangat yang ia wariskan tetap hidup, termasuk dalam lembaga pendidikan modern seperti Asysyams.
 
@@ -53,13 +53,13 @@ Asysyams sebagai lembaga pendidikan Islam di Indonesia, juga mengemban misi besa
 
 Sebagai lembaga yang fokus pada pendidikan berbasis nilai, Asysyams mengajarkan anak-anak untuk memiliki integritas dan semangat kemandirian. Hal ini selaras dengan prinsip yang terwariskan oleh Ki Hajar Dewantara. Pendidikan di Asysyams tidak hanya berfokus pada akademik tetapi juga pada pengembangan karakter, sehingga siswa dapat menjadi pribadi yang tangguh.
 
-[Peluang Usaha di Bidang Pendidikan dengan Modal Kecil](https://asysyams.id/peluang-usaha-bidang-pendidikan-dengan-modal-kecil/) – Asysyams memberikan peluang usaha pendidikan yang terjangkau bagi masyarakat. Sejalan dengan visi Ki Hajar Dewantara untuk mendekatkan pendidikan pada rakyat, Asysyams menawarkan program kemitraan yang dapat terakses dengan modal kecil, membuka kesempatan bagi siapa saja yang memiliki semangat mendidik.
+[Peluang Usaha di Bidang Pendidikan dengan Modal Kecil](../peluang-usaha-bidang-pendidikan-dengan-modal-kecil/) – Asysyams memberikan peluang usaha pendidikan yang terjangkau bagi masyarakat. Sejalan dengan visi Ki Hajar Dewantara untuk mendekatkan pendidikan pada rakyat, Asysyams menawarkan program kemitraan yang dapat terakses dengan modal kecil, membuka kesempatan bagi siapa saja yang memiliki semangat mendidik.
 
 #### Pendidikan di Indonesia: Dari Taman Siswa hingga Sekolah Asysyams
 
 Ki Hajar Dewantara meninggalkan warisan besar melalui Taman Siswa yang berperan sebagai tonggak penting dalam pendidikan nasional. Pengaruhnya dapat kita rasakan dalam konsep pendidikan yang sekarang terterapkan di Indonesia, seperti Kurikulum Merdeka Belajar. Semangat ini juga dihidupkan dalam lembaga pendidikan Asysyams, yang mengedepankan pendidikan anak usia dini dengan pendekatan Islami dan berbasis nilai.
 
-[Pendidikan adalah Usaha Sadar dan Terencana untuk Mewujudkan Suasana Belajar](https://asysyams.id/pendidikan-adalah-usaha-sadar-dan-terencana-untuk-mewujudkan-suasana-belajar/) – Melalui artikel ini, Asysyams menekankan pentingnya pendekatan yang sadar dan terencana dalam mendidik. Seperti Ki Hajar Dewantara, pendidikan yang baik adalah usaha yang terencana bertujuan membentuk suasana belajar yang nyaman, produktif, dan kondusif.
+[Pendidikan adalah Usaha Sadar dan Terencana untuk Mewujudkan Suasana Belajar](../pendidikan-adalah-usaha-sadar-dan-terencana-untuk-mewujudkan-suasana-belajar/) – Melalui artikel ini, Asysyams menekankan pentingnya pendekatan yang sadar dan terencana dalam mendidik. Seperti Ki Hajar Dewantara, pendidikan yang baik adalah usaha yang terencana bertujuan membentuk suasana belajar yang nyaman, produktif, dan kondusif.
 
 #### Taman Siswa dan Asysyams: Dua Pilar Penting dalam Pendidikan Indonesia
 
@@ -67,7 +67,7 @@ Meskipun didirikan dalam konteks dan era yang berbeda, Taman Siswa dan Asysyams 
 
 Dengan adanya lembaga-lembaga pendidikan seperti Asysyams, visi Ki Hajar Dewantara untuk menjadikan pendidikan sebagai hak semua anak bangsa dapat terus dilanjutkan. Asysyams menggabungkan nilai-nilai Islam dengan semangat kebangsaan, menjadikan pendidikan sebagai alat pembentuk karakter anak sejak dini agar siap menghadapi tantangan di masa depan.
 
-[Usaha di Bidang Pendidikan: Peluang Emas Membangun Masa Depan](https://asysyams.id/usaha-di-bidang-pendidikan-peluang-emas-membangun-masa-depan/) – Pendidikan tidak hanya membangun generasi penerus yang cerdas dan berbudi pekerti. Tetapi juga membuka peluang usaha yang berdampak positif bagi masyarakat. Asysyams mengajak para pendidik dan pelaku usaha untuk berpartisipasi dalam dunia pendidikan dan membuka masa depan yang cerah melalui program-program pendidikan yang terstruktur.
+[Usaha di Bidang Pendidikan: Peluang Emas Membangun Masa Depan](../usaha-di-bidang-pendidikan-peluang-emas-membangun-masa-depan/) – Pendidikan tidak hanya membangun generasi penerus yang cerdas dan berbudi pekerti. Tetapi juga membuka peluang usaha yang berdampak positif bagi masyarakat. Asysyams mengajak para pendidik dan pelaku usaha untuk berpartisipasi dalam dunia pendidikan dan membuka masa depan yang cerah melalui program-program pendidikan yang terstruktur.
 
 #### Penutup: Warisan Tak Ternilai dari Ki Hajar Dewantara
 

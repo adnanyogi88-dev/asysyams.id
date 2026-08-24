@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314221750/https://asysyams.id/20-
 
 # 20 Jenis Senam dan Manfaat dari Melakukannya Secara Rutin
 
-[Home](https://asysyams.id/) » 20 Jenis Senam dan Manfaat dari Melakukannya Secara Rutin
+[Home](../) » 20 Jenis Senam dan Manfaat dari Melakukannya Secara Rutin
 
 ## Senam merupakan aktivitas fisik yang memiliki banyak manfaat bagi kesehatan tubuh, baik untuk anak-anak, remaja, hingga orang dewasa.
 
-![Pendidikan Anak dalam Islam](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_75567e4d-1024x461.jpg)
+![Pendidikan Anak dalam Islam](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_75567e4d-1024x461.jpg)
 
 Melakukan senam secara rutin dapat meningkatkan kebugaran, fleksibilitas, kekuatan otot, dan bahkan kesehatan mental. Oleh karena itu, penting bagi kita untuk memahami berbagai jenis senam serta manfaatnya agar dapat memilih yang paling sesuai dengan kebutuhan dan kondisi tubuh kita. Dalam artikel ini, kita akan membahas 20 jenis senam beserta manfaatnya, serta mengapa penting untuk menjadikannya sebagai bagian dari gaya hidup sehari-hari.
 
@@ -95,7 +95,7 @@ Dengan menjadikan SKJ sebagai kebiasaan, tubuh akan lebih sehat dan bugar dalam 
 
 Senam memiliki banyak manfaat bagi kesehatan fisik dan mental. Dengan melakukan senam secara rutin, kita dapat meningkatkan kualitas hidup dan menjaga kesehatan tubuh. Pastikan Anda memilih jenis senam yang sesuai dengan kebutuhan dan kondisi fisik Anda!
 
-Selain itu, jika Anda sedang mencari inspirasi OOTD anak perempuan berhijab untuk menyambut liburan sekolah, kunjungi artikel ini: [OOTD Anak Perempuan Hijab untuk Menyambut Liburan Sekolah](https://asysyams.id/ootd-anak-perempuan-hijab-untuk-menyambut-liburan-sekolah/).
+Selain itu, jika Anda sedang mencari inspirasi OOTD anak perempuan berhijab untuk menyambut liburan sekolah, kunjungi artikel ini: [OOTD Anak Perempuan Hijab untuk Menyambut Liburan Sekolah](../ootd-anak-perempuan-hijab-untuk-menyambut-liburan-sekolah/).
 
 [
 WhatsApp Kami

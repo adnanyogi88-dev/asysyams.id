@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260314233634/https://asysyams.id/bag
 
 # Bagaimana Anak Belajar Disiplin di TK: Kunci Sukses Pendidikan Anak Usia Dini di TK AsySyams Bekasi
 
-[Home](https://asysyams.id/) » Bagaimana Anak Belajar Disiplin di TK: Kunci Sukses Pendidikan Anak Usia Dini di TK AsySyams Bekasi
+[Home](../) » Bagaimana Anak Belajar Disiplin di TK: Kunci Sukses Pendidikan Anak Usia Dini di TK AsySyams Bekasi
 
 ## Membentuk karakter anak sejak usia dini sangat penting. Salah satu karakter utama yang perlu kita tanamkan adalah disiplin.
 
 Namun, bagaimana anak belajar disiplin di TK secara efektif? Artikel ini akan mengupas tuntas strategi, metode, dan peran penting lembaga pendidikan seperti TK AsySyams Bekasi dalam membentuk karakter disiplin anak.
 
-![Pengertian Puasa Ramadhan untuk Anak TK](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_e65c4c34-768x1024.jpg)
+![Pengertian Puasa Ramadhan untuk Anak TK](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_e65c4c34-768x1024.jpg)
 
 ### Mengapa Disiplin Sangat Penting untuk Anak Usia Dini?
 
@@ -75,15 +75,15 @@ Lingkungan fisik sangat berpengaruh terhadap proses belajar anak. TK AsySyams Be
 
 Setiap fasilitas didesain agar anak merasa nyaman dan termotivasi untuk belajar.
 
-Untuk mengetahui lebih banyak tentang fasilitas di TK AsySyams, silakan baca artikel [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Untuk mengetahui lebih banyak tentang fasilitas di TK AsySyams, silakan baca artikel [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ### Cara Mendaftarkan Anak di TK AsySyams
 
 Tertarik untuk mendaftarkan anak Anda di TK AsySyams Bekasi? Proses pendaftarannya mudah. Anda bisa mengakses informasi lengkapnya di halaman berikut:
 
-- [Pendaftaran Anak di AsySyams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di AsySyams](../pendaftaran-anak-di-asy-syams/)
 
-- [Open Pendaftaran Siswa TK AsySyams ID Sudah Dibuka Yuk Daftar Sekarang!](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK AsySyams ID Sudah Dibuka Yuk Daftar Sekarang!](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 ### Kesimpulan: Disiplin adalah Bekal Masa Depan Anak
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260121220407/https://asysyams.id/pel
 
 # Peluang Usaha di Bidang Pendidikan Potensi Besar Usaha Franchise
 
-[Home](https://asysyams.id/) » Peluang Usaha di Bidang Pendidikan Potensi Besar Usaha Franchise
+[Home](../) » Peluang Usaha di Bidang Pendidikan Potensi Besar Usaha Franchise
 
 ## Pendidikan merupakan fondasi utama dalam pembangunan sumber daya manusia yang berkualitas.
 
-![adab murid terhadap guru](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_295030377_606228761123674_3383741588028383489_n_1080-1-1024x1024.jpg)
+![adab murid terhadap guru](../wp-content/uploads/2024/11/Snapinsta.app_295030377_606228761123674_3383741588028383489_n_1080-1-1024x1024.jpg)
 
 Di Indonesia, sektor pendidikan terus berkembang seiring dengan meningkatnya kesadaran masyarakat akan pentingnya pendidikan sejak usia dini. Hal ini membuka berbagai peluang usaha di bidang pendidikan yang menjanjikan, salah satunya melalui model bisnis waralaba atau franchise. Artikel ini akan membahas secara mendalam peluang usaha di bidang pendidikan, khususnya yang terkait dengan franchise pendidikan seperti Asy-Syams Islamic School, serta menghubungkannya dengan beberapa referensi terkait untuk memberikan pemahaman yang lebih komprehensif.
 
@@ -97,11 +97,11 @@ Untuk memulai usaha franchise di bidang pendidikan, berikut beberapa langkah yan
 
 Untuk lebih memahami potensi bisnis pendidikan, berikut beberapa referensi artikel terkait:
 
-- [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+- [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
-- [Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
+- [Franchise Taman Kanak-Kanak: Bisnis yang Sedang Ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)
 
-- [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+- [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
 ## Kesimpulan
 

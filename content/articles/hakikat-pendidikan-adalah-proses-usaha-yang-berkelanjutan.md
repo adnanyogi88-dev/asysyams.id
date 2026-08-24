@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314173813/https://asysyams.id/hak
 
 # Hakikat Pendidikan Adalah Proses Usaha yang Berkelanjutan
 
-[Home](https://asysyams.id/) » Hakikat Pendidikan Adalah Proses Usaha yang Berkelanjutan
+[Home](../) » Hakikat Pendidikan Adalah Proses Usaha yang Berkelanjutan
 
 ## Pada hakikatnya, pendidikan itu adalah proses usaha untuk membentuk individu agar memiliki pengetahuan, keterampilan, sikap, dan karakter
 
-![Usaha di Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_386316102_983477046069040_639025668963356571_n_1080-1024x768.jpg)
+![Usaha di Bidang Pendidikan](../wp-content/uploads/2024/11/Snapinsta.app_386316102_983477046069040_639025668963356571_n_1080-1024x768.jpg)
 
 Dapat mendukung kehidupan pribadi maupun sosial. Pendidikan mencakup berbagai aspek kehidupan, mulai dari nilai-nilai moral, keterampilan praktis, hingga kemampuan berpikir kritis yang sangat memerperlukan untuk menghadapi tantangan dunia modern. Proses ini tidak pernah berhenti, melainkan berlangsung sepanjang hayat, mulai dari masa kanak-kanak hingga dewasa.
 
@@ -39,7 +39,7 @@ Salah satu fenomena menarik dalam dunia pendidikan saat ini adalah tren usaha fr
 
 #### 1. Tren Franchise Pendidikan 2025
 
-Artikel “[Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/)” membahas bahwa peluang bisnis franchise di sektor pendidikan semakin berkembang pesat. Dengan meningkatnya kebutuhan masyarakat terhadap layanan pendidikan berkualitas, franchise menjadi solusi praktis untuk memenuhi kebutuhan tersebut. Misalnya, program pendidikan berbasis teknologi atau kursus keterampilan spesifik yang banyak diminati.
+Artikel “[Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/)” membahas bahwa peluang bisnis franchise di sektor pendidikan semakin berkembang pesat. Dengan meningkatnya kebutuhan masyarakat terhadap layanan pendidikan berkualitas, franchise menjadi solusi praktis untuk memenuhi kebutuhan tersebut. Misalnya, program pendidikan berbasis teknologi atau kursus keterampilan spesifik yang banyak diminati.
 
 Beberapa faktor yang mendorong tren ini antara lain:
 
@@ -51,7 +51,7 @@ Beberapa faktor yang mendorong tren ini antara lain:
 
 #### 2. Franchise Pendidikan TK Islami
 
-Dalam artikel “[Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/),” disebutkan bahwa franchise pendidikan Islami menjadi salah satu segmen yang berkembang pesat. Dengan pendekatan yang mengintegrasikan nilai-nilai agama dan kurikulum modern, model pendidikan ini menarik minat banyak orang tua yang ingin memberikan pendidikan berbasis nilai sejak dini kepada anak-anak mereka.
+Dalam artikel “[Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/),” disebutkan bahwa franchise pendidikan Islami menjadi salah satu segmen yang berkembang pesat. Dengan pendekatan yang mengintegrasikan nilai-nilai agama dan kurikulum modern, model pendidikan ini menarik minat banyak orang tua yang ingin memberikan pendidikan berbasis nilai sejak dini kepada anak-anak mereka.
 
 Keunggulan franchise ini meliputi:
 
@@ -63,7 +63,7 @@ Keunggulan franchise ini meliputi:
 
 #### 3. Legalitas dan Komersialisasi dalam Franchise Pendidikan
 
-Artikel “[Franchise Pendidikan: Legalitas, Optimalisasi, dan Komersialisasi](https://asysyams.id/franchise-pendidikan-legalitas-optimalisasi-dan-komersialisasi/)” menyoroti pentingnya aspek legalitas dan optimalisasi dalam menjalankan usaha franchise di bidang pendidikan. Beberapa poin penting yang dibahas antara lain:
+Artikel “[Franchise Pendidikan: Legalitas, Optimalisasi, dan Komersialisasi](../franchise-pendidikan-legalitas-optimalisasi-dan-komersialisasi/)” menyoroti pentingnya aspek legalitas dan optimalisasi dalam menjalankan usaha franchise di bidang pendidikan. Beberapa poin penting yang dibahas antara lain:
 
 - Legalitas Usaha: Franchise pendidikan harus memenuhi semua persyaratan hukum, termasuk izin operasional dan sertifikasi kualitas pendidikan.
 

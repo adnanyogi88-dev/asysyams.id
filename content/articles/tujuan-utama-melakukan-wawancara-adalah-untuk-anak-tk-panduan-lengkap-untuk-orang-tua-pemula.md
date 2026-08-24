@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008063113/https://asysyams.id/tuj
 
 # Tujuan Utama Melakukan Wawancara adalah untuk Anak TK: Panduan Lengkap untuk Orang Tua Pemula
 
-[Home](https://asysyams.id/) » Tujuan Utama Melakukan Wawancara adalah untuk Anak TK: Panduan Lengkap untuk Orang Tua Pemula
+[Home](../) » Tujuan Utama Melakukan Wawancara adalah untuk Anak TK: Panduan Lengkap untuk Orang Tua Pemula
 
 ## Pendahuluan
 
-![pendidikan agama islam dan budi pekerti](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1024x769.jpg)
+![pendidikan agama islam dan budi pekerti](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1024x769.jpg)
 
 Setiap orang tua tentu ingin memberikan pendidikan terbaik untuk anaknya sejak usia dini. Salah satu tahap penting yang sering dilalui sebelum anak masuk Taman Kanak-Kanak (TK) adalah wawancara. Bagi sebagian orang tua pemula, wawancara ini mungkin terasa menegangkan. Namun, sebenarnya proses tersebut dirancang bukan untuk menakut-nakuti anak, melainkan untuk memahami kesiapan mereka. Oleh karena itu, penting bagi orang tua untuk mengetahui bahwa tujuan utama melakukan wawancara adalah untuk anak TK agar proses belajar selanjutnya berjalan lancar.
 
@@ -91,7 +91,7 @@ Ajak anak berbicara setiap hari. Tanyakan hal-hal ringan seperti “Apa warna ke
 
 ### 2. Gunakan Cerita sebagai Media
 
-Cerita bisa membantu anak lebih mudah memahami. Anda bisa membacakan [kumpulan cerita Islami pendek](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) yang mengandung pesan moral sederhana. Cerita membuat anak belajar menyimak sekaligus menambah kosa kata.
+Cerita bisa membantu anak lebih mudah memahami. Anda bisa membacakan [kumpulan cerita Islami pendek](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) yang mengandung pesan moral sederhana. Cerita membuat anak belajar menyimak sekaligus menambah kosa kata.
 
 ### 3. Simulasi Wawancara Santai
 
@@ -120,7 +120,7 @@ Agar wawancara berjalan sukses, orang tua bisa mengikuti tips berikut:
 Anak akan lebih mudah berbicara jika suasana menyenangkan. Hindari membebani anak dengan terlalu banyak latihan mendadak.
 
 - Kenalkan Konsep Sekolah dan Pendidikan
-Ceritakan bahwa sekolah adalah tempat belajar sekaligus bermain. Orang tua juga bisa membaca artikel tentang [institusi pendidikan](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/) untuk memperluas wawasan.
+Ceritakan bahwa sekolah adalah tempat belajar sekaligus bermain. Orang tua juga bisa membaca artikel tentang [institusi pendidikan](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/) untuk memperluas wawasan.
 
 - Berikan Motivasi dengan Cerita Sehari-hari
 Gunakan pengalaman sederhana seperti bermain bersama atau berbagi makanan dengan teman untuk menumbuhkan rasa percaya diri.
@@ -129,7 +129,7 @@ Gunakan pengalaman sederhana seperti bermain bersama atau berbagi makanan dengan
 
 Setelah anak menjalani wawancara, orang tua tentu ingin memastikan sekolah yang dipilih sesuai kebutuhan. Oleh karena itu, penting memilih TK yang memberikan perhatian penuh pada proses ini.
 
-Sebagai contoh, beberapa [TK Islam yang bagus di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) telah menerapkan wawancara ramah anak. Guru mendampingi dengan sabar, suasana dibuat santai, dan orang tua dilibatkan dalam proses. Dengan begitu, anak merasa nyaman sejak awal.
+Sebagai contoh, beberapa [TK Islam yang bagus di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) telah menerapkan wawancara ramah anak. Guru mendampingi dengan sabar, suasana dibuat santai, dan orang tua dilibatkan dalam proses. Dengan begitu, anak merasa nyaman sejak awal.
 
 ## Kesimpulan
 

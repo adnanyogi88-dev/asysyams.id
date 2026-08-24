@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419135749/https://asysyams.id/kem
 
 # Kemitraan Pendidikan PAUD 2025: Menatap Masa Depan Cerah Bersama Asy-Syams
 
-[Home](https://asysyams.id/) » Kemitraan Pendidikan PAUD 2025: Menatap Masa Depan Cerah Bersama Asy-Syams
+[Home](../) » Kemitraan Pendidikan PAUD 2025: Menatap Masa Depan Cerah Bersama Asy-Syams
 
 ## Tanpa ragu, Pendidikan Anak Usia Dini (PAUD) menjadi fondasi utama dalam membentuk karakter serta potensi anak sejak usia dini.
 
-![Modul Ajar dan RPPH](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.20_4d826797-768x1024.jpg)
+![Modul Ajar dan RPPH](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.20_4d826797-768x1024.jpg)
 
 Oleh karena itu, setiap pemangku kepentingan perlu mengambil peran aktif dalam membangun sistem pendidikan PAUD yang kolaboratif, inklusif, dan adaptif. Menyongsong tahun 2025, penting bagi kita untuk mengevaluasi pendekatan pendidikan yang telah berjalan, sekaligus merancang strategi baru melalui kemitraan yang lebih strategis.
 
@@ -33,17 +33,17 @@ Sejak awal, Asy-Syams Islamic School telah menunjukkan komitmen tinggi terhadap 
 
 Melalui program kemitraan, Asy-Syams membuka kesempatan bagi individu maupun lembaga untuk bergabung dalam sistem pendidikan yang teruji. Selanjutnya, mereka mendapatkan pelatihan, panduan operasional, hingga dukungan manajemen dari pusat. Maka dari itu, siapa pun yang ingin berkontribusi dalam pendidikan dapat melakukannya dengan dukungan maksimal dari Asy-Syams.
 
-Lebih lanjut, Asy-Syams telah mengembangkan berbagai inisiatif seperti [Waralaba Daycare Berbasis Kemitraan: Peluang Bisnis dan Dukungan Tumbuh Kembang Anak](https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/), yang memperkuat posisi mereka sebagai pelopor dalam sistem kemitraan pendidikan anak usia dini.
+Lebih lanjut, Asy-Syams telah mengembangkan berbagai inisiatif seperti [Waralaba Daycare Berbasis Kemitraan: Peluang Bisnis dan Dukungan Tumbuh Kembang Anak](../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/), yang memperkuat posisi mereka sebagai pelopor dalam sistem kemitraan pendidikan anak usia dini.
 
 ### Program Franchise Pendidikan Usia Dini
 
 Di samping model kemitraan, Asy-Syams juga menawarkan program franchise pendidikan usia dini yang sangat menjanjikan. Oleh karena itu, banyak pelaku usaha pendidikan mulai mempertimbangkan opsi ini. Karena sistem franchise ini sudah terbukti dan terstruktur dengan baik, maka risiko bisnis dapat ditekan seminimal mungkin. Selain itu, mitra akan mendapat modul pembelajaran, pelatihan guru, serta standar kualitas yang seragam.
 
-Sebagai referensi, Anda dapat mempelajari lebih lanjut melalui artikel [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/). Artikel ini menjelaskan secara rinci berbagai manfaat serta potensi keuntungan dari bergabung dalam sistem franchise Asy-Syams.
+Sebagai referensi, Anda dapat mempelajari lebih lanjut melalui artikel [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/). Artikel ini menjelaskan secara rinci berbagai manfaat serta potensi keuntungan dari bergabung dalam sistem franchise Asy-Syams.
 
 ### Estimasi Biaya dan Keuntungan Ekonomi
 
-Berbicara tentang investasi di bidang pendidikan, tentu kita tidak bisa mengabaikan aspek finansial. Oleh karena itu, penting bagi calon mitra untuk memahami estimasi biaya yang dibutuhkan. Untungnya, Asy-Syams telah menyediakan panduan lengkap terkait hal ini dalam artikel [Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/).
+Berbicara tentang investasi di bidang pendidikan, tentu kita tidak bisa mengabaikan aspek finansial. Oleh karena itu, penting bagi calon mitra untuk memahami estimasi biaya yang dibutuhkan. Untungnya, Asy-Syams telah menyediakan panduan lengkap terkait hal ini dalam artikel [Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/).
 
 Dengan begitu, calon investor dapat merancang perencanaan bisnis secara lebih realistis. Selain itu, memahami potensi keuntungan juga membantu menumbuhkan keyakinan untuk mengambil langkah nyata dalam bidang ini. Karena sistem pendidikan adalah sektor jangka panjang, maka keuntungan yang diperoleh pun akan berkelanjutan.
 

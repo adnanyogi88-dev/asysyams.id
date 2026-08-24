@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216234838/https://asysyams.id/car
 
 # Cara Membantu Anak Introvert Agar Lebih Terbuka
 
-[Home](https://asysyams.id/) » Cara Membantu Anak Introvert Agar Lebih Terbuka
+[Home](../) » Cara Membantu Anak Introvert Agar Lebih Terbuka
 
 ## Setiap anak memiliki kepribadian yang unik, dan kepribadian ini dapat memengaruhi cara mereka berinteraksi dengan lingkungan sekitarnya.
 
-![anak introvert](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-09-22.05.45-A-calm-quiet-child-sitting-comfortably-in-a-cozy-room-reading-a-book.-The-room-is-warmly-lit-with-soft-light-surrounded-by-bookshelves-filled-with--300x300.webp)
+![anak introvert](../wp-content/uploads/2024/09/DALL·E-2024-09-09-22.05.45-A-calm-quiet-child-sitting-comfortably-in-a-cozy-room-reading-a-book.-The-room-is-warmly-lit-with-soft-light-surrounded-by-bookshelves-filled-with--300x300.webp)
 
 Salah satu tipe kepribadian yang cukup umum adalah introvert. Anak introvert cenderung menikmati waktu sendiri, lebih banyak memikirkan sebelum berbicara, dan merasa nyaman dalam kelompok kecil atau situasi yang lebih tenang. Namun, dalam masyarakat yang sering kali menekankan pentingnya keterbukaan, kemampuan bersosialisasi, dan ekstroversi, anak-anak introvert kadang-kadang dianggap kurang terbuka atau sulit mengekspresikan diri.
 
@@ -63,11 +63,11 @@ Tanyakan secara langsung, “Bagaimana perasaanmu setelah bermain dengan teman-t
 
 Baca juga:
 
-[Peluang Kemitraan Asy-Syams Islamic School](https://asysyams.id/gabung-franchise-sekolah-asy-syams/)
+[Peluang Kemitraan Asy-Syams Islamic School](../gabung-franchise-sekolah-asy-syams/)
 
-[Pendaftaran Anak Di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+[Pendaftaran Anak Di Asy-Syams](../pendaftaran-anak-di-asy-syams/)
 
-[Cara Mengetahui Bakat Anak Kita Sejak Dini](https://asysyams.id/cara-mengetahui-bakat-anak-kita-sejak-dini/)
+[Cara Mengetahui Bakat Anak Kita Sejak Dini](../cara-mengetahui-bakat-anak-kita-sejak-dini/)
 
  
 

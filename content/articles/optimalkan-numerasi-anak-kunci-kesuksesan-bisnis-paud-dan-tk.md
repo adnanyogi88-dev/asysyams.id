@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515074739/https://asysyams.id/opt
 
 # Optimalkan Numerasi Anak: Kunci Kesuksesan Bisnis PAUD dan TK
 
-[Home](https://asysyams.id/) » Optimalkan Numerasi Anak: Kunci Kesuksesan Bisnis PAUD dan TK
+[Home](../) » Optimalkan Numerasi Anak: Kunci Kesuksesan Bisnis PAUD dan TK
 
 ## Selain membuka wawasan pembaca, artikel ini membahas secara komprehensif tentang numerasi anak.
 
-![](https://asysyams.id/wp-content/uploads/2025/06/Screenshot_6-1.jpg)
+![](../wp-content/uploads/2025/06/Screenshot_6-1.jpg)
 
 Selanjutnya, pembahasan mengaitkan numerasi anak dengan kebutuhan bisnis di sektor pendidikan anak usia dini. Oleh karena itu, artikel ini cocok dibaca oleh pengelola PAUD, investor, dan pemangku kepentingan yang ingin memahami pentingnya kecakapan numerasi sejak dini.
 
@@ -77,19 +77,19 @@ Selanjutnya, kami menyajikan studi kasus praktik numerasi di Asysyams, PAUD dan 
 
 ### Pendaftaran PAUD Asysyams Tahun Ajaran 2024-2025
 
-Selain menawarkan kurikulum komprehensif, Asysyams membuka [pendaftaran PAUD Asysyams tahun ajaran 2024-2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) sejak awal semester genap. Kemudian, orang tua dapat melihat modul numerasi dan metode pengajaran inovatif yang dipakai.
+Selain menawarkan kurikulum komprehensif, Asysyams membuka [pendaftaran PAUD Asysyams tahun ajaran 2024-2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) sejak awal semester genap. Kemudian, orang tua dapat melihat modul numerasi dan metode pengajaran inovatif yang dipakai.
 
 Lebih lanjut, Asysyams memberikan paket program numerasi intensif selama enam bulan. Bahkan, siswa mendapatkan sertifikat kelulusan modul numerasi.
 
 ### Pendaftaran Siswa TK Asysyams
 
-Selain PAUD, Asysyams juga mengumumkan [open pendaftaran siswa TK Asysyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) untuk tahun ajaran berikutnya. Dengan demikian, calon siswa TK dapat mengikuti tes numerasi dasar sebagai bagian dari seleksi.
+Selain PAUD, Asysyams juga mengumumkan [open pendaftaran siswa TK Asysyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) untuk tahun ajaran berikutnya. Dengan demikian, calon siswa TK dapat mengikuti tes numerasi dasar sebagai bagian dari seleksi.
 
 Terlebih lagi, Asysyams memfasilitasi kelas numerasi menggunakan alat peraga berkualitas dan aplikasi edukasi berlisensi.
 
 ### Fasilitas TK Islam Terbaik di Bekasi
 
-Selain kualitas pedagogis, Asysyams dikenal sebagai [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Dengan demikian, lingkungan belajar numerasi anak dilengkapi sudut matematika, ruang bermain edukatif, dan perpustakaan tematik.
+Selain kualitas pedagogis, Asysyams dikenal sebagai [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Dengan demikian, lingkungan belajar numerasi anak dilengkapi sudut matematika, ruang bermain edukatif, dan perpustakaan tematik.
 
 Oleh sebab itu, Asysyams menjadi pilihan utama bagi orang tua yang mengutamakan numerasi anak sejak dini.
 

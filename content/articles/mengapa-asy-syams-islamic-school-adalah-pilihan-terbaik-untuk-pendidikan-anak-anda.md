@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260314174143/https://asysyams.id/men
 
 # Mengapa Asy-Syams Islamic School Adalah Pilihan Terbaik untuk Pendidikan Anak Anda
 
-[Home](https://asysyams.id/) » Mengapa Asy-Syams Islamic School Adalah Pilihan Terbaik untuk Pendidikan Anak Anda
+[Home](../) » Mengapa Asy-Syams Islamic School Adalah Pilihan Terbaik untuk Pendidikan Anak Anda
 
 ## Pendidikan anak usia dini merupakan fondasi penting dalam membentuk masa depan mereka.
 
@@ -59,11 +59,11 @@ Guru Profesional dan Berpengalaman: Staf pengajar di Asy-Syams terdiri dari guru
 
 Kegiatan Ekstrakurikuler: Selain pembelajaran akademis, Asy-Syams juga menyediakan berbagai kegiatan ekstrakurikuler yang terancang untuk mengembangkan minat dan bakat anak-anak. Ini termasuk kegiatan olahraga, seni, dan kegiatan-kegiatan lainnya yang mendorong kreativitas anak-anak.
 
-Untuk informasi lebih lanjut tentang layanan yang kami tawarkan, Anda dapat mengunjungi halaman layanan kami di sini: [Pelayanan Asy-Syams](https://asysyams.id/pelayanan-asy-syams/).
+Untuk informasi lebih lanjut tentang layanan yang kami tawarkan, Anda dapat mengunjungi halaman layanan kami di sini: [Pelayanan Asy-Syams](../pelayanan-asy-syams/).
 
 ## Panduan Pendaftaran di Asy-Syams Islamic School
 
-![open registry tk asysyams](https://asysyams.id/wp-content/uploads/2024/10/image-300x233.png)
+![open registry tk asysyams](../wp-content/uploads/2024/10/image-300x233.png)
 
 Kami membuka pendaftaran bagi anak-anak yang ingin bergabung dengan Asy-Syams Islamic School untuk tahun ajaran 2025-2026. Proses pendaftaran cukup mudah dan dapat anda lakukan melalui beberapa langkah sederhana.
 
@@ -97,13 +97,13 @@ Jadwal Kegiatan:
 
 - Jam sekolah dimulai dari pukul 07.30 hingga 11.45 (Jumat hingga pukul 11.00).
 
-Untuk informasi lebih lanjut mengenai pendaftaran, Anda bisa mengunjungi halaman pendaftaran di situs kami: [Pendaftaran Anak di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/).
+Untuk informasi lebih lanjut mengenai pendaftaran, Anda bisa mengunjungi halaman pendaftaran di situs kami: [Pendaftaran Anak di Asy-Syams](../pendaftaran-anak-di-asy-syams/).
 
 ## Kesimpulan
 
 Asy-Syams Islamic School adalah tempat yang ideal bagi orang tua yang menginginkan pendidikan yang menyeluruh bagi anak-anak mereka. Dengan pendekatan Total Development yang menggabungkan pendidikan Islami dan akademis, serta fasilitas dan layanan yang mendukung, kami yakin anak-anak Anda akan tumbuh menjadi individu yang cerdas, berkarakter, dan berbudi luhur.
 
-Bergabunglah bersama kami di Asy-Syams Islamic School, tempat di mana pendidikan Islami bertemu dengan perkembangan holistik anak-anak. Untuk mengetahui lebih lanjut tentang sekolah kami dan nilai-nilai yang kami pegang, kunjungi halaman [Tentang Asy-Syams](https://asysyams.id/tentang-asy-syams/).
+Bergabunglah bersama kami di Asy-Syams Islamic School, tempat di mana pendidikan Islami bertemu dengan perkembangan holistik anak-anak. Untuk mengetahui lebih lanjut tentang sekolah kami dan nilai-nilai yang kami pegang, kunjungi halaman [Tentang Asy-Syams](../tentang-asy-syams/).
 
 [
 WhatsApp Kami

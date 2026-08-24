@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260308034325/https://asysyams.id/huk
 
 # Hukum Tidak Menyekolahkan Anak dalam Islam: Tinjauan Lengkap, Aktif, dan Berdampak
 
-[Home](https://asysyams.id/) » Hukum Tidak Menyekolahkan Anak dalam Islam: Tinjauan Lengkap, Aktif, dan Berdampak
+[Home](../) » Hukum Tidak Menyekolahkan Anak dalam Islam: Tinjauan Lengkap, Aktif, dan Berdampak
 
 ## Dalam Islam, mendidik anak bukanlah pilihan. Itu adalah kewajiban yang Allah tetapkan bagi setiap orang tua.
 
-![9 Pilar Karakter Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_de9c0eea-80x80.jpg)
+![9 Pilar Karakter Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_de9c0eea-80x80.jpg)
 
 Tanpa kecuali. Pendidikan bukan hanya tentang matematika atau membaca. Ia mencakup iman, akhlak, dan ilmu kehidupan. Maka, ketika kita bicara soal tidak menyekolahkan anak, kita bicara soal tanggung jawab, amanah, dan pertanggungjawaban akhirat. Artikel ini akan mengupas tuntas hukum tidak menyekolahkan anak dalam Islam, terkait dengan nilai-nilai dalam surat Asy-Syams, serta menyajikan solusi konkret melalui peluang pendidikan usia dini yang Islami.
 
@@ -53,11 +53,11 @@ Sebaliknya, anak yang mendapatkan pendidikan yang baik, akan menjadi aset dunia 
 
 ### Solusi: Pendidikan Anak Usia Dini yang Islami dan Modern
 
-Bagi orang tua yang mencari solusi pendidikan terbaik, kini hadir berbagai pilihan yang menggabungkan nilai-nilai Islam dengan pendekatan pendidikan modern. Salah satunya adalah program waralaba daycare berbasis kemitraan yang tidak hanya memberikan tempat penitipan, tetapi juga pendidikan karakter dan agama sejak dini. [Baca selengkapnya di sini](https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/).
+Bagi orang tua yang mencari solusi pendidikan terbaik, kini hadir berbagai pilihan yang menggabungkan nilai-nilai Islam dengan pendekatan pendidikan modern. Salah satunya adalah program waralaba daycare berbasis kemitraan yang tidak hanya memberikan tempat penitipan, tetapi juga pendidikan karakter dan agama sejak dini. [Baca selengkapnya di sini](../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/).
 
-Selain itu, [franchise pendidikan usia dini](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/) juga menjadi peluang besar bagi masyarakat yang ingin berkontribusi dalam dunia pendidikan sekaligus membangun bisnis yang berkah.
+Selain itu, [franchise pendidikan usia dini](../franchise-pendidikan-usia-dini-yang-menjanjikan/) juga menjadi peluang besar bagi masyarakat yang ingin berkontribusi dalam dunia pendidikan sekaligus membangun bisnis yang berkah.
 
-Bagi yang tinggal di kota besar seperti Jakarta dan ingin mengetahui lebih lanjut tentang biaya penitipan anak, [artikel panduan lengkap ini](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/) dapat menjadi referensi.
+Bagi yang tinggal di kota besar seperti Jakarta dan ingin mengetahui lebih lanjut tentang biaya penitipan anak, [artikel panduan lengkap ini](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/) dapat menjadi referensi.
 
 ### Akhir Kata
 

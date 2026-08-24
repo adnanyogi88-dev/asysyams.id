@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20251008073834/https://asysyams.id/ber
 
 # Bermain Catur Dapat Meningkatkan Kecerdasan? Yuk Simak Berikut 7 Fakta Mengenai Permainan Catur
 
-[Home](https://asysyams.id/) » Bermain Catur Dapat Meningkatkan Kecerdasan? Yuk Simak Berikut 7 Fakta Mengenai Permainan Catur
+[Home](../) » Bermain Catur Dapat Meningkatkan Kecerdasan? Yuk Simak Berikut 7 Fakta Mengenai Permainan Catur
 
 ### Pendahuluan
 
@@ -56,13 +56,13 @@ Karena itu, orang tua perlu mempertimbangkan catur sebagai aktivitas bermanfaat 
 Secara keseluruhan, catur mempercepat perkembangan otak secara seimbang. Selain itu, manfaatnya mencakup aspek kognitif, emosional, sosial, dan etis. Dengan demikian, orang tua yang ingin anaknya siap masuk sekolah dasar bisa mempertimbangkan bimbingan catur sejak sebelum masuk TK maupun SD.
 
 Misalnya, Anda bisa mencari TK Islam yang bagus di Bekasi dengan fasilitas terbaik untuk anak Anda. Bacalah panduan kami mengenai pilihan TK terbaik di Bekasi di sini:
-? [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+? [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 Selain itu, jika Anda ingin mempertimbangkan model pendidikan lain, Anda dapat membaca tentang:
-? [5 franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+? [5 franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
 Apabila Anda ingin menentukan cara memilih taman kanak-kanak terdekat di Bekasi, silakan kunjungi panduan ini:
-? [Cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
+? [Cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
 
 ### Tips Praktis Memulai Catur untuk Anak
 

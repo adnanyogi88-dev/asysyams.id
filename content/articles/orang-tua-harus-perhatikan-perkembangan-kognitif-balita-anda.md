@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260121223230/https://asysyams.id/ora
 
 # Orang Tua Harus Perhatikan Perkembangan Kognitif Balita Anda
 
-[Home](https://asysyams.id/) » Orang Tua Harus Perhatikan Perkembangan Kognitif Balita Anda
+[Home](../) » Orang Tua Harus Perhatikan Perkembangan Kognitif Balita Anda
 
 ## Perkembangan kognitif pada balita merupakan proses penting yang melibatkan perkembangan kemampuan berpikir,
 
-![perkembangan kognitif anak](https://asysyams.id/wp-content/uploads/2024/08/DALL·E-2024-08-28-22.42.55-An-illustration-showing-various-scenes-of-parents-interacting-with-their-toddlers-to-support-cognitive-development.-The-image-should-depict-different--300x300.webp)
+![perkembangan kognitif anak](../wp-content/uploads/2024/08/DALL·E-2024-08-28-22.42.55-An-illustration-showing-various-scenes-of-parents-interacting-with-their-toddlers-to-support-cognitive-development.-The-image-should-depict-different--300x300.webp)
 
 Memahami, memecahkan masalah, dan mengingat Pada masa balita, otak anak berkembang dengan sangat cepat, sehingga periode ini menjadi krusial dalam membentuk dasar-dasar kemampuan intelektual yang akan mempengaruhi pembelajaran dan adaptasi anak di masa depan. Orang tua memiliki peran vital dalam mendukung dan mengawasi perkembangan ini, karena interaksi dan stimulasi yang diberikan pada anak dapat memberikan dampak yang signifikan terhadap pertumbuhan kognitif mereka.
 
@@ -59,11 +59,11 @@ Interaksi sosial memainkan peran penting dalam mengembangkan keterampilan kognit
 
 Baca juga:
 
-[Informasi Tumbuh Kembang Anak](https://asysyams.id/informasi-tumbuh-kembang-anak/)
+[Informasi Tumbuh Kembang Anak](../informasi-tumbuh-kembang-anak/)
 
-[Peluang Kemitraan Asy-Syams Islamic School](https://asysyams.id/gabung-franchise-sekolah-asy-syams/)
+[Peluang Kemitraan Asy-Syams Islamic School](../gabung-franchise-sekolah-asy-syams/)
 
-[Pelayanan Asy-Syams](https://asysyams.id/pelayanan-asy-syams/)
+[Pelayanan Asy-Syams](../pelayanan-asy-syams/)
 
 ###  
 

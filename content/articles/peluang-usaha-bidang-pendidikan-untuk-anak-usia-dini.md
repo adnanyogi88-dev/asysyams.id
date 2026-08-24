@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421040536/https://asysyams.id/pel
 
 # Peluang Usaha Bidang Pendidikan untuk Anak Usia Dini
 
-[Home](https://asysyams.id/) » Peluang Usaha Bidang Pendidikan untuk Anak Usia Dini
+[Home](../) » Peluang Usaha Bidang Pendidikan untuk Anak Usia Dini
 
 ## Di era modern seperti sekarang, usaha di bidang pendidikan semakin menjadi perhatian banyak orang,
 
-![franchise sekolah asyisyam](https://asysyams.id/wp-content/uploads/2024/09/Screenshot_12.png)
+![franchise sekolah asyisyam](../wp-content/uploads/2024/09/Screenshot_12.png)
 
 terutama dalam mendukung tumbuh kembang anak usia dini. Pendidikan di usia dini memiliki peranan yang sangat penting untuk membentuk dasar kepribadian, kemampuan kognitif, sosial, dan emosional anak. Oleh karena itu, usaha di bidang ini tidak hanya memberikan dampak positif secara sosial, tetapi juga memiliki potensi keuntungan ekonomi yang signifikan.
 
@@ -39,13 +39,13 @@ Pendidikan anak usia dini (PAUD) berfokus pada anak berusia 0-6 tahun, yang meru
 
 - Kelas Kreativitas Membuka kelas seni seperti melukis, menari, atau bermain musik juga menjadi peluang menarik. Kegiatan ini tidak hanya mengembangkan kreativitas anak, tetapi juga membantu mereka dalam mengasah kemampuan motorik halus.
 
-- Franchise Pendidikan Bagi yang ingin memulai usaha tanpa harus membangun brand dari awal, bisnis franchise pendidikan bisa menjadi solusi. Sebagaimana terjelaskan dalam artikel di [AsySyams.id](https://asysyams.id/potensi-bisnis-franchise-lembaga-pendidikan-di-indonesia/), franchise lembaga pendidikan di Indonesia memiliki potensi besar karena didukung oleh reputasi brand yang sudah terkenal.
+- Franchise Pendidikan Bagi yang ingin memulai usaha tanpa harus membangun brand dari awal, bisnis franchise pendidikan bisa menjadi solusi. Sebagaimana terjelaskan dalam artikel di [AsySyams.id](../potensi-bisnis-franchise-lembaga-pendidikan-di-indonesia/), franchise lembaga pendidikan di Indonesia memiliki potensi besar karena didukung oleh reputasi brand yang sudah terkenal.
 
 - Platform Pembelajaran Digital Dengan perkembangan teknologi, platform pembelajaran digital menjadi solusi modern untuk memberikan pendidikan kepada anak usia dini. Ini mencakup aplikasi interaktif, video pembelajaran, hingga kelas daring.
 
 #### Modal dan Strategi Memulai Usaha
 
-Memulai usaha di bidang pendidikan anak usia dini tidak harus selalu mahal. Sebagaimana terulas dalam artikel [AsySyams.id](https://asysyams.id/peluang-usaha-bidang-pendidikan-dengan-modal-kecil/), ada banyak cara untuk memulai usaha ini dengan modal kecil:
+Memulai usaha di bidang pendidikan anak usia dini tidak harus selalu mahal. Sebagaimana terulas dalam artikel [AsySyams.id](../peluang-usaha-bidang-pendidikan-dengan-modal-kecil/), ada banyak cara untuk memulai usaha ini dengan modal kecil:
 
 - Memanfaatkan Ruang di Rumah Anda bisa memulai dengan menggunakan ruang kosong di rumah sebagai tempat belajar. Hal ini dapat mengurangi biaya sewa tempat.
 
@@ -67,7 +67,7 @@ Meskipun menjanjikan, usaha ini juga memiliki tantangan, seperti:
 
 #### Tren Usaha Franchise di Bidang Pendidikan
 
-Dalam artikel [AsySyams.id](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/), disebutkan bahwa tren franchise di bidang pendidikan terprediksi akan terus meningkat pada tahun 2025. Beberapa faktor pendukungnya adalah:
+Dalam artikel [AsySyams.id](../tren-usaha-franchise-2025-di-bidang-pendidikan/), disebutkan bahwa tren franchise di bidang pendidikan terprediksi akan terus meningkat pada tahun 2025. Beberapa faktor pendukungnya adalah:
 
 - Reputasi Brand yang Kuat Usaha franchise biasanya memiliki brand yang sudah dikenal masyarakat, sehingga lebih mudah menarik konsumen.
 

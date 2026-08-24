@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260308041257/https://asysyams.id/con
 
 # Contoh Hidup Rukun di Sekolah: Fondasi Penting untuk Tumbuh Kembang Anak
 
-[Home](https://asysyams.id/) » Contoh Hidup Rukun di Sekolah: Fondasi Penting untuk Tumbuh Kembang Anak
+[Home](../) » Contoh Hidup Rukun di Sekolah: Fondasi Penting untuk Tumbuh Kembang Anak
 
 ## Membesarkan anak yang tidak hanya cerdas secara akademik, tetapi juga memiliki karakter kuat adalah dambaan setiap orang tua.
 
-![mengasuh Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
+![mengasuh Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
 
 Salah satu nilai karakter utama yang perlu anak tanamkan sejak dini adalah kemampuan hidup rukun di sekolah. Artikel ini akan membahas secara mendalam tentang contoh hidup rukun di sekolah, manfaatnya, serta bagaimana orang tua dapat berperan aktif mendukung anak dalam membangun lingkungan yang harmonis di dunia pendidikan.
 
@@ -59,7 +59,7 @@ Orang tua memiliki peran kunci dalam menanamkan nilai hidup rukun kepada anak. P
 
 - Mendukung Lingkungan Sekolah yang Positif: Pilih sekolah yang menanamkan nilai-nilai hidup rukun secara nyata.
 
-Jika Anda sedang mencari sekolah yang mampu mendukung nilai hidup rukun dan pengembangan karakter secara menyeluruh, pertimbangkanlah TK Islam dengan pendekatan holistik dan islami. Untuk panduan lengkap kapan mendaftarkan anak, Anda bisa membaca artikel kami tentang [pendaftaran TK bulan apa: panduan lengkap untuk orang tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
+Jika Anda sedang mencari sekolah yang mampu mendukung nilai hidup rukun dan pengembangan karakter secara menyeluruh, pertimbangkanlah TK Islam dengan pendekatan holistik dan islami. Untuk panduan lengkap kapan mendaftarkan anak, Anda bisa membaca artikel kami tentang [pendaftaran TK bulan apa: panduan lengkap untuk orang tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
 
 ### Manfaat Hidup Rukun Bagi Perkembangan Anak
 
@@ -85,13 +85,13 @@ Sekolah memiliki tanggung jawab besar dalam membentuk karakter anak. Karena itu,
 
 - Guru Sebagai Role Model: Guru yang penuh kasih sayang dan adil dalam memperlakukan siswa menjadi panutan yang kuat.
 
-Bila Anda tinggal di Bekasi dan mencari TK Islam dengan fasilitas terbaik serta fokus pada pengembangan karakter, silakan kunjungi artikel [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Bila Anda tinggal di Bekasi dan mencari TK Islam dengan fasilitas terbaik serta fokus pada pengembangan karakter, silakan kunjungi artikel [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ### Membiasakan Hidup Rukun Sejak PAUD
 
 Semakin dini anak terkenalkan pada nilai hidup rukun, semakin mudah mereka membentuk karakter yang kuat. PAUD adalah fase emas perkembangan anak, di mana mereka sangat mudah menyerap nilai dan perilaku yang diajarkan. Oleh karena itu, penting untuk memastikan bahwa lembaga PAUD yang dipilih juga memprioritaskan nilai hidup rukun.
 
-Namun, sebelum mendaftarkan anak ke PAUD, orang tua tentu ingin mengetahui kisaran biaya yang dibutuhkan. Untuk informasi lengkapnya, Anda dapat membaca artikel [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
+Namun, sebelum mendaftarkan anak ke PAUD, orang tua tentu ingin mengetahui kisaran biaya yang dibutuhkan. Untuk informasi lengkapnya, Anda dapat membaca artikel [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
 
 ### Kesimpulan
 

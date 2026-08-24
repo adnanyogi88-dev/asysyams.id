@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217003750/https://asysyams.id/car
 
 # Cara Menghargai Jasa Pahlawan di Lingkungan Sekolah: Panduan untuk Orang Tua yang Peduli Pendidikan Anak
 
-[Home](https://asysyams.id/) » Cara Menghargai Jasa Pahlawan di Lingkungan Sekolah: Panduan untuk Orang Tua yang Peduli Pendidikan Anak
+[Home](../) » Cara Menghargai Jasa Pahlawan di Lingkungan Sekolah: Panduan untuk Orang Tua yang Peduli Pendidikan Anak
 
 ## Sebagai orang tua, kita tentu ingin anak-anak tumbuh menjadi pribadi yang berkarakter kuat, menghormati nilai-nilai luhur bangsa, dan mencintai tanah airnya.
 
-![terimakasih guru puisi](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468316986_18151704847353668_8941624546163725719_n_1080-1024x683.jpg)
+![terimakasih guru puisi](../wp-content/uploads/2024/12/Snapinsta.app_468316986_18151704847353668_8941624546163725719_n_1080-1024x683.jpg)
 
 Salah satu fondasi utama pembentukan karakter ini adalah dengan menanamkan rasa hormat kepada para pahlawan bangsa sejak dini, terutama melalui lingkungan sekolah. Artikel ini akan membahas secara mendalam cara menghargai jasa pahlawan di lingkungan sekolah dan bagaimana peran orang tua sangat penting dalam proses ini.
 
@@ -89,11 +89,11 @@ Selain menanamkan nilai kepahlawanan, orang tua juga perlu memilih sekolah yang 
 
 Jika Anda sedang mencari sekolah yang mampu membentuk karakter dan akhlak anak sejak usia dini, berikut beberapa panduan yang bisa membantu:
 
-- [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 Dengan informasi di atas, Anda bisa mengambil keputusan yang lebih tepat untuk masa depan anak.
 

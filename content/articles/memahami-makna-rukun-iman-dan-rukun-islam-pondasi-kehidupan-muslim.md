@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314222853/https://asysyams.id/mem
 
 # Memahami Makna Rukun Iman dan Rukun Islam Pondasi Kehidupan Muslim
 
-[Home](https://asysyams.id/) » Memahami Makna Rukun Iman dan Rukun Islam Pondasi Kehidupan Muslim
+[Home](../) » Memahami Makna Rukun Iman dan Rukun Islam Pondasi Kehidupan Muslim
 
 ## Islam adalah agama yang dibangun di atas dua fondasi utama: Rukun Iman dan Rukun Islam.
 
-![Cara Memacu Tinggi Fisik Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468449514_18151706926353668_4004946162877868786_n_1080-1024x768.jpg)
+![Cara Memacu Tinggi Fisik Anak](../wp-content/uploads/2025/01/Snapinst.app_468449514_18151706926353668_4004946162877868786_n_1080-1024x768.jpg)
 
 Keduanya menjadi panduan hidup bagi setiap Muslim dalam menjalankan ibadah, membentuk karakter, dan memperkuat hubungan dengan Allah SWT serta sesama manusia. Pemahaman mendalam tentang kedua konsep ini tidak hanya penting bagi orang dewasa, tetapi juga perlu tertanamkan sejak usia dini. Pendidikan anak dalam lingkungan Islami, seperti yang tertawarkan oleh sekolah-sekolah prasekolah berkualitas di Bekasi, menjadi kunci pembentukan generasi yang berakidah kuat dan berakhlak mulia.
 
@@ -279,15 +279,15 @@ Rukun Iman dan Rukun Islam bukan hanya teori keagamaan, tetapi panduan praktis y
 
 ### C. Integrasi Rukun Iman dan Islam dalam Pendidikan Usia Dini
 
-Pembiasaan praktik Rukun Iman dan Islam sejak kecil akan membentuk karakter anak yang kuat secara spiritual. Lembaga pendidikan seperti [Rekomendasi Pre-School Islam Bekasi](https://asysyams.id/rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/) menggunakan metode berikut:
+Pembiasaan praktik Rukun Iman dan Islam sejak kecil akan membentuk karakter anak yang kuat secara spiritual. Lembaga pendidikan seperti [Rekomendasi Pre-School Islam Bekasi](../rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/) menggunakan metode berikut:
 
-- Pembiasaan Doa Harian: Mengajarkan doa sebelum makan, tidur, atau belajar, seperti yang tercantum dalam artikel [Doa Harian Anak Muslim](https://asysyams.id/doa-harian-anak-muslim-membangun-kebiasaan-baik-sejak-dini/).
+- Pembiasaan Doa Harian: Mengajarkan doa sebelum makan, tidur, atau belajar, seperti yang tercantum dalam artikel [Doa Harian Anak Muslim](../doa-harian-anak-muslim-membangun-kebiasaan-baik-sejak-dini/).
 
 - Kegiatan Amal: Mengadakan proyek sedekah bersama anak didik.
 
 - Kisah Teladan: Menceritakan kisah nabi dan sahabat dengan media interaktif.
 
-Sekolah seperti [Sekolah Anak Usia Dini di Harapan Indah Bekasi](https://asysyams.id/sekolah-anak-usia-dini-di-harapan-indah-bekasi-jaminan-keterima/) juga memastikan lingkungan sekolah mendukung praktik ibadah, seperti menyediakan musholla kecil dan waktu khusus untuk hafalan ayat pendek.
+Sekolah seperti [Sekolah Anak Usia Dini di Harapan Indah Bekasi](../sekolah-anak-usia-dini-di-harapan-indah-bekasi-jaminan-keterima/) juga memastikan lingkungan sekolah mendukung praktik ibadah, seperti menyediakan musholla kecil dan waktu khusus untuk hafalan ayat pendek.
 
 ### Kesimpulan
 
@@ -299,11 +299,11 @@ Rukun Iman dan Rukun Islam adalah pondasi yang harus dipahami dan diamalkan oleh
 
 Tautan Internal Terkait:
 
-- [Rekomendasi Pre-School Islam Bekasi untuk Pendidikan Anak Usia Dini](https://asysyams.id/rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
+- [Rekomendasi Pre-School Islam Bekasi untuk Pendidikan Anak Usia Dini](../rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
 
-- [Sekolah Anak Usia Dini di Harapan Indah Bekasi: Jaminan Keterima](https://asysyams.id/sekolah-anak-usia-dini-di-harapan-indah-bekasi-jaminan-keterima/)
+- [Sekolah Anak Usia Dini di Harapan Indah Bekasi: Jaminan Keterima](../sekolah-anak-usia-dini-di-harapan-indah-bekasi-jaminan-keterima/)
 
-- [Doa Harian Anak Muslim: Membangun Kebiasaan Baik Sejak Dini](https://asysyams.id/doa-harian-anak-muslim-membangun-kebiasaan-baik-sejak-dini/)
+- [Doa Harian Anak Muslim: Membangun Kebiasaan Baik Sejak Dini](../doa-harian-anak-muslim-membangun-kebiasaan-baik-sejak-dini/)
 
 Dengan memahami dan mengajarkan Rukun Iman serta Rukun Islam sejak dini, kita turut membentuk generasi Qurani yang siap menghadapi tantangan zaman dengan iman dan ilmu.
 

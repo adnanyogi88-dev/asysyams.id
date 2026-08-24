@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217002902/https://asysyams.id/adm
 
 # Administrasi Pendidikan Adalah: Konsep, Manfaat, dan Implementasi dalam Dunia Pendidikan
 
-[Home](https://asysyams.id/) » Administrasi Pendidikan Adalah: Konsep, Manfaat, dan Implementasi dalam Dunia Pendidikan
+[Home](../) » Administrasi Pendidikan Adalah: Konsep, Manfaat, dan Implementasi dalam Dunia Pendidikan
 
 ## Administrasi pendidikan adalah aspek fundamental dalam pengelolaan sistem pendidikan.
 
-![Administrasi Pendidikan Adalah](https://asysyams.id/wp-content/uploads/2025/02/DALL·E-2025-02-24-15.15.20-An-educational-administrator-in-an-office-organizing-documents-and-planning-curriculum.-The-office-is-well-lit-with-bookshelves-a-computer-and-educ.webp)
+![Administrasi Pendidikan Adalah](../wp-content/uploads/2025/02/DALL·E-2025-02-24-15.15.20-An-educational-administrator-in-an-office-organizing-documents-and-planning-curriculum.-The-office-is-well-lit-with-bookshelves-a-computer-and-educ.webp)
 
 Tanpa administrasi yang baik, sistem pendidikan tidak dapat berjalan secara efektif dan efisien. Administrasi pendidikan mencakup berbagai proses, mulai dari perencanaan, pengorganisasian, pelaksanaan, hingga evaluasi dalam dunia pendidikan.
 
@@ -69,15 +69,15 @@ Administrasi kesiswaan mencakup pendaftaran, pencatatan prestasi akademik, serta
 
 Salah satu bentuk implementasi administrasi pendidikan adalah dalam pengelolaan taman kanak-kanak. Taman kanak-kanak membutuhkan administrasi yang baik agar dapat beroperasi dengan lancar dan memberikan pendidikan terbaik bagi anak-anak.
 
-Sebagai contoh, bisnis taman kanak-kanak yang dikelola dengan administrasi pendidikan yang baik dapat berkembang pesat. Jika Anda tertarik mendalami peluang bisnis ini, Anda bisa membaca artikel berikut: [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/).
+Sebagai contoh, bisnis taman kanak-kanak yang dikelola dengan administrasi pendidikan yang baik dapat berkembang pesat. Jika Anda tertarik mendalami peluang bisnis ini, Anda bisa membaca artikel berikut: [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/).
 
 ## Peluang Bisnis Franchise dalam Administrasi Pendidikan
 
 Administrasi pendidikan juga berperan dalam bisnis franchise pendidikan. Franchise taman kanak-kanak semakin populer karena memiliki sistem administrasi yang terstruktur dan terbukti sukses. Salah satu keunggulan utama dari franchise pendidikan adalah adanya standar operasional yang sudah teruji, sehingga memudahkan pemilik dalam mengelola lembaga pendidikan.
 
-Jika Anda tertarik dengan peluang franchise pendidikan TK Islami, Anda bisa membaca artikel berikut: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+Jika Anda tertarik dengan peluang franchise pendidikan TK Islami, Anda bisa membaca artikel berikut: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
-Selain itu, franchise taman kanak-kanak juga menjadi bisnis yang sedang naik daun. Simak lebih lanjut dalam artikel berikut: [Franchise Taman Kanak-Kanak, Bisnis yang Sedang Ngehits](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/).
+Selain itu, franchise taman kanak-kanak juga menjadi bisnis yang sedang naik daun. Simak lebih lanjut dalam artikel berikut: [Franchise Taman Kanak-Kanak, Bisnis yang Sedang Ngehits](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/).
 
 ## Kesimpulan
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421042812/https://asysyams.id/per
 
 # Peralatan yang Wajib Ada di Sekolah: Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Peralatan yang Wajib Ada di Sekolah: Panduan Lengkap untuk Orang Tua
+[Home](../) » Peralatan yang Wajib Ada di Sekolah: Panduan Lengkap untuk Orang Tua
 
 ## Ketika anak siap memulai perjalanan pendidikan formal, peran orang tua sangat penting untuk memastikan segala sesuatunya berjalan lancar.
 
-![Aplikasi Belajar Interaktif untuk Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468662964_18151706962353668_7010289007371154847_n_1080-80x80.jpg)
+![Aplikasi Belajar Interaktif untuk Anak](../wp-content/uploads/2025/01/Snapinst.app_468662964_18151706962353668_7010289007371154847_n_1080-80x80.jpg)
 
 Salah satu aspek krusial yang tidak boleh diabaikan adalah ketersediaan peralatan sekolah. Peralatan ini bukan hanya sekadar barang, melainkan sarana penting yang menunjang proses belajar anak setiap hari. Maka dari itu, orang tua perlu memahami apa saja peralatan yang wajib ada di sekolah dan mengapa semuanya penting.
 
@@ -141,11 +141,11 @@ Peralatan yang lengkap tidak cukup jika lingkungan sekolah tidak mendukung. Maka
 
 Jika Anda sedang mencari sekolah TK Islam yang berkualitas di Bekasi, kami sarankan Anda membaca artikel berikut:
 
-- [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 ### Kesimpulan: Peran Aktif Orang Tua dalam Menyiapkan Peralatan Sekolah
 

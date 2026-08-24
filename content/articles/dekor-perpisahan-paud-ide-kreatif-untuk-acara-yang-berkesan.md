@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515083312/https://asysyams.id/dek
 
 # Dekor Perpisahan PAUD: Ide Kreatif untuk Acara yang Berkesan
 
-[Home](https://asysyams.id/) » Dekor Perpisahan PAUD: Ide Kreatif untuk Acara yang Berkesan
+[Home](../) » Dekor Perpisahan PAUD: Ide Kreatif untuk Acara yang Berkesan
 
 ## Perpisahan PAUD merupakan momen istimewa yang menandai akhir perjalanan pendidikan anak-anak di tingkat Pendidikan Anak Usia Dini.
 
-![Cara Menstimulasi Perkembangan Kognitif Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
+![Cara Menstimulasi Perkembangan Kognitif Anak](../wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
 
 Acara ini bukan hanya sekadar seremoni, tetapi juga kesempatan bagi anak-anak untuk merayakan pencapaian mereka bersama teman-teman dan guru. Salah satu elemen yang berperan besar dalam menciptakan suasana yang menyenangkan adalah dekorasi perpisahan PAUD.
 
@@ -77,19 +77,19 @@ Sediakan photobooth dengan berbagai properti menarik seperti topi wisuda mini, k
 
 Dekorasi tidak hanya berfungsi sebagai elemen estetika, tetapi juga dapat digunakan untuk menyampaikan nilai-nilai pendidikan agama Islam dan budi pekerti. Misalnya, bisa dibuat backdrop dengan kutipan ayat Al-Qur’an tentang pentingnya menuntut ilmu atau hiasan berbentuk masjid dan bintang sebagai simbol Islam.
 
-Baca lebih lanjut tentang pentingnya pendidikan agama Islam dan budi pekerti di sekolah di sini: [Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah](https://asysyams.id/pentingnya-pendidikan-agama-islam-dan-budi-pekerti-di-sekolah/)
+Baca lebih lanjut tentang pentingnya pendidikan agama Islam dan budi pekerti di sekolah di sini: [Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah](../pentingnya-pendidikan-agama-islam-dan-budi-pekerti-di-sekolah/)
 
 ### Peluang Waralaba dalam Dunia Pendidikan PAUD
 
 PAUD yang memiliki acara perpisahan yang menarik dengan dekorasi yang unik bisa menjadi daya tarik bagi calon orang tua murid. Konsep dekorasi yang profesional juga mencerminkan bagaimana PAUD tersebut dikelola dengan baik, yang bisa menjadi nilai tambah bagi investor atau pihak yang ingin membuka waralaba PAUD.
 
-Simak lebih lanjut tentang waralaba di bidang pendidikan yang bagus saat ini di sini: [Waralaba di Bidang Pendidikan yang Bagus Saat Ini](https://asysyams.id/waralaba-di-bidang-pendidikan-yang-bagus-saat-ini/)
+Simak lebih lanjut tentang waralaba di bidang pendidikan yang bagus saat ini di sini: [Waralaba di Bidang Pendidikan yang Bagus Saat Ini](../waralaba-di-bidang-pendidikan-yang-bagus-saat-ini/)
 
 ### Membangun Brand PAUD Melalui Acara Perpisahan yang Berkesan
 
 Salah satu cara membangun brand PAUD adalah dengan membuat acara perpisahan yang profesional, baik dari segi konsep maupun dekorasi. PAUD yang memiliki acara perpisahan dengan dekorasi unik akan lebih mudah dikenali dan diingat oleh orang tua murid. Selain itu, dokumentasi acara perpisahan bisa dijadikan konten promosi di media sosial dan website sekolah.
 
-Pelajari lebih lanjut cara membangun brand PAUD yang kuat dan profesional di sini: [Cara Membangun Brand PAUD yang Kuat dan Profesional](https://asysyams.id/cara-membangun-brand-paud-yang-kuat-dan-profesional/)
+Pelajari lebih lanjut cara membangun brand PAUD yang kuat dan profesional di sini: [Cara Membangun Brand PAUD yang Kuat dan Profesional](../cara-membangun-brand-paud-yang-kuat-dan-profesional/)
 
 ## Kesimpulan
 

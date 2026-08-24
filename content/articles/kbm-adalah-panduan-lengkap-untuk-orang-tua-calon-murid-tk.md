@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260515072638/https://asysyams.id/kbm
 
 # KBM Adalah: Panduan Lengkap untuk Orang Tua Calon Murid TK
 
-[Home](https://asysyams.id/) » KBM Adalah: Panduan Lengkap untuk Orang Tua Calon Murid TK
+[Home](../) » KBM Adalah: Panduan Lengkap untuk Orang Tua Calon Murid TK
 
 ## Pendahuluan ?
 
@@ -97,7 +97,7 @@ Dengan menemukan bahwa KBM adalah pusat aktivitas belajar, Anda perlu melihat TK
 
 - Fasilitas lengkap yang mendukung KBM interaktif
 
-Selanjutnya, agar Anda mengenal TK Islam berstandar tinggi di Bekasi, lihat tautan berikut ini: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Selanjutnya, agar Anda mengenal TK Islam berstandar tinggi di Bekasi, lihat tautan berikut ini: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ## 5. Panduan Memilih TK Berdasarkan Kualitas KBM
 
@@ -125,7 +125,7 @@ Lingkungan harus membangun karakter Islami, kebersihan, serta mendukung keterlib
 
 ### 5.6 Perhatikan Jarak Lokasi
 
-Dengan memperhatikan jarak TK dekat rumah, Anda memudahkan proses antar?jemput dan memastikan anak merasa nyaman. Artikel [cara memilih taman kanak?kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) bisa membantu Anda dalam memilih lokasi yang pas.
+Dengan memperhatikan jarak TK dekat rumah, Anda memudahkan proses antar?jemput dan memastikan anak merasa nyaman. Artikel [cara memilih taman kanak?kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/) bisa membantu Anda dalam memilih lokasi yang pas.
 
 ## 6. Peran Orang Tua Mendukung KBM
 
@@ -145,7 +145,7 @@ Dengan begitu, KBM adalah penghubung kuat antara sekolah dan rumah, sehingga ked
 
 ## 7. Rekomendasi TK dan Franchise Pendidikan di Indonesia
 
-Selain memilih berdasarkan kualitas KBM, Anda juga mungkin mempertimbangkan memilih TK dari franchise pendidikan terpercaya. Misalnya, beberapa waralaba lokal memberikan standarisasi kurikulum, pelatihan guru, serta fasilitas pendukung KBM. Untuk mengetahui daftar beberapa franchise lokal dalam pendidikan, silakan cek: [5 franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/). Dengan begitu, Anda bisa mempertimbangkan apakah franchise tersebut menerapkan KBM yang sesuai dengan kebutuhan anak.
+Selain memilih berdasarkan kualitas KBM, Anda juga mungkin mempertimbangkan memilih TK dari franchise pendidikan terpercaya. Misalnya, beberapa waralaba lokal memberikan standarisasi kurikulum, pelatihan guru, serta fasilitas pendukung KBM. Untuk mengetahui daftar beberapa franchise lokal dalam pendidikan, silakan cek: [5 franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/). Dengan begitu, Anda bisa mempertimbangkan apakah franchise tersebut menerapkan KBM yang sesuai dengan kebutuhan anak.
 
 ## 8. Studi Kasus: TK Islam Terbaik di Bekasi
 

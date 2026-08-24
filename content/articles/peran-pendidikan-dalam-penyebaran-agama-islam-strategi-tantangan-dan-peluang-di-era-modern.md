@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419150929/https://asysyams.id/per
 
 # Peran Pendidikan dalam Penyebaran Agama Islam: Strategi, Tantangan, dan Peluang di Era Modern
 
-[Home](https://asysyams.id/) » Peran Pendidikan dalam Penyebaran Agama Islam: Strategi, Tantangan, dan Peluang di Era Modern
+[Home](../) » Peran Pendidikan dalam Penyebaran Agama Islam: Strategi, Tantangan, dan Peluang di Era Modern
 
 ## Penyebaran agama Islam di Nusantara tidak hanya melalui jalur perdagangan dan dakwah,
 
-![Edukasi Anak Islami](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_457040692_18141624265353668_293612636027458384_n_1080-1024x768.jpg)
+![Edukasi Anak Islami](../wp-content/uploads/2024/11/Snapinsta.app_457040692_18141624265353668_293612636027458384_n_1080-1024x768.jpg)
 
 Tetapi juga melalui pendidikan yang memainkan peran krusial dalam proses Islamisasi. Pendidikan Islam telah menjadi sarana efektif dalam menanamkan nilai-nilai agama dan membentuk karakter masyarakat sejak dini. Artikel ini akan membahas secara komprehensif bagaimana pendidikan digunakan sebagai alat untuk menyebarkan Islam, peran pesantren, madrasah, dan institusi pendidikan lainnya, serta pentingnya pendidikan berbasis nilai Islami dalam konteks modern.?
 

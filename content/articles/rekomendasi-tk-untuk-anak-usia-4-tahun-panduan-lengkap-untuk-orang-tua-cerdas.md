@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314174327/https://asysyams.id/rek
 
 # Rekomendasi TK untuk Anak Usia 4 Tahun: Panduan Lengkap untuk Orang Tua Cerdas
 
-[Home](https://asysyams.id/) » Rekomendasi TK untuk Anak Usia 4 Tahun: Panduan Lengkap untuk Orang Tua Cerdas
+[Home](../) » Rekomendasi TK untuk Anak Usia 4 Tahun: Panduan Lengkap untuk Orang Tua Cerdas
 
 ## Memilih taman kanak-kanak (TK) terbaik untuk anak usia 4 tahun merupakan keputusan besar.
 
-![Buku Perkembangan Fisik Motorik Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
+![Buku Perkembangan Fisik Motorik Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
 
 Mengapa? Karena masa usia dini adalah masa keemasan perkembangan anak. Oleh karena itu, orang tua harus cermat, teliti, dan penuh pertimbangan. TK yang tepat mampu membentuk karakter anak, membangun fondasi pendidikan, serta menumbuhkan rasa percaya diri sejak dini.
 
@@ -31,7 +31,7 @@ Untuk memilih TK yang tepat untuk anak umur 4 tahun, ada beberapa hal yang harus
 
 Di Bekasi, salah satu pilihan terbaik adalah TK AsySyams. TK ini menawarkan pendidikan Islam yang menyenangkan dan berkualitas. Mengapa TK AsySyams begitu direkomendasikan? Karena mereka memadukan kurikulum nasional dengan nilai-nilai Islam. Selain itu, mereka memiliki guru yang profesional dan penuh dedikasi. Tidak hanya itu, fasilitas yang mereka tawarkan pun lengkap dan modern.
 
-Sebagai contoh, Anda bisa melihat artikel lengkap tentang [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) untuk mengetahui lebih lanjut.
+Sebagai contoh, Anda bisa melihat artikel lengkap tentang [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) untuk mengetahui lebih lanjut.
 
 ### Keunggulan TK AsySyams Dibandingkan TK Lain
 
@@ -61,7 +61,7 @@ Semua program tersebut dirancang untuk menstimulasi aspek kognitif, sosial, emos
 
 ### Bagaimana Cara Mendaftar di TK AsySyams?
 
-Proses pendaftaran di TK AsySyams sangat mudah. Anda cukup mengunjungi halaman [pendaftaran anak di Asy Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/) untuk melihat persyaratan lengkap. Selain itu, mereka juga menyediakan sistem online yang memudahkan orang tua mendaftarkan anak dari rumah. Tak hanya itu, informasi lengkap mengenai [open pendaftaran siswa TK AsySyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) juga bisa Anda baca langsung.
+Proses pendaftaran di TK AsySyams sangat mudah. Anda cukup mengunjungi halaman [pendaftaran anak di Asy Syams](../pendaftaran-anak-di-asy-syams/) untuk melihat persyaratan lengkap. Selain itu, mereka juga menyediakan sistem online yang memudahkan orang tua mendaftarkan anak dari rumah. Tak hanya itu, informasi lengkap mengenai [open pendaftaran siswa TK AsySyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) juga bisa Anda baca langsung.
 
 ### Tips Memilih TK yang Ideal untuk Anak Usia 4 Tahun
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611134106/https://asysyams.id/apa
 
 # Apa Itu Modul Ajar dan RPPH untuk Pendidikan Usia Dini: Panduan Lengkap untuk Pendidik dan Orang Tua
 
-[Home](https://asysyams.id/) » Apa Itu Modul Ajar dan RPPH untuk Pendidikan Usia Dini: Panduan Lengkap untuk Pendidik dan Orang Tua
+[Home](../) » Apa Itu Modul Ajar dan RPPH untuk Pendidikan Usia Dini: Panduan Lengkap untuk Pendidik dan Orang Tua
 
 ## Pendidikan usia dini menjadi fondasi penting dalam proses tumbuh kembang anak.
 
-![Modul Ajar dan RPPH](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.20_4d826797-768x1024.jpg)
+![Modul Ajar dan RPPH](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.20_4d826797-768x1024.jpg)
 
 Dalam menjalankan proses pembelajaran yang terarah, dua komponen utama yang tidak bisa terpisahkan adalah Modul Ajar dan RPPH (Rencana Pelaksanaan Pembelajaran Harian). Artikel ini akan membahas secara komprehensif apa itu Modul Ajar dan RPPH, peran keduanya dalam pendidikan anak usia dini, serta bagaimana penggunaannya bisa meningkatkan kualitas pembelajaran di PAUD atau TK.
 
@@ -39,7 +39,7 @@ Modul Ajar mencakup beberapa komponen penting, antara lain:
 
 Modul Ajar dapat anda sesuaikan dengan karakteristik anak dan konteks lingkungan belajar. Misalnya, untuk PAUD Islam, nilai-nilai keislaman dapat terintegrasikan dalam setiap sesi kegiatan pembelajaran agar sesuai dengan visi lembaga.
 
-Baca juga: [Rekomendasi PAUD Islam di Harapan Indah Bekasi](https://asysyams.id/rekomendasi-paud-islam-di-harapan-indah-bekasi/)
+Baca juga: [Rekomendasi PAUD Islam di Harapan Indah Bekasi](../rekomendasi-paud-islam-di-harapan-indah-bekasi/)
 
 ### 2. Apa Itu RPPH (Rencana Pelaksanaan Pembelajaran Harian)?
 
@@ -91,7 +91,7 @@ Beberapa prinsip penting yang harus diperhatikan:
 
 - Menanamkan nilai karakter dan agama: Apalagi dalam konteks pendidikan Islam.
 
-Simak juga: [Kumpulan Kata Bijak untuk Mendidik Anak: Panduan Membangun Karakter Sejak Dini](https://asysyams.id/kumpulan-kata-bijak-untuk-mendidik-anak-panduan-membangun-karakter-sejak-dini/)
+Simak juga: [Kumpulan Kata Bijak untuk Mendidik Anak: Panduan Membangun Karakter Sejak Dini](../kumpulan-kata-bijak-untuk-mendidik-anak-panduan-membangun-karakter-sejak-dini/)
 
 ### 6. Contoh Modul Ajar dan RPPH untuk Anak Usia Dini
 
@@ -147,7 +147,7 @@ Namun tantangan ini bisa diatasi dengan pelatihan berkelanjutan dan berbagi prak
 
 Dalam Kurikulum Merdeka, penyusunan Modul Ajar lebih fleksibel. Guru memiliki ruang kreatif untuk mengembangkan materi yang sesuai dengan kondisi lokal dan nilai yang dianut, termasuk integrasi nilai-nilai Islami dan budaya.
 
-Baca: [Peran Pendidikan dalam Penyebaran Agama Islam: Strategi, Tantangan, dan Peluang di Era Modern](https://asysyams.id/peran-pendidikan-dalam-penyebaran-agama-islam-strategi-tantangan-dan-peluang-di-era-modern/)
+Baca: [Peran Pendidikan dalam Penyebaran Agama Islam: Strategi, Tantangan, dan Peluang di Era Modern](../peran-pendidikan-dalam-penyebaran-agama-islam-strategi-tantangan-dan-peluang-di-era-modern/)
 
 ### 9. Peran Orang Tua dalam Mendukung Modul Ajar dan RPPH
 

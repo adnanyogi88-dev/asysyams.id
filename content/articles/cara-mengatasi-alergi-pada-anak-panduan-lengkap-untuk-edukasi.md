@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421035432/https://asysyams.id/car
 
 # Cara Mengatasi Alergi pada Anak Panduan Lengkap untuk Edukasi
 
-[Home](https://asysyams.id/) » Cara Mengatasi Alergi pada Anak Panduan Lengkap untuk Edukasi
+[Home](../) » Cara Mengatasi Alergi pada Anak Panduan Lengkap untuk Edukasi
 
 ## Alergi pada anak telah menjadi salah satu tantangan kesehatan yang terus meningkat di masyarakat modern.
 
-![Pentingnya Pendidikan bagi Generasi Muda](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_6b532fa1-1024x1024.jpg)
+![Pentingnya Pendidikan bagi Generasi Muda](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_6b532fa1-1024x1024.jpg)
 
 Oleh karena itu, penting bagi para pelaku di bidang kesehatan, khususnya bidan, untuk memahami seluk-beluk alergi ini secara menyeluruh. Tidak hanya itu, edukasi tentang alergi juga membuka peluang bisnis edukatif yang dapat berkembang pesat, terlebih jika dikaitkan dengan segmentasi pasar pendidikan dan keluarga muda.
 

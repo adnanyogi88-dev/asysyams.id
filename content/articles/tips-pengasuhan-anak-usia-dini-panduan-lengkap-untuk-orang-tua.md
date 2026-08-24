@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515080511/https://asysyams.id/tip
 
 # Tips Pengasuhan Anak Usia Dini: Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Tips Pengasuhan Anak Usia Dini: Panduan Lengkap untuk Orang Tua
+[Home](../) » Tips Pengasuhan Anak Usia Dini: Panduan Lengkap untuk Orang Tua
 
 ## Mengasuh anak usia dini adalah tantangan sekaligus anugerah bagi setiap orang tua.
 
-![mengasuh Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
+![mengasuh Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_6466a36b-80x80.jpg)
 
 Pada masa ini, anak mengalami perkembangan pesat baik dari segi fisik, emosional, sosial, maupun intelektual. Oleh karena itu, penting bagi orang tua untuk memahami bagaimana cara mengasuh anak dengan benar agar mereka tumbuh menjadi individu yang mandiri, cerdas, dan berakhlak mulia.
 
@@ -33,7 +33,7 @@ Anak usia dini mengalami perkembangan yang sangat cepat, baik dari segi kognitif
 
 ## 2. Menerapkan Pola Asuh Islami
 
-Dalam Islam, pengasuhan anak memiliki nilai spiritual yang mendalam. Anak kita anggap sebagai amanah dari Allah yang harus orang tua bimbing dengan penuh kasih sayang. Salah satu konsep penting dalam pengasuhan Islami adalah barakah (keberkahan) dalam mendidik anak. Untuk memahami lebih lanjut tentang konsep keberkahan dalam parenting Islami, Anda bisa membaca artikel berikut: [Blessed Artinya dalam Islam dan Kaitannya dengan Parenting Islami](https://asysyams.id/blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/).
+Dalam Islam, pengasuhan anak memiliki nilai spiritual yang mendalam. Anak kita anggap sebagai amanah dari Allah yang harus orang tua bimbing dengan penuh kasih sayang. Salah satu konsep penting dalam pengasuhan Islami adalah barakah (keberkahan) dalam mendidik anak. Untuk memahami lebih lanjut tentang konsep keberkahan dalam parenting Islami, Anda bisa membaca artikel berikut: [Blessed Artinya dalam Islam dan Kaitannya dengan Parenting Islami](../blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/).
 
 ## 3. Mengajarkan Nilai-Nilai Moral dan Agama Sejak Dini
 
@@ -59,11 +59,11 @@ Agar anak tumbuh dengan optimal, mereka membutuhkan stimulasi yang sesuai dengan
 
 ## 5. Memilih Pendidikan Anak yang Tepat
 
-Banyak orang tua mulai mempertimbangkan pendidikan formal sejak usia dini, seperti playgroup atau daycare. Jika Anda tertarik untuk mendirikan usaha di bidang pendidikan anak usia dini, Anda bisa membaca panduan berikut: [Biaya Mendirikan Usaha Playgroup di Jakarta](https://asysyams.id/biaya-mendirikan-usaha-playgroup-di-jakarta/).
+Banyak orang tua mulai mempertimbangkan pendidikan formal sejak usia dini, seperti playgroup atau daycare. Jika Anda tertarik untuk mendirikan usaha di bidang pendidikan anak usia dini, Anda bisa membaca panduan berikut: [Biaya Mendirikan Usaha Playgroup di Jakarta](../biaya-mendirikan-usaha-playgroup-di-jakarta/).
 
 ## 6. Menyeimbangkan Waktu Antara Keluarga dan Karier
 
-Banyak orang tua bekerja dan menghadapi tantangan dalam mengatur waktu dengan anak. Salah satu solusi yang bisa dipertimbangkan adalah menitipkan anak di tempat penitipan anak yang berkualitas. Untuk mengetahui estimasi biayanya, silakan baca artikel berikut: [Estimasi Biaya Penitipan Anak di Jakarta](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/).
+Banyak orang tua bekerja dan menghadapi tantangan dalam mengatur waktu dengan anak. Salah satu solusi yang bisa dipertimbangkan adalah menitipkan anak di tempat penitipan anak yang berkualitas. Untuk mengetahui estimasi biayanya, silakan baca artikel berikut: [Estimasi Biaya Penitipan Anak di Jakarta](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/).
 
 ## 7. Mengelola Emosi dan Kesabaran dalam Mengasuh Anak
 

@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260314224915/https://asysyams.id/fra
 
 # Franchise Daging: Peluang Bisnis Menguntungkan di Era Kekinian
 
-[Home](https://asysyams.id/) » Franchise Daging: Peluang Bisnis Menguntungkan di Era Kekinian
+[Home](../) » Franchise Daging: Peluang Bisnis Menguntungkan di Era Kekinian
 
 ## Dalam beberapa tahun terakhir, franchise daging telah menjadi salah satu peluang bisnis yang semakin menarik perhatian para pengusaha.
 

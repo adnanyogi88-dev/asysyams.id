@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314225035/https://asysyams.id/nam
 
 # Nama Anak Perempuan dalam Islam: Inspirasi untuk Orang Tua
 
-[Home](https://asysyams.id/) » Nama Anak Perempuan dalam Islam: Inspirasi untuk Orang Tua
+[Home](../) » Nama Anak Perempuan dalam Islam: Inspirasi untuk Orang Tua
 
 ## Islam mengajarkan umatnya untuk memberikan nama yang baik kepada anak-anak, termasuk anak perempuan.
 
-![Nama Anak Perempuan dalam Islam](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_447819442_18133018825353668_4331571284613163541_n_1080-80x80.jpg)
+![Nama Anak Perempuan dalam Islam](../wp-content/uploads/2024/11/Snapinsta.app_447819442_18133018825353668_4331571284613163541_n_1080-80x80.jpg)
 
 Nama adalah doa, identitas, dan cerminan dari harapan orang tua terhadap buah hati mereka. Dalam tradisi Islam, memilih nama yang bermakna baik untuk anak perempuan adalah bagian dari menjalankan sunnah Nabi Muhammad SAW. Artikel ini akan mengupas nama-nama anak perempuan Islami, maknanya, dan bagaimana pendidikan di TK Islam AsySyams dapat memperkuat nilai-nilai tersebut.
 
@@ -55,7 +55,7 @@ Berarti “kebahagiaan” atau “anugerah.” Nama ini mengandung doa agar anak
 
 Nama yang baik harus kita iringi dengan pendidikan yang tepat untuk membentuk karakter anak. TK Islam AsySyams memberikan perhatian khusus pada pendidikan karakter sejak dini. Pendidikan di usia dini sangat penting karena masa ini adalah waktu anak mulai membentuk pola pikir dan perilaku.
 
-Sebagaimana terjelaskan dalam artikel [Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat](https://asysyams.id/usia-dini-itu-umur-berapa-mengenal-lebih-dekat/), usia dini adalah periode emas dalam perkembangan anak. Di TK Islam AsySyams, anak-anak kami ajarkan untuk mengenal nilai-nilai Islami melalui pendekatan yang ramah anak dan penuh kasih sayang.
+Sebagaimana terjelaskan dalam artikel [Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat](../usia-dini-itu-umur-berapa-mengenal-lebih-dekat/), usia dini adalah periode emas dalam perkembangan anak. Di TK Islam AsySyams, anak-anak kami ajarkan untuk mengenal nilai-nilai Islami melalui pendekatan yang ramah anak dan penuh kasih sayang.
 
 ### Menghubungkan Nama dengan Pendidikan di TK Islam AsySyams
 
@@ -72,13 +72,13 @@ Dengan pendekatan Islami, TK Islam AsySyams mengajarkan pentingnya ibadah dan ke
 
 ### Mendukung Perkembangan Fisik dan Mental Anak Perempuan
 
-Selain pendidikan karakter, perhatian pada perkembangan fisik anak perempuan juga penting. Artikel [Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/) memberikan informasi penting bagi orang tua mengenai pertumbuhan fisik anak.
+Selain pendidikan karakter, perhatian pada perkembangan fisik anak perempuan juga penting. Artikel [Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/) memberikan informasi penting bagi orang tua mengenai pertumbuhan fisik anak.
 
 TK Islam AsySyams mendukung perkembangan fisik anak melalui berbagai kegiatan yang mendorong gerak aktif, seperti olahraga ringan, permainan edukatif, dan senam. Hal ini membantu anak mencapai potensi fisiknya secara optimal.
 
 ### Mengasah Kreativitas Anak di TK Islam AsySyams
 
-Selain membentuk karakter, TK Islam AsySyams juga memberikan perhatian pada pengembangan kreativitas anak. Salah satu caranya adalah melalui kegiatan seni dan bercerita. Artikel [Mengarang Cerita Liburan Sekolah untuk Anak SD](https://asysyams.id/tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/) memberikan inspirasi bagaimana kegiatan bercerita dapat meningkatkan imajinasi anak.
+Selain membentuk karakter, TK Islam AsySyams juga memberikan perhatian pada pengembangan kreativitas anak. Salah satu caranya adalah melalui kegiatan seni dan bercerita. Artikel [Mengarang Cerita Liburan Sekolah untuk Anak SD](../tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/) memberikan inspirasi bagaimana kegiatan bercerita dapat meningkatkan imajinasi anak.
 
 Di TK ini, anak diajarkan untuk mengekspresikan diri melalui seni dan bercerita. Kegiatan ini tidak hanya mengasah kreativitas, tetapi juga melatih kemampuan berkomunikasi.
 
@@ -90,11 +90,11 @@ TK Islam AsySyams hadir untuk mendukung orang tua dalam memberikan pendidikan ka
 
 Untuk informasi lebih lanjut tentang pendidikan di usia dini, kreativitas anak, dan perkembangan fisik, kunjungi artikel-artikel berikut:
 
-- [Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat](https://asysyams.id/usia-dini-itu-umur-berapa-mengenal-lebih-dekat/)
+- [Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat](../usia-dini-itu-umur-berapa-mengenal-lebih-dekat/)
 
-- [Mengarang Cerita Liburan Sekolah untuk Anak SD](https://asysyams.id/tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/)
+- [Mengarang Cerita Liburan Sekolah untuk Anak SD](../tag/mengarang-cerita-liburan-sekolah-untuk-anak-sd/)
 
-- [Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](https://asysyams.id/tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
+- [Tinggi Ideal Anak Perempuan: Panduan Lengkap untuk Orang Tua](../tinggi-ideal-anak-perempuan-panduan-lengkap-untuk-orang-tua/)
 
 Dengan memilih nama yang baik dan memberikan pendidikan berkualitas seperti di TK Islam AsySyams, orang tua telah meletakkan fondasi kuat bagi masa depan anak-anak mereka.
 

@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260118013011/https://asysyams.id/sej
 
 # Sejarah Berdirinya Sekolah Islam Terpadu
 
-[Home](https://asysyams.id/) » Sejarah Berdirinya Sekolah Islam Terpadu
+[Home](../) » Sejarah Berdirinya Sekolah Islam Terpadu
 
 ## Pendidikan adalah fondasi penting dalam membentuk karakter, pengetahuan, dan keterampilan generasi muda.
 
-![manasik haji acara tk](https://asysyams.id/wp-content/uploads/2024/08/89688640bb2f0c70e300a5ff627ae63f7983bfdc17559814bd8f5cea0fc19286-300x200.jpg)
+![manasik haji acara tk](../wp-content/uploads/2024/08/89688640bb2f0c70e300a5ff627ae63f7983bfdc17559814bd8f5cea0fc19286-300x200.jpg)
 
-Sekolah Islam terpadu hadir sebagai solusi bagi orang tua yang ingin memberikan pendidikan yang seimbang antara nilai-nilai keislaman dan umum. Artikel ini akan mengulas secara mendalam mengenai sejarah berdirinya sekolah Islam terpadu di Indonesia. Peran penting lembaga seperti [Asy-Syams](https://asysyams.id/) dalam mengembangkan sistem pendidikan berbasis Islam modern.
+Sekolah Islam terpadu hadir sebagai solusi bagi orang tua yang ingin memberikan pendidikan yang seimbang antara nilai-nilai keislaman dan umum. Artikel ini akan mengulas secara mendalam mengenai sejarah berdirinya sekolah Islam terpadu di Indonesia. Peran penting lembaga seperti [Asy-Syams](../) dalam mengembangkan sistem pendidikan berbasis Islam modern.
 
 ### Awal Mula Sekolah Islam Terpadu di Indonesia
 
@@ -58,11 +58,11 @@ Seiring dengan perkembangan zaman, banyak sekolah Islam terpadu yang mulai mengi
 
 ### Peran Asy-Syams dalam Pendidikan Islam Terpadu
 
-Salah satu lembaga pendidikan yang berperan penting dalam pengembangan pendidikan Islam terpadu di Indonesia adalah Asy-Syams. Asy-Syams hadir sebagai pelopor pendidikan yang berbasis nilai-nilai Islam, dengan fokus pada pembentukan karakter dan kecerdasan spiritual sejak usia dini. Lembaga ini menawarkan berbagai program pendidikan, mulai dari [playgroup Islam](https://asysyams.id/playgroup-islam-memahami-pentingnya-pendidikan-anak-usia-dini-berbasis-nilai-islami/) hingga waralaba pendidikan Islam, yang membantu memperluas akses pendidikan berkualitas berbasis Islam di berbagai wilayah.
+Salah satu lembaga pendidikan yang berperan penting dalam pengembangan pendidikan Islam terpadu di Indonesia adalah Asy-Syams. Asy-Syams hadir sebagai pelopor pendidikan yang berbasis nilai-nilai Islam, dengan fokus pada pembentukan karakter dan kecerdasan spiritual sejak usia dini. Lembaga ini menawarkan berbagai program pendidikan, mulai dari [playgroup Islam](../playgroup-islam-memahami-pentingnya-pendidikan-anak-usia-dini-berbasis-nilai-islami/) hingga waralaba pendidikan Islam, yang membantu memperluas akses pendidikan berkualitas berbasis Islam di berbagai wilayah.
 
-Salah satu program unggulan Asy-Syams adalah [waralaba TK/pesantren Islami](https://asysyams.id/waralaba-tkpesantren-islami-untuk-anak/) yang menawarkan kesempatan bagi masyarakat untuk mendirikan lembaga pendidikan Islam dengan dukungan penuh dari Asy-Syams. Program ini tidak hanya membantu memperluas jangkauan pendidikan Islam, tetapi juga mendukung perkembangan ekonomi lokal melalui bisnis pendidikan yang berkelanjutan.
+Salah satu program unggulan Asy-Syams adalah [waralaba TK/pesantren Islami](../waralaba-tkpesantren-islami-untuk-anak/) yang menawarkan kesempatan bagi masyarakat untuk mendirikan lembaga pendidikan Islam dengan dukungan penuh dari Asy-Syams. Program ini tidak hanya membantu memperluas jangkauan pendidikan Islam, tetapi juga mendukung perkembangan ekonomi lokal melalui bisnis pendidikan yang berkelanjutan.
 
-Selain itu, Asy-Syams juga memiliki program [pendaftaran anak](https://asysyams.id/pendaftaran-anak-di-asy-syams/) di sekolah-sekolah yang berafiliasi, yang memudahkan orang tua dalam mendaftarkan putra-putri mereka untuk mendapatkan pendidikan Islam terpadu yang berkualitas.
+Selain itu, Asy-Syams juga memiliki program [pendaftaran anak](../pendaftaran-anak-di-asy-syams/) di sekolah-sekolah yang berafiliasi, yang memudahkan orang tua dalam mendaftarkan putra-putri mereka untuk mendapatkan pendidikan Islam terpadu yang berkualitas.
 
 ### Tantangan dan Peluang Sekolah Islam Terpadu di Era Digital
 
@@ -80,7 +80,7 @@ Asy-Syams hadir sebagai salah satu lembaga pendidikan yang berperan aktif dalam 
 
 Di tengah tantangan era digital, Asy-Syams dan sekolah-sekolah Islam terpadu lainnya terus berinovasi untuk memastikan bahwa pendidikan Islam tidak hanya relevan, tetapi juga menjadi yang terdepan dalam membentuk generasi yang berakhlak mulia dan siap menghadapi tantangan masa depan.
 
-Jika Anda tertarik untuk mengetahui lebih lanjut tentang program-program pendidikan yang ditawarkan oleh Asy-Syams, Anda dapat mengunjungi halaman pendaftaran resmi mereka di [pendaftaran anak di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/) atau mengetahui lebih lanjut tentang peluang waralaba di [waralaba TK/pesantren Islami](https://asysyams.id/waralaba-tkpesantren-islami-untuk-anak/).
+Jika Anda tertarik untuk mengetahui lebih lanjut tentang program-program pendidikan yang ditawarkan oleh Asy-Syams, Anda dapat mengunjungi halaman pendaftaran resmi mereka di [pendaftaran anak di Asy-Syams](../pendaftaran-anak-di-asy-syams/) atau mengetahui lebih lanjut tentang peluang waralaba di [waralaba TK/pesantren Islami](../waralaba-tkpesantren-islami-untuk-anak/).
 
 [
 WhatsApp Kami

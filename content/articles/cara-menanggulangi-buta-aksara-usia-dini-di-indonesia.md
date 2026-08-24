@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314172930/https://asysyams.id/car
 
 # Cara Menanggulangi Buta Aksara Usia Dini di Indonesia
 
-[Home](https://asysyams.id/) » Cara Menanggulangi Buta Aksara Usia Dini di Indonesia
+[Home](../) » Cara Menanggulangi Buta Aksara Usia Dini di Indonesia
 
 ## Indonesia merupakan negara dengan jumlah penduduk yang sangat besar, namun tantangan literasi masih menjadi salah satu masalah yang signifikan.
 
-![menanggulangi buta aksara](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-08-21.07.44-An-educational-scene-in-rural-Indonesia-where-a-teacher-is-conducting-a-literacy-class-outdoors-for-adults-and-children.-The-setting-includes-simple-s-300x300.webp)
+![menanggulangi buta aksara](../wp-content/uploads/2024/09/DALL·E-2024-09-08-21.07.44-An-educational-scene-in-rural-Indonesia-where-a-teacher-is-conducting-a-literacy-class-outdoors-for-adults-and-children.-The-setting-includes-simple-s-300x300.webp)
 
 Buta aksara atau ketidakmampuan membaca dan menulis masih menjadi tantangan bagi sebagian masyarakat, terutama di daerah-daerah terpencil dan tertinggal. Berdasarkan data Badan Pusat Statistik (BPS), meskipun angka buta aksara di Indonesia telah menurun dari tahun ke tahun, masih ada jutaan orang yang belum dapat membaca dan menulis.
 
@@ -74,11 +74,11 @@ Masyarakat yang buta aksara seringkali terpinggirkan dalam proses pengambilan ke
 
 Baca juga:
 
-[Sekolah PAUD Terbaik untuk Anak Berprestasi di Jakarta](https://asysyams.id/sekolah-paud-terbaik-untuk-anak-berprestasi-di-jakarta/)
+[Sekolah PAUD Terbaik untuk Anak Berprestasi di Jakarta](../sekolah-paud-terbaik-untuk-anak-berprestasi-di-jakarta/)
 
-[Taman Kanak-Kanak Islam Terbaik di Jakarta: TK Islam Asy-Syams](https://asysyams.id/taman-kanak-kanak-islam-terbaik-di-jakarta-tk-islam-asy-syams/)
+[Taman Kanak-Kanak Islam Terbaik di Jakarta: TK Islam Asy-Syams](../taman-kanak-kanak-islam-terbaik-di-jakarta-tk-islam-asy-syams/)
 
-[Apa Itu Film Anak-Anak dan Edukasi yang Tersajikan Di Dalamnya](https://asysyams.id/apa-itu-film-anak-anak-dan-edukasi-yang-tersajikan-di-dalamnya/)
+[Apa Itu Film Anak-Anak dan Edukasi yang Tersajikan Di Dalamnya](../apa-itu-film-anak-anak-dan-edukasi-yang-tersajikan-di-dalamnya/)
 
  
 

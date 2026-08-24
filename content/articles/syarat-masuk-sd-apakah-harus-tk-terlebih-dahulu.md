@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421032144/https://asysyams.id/sya
 
 # Syarat Masuk SD: Apakah Harus TK Terlebih Dahulu?
 
-[Home](https://asysyams.id/) » Syarat Masuk SD: Apakah Harus TK Terlebih Dahulu?
+[Home](../) » Syarat Masuk SD: Apakah Harus TK Terlebih Dahulu?
 
 ## Sebagai orang tua, Anda tentu ingin memberikan yang terbaik untuk anak Anda, terutama dalam hal pendidikan.
 
-![Buku Perkembangan Fisik Motorik Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
+![Buku Perkembangan Fisik Motorik Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
 
 Maka dari itu, wajar jika muncul pertanyaan penting seperti: syarat masuk SD apakah harus TK terlebih dahulu? Pertanyaan ini sering muncul di benak banyak orang tua, termasuk Anda yang sedang mempertimbangkan TK terbaik untuk si kecil, seperti TK AsySyams.
 
@@ -43,17 +43,17 @@ Tanpa melalui TK, anak bisa merasa kaget saat memasuki lingkungan SD yang jauh l
 
 TK AsySyams hadir bukan hanya sebagai lembaga pendidikan anak usia dini, tapi juga sebagai mitra orang tua dalam membentuk fondasi karakter, kognitif, dan emosional anak. Melalui pendekatan yang menyenangkan dan penuh stimulasi, TK AsySyams memastikan anak siap menghadapi dunia SD dengan percaya diri.
 
-Bukan hanya itu, jika Anda tertarik memperluas peran Anda di dunia pendidikan, TK AsySyams juga menawarkan peluang menarik melalui program waralaba. Anda bisa membaca lebih lanjut tentang [waralaba daycare berbasis kemitraan di sini](https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/).
+Bukan hanya itu, jika Anda tertarik memperluas peran Anda di dunia pendidikan, TK AsySyams juga menawarkan peluang menarik melalui program waralaba. Anda bisa membaca lebih lanjut tentang [waralaba daycare berbasis kemitraan di sini](../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/).
 
 ### Pentingnya Pendidikan Anak Usia Dini: Langkah Awal yang Tidak Bisa Diabaikan
 
 Ketika membahas syarat masuk SD apakah harus TK terlebih dahulu, kita tidak bisa mengabaikan peran besar pendidikan anak usia dini. TK bukan sekadar tempat bermain. TK adalah ruang pembelajaran yang dirancang untuk membentuk kebiasaan belajar, membangun disiplin, dan menanamkan nilai-nilai positif sejak dini.
 
-Dan jika Anda mempertimbangkan untuk berinvestasi di dunia pendidikan anak usia dini, Anda bisa menjelajahi peluang besar melalui [franchise pendidikan usia dini yang menjanjikan ini](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/).
+Dan jika Anda mempertimbangkan untuk berinvestasi di dunia pendidikan anak usia dini, Anda bisa menjelajahi peluang besar melalui [franchise pendidikan usia dini yang menjanjikan ini](../franchise-pendidikan-usia-dini-yang-menjanjikan/).
 
 ### Biaya Masuk TK dan Penitipan Anak: Panduan untuk Orang Tua
 
-Tentu, memilih TK juga berkaitan erat dengan pertimbangan biaya. Apalagi di kota besar seperti Jakarta. Anda bisa melihat gambaran menyeluruh mengenai [estimasi biaya penitipan anak di Jakarta melalui panduan lengkap ini](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/). Informasi ini sangat berguna untuk menyusun rencana pendidikan si kecil secara matang.
+Tentu, memilih TK juga berkaitan erat dengan pertimbangan biaya. Apalagi di kota besar seperti Jakarta. Anda bisa melihat gambaran menyeluruh mengenai [estimasi biaya penitipan anak di Jakarta melalui panduan lengkap ini](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/). Informasi ini sangat berguna untuk menyusun rencana pendidikan si kecil secara matang.
 
 ### Kesimpulan: Jadi, Syarat Masuk SD Apakah Harus TK Terlebih Dahulu?
 

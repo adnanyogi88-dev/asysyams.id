@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515080825/https://asysyams.id/pen
 
 # Pentingnya Gizi untuk Pertumbuhan dan Perkembangan Anak
 
-[Home](https://asysyams.id/) » Pentingnya Gizi untuk Pertumbuhan dan Perkembangan Anak
+[Home](../) » Pentingnya Gizi untuk Pertumbuhan dan Perkembangan Anak
 
 ## Gizi anak adalah salah satu aspek terpenting dalam kehidupan mereka, yang berperan langsung dalam pertumbuhan fisik, perkembangan kognitif,
 
-![pertumbuhan anak](https://asysyams.id/wp-content/uploads/2024/08/pantau-pertumbuhan-anak-1-300x225.jpg)
+![pertumbuhan anak](../wp-content/uploads/2024/08/pantau-pertumbuhan-anak-1-300x225.jpg)
 
 [sumber](https://klinikanakapap.com/)
 
@@ -85,11 +85,11 @@ Vitamin A: Penting untuk penglihatan, pertumbuhan sel, dan sistem kekebalan tubu
 
 Baca juga:
 
-[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](https://asysyams.id/berapakah-berat-badan-ideal-anak-usia-5-tahun/)
+[Berapakah Berat Badan Ideal Anak Usia 5 Tahun?](../berapakah-berat-badan-ideal-anak-usia-5-tahun/)
 
-[Rekomendasi Makanan yang Bagus untuk Kecerdasan Otak Anak](https://asysyams.id/rekomendasi-makanan-yang-bagus-untuk-kecerdasan-otak-anak/)
+[Rekomendasi Makanan yang Bagus untuk Kecerdasan Otak Anak](../rekomendasi-makanan-yang-bagus-untuk-kecerdasan-otak-anak/)
 
-[Tugas Rumah yang Bisa Dikerjakan Bersama Anak Anda di Rumah](https://asysyams.id/tugas-rumah-yang-bisa-dikerjakan-bersama-anak-anda-di-rumah/)
+[Tugas Rumah yang Bisa Dikerjakan Bersama Anak Anda di Rumah](../tugas-rumah-yang-bisa-dikerjakan-bersama-anak-anda-di-rumah/)
 
  
 

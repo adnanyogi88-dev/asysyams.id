@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216230632/https://asysyams.id/con
 
 # Contoh Berpikir Komputasional dalam Kehidupan Sehari-Hari
 
-[Home](https://asysyams.id/) » Contoh Berpikir Komputasional dalam Kehidupan Sehari-Hari
+[Home](../) » Contoh Berpikir Komputasional dalam Kehidupan Sehari-Hari
 
 ## Berpikir komputasional adalah metode pemecahan masalah yang mengintegrasikan logika, dekomposisi, dan pola dalam pengambilan keputusan.
 
-![Penjumlahan untuk Anak TK](https://asysyams.id/wp-content/uploads/2024/10/images-615147dd0101905a16497de2-1.jpg)
+![Penjumlahan untuk Anak TK](../wp-content/uploads/2024/10/images-615147dd0101905a16497de2-1.jpg)
 
 Konsep ini tidak hanya bisa kita terapkan dalam pemrograman komputer tetapi juga sangat relevan untuk kehidupan sehari-hari, terutama dalam membangun keterampilan anak sejak dini. Artikel ini akan membahas bagaimana berpikir komputasional dapat kita terapkan dalam kehidupan sehari-hari, contoh nyata di dalam keluarga, dan hubungannya dengan pengasuhan serta pendidikan anak. Kami juga akan mengaitkan pembahasan ini dengan poin-poin penting dari tiga artikel di AsySyams.id yang membahas permainan tradisional vs. modern, pembangunan keterampilan anak, dan tips membuka daycare.
 
@@ -47,7 +47,7 @@ Sebagai orang tua, mengatur jadwal keluarga sering kali menjadi tantangan. Denga
 
 #### 2. Membangun Keterampilan Anak
 
-Dalam artikel [Cara Membangun Keterampilan Anak Sejak Dini](https://asysyams.id/cara-membangun-keterampilan-anak-sejak-dini/), pentingnya memulai keterampilan sejak usia dini kita tekankan. Contoh penerapannya:
+Dalam artikel [Cara Membangun Keterampilan Anak Sejak Dini](../cara-membangun-keterampilan-anak-sejak-dini/), pentingnya memulai keterampilan sejak usia dini kita tekankan. Contoh penerapannya:
 
 - Dekomposisi: Identifikasi keterampilan mana yang perlu kita ajarkan, seperti komunikasi, kerja sama, atau logika.
 
@@ -57,7 +57,7 @@ Dalam artikel [Cara Membangun Keterampilan Anak Sejak Dini](https://asysyams.id/
 
 #### 3. Memilih Permainan Tradisional vs Modern
 
-Dalam artikel [Permainan Anak Tradisional vs Modern](https://asysyams.id/permainan-anak-tradisional-vs-modern/), disebutkan bahwa permainan tradisional memiliki banyak manfaat untuk perkembangan anak. Berpikir komputasional dapat membantu memilih permainan yang tepat:
+Dalam artikel [Permainan Anak Tradisional vs Modern](../permainan-anak-tradisional-vs-modern/), disebutkan bahwa permainan tradisional memiliki banyak manfaat untuk perkembangan anak. Berpikir komputasional dapat membantu memilih permainan yang tepat:
 
 - Dekomposisi: Analisis setiap jenis permainan (tradisional dan modern) berdasarkan manfaatnya.
 
@@ -67,7 +67,7 @@ Dalam artikel [Permainan Anak Tradisional vs Modern](https://asysyams.id/permain
 
 #### 4. Membuka dan Mengelola Daycare
 
-Jika Anda tertarik membuka daycare, seperti yang dijelaskan di artikel [Tips Membuka Daycare untuk Anak-anak dan Cara Mengelolanya](https://asysyams.id/tips-membuka-daycare-untuk-anak-anak-dan-cara-mengelolanya/), berpikir komputasional dapat membantu:
+Jika Anda tertarik membuka daycare, seperti yang dijelaskan di artikel [Tips Membuka Daycare untuk Anak-anak dan Cara Mengelolanya](../tips-membuka-daycare-untuk-anak-anak-dan-cara-mengelolanya/), berpikir komputasional dapat membantu:
 
 - Dekomposisi: Pisahkan tugas besar seperti mencari lokasi, menyiapkan izin usaha, merekrut staf, dan membuat program kegiatan menjadi langkah-langkah kecil.
 

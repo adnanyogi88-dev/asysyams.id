@@ -11,17 +11,17 @@ archive_url: "https://web.archive.org/web/20260611131444/https://asysyams.id/car
 
 # Cara Mengerjakan Soal Cerita Matematika: Panduan Lengkap untuk Siswa dan Orang Tua
 
-[Home](https://asysyams.id/) » Cara Mengerjakan Soal Cerita Matematika: Panduan Lengkap untuk Siswa dan Orang Tua
+[Home](../) » Cara Mengerjakan Soal Cerita Matematika: Panduan Lengkap untuk Siswa dan Orang Tua
 
 ## Dalam dunia pendidikan, soal cerita matematika seringkali menjadi tantangan besar bagi siswa.
 
-![Membuat Murid Selamat dan Bahagia](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_457035294_18141623854353668_3576366696611035647_n_1080-1024x768.jpg)
+![Membuat Murid Selamat dan Bahagia](../wp-content/uploads/2024/11/Snapinsta.app_457035294_18141623854353668_3576366696611035647_n_1080-1024x768.jpg)
 
 Meskipun demikian, soal jenis ini sangat penting karena melatih kemampuan berpikir logis, analitis, serta pemecahan masalah. Oleh karena itu, memahami cara mengerjakan soal cerita matematika secara sistematis sangatlah penting.
 
 Selain itu, guru dan orang tua memiliki peran penting dalam membimbing anak-anak menghadapi soal seperti ini. Misalnya, dengan membiasakan membaca dengan cermat dan mengenali kata-kata kunci dalam soal. Oleh sebab itu, artikel ini akan membahas strategi terbaik yang bisa digunakan dalam menyelesaikan soal cerita matematika, mulai dari pemahaman soal, hingga langkah-langkah penyelesaiannya.
 
-Sebagai referensi pendidikan berkualitas, Anda juga bisa membaca [artikel tentang TK Islam yang bagus di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), yang menawarkan wawasan penting dalam memilih sekolah yang tepat untuk anak.
+Sebagai referensi pendidikan berkualitas, Anda juga bisa membaca [artikel tentang TK Islam yang bagus di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), yang menawarkan wawasan penting dalam memilih sekolah yang tepat untuk anak.
 
 ## Mengapa Soal Cerita Matematika Penting?
 
@@ -129,7 +129,7 @@ Contohnya, saat berbelanja, ajak anak menghitung total harga atau sisa uang. Kar
 
 Walaupun anak sering salah, tetaplah sabar dalam membimbingnya. Sebab proses belajar tidak selalu instan.
 
-Untuk membentuk karakter murid yang baik saat belajar, Anda bisa membaca [artikel tentang adab murid terhadap guru](https://asysyams.id/12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/). Sikap menghargai guru sangat mempengaruhi proses pembelajaran, termasuk saat belajar matematika.
+Untuk membentuk karakter murid yang baik saat belajar, Anda bisa membaca [artikel tentang adab murid terhadap guru](../12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/). Sikap menghargai guru sangat mempengaruhi proses pembelajaran, termasuk saat belajar matematika.
 
 ## Kesalahan yang Sering Terjadi dan Cara Menghindarinya
 
@@ -141,7 +141,7 @@ Untuk membentuk karakter murid yang baik saat belajar, Anda bisa membaca [artike
 
 ## Pentingnya Lingkungan yang Mendukung Belajar
 
-Agar anak bisa mengerjakan soal cerita dengan baik, mereka memerlukan lingkungan belajar yang mendukung. Misalnya, sekolah yang fokus pada pendidikan karakter dan akademik. Salah satu contohnya bisa Anda temukan dalam [artikel tentang jasa pendidikan di Indonesia](https://asysyams.id/10-contoh-jasa-di-bidang-pendidikan-di-indonesia/), yang membahas berbagai institusi yang mendukung perkembangan siswa secara menyeluruh.
+Agar anak bisa mengerjakan soal cerita dengan baik, mereka memerlukan lingkungan belajar yang mendukung. Misalnya, sekolah yang fokus pada pendidikan karakter dan akademik. Salah satu contohnya bisa Anda temukan dalam [artikel tentang jasa pendidikan di Indonesia](../10-contoh-jasa-di-bidang-pendidikan-di-indonesia/), yang membahas berbagai institusi yang mendukung perkembangan siswa secara menyeluruh.
 
 ## Tips dari Guru Matematika
 

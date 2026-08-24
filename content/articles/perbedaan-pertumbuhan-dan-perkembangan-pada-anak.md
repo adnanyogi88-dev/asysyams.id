@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611125724/https://asysyams.id/per
 
 # Perbedaan Pertumbuhan dan Perkembangan pada Anak
 
-[Home](https://asysyams.id/) » Perbedaan Pertumbuhan dan Perkembangan pada Anak
+[Home](../) » Perbedaan Pertumbuhan dan Perkembangan pada Anak
 
 ## Pertumbuhan dan perkembangan adalah dua konsep yang sering digunakan dalam menggambarkan proses tumbuh kembang anak.
 
-![Pertumbuhan dan Perkembangan](https://asysyams.id/wp-content/uploads/2024/11/DALL·E-2024-11-28-06.13.21-A-vibrant-illustration-depicting-the-growth-and-development-of-a-child.-On-the-left-side-a-sequence-showing-physical-growth-such-as-a-baby-growing-i.webp)
+![Pertumbuhan dan Perkembangan](../wp-content/uploads/2024/11/DALL·E-2024-11-28-06.13.21-A-vibrant-illustration-depicting-the-growth-and-development-of-a-child.-On-the-left-side-a-sequence-showing-physical-growth-such-as-a-baby-growing-i.webp)
 
 Keduanya memiliki makna yang berbeda namun saling berkaitan. Sebagai orang tua atau pendidik, memahami perbedaan antara pertumbuhan dan perkembangan sangat penting untuk memastikan anak mendapatkan dukungan yang tepat sesuai dengan kebutuhan mereka. Dalam artikel ini, kita akan membahas secara mendalam perbedaan pertumbuhan dan perkembangan pada anak, faktor yang memengaruhinya, serta tips untuk mendukung proses tersebut.
 
@@ -77,7 +77,7 @@ AspekPertumbuhanPerkembanganDefinisiPerubahan fisik yang dapat diukur.Perubahan 
 
 - Perkembangan: Anak mulai memahami konsep warna, berbicara dalam kalimat pendek, serta bermain dengan teman sebaya.
 
-Untuk mendukung perkembangan kreativitas anak di usia ini, Anda bisa mengajarkan mereka keterampilan menggambar. Contohnya, ajak anak untuk belajar menggambar binatang seperti sapi dengan cara yang menyenangkan. Pelajari tips mudahnya di artikel ini: [Tips Menggambar Sapi untuk Anak TK: Cara Mudah dan Menyenangkan](https://asysyams.id/tips-menggambar-sapi-untuk-anak-tk-cara-mudah-dan-menyenangkan/).
+Untuk mendukung perkembangan kreativitas anak di usia ini, Anda bisa mengajarkan mereka keterampilan menggambar. Contohnya, ajak anak untuk belajar menggambar binatang seperti sapi dengan cara yang menyenangkan. Pelajari tips mudahnya di artikel ini: [Tips Menggambar Sapi untuk Anak TK: Cara Mudah dan Menyenangkan](../tips-menggambar-sapi-untuk-anak-tk-cara-mudah-dan-menyenangkan/).
 
 #### 3. Usia 6-12 Tahun (Masa Anak-Anak)
 
@@ -85,7 +85,7 @@ Untuk mendukung perkembangan kreativitas anak di usia ini, Anda bisa mengajarkan
 
 - Perkembangan: Anak mulai berpikir secara logis, memahami aturan sosial, serta mengembangkan keterampilan motorik halus.
 
-Bantu anak meningkatkan keterampilan seni dengan menggambar binatang lucu seperti beruang. Untuk panduan lengkap, Anda bisa membaca artikel berikut: [Cara Mudah Menggambar Beruang untuk Anak TK](https://asysyams.id/cara-mudah-menggambar-beruang-untuk-anak-tk/).
+Bantu anak meningkatkan keterampilan seni dengan menggambar binatang lucu seperti beruang. Untuk panduan lengkap, Anda bisa membaca artikel berikut: [Cara Mudah Menggambar Beruang untuk Anak TK](../cara-mudah-menggambar-beruang-untuk-anak-tk/).
 
 #### 4. Usia 13-18 Tahun (Masa Remaja)
 
@@ -105,7 +105,7 @@ Pemahaman yang baik tentang perbedaan pertumbuhan dan perkembangan membantu oran
 
 ### Dukungan Pendidikan untuk Perkembangan Anak
 
-Pendidikan dini menjadi fondasi penting untuk mendukung perkembangan anak secara menyeluruh. Salah satu bentuk dukungan yang bisa dipilih adalah pendidikan berbasis Islam yang mengajarkan nilai-nilai agama sejak dini. Untuk Anda yang tertarik mengembangkan pendidikan Islami, bisa membaca tentang peluang franchise di artikel berikut: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+Pendidikan dini menjadi fondasi penting untuk mendukung perkembangan anak secara menyeluruh. Salah satu bentuk dukungan yang bisa dipilih adalah pendidikan berbasis Islam yang mengajarkan nilai-nilai agama sejak dini. Untuk Anda yang tertarik mengembangkan pendidikan Islami, bisa membaca tentang peluang franchise di artikel berikut: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 ### Tips Mendukung Pertumbuhan dan Perkembangan Anak
 
@@ -125,11 +125,11 @@ Pertumbuhan dan perkembangan adalah dua proses yang saling melengkapi dalam kehi
 
 Untuk meningkatkan kreativitas anak melalui kegiatan seni, Anda bisa mencoba beberapa aktivitas menarik seperti menggambar binatang. Simak panduannya di artikel berikut:
 
-- [Cara Mudah Menggambar Beruang untuk Anak TK](https://asysyams.id/cara-mudah-menggambar-beruang-untuk-anak-tk/)
+- [Cara Mudah Menggambar Beruang untuk Anak TK](../cara-mudah-menggambar-beruang-untuk-anak-tk/)
 
-- [Tips Menggambar Sapi untuk Anak TK: Cara Mudah dan Menyenangkan](https://asysyams.id/tips-menggambar-sapi-untuk-anak-tk-cara-mudah-dan-menyenangkan/)
+- [Tips Menggambar Sapi untuk Anak TK: Cara Mudah dan Menyenangkan](../tips-menggambar-sapi-untuk-anak-tk-cara-mudah-dan-menyenangkan/)
 
-Selain itu, jika Anda ingin memberikan pendidikan Islami berkualitas kepada anak, pertimbangkan untuk mengikuti peluang franchise pendidikan Islami yang dapat membantu Anda mendidik generasi unggul: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+Selain itu, jika Anda ingin memberikan pendidikan Islami berkualitas kepada anak, pertimbangkan untuk mengikuti peluang franchise pendidikan Islami yang dapat membantu Anda mendidik generasi unggul: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 [
 WhatsApp Kami

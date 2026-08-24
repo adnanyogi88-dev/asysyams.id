@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314232016/https://asysyams.id/pro
 
 # Profil Pelajar Pancasila: Kolaborasi Pendidikan dan Dunia Bisnis
 
-[Home](https://asysyams.id/) » Profil Pelajar Pancasila: Kolaborasi Pendidikan dan Dunia Bisnis
+[Home](../) » Profil Pelajar Pancasila: Kolaborasi Pendidikan dan Dunia Bisnis
 
 ## Selain itu, saat ini pendidikan menghadapi tantangan yang semakin kompleks, terlebih karena era digital menuntut generasi muda memiliki kompetensi lengkap.
 
-![Cara Menstimulasi Perkembangan Kognitif Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
+![Cara Menstimulasi Perkembangan Kognitif Anak](../wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
 
 Oleh karena itu, pemerintah Republik Indonesia memperkenalkan Profil Pelajar Pancasila sebagai kerangka utama untuk membentuk karakter siswa. Dengan demikian, semua pemangku kepentingan, termasuk dunia bisnis, turut berperan dalam mendukung tercapainya profil tersebut. Selanjutnya, artikel ini akan membahas secara mendalam mengenai Profil Pelajar Pancasila, relevansinya bagi target konsumen bisnis, serta kaitannya dengan layanan pendidikan unggulan seperti Asy Syams. Selain itu, artikel ini juga memuat internal link ke halaman pendaftaran PAUD, TK, dan fasilitas terbaik di Bekasi yang disediakan oleh Asy Syams.
 
@@ -81,13 +81,13 @@ Karena itu, dunia bisnis dapat memanfaatkan lulusan berprofil Pelajar Pancasila 
 Kemudian, Asy Syams hadir untuk menjawab kebutuhan pendidikan anak sejak dini dengan menerapkan Profil Pelajar Pancasila. Oleh karena itu, Asy Syams membuka beberapa layanan unggulan:
 
 - PAUD Asy Syams Tahun Ajaran 2024-2025
-Selain itu, Asy Syams memastikan anak memperoleh pengenalan nilai Pancasila secara menyenangkan. Untuk informasi lebih lanjut, kunjungi [Pendaftaran PAUD Asy Syams Tahun Ajaran 2024-2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/).
+Selain itu, Asy Syams memastikan anak memperoleh pengenalan nilai Pancasila secara menyenangkan. Untuk informasi lebih lanjut, kunjungi [Pendaftaran PAUD Asy Syams Tahun Ajaran 2024-2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/).
 
 - TK Islam Asy Syams
-Selanjutnya, TK Asy Syams mengkombinasikan kurikulum nasional dengan local content yang menekankan karakter Pelajar Pancasila. Jangan lewatkan kesempatan, cek [Open Pendaftaran Siswa TK Asy Syams Id](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
+Selanjutnya, TK Asy Syams mengkombinasikan kurikulum nasional dengan local content yang menekankan karakter Pelajar Pancasila. Jangan lewatkan kesempatan, cek [Open Pendaftaran Siswa TK Asy Syams Id](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
 
 - Fasilitas Terbaik di Bekasi
-Selain itu, Asy Syams menyediakan fasilitas lengkap mulai dari ruang kelas ber-AC hingga taman belajar outdoor. Untuk melihat detail fasilitas, baca [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Selain itu, Asy Syams menyediakan fasilitas lengkap mulai dari ruang kelas ber-AC hingga taman belajar outdoor. Untuk melihat detail fasilitas, baca [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 Dengan demikian, Asy Syams tidak hanya fokus pada aspek akademik, tetapi juga membentuk karakter Pelajar Pancasila sejak usia dini.
 

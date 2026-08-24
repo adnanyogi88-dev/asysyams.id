@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515075552/https://asysyams.id/apa
 
 # Apa yang Dimaksud dengan TK Bilingual?
 
-[Home](https://asysyams.id/) » Apa yang Dimaksud dengan TK Bilingual?
+[Home](../) » Apa yang Dimaksud dengan TK Bilingual?
 
 ## Pendidikan anak usia dini merupakan fondasi penting dalam perkembangan anak,
 
-![tk billingual](https://asysyams.id/wp-content/uploads/2024/08/images-8.jpeg)
+![tk billingual](../wp-content/uploads/2024/08/images-8.jpeg)
 
 [sumber](https://www.islyon.org/)
 
@@ -31,11 +31,11 @@ Penggunaan dua bahasa ini dirancang untuk membentuk dasar kemampuan berbahasa an
 
 Baca juga:
 
-[Pentingnya Gizi untuk Pertumbuhan dan Perkembangan Anak](https://asysyams.id/pentingnya-gizi-untuk-pertumbuhan-dan-perkembangan-anak/)
+[Pentingnya Gizi untuk Pertumbuhan dan Perkembangan Anak](../pentingnya-gizi-untuk-pertumbuhan-dan-perkembangan-anak/)
 
-[Rekomendasi Makanan yang Bagus untuk Kecerdasan Otak Anak](https://asysyams.id/rekomendasi-makanan-yang-bagus-untuk-kecerdasan-otak-anak/)
+[Rekomendasi Makanan yang Bagus untuk Kecerdasan Otak Anak](../rekomendasi-makanan-yang-bagus-untuk-kecerdasan-otak-anak/)
 
-[Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak](https://asysyams.id/pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/)
+[Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak](../pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/)
 
 ###  
 

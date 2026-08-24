@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515073418/https://asysyams.id/man
 
 # Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak
 
-[Home](https://asysyams.id/) » Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak
+[Home](../) » Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak
 
 ## Islam adalah agama yang mencakup seluruh aspek kehidupan, dan salah satu komponen penting dalam Islam adalah rukun Islam.
 
-![rukun islam pada anak](https://asysyams.id/wp-content/uploads/2024/08/rifanyhijab_calista_hijab_instant_for_kids_bergo_anak_full02_oqto3zs6-300x300.webp)
+![rukun islam pada anak](../wp-content/uploads/2024/08/rifanyhijab_calista_hijab_instant_for_kids_bergo_anak_full02_oqto3zs6-300x300.webp)
 
 [sumber](https://www.blibli.com/)
 
@@ -87,11 +87,11 @@ Kesiapan Mental dan Spiritual: Dengan memahami konsep-konsep dasar Islam, anak-a
 
 Baca juga:
 
-[Hal yang Berkesan Ketika Sekolah di Taman Kanak-Kanak](https://asysyams.id/hal-yang-berkesan-ketika-sekolah-di-taman-kanak-kanak/)
+[Hal yang Berkesan Ketika Sekolah di Taman Kanak-Kanak](../hal-yang-berkesan-ketika-sekolah-di-taman-kanak-kanak/)
 
-[Orang Tua Wajib Tahu, Umur Anak Masuk TK Bisa Tentukan Masa Depan Anak](https://asysyams.id/orang-tua-wajib-tahu-umur-anak-masuk-tk-bisa-tentukan-masa-depan-anak/)
+[Orang Tua Wajib Tahu, Umur Anak Masuk TK Bisa Tentukan Masa Depan Anak](../orang-tua-wajib-tahu-umur-anak-masuk-tk-bisa-tentukan-masa-depan-anak/)
 
-[Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini](https://asysyams.id/strategi-mengembangkan-kecerdasan-emosional-anak-sejak-dini/)
+[Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini](../strategi-mengembangkan-kecerdasan-emosional-anak-sejak-dini/)
 
  
 

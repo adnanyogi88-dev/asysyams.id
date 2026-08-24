@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515071530/https://asysyams.id/tuj
 
 # Tujuan Utama Pendidikan Menurut Ki Hajar Dewantara
 
-[Home](https://asysyams.id/) » Tujuan Utama Pendidikan Menurut Ki Hajar Dewantara
+[Home](../) » Tujuan Utama Pendidikan Menurut Ki Hajar Dewantara
 
 ## Ki Hajar Dewantara (1889-1959) dikenal sebagai Bapak Pendidikan Nasional Indonesia.
 
-![foto ki hajar dewantara](https://asysyams.id/wp-content/uploads/2024/11/ki-hajar-dewantara-80x80.webp)
+![foto ki hajar dewantara](../wp-content/uploads/2024/11/ki-hajar-dewantara-80x80.webp)
 
 Beliau merupakan tokoh pergerakan kemerdekaan yang mendirikan lembaga pendidikan Taman Siswa pada tahun 1922, sebuah sekolah untuk kaum pribumi di masa kolonial. Pemikiran dan filosofi pendidikan Ki Hajar Dewantara sangat berpengaruh dalam pembentukan sistem pendidikan Indonesia. Tanggal lahirnya, 2 Mei, ditetapkan sebagai Hari Pendidikan Nasional sebagai penghormatan atas jasanya. Prinsip-prinsip yang ia gagas – seperti semboyan “Ing Ngarsa Sung Tuladha, Ing Madya Mangun Karsa, Tut Wuri Handayani” – masih dijadikan pedoman dalam dunia pendidikan hingga kini. Artikel ini akan mengulas secara mendalam tujuan utama pendidikan menurut Ki Hajar Dewantara, termasuk konsep-konsep kunci yang ia perkenalkan, serta bagaimana tujuan tersebut tercermin dalam sistem pendidikan nasional saat ini dan tantangan aktual dalam mewujudkannya.
 

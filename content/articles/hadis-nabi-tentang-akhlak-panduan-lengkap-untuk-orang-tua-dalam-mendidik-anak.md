@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008073656/https://asysyams.id/had
 
 # Hadis Nabi Tentang Akhlak: Panduan Lengkap untuk Orang Tua dalam Mendidik Anak
 
-[Home](https://asysyams.id/) » Hadis Nabi Tentang Akhlak: Panduan Lengkap untuk Orang Tua dalam Mendidik Anak
+[Home](../) » Hadis Nabi Tentang Akhlak: Panduan Lengkap untuk Orang Tua dalam Mendidik Anak
 
 ## Pendahuluan
 
-![9 Pilar Karakter Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_de9c0eea-80x80.jpg)
+![9 Pilar Karakter Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_de9c0eea-80x80.jpg)
 
 Setiap orang tua tentu menginginkan anak-anak mereka tumbuh dengan akhlak yang mulia. Akhlak bukan hanya hiasan dalam kehidupan sehari-hari, melainkan fondasi yang menentukan bagaimana seseorang berinteraksi dengan Tuhannya, keluarganya, dan lingkungannya. Dalam Islam, Rasulullah ? memberikan teladan terbaik dalam akhlak. Hadis-hadis beliau menjadi pedoman yang jelas bagi umat Muslim agar mampu menanamkan nilai kebaikan sejak usia dini.
 
@@ -75,13 +75,13 @@ Rasulullah ? selalu mendidik dengan penuh kelembutan. Beliau tidak pernah menggu
 Selain memahami hadis, orang tua juga membutuhkan strategi praktis. Berikut beberapa cara yang bisa diterapkan:
 
 - Membacakan kisah Islami
-Kisah para Nabi, sahabat, dan orang saleh penuh dengan teladan akhlak. Dengan mendongengkan kisah Islami sebelum tidur, orang tua dapat menanamkan nilai kebaikan secara menyenangkan. (Baca juga: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/))
+Kisah para Nabi, sahabat, dan orang saleh penuh dengan teladan akhlak. Dengan mendongengkan kisah Islami sebelum tidur, orang tua dapat menanamkan nilai kebaikan secara menyenangkan. (Baca juga: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/))
 
 - Mengatur lingkungan pendidikan
-Pendidikan akhlak tidak hanya diajarkan di rumah, tetapi juga di sekolah. Oleh karena itu, memilih lembaga pendidikan yang baik sangat penting. (Baca juga: [Apa Itu Institusi Pendidikan: Penjelasan Lengkap, Fungsi dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/))
+Pendidikan akhlak tidak hanya diajarkan di rumah, tetapi juga di sekolah. Oleh karena itu, memilih lembaga pendidikan yang baik sangat penting. (Baca juga: [Apa Itu Institusi Pendidikan: Penjelasan Lengkap, Fungsi dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/))
 
 - Memilih sekolah dengan visi Islami
-Sekolah berperan besar dalam pembentukan akhlak anak. Maka, pilihlah sekolah atau TK yang benar-benar fokus pada nilai Islam. (Rekomendasi: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/))
+Sekolah berperan besar dalam pembentukan akhlak anak. Maka, pilihlah sekolah atau TK yang benar-benar fokus pada nilai Islam. (Rekomendasi: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/))
 
 - Menggunakan pujian dan apresiasi
 Apresiasi setiap kebaikan yang dilakukan anak. Hal ini membuat anak merasa dihargai dan termotivasi untuk terus berakhlak baik.

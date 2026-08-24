@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421040715/https://asysyams.id/kis
 
 # Kisah Hasan dan Husein, Cucu Nabi Muhammad SAW
 
-[Home](https://asysyams.id/) » Kisah Hasan dan Husein, Cucu Nabi Muhammad SAW
+[Home](../) » Kisah Hasan dan Husein, Cucu Nabi Muhammad SAW
 
 ## Hasan dan Husein adalah dua cucu kesayangan Nabi Muhammad SAW yang lahir dari pasangan Ali bin Abi Thalib dan Fatimah az-Zahra.
 
-![](https://asysyams.id/wp-content/uploads/2024/12/ed93af6c6e7d20cfb00906c5493a7954.jpg)
+![](../wp-content/uploads/2024/12/ed93af6c6e7d20cfb00906c5493a7954.jpg)
 
 Oplus_131072
 
@@ -47,7 +47,7 @@ Hasan dan Husein adalah contoh nyata kasih sayang dalam keluarga. Mereka terkena
 
 Adab murid terhadap guru sangat penting dalam Islam. Kisah Hasan dan Husein mengajarkan sikap hormat dan penghargaan terhadap orang yang memberikan ilmu. Sebuah kisah masyhur adalah ketika Hasan dan Husein melihat seorang lelaki tua yang tidak benar dalam berwudhu. Alih-alih menegurnya secara langsung, mereka berpura-pura saling mengoreksi wudhu mereka di depan lelaki itu. Menyadari kekeliruannya, lelaki tua itu pun memperbaiki wudhunya tanpa merasa tersinggung.
 
-Kisah ini mencerminkan beberapa adab murid terhadap guru sebagaimana disebutkan dalam artikel [12 Adab Murid terhadap Guru sebagai Fondasi Pendidikan Berkualitas](https://asysyams.id/12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/), seperti:
+Kisah ini mencerminkan beberapa adab murid terhadap guru sebagaimana disebutkan dalam artikel [12 Adab Murid terhadap Guru sebagai Fondasi Pendidikan Berkualitas](../12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/), seperti:
 
 - Menghormati Guru dengan Sopan: Hasan dan Husein tidak menegur dengan kasar, melainkan menunjukkan sikap santun dan cerdas.
 
@@ -55,7 +55,7 @@ Kisah ini mencerminkan beberapa adab murid terhadap guru sebagaimana disebutkan 
 
 ### Mengajarkan Ucapan Terima Kasih Islami kepada Anak-Anak
 
-Nilai-nilai yang diajarkan oleh Hasan dan Husein juga berkaitan dengan pentingnya menanamkan rasa syukur kepada anak-anak. Sebagaimana dijelaskan dalam artikel [Cara Mengajarkan Ucapan Terima Kasih Islami untuk Anak-Anak](https://asysyams.id/cara-mengajarkan-ucapan-terima-kasih-islami-untuk-anak-anak/), ada beberapa cara yang bisa dilakukan, seperti:
+Nilai-nilai yang diajarkan oleh Hasan dan Husein juga berkaitan dengan pentingnya menanamkan rasa syukur kepada anak-anak. Sebagaimana dijelaskan dalam artikel [Cara Mengajarkan Ucapan Terima Kasih Islami untuk Anak-Anak](../cara-mengajarkan-ucapan-terima-kasih-islami-untuk-anak-anak/), ada beberapa cara yang bisa dilakukan, seperti:
 
 - Memberi Contoh Langsung: Hasan dan Husein sering menunjukkan rasa syukur kepada Allah SWT dalam doa-doa mereka.
 

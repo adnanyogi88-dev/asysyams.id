@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421042627/https://asysyams.id/per
 
 # Permasalahan Anak Usia Dini dan Solusi yang Tepat untuk Masa Depan Generasi
 
-[Home](https://asysyams.id/) » Permasalahan Anak Usia Dini dan Solusi yang Tepat untuk Masa Depan Generasi
+[Home](../) » Permasalahan Anak Usia Dini dan Solusi yang Tepat untuk Masa Depan Generasi
 
 ## Anak usia dini merupakan fase penting dalam perkembangan manusia.
 
-![ Artikel ini akan membahas beberapa permasalahan umum yang dialami anak usia dini, solusi yang dapat diambil](https://asysyams.id/wp-content/uploads/2025/02/Snapinst.app_468440040_1774420966633874_7917243912841489497_n_1080-1-1024x1024.jpg)
+![ Artikel ini akan membahas beberapa permasalahan umum yang dialami anak usia dini, solusi yang dapat diambil](../wp-content/uploads/2025/02/Snapinst.app_468440040_1774420966633874_7917243912841489497_n_1080-1-1024x1024.jpg)
 
 Pada masa ini, anak mengalami pertumbuhan dan perkembangan yang sangat pesat, baik secara fisik, kognitif, emosional, maupun sosial. Namun, di balik potensi besar yang anak usia dini meliki, terdapat berbagai permasalahan yang sering dihadapi oleh orang tua, pendidik, dan masyarakat. Artikel ini akan membahas beberapa permasalahan umum yang dialami anak usia dini, solusi yang dapat diambil, serta kaitannya dengan pentingnya memilih lembaga pendidikan yang tepat, seperti TK Islami di Bekasi yang direkomendasikan oleh Asysyams.
 
@@ -82,11 +82,11 @@ Permasalahan anak usia dini merupakan tantangan yang harus dihadapi oleh orang t
 
 Referensi:
 
-- [https://asysyams.id/tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/](https://asysyams.id/tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/)
+- [../tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/](../tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/)
 
-- [https://asysyams.id/rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/](https://asysyams.id/rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
+- [../rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/](../rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
 
-- [https://asysyams.id/hakikat-pendidikan-anak-usia-dini-yang-harus-orang-tua-ketahui/](https://asysyams.id/hakikat-pendidikan-anak-usia-dini-yang-harus-orang-tua-ketahui/)
+- [../hakikat-pendidikan-anak-usia-dini-yang-harus-orang-tua-ketahui/](../hakikat-pendidikan-anak-usia-dini-yang-harus-orang-tua-ketahui/)
 
 [
 WhatsApp Kami

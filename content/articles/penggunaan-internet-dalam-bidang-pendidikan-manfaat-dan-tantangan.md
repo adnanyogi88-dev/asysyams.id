@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314173540/https://asysyams.id/pen
 
 # Penggunaan Internet dalam Bidang Pendidikan: Manfaat dan Tantangan
 
-[Home](https://asysyams.id/) » Penggunaan Internet dalam Bidang Pendidikan: Manfaat dan Tantangan
+[Home](../) » Penggunaan Internet dalam Bidang Pendidikan: Manfaat dan Tantangan
 
 ## Di era digital saat ini, internet telah menjadi bagian tak terpisahkan dari berbagai aspek kehidupan, termasuk dalam bidang pendidikan.
 
-![jelaskan Hubungan Keluarga dan Sekolah dalam Pendidikan Anak](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_b7a5702c-1024x768.jpg)
+![jelaskan Hubungan Keluarga dan Sekolah dalam Pendidikan Anak](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_b7a5702c-1024x768.jpg)
 
 Penggunaan internet dalam dunia pendidikan lebih terfokuskan untuk meningkatkan aksesibilitas informasi, efektivitas pembelajaran, dan inovasi dalam metode pengajaran. Namun, seiring dengan manfaat yang mereka tawarkan, internet juga membawa tantangan tersendiri yang perlu kita atasi agar penggunaannya lebih optimal.
 
@@ -31,7 +31,7 @@ Internet telah memungkinkan munculnya berbagai platform pembelajaran daring sepe
 
 #### 3. Pendidikan Berbasis Nilai Islami
 
-Bagi keluarga Muslim, internet juga dapat kita manfaatkan untuk mengajarkan pendidikan berbasis nilai-nilai Islam. Banyak situs web yang menyediakan materi Islami untuk anak-anak, seperti kumpulan cerita Islami pendek yang dapat kita jadikan referensi dalam membangun karakter anak-anak secara Islami ([sumber](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)).
+Bagi keluarga Muslim, internet juga dapat kita manfaatkan untuk mengajarkan pendidikan berbasis nilai-nilai Islam. Banyak situs web yang menyediakan materi Islami untuk anak-anak, seperti kumpulan cerita Islami pendek yang dapat kita jadikan referensi dalam membangun karakter anak-anak secara Islami ([sumber](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)).
 
 #### 4. Meningkatkan Keterampilan Digital
 
@@ -49,13 +49,13 @@ Meskipun internet menawarkan banyak manfaat, penggunaannya yang berlebihan dapat
 
 #### 3. Keamanan dan Etika Digital
 
-Internet juga membawa risiko terkait keamanan digital, seperti cyberbullying, penipuan daring, dan akses ke konten yang tidak sesuai. Oleh karena itu, pendidikan tentang etika digital perlu kita berikan sejak dini agar anak-anak dapat menggunakan internet secara bertanggung jawab. Pentingnya pendidikan nilai Islami juga dapat membantu dalam membentuk karakter anak yang lebih baik ([sumber](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/)).
+Internet juga membawa risiko terkait keamanan digital, seperti cyberbullying, penipuan daring, dan akses ke konten yang tidak sesuai. Oleh karena itu, pendidikan tentang etika digital perlu kita berikan sejak dini agar anak-anak dapat menggunakan internet secara bertanggung jawab. Pentingnya pendidikan nilai Islami juga dapat membantu dalam membentuk karakter anak yang lebih baik ([sumber](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/)).
 
 ### Penerapan Internet dalam Berbagai Jenjang Pendidikan
 
 #### 1. Pendidikan Anak Usia Dini
 
-Di tingkat pendidikan anak usia dini (PAUD), internet dapat kita gunakan untuk mendukung metode belajar yang interaktif. Berbagai aplikasi edukasi membantu anak-anak dalam mengenal huruf, angka, serta nilai-nilai moral melalui permainan yang menarik. Bahkan, bisnis pendidikan seperti franchise taman kanak-kanak kini semakin berkembang karena adanya dukungan teknologi digital dalam pengelolaannya ([sumber](https://asysyams.id/franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)).
+Di tingkat pendidikan anak usia dini (PAUD), internet dapat kita gunakan untuk mendukung metode belajar yang interaktif. Berbagai aplikasi edukasi membantu anak-anak dalam mengenal huruf, angka, serta nilai-nilai moral melalui permainan yang menarik. Bahkan, bisnis pendidikan seperti franchise taman kanak-kanak kini semakin berkembang karena adanya dukungan teknologi digital dalam pengelolaannya ([sumber](../franchise-taman-kanak-kanak-bisnis-yang-sedang-ngehits/)).
 
 #### 2. Pendidikan Dasar dan Menengah
 

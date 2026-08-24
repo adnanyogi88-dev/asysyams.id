@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314232143/https://asysyams.id/kum
 
 # Kumpulan Kata Bijak untuk Mendidik Anak: Panduan Membangun Karakter Sejak Dini
 
-[Home](https://asysyams.id/) » Kumpulan Kata Bijak untuk Mendidik Anak: Panduan Membangun Karakter Sejak Dini
+[Home](../) » Kumpulan Kata Bijak untuk Mendidik Anak: Panduan Membangun Karakter Sejak Dini
 
 ## Mendidik anak merupakan tanggung jawab besar bagi setiap orang tua dan pendidik.
 
-![sekolah anak-anak bekasi](https://asysyams.id/wp-content/uploads/2024/10/Penampilan-Al-Islam-Nursery-ClassKinder-A-Classand-Kinder-B-Class-@odirartwork-SundayJune-2nd-2024-@hotelsantikapremierekhi-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.jpg.jpg)
+![sekolah anak-anak bekasi](../wp-content/uploads/2024/10/Penampilan-Al-Islam-Nursery-ClassKinder-A-Classand-Kinder-B-Class-@odirartwork-SundayJune-2nd-2024-@hotelsantikapremierekhi-supported-by-@naykhaofficial-@dafautomobil.id-@ef_kotaharapanindah-@padiglow.jpg.jpg)
 
 Dalam proses ini, penggunaan kata-kata bijak menjadi salah satu cara efektif untuk menanamkan nilai-nilai positif, membangun karakter, dan memperkuat kepribadian anak. Artikel ini akan membahas kumpulan kata bijak yang dapat digunakan untuk mendidik anak serta menghubungkannya dengan prinsip-prinsip pendidikan dalam Islam, seperti membaca sholawat Nuridzati, mengajarkan ucapan terima kasih Islami, dan mengikuti standar pendidikan nasional untuk PAUD.
 
@@ -51,7 +51,7 @@ Hubungan dengan Pendidikan Islam: Dalam Islam, kejujuran adalah nilai yang sanga
 
 - “Setiap kebaikan kecil yang kamu lakukan akan kembali kepadamu dengan cara yang luar biasa.”
 
-Terkait dengan Sholawat Nuridzati: Membaca sholawat seperti Sholawat Nuridzati dapat menjadi bagian dari pembelajaran spiritual untuk melembutkan hati anak dan memperkenalkan mereka pada kasih sayang Allah SWT. ([Sumber](https://asysyams.id/keutamaan-membaca-sholawat-nuridzati-untuk-si-kecil/))
+Terkait dengan Sholawat Nuridzati: Membaca sholawat seperti Sholawat Nuridzati dapat menjadi bagian dari pembelajaran spiritual untuk melembutkan hati anak dan memperkenalkan mereka pada kasih sayang Allah SWT. ([Sumber](../keutamaan-membaca-sholawat-nuridzati-untuk-si-kecil/))
 
 #### 3. Kata Bijak tentang Belajar dan Ilmu
 
@@ -61,7 +61,7 @@ Terkait dengan Sholawat Nuridzati: Membaca sholawat seperti Sholawat Nuridzati d
 
 - “Kesuksesan dimulai dari rasa ingin tahu dan kemauan untuk belajar.”
 
-Hubungan dengan Standar Pendidikan PAUD: Mengajarkan anak untuk mencintai ilmu sejalan dengan Standar Nasional Pendidikan untuk PAUD, yang menekankan pengembangan intelektual dan spiritual sejak usia dini. ([Sumber](https://asysyams.id/standar-nasional-pendidikan-untuk-paud/))
+Hubungan dengan Standar Pendidikan PAUD: Mengajarkan anak untuk mencintai ilmu sejalan dengan Standar Nasional Pendidikan untuk PAUD, yang menekankan pengembangan intelektual dan spiritual sejak usia dini. ([Sumber](../standar-nasional-pendidikan-untuk-paud/))
 
 #### 4. Kata Bijak tentang Rasa Syukur dan Terima Kasih
 
@@ -71,7 +71,7 @@ Hubungan dengan Standar Pendidikan PAUD: Mengajarkan anak untuk mencintai ilmu s
 
 - “Ucapan terima kasih adalah doa terbaik yang bisa kamu berikan untuk orang lain.”
 
-Terkait dengan Ucapan Terima Kasih Islami: Mengajarkan anak untuk selalu mengucapkan “Alhamdulillah” dan “Jazakallahu Khairan” adalah bagian dari pendidikan akhlak Islami. ([Sumber](https://asysyams.id/cara-mengajarkan-ucapan-terima-kasih-islami-untuk-anak-anak/))
+Terkait dengan Ucapan Terima Kasih Islami: Mengajarkan anak untuk selalu mengucapkan “Alhamdulillah” dan “Jazakallahu Khairan” adalah bagian dari pendidikan akhlak Islami. ([Sumber](../cara-mengajarkan-ucapan-terima-kasih-islami-untuk-anak-anak/))
 
 #### 5. Kata Bijak tentang Kesabaran dan Ketekunan
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421044548/https://asysyams.id/7-b
 
 # 7 Bagian Pohon Kelapa dan Fungsinya: Belajar Seru untuk Anak PAUD & TK
 
-[Home](https://asysyams.id/) » 7 Bagian Pohon Kelapa dan Fungsinya: Belajar Seru untuk Anak PAUD & TK
+[Home](../) » 7 Bagian Pohon Kelapa dan Fungsinya: Belajar Seru untuk Anak PAUD & TK
 
 ## Pohon kelapa bukan hanya indah, tetapi juga kaya manfaat. Anak-anak pasti tertarik mengenal tujuh bagian penting
 
-![Bagian Pohon Kelapa](https://asysyams.id/wp-content/uploads/2025/06/ChatGPT-Image-Jun-12-2025-01_05_29-PM.jpg)
+![Bagian Pohon Kelapa](../wp-content/uploads/2025/06/ChatGPT-Image-Jun-12-2025-01_05_29-PM.jpg)
 
 pohon kelapa beserta fungsinya. Melalui pembelajaran ini, kamu bisa mengaitkannya langsung dengan kegiatan belajar di rumah atau di sekolah, terutama untuk anak usia dini. Artikel ini menjabarkan masing-masing bagian pohon kelapa secara sederhana, menarik, mudah dipahami anak, dan patut digunakan guru PAUD atau pendidik TK.
 
@@ -121,11 +121,11 @@ Sebagai lembaga PAUD dan TK, Asy?Syams memahami pentingnya pembelajaran tematik 
 
 Yuk, daftar di Asy?Syams untuk mendapatkan program kreatif, pembelajaran bernuansa alam, serta dukungan penuh dari guru dan orang tua:
 
-- Untuk pendaftaran PAUD tahun ajaran 2024–2025, kunjungi [link ini](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/).
+- Untuk pendaftaran PAUD tahun ajaran 2024–2025, kunjungi [link ini](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/).
 
-- Buat anak masuk sekolah dasar? Daftar di [here](https://asysyams.id/pendaftaran-anak-di-asy-syams/).
+- Buat anak masuk sekolah dasar? Daftar di [here](../pendaftaran-anak-di-asy-syams/).
 
-- Untuk pendaftaran TK saat ini, cek [penawaran terbaru](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
+- Untuk pendaftaran TK saat ini, cek [penawaran terbaru](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/).
 
 ## Tips untuk Guru dan Orang Tua
 
@@ -155,11 +155,11 @@ Yuk, daftar di Asy?Syams untuk mendapatkan program kreatif, pembelajaran bernuan
 
 Semakin cepat anak mengenal pohon kelapa, semakin ia paham akar budaya dan alam sekitarnya. Guru atau orang tua bisa membaca referensi metode pembelajaran PAUD dari Asy?Syams lewat link berikut:
 
-- [Pendaftaran PAUD Asy?Syams 2024–2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- [Pendaftaran PAUD Asy?Syams 2024–2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- [Pendaftaran anak di Asy?Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran anak di Asy?Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Pendaftaran TK Asy?Syams sudah dibuka!](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Pendaftaran TK Asy?Syams sudah dibuka!](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 Selamat belajar ya! Semoga artikel ini membantu menambah wawasan dan menyiapkan modul menarik untuk anak-anak tercinta.
 

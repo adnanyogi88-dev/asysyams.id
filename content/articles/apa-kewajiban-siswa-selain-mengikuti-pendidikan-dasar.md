@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217003801/https://asysyams.id/apa
 
 # Apa Kewajiban Siswa Selain Mengikuti Pendidikan Dasar?
 
-[Home](https://asysyams.id/) » Apa Kewajiban Siswa Selain Mengikuti Pendidikan Dasar?
+[Home](../) » Apa Kewajiban Siswa Selain Mengikuti Pendidikan Dasar?
 
 ## Pendidikan dasar merupakan salah satu hak dan kewajiban yang harus dipenuhi oleh setiap anak.
 
-![Tahapan Perkembangan Anak Menurut Umur](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468438449_18151706935353668_5256883980139824800_n_1080-1024x768.jpg)
+![Tahapan Perkembangan Anak Menurut Umur](../wp-content/uploads/2025/01/Snapinst.app_468438449_18151706935353668_5256883980139824800_n_1080-1024x768.jpg)
 
 Namun, selain mengikuti pendidikan dasar, siswa juga memiliki berbagai kewajiban lain yang berperan dalam membentuk karakter, keterampilan, dan tanggung jawab mereka di masa depan. Artikel ini akan membahas kewajiban siswa selain menjalani pendidikan dasar, yang mencakup pengembangan kepribadian, keterlibatan dalam kegiatan sosial, hingga kesiapan untuk melanjutkan pendidikan lebih tinggi.
 
@@ -59,11 +59,11 @@ Di era digital saat ini, siswa dituntut untuk mampu memanfaatkan teknologi secar
 
 Meskipun pendidikan dasar merupakan kewajiban, siswa juga harus mempersiapkan diri untuk jenjang pendidikan berikutnya. Ini bisa berupa pendidikan menengah, kejuruan, atau bahkan persiapan untuk mengikuti pendidikan di taman kanak-kanak bagi calon siswa yang lebih muda. Dalam hal ini, orang tua memiliki peran penting dalam memilih lembaga pendidikan yang tepat untuk anak-anak mereka.
 
-Jika Anda tertarik dengan dunia pendidikan anak usia dini, ada berbagai peluang bisnis yang bisa dikembangkan, seperti membuka taman kanak-kanak. Informasi lebih lanjut tentang potensi bisnis ini dapat Anda baca di [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/).
+Jika Anda tertarik dengan dunia pendidikan anak usia dini, ada berbagai peluang bisnis yang bisa dikembangkan, seperti membuka taman kanak-kanak. Informasi lebih lanjut tentang potensi bisnis ini dapat Anda baca di [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/).
 
-Bagi orang tua yang sedang mencari informasi mengenai biaya masuk TK negeri, panduan lengkap dapat ditemukan di artikel berikut: [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/).
+Bagi orang tua yang sedang mencari informasi mengenai biaya masuk TK negeri, panduan lengkap dapat ditemukan di artikel berikut: [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/).
 
-Selain itu, bagi yang tertarik dengan peluang usaha di bidang pendidikan berbasis Islam, terdapat kesempatan menarik untuk mengikuti franchise pendidikan TK Islami. Informasi lebih lengkap bisa Anda simak di artikel ini: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+Selain itu, bagi yang tertarik dengan peluang usaha di bidang pendidikan berbasis Islam, terdapat kesempatan menarik untuk mengikuti franchise pendidikan TK Islami. Informasi lebih lengkap bisa Anda simak di artikel ini: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 ### Kesimpulan
 

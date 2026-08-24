@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314224309/https://asysyams.id/asa
 
 # Asal Usul Lagu Anak-Anak Nina Bobo dan Kisah di Baliknya
 
-[Home](https://asysyams.id/) » Asal Usul Lagu Anak-Anak Nina Bobo dan Kisah di Baliknya
+[Home](../) » Asal Usul Lagu Anak-Anak Nina Bobo dan Kisah di Baliknya
 
 ## Lagu “Nina Bobo” adalah salah satu lagu pengantar tidur yang sangat populer di Indonesia.
 
-![gambar anak anak bernyanyi](https://asysyams.id/wp-content/uploads/2024/10/DALL·E-2024-10-18-22.41.35-A-group-of-young-children-singing-together-happily-all-wearing-hijabs.-They-are-standing-in-a-colorful-classroom-or-playgroup-setting-surrounded-by--300x300.webp)
+![gambar anak anak bernyanyi](../wp-content/uploads/2024/10/DALL·E-2024-10-18-22.41.35-A-group-of-young-children-singing-together-happily-all-wearing-hijabs.-They-are-standing-in-a-colorful-classroom-or-playgroup-setting-surrounded-by--300x300.webp)
 
 Meskipun sering kita nyanyikan untuk menenangkan anak-anak sebelum tidur, lagu ini ternyata memiliki latar belakang yang menarik sekaligus sedikit mistis.
 
@@ -35,9 +35,9 @@ Untuk membaca lebih lanjut tentang sejarah lagu-lagu tradisional lainnya, Anda b
 
 Baca juga:
 
-[Lagu Anak-Anak Paling Terkenal di Indonesia](https://asysyams.id/lagu-anak-anak-paling-terkenal-di-indonesia/)
+[Lagu Anak-Anak Paling Terkenal di Indonesia](../lagu-anak-anak-paling-terkenal-di-indonesia/)
 
-[Alat Permainan Edukasi Anak yang Populer di Indonesia](https://asysyams.id/alat-permainan-edukasi-anak-yang-populer-di-indonesia/)
+[Alat Permainan Edukasi Anak yang Populer di Indonesia](../alat-permainan-edukasi-anak-yang-populer-di-indonesia/)
 
 [Jenis Tarian untuk Anak di Indonesia](http://PendidikanJenis Tarian untuk Anak di Indonesia: Warisan Budaya dan Kreasi Modern)
 

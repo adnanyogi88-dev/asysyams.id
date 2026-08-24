@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260216235337/https://asysyams.id/men
 
 # Menggali Potensi Anak Lewat Games Memindahkan Bola dengan Tali: Solusi Edukatif dan Menyenangkan
 
-[Home](https://asysyams.id/) » Menggali Potensi Anak Lewat Games Memindahkan Bola dengan Tali: Solusi Edukatif dan Menyenangkan
+[Home](../) » Menggali Potensi Anak Lewat Games Memindahkan Bola dengan Tali: Solusi Edukatif dan Menyenangkan
 
 ## Dalam dunia pendidikan anak usia dini, metode pembelajaran yang menyenangkan sangat penting.
 
-![](https://asysyams.id/wp-content/uploads/2025/06/ChatGPT-Image-Jun-11-2025-04_40_49-PM.jpg)
+![](../wp-content/uploads/2025/06/ChatGPT-Image-Jun-11-2025-04_40_49-PM.jpg)
 
 Salah satu metode yang terbukti efektif adalah dengan bermain sambil belajar. Salah satu permainan edukatif yang patut anda coba adalah games memindahkan bola dengan tali. Permainan ini bukan hanya menghibur, tetapi juga memiliki nilai edukatif yang tinggi.
 
@@ -41,7 +41,7 @@ Selain itu, permainan ini menumbuhkan rasa percaya diri. Ketika anak berhasil me
 
 Lembaga pendidikan anak usia dini memiliki peran penting dalam memperkenalkan permainan seperti ini. Guru bisa memasukkan permainan memindahkan bola dengan tali ke dalam kegiatan rutin. Dengan begitu, proses belajar menjadi lebih variatif dan menyenangkan.
 
-Di PAUD Asy-Syams, pendekatan pembelajaran yang menyenangkan selalu menjadi prioritas. [Pendaftaran PAUD Asy-Syams Tahun Ajaran 2024/2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) sudah dibuka. Orang tua yang ingin anaknya belajar dengan metode kreatif dan aktif bisa langsung mendaftarkan putra-putrinya.
+Di PAUD Asy-Syams, pendekatan pembelajaran yang menyenangkan selalu menjadi prioritas. [Pendaftaran PAUD Asy-Syams Tahun Ajaran 2024/2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/) sudah dibuka. Orang tua yang ingin anaknya belajar dengan metode kreatif dan aktif bisa langsung mendaftarkan putra-putrinya.
 
 ### Dukungan Orang Tua Sangat Penting
 
@@ -57,7 +57,7 @@ Tidak semua anak berkembang dengan kecepatan yang sama. Ada anak yang mengalami 
 
 Permainan ini sangat mudah dikombinasikan dengan kurikulum pendidikan anak usia dini. Guru bisa menghubungkannya dengan pelajaran matematika, sains, atau bahkan bahasa. Misalnya, guru bisa menambahkan elemen berhitung saat anak memindahkan bola. Bisa juga menantang anak untuk menjelaskan proses yang mereka lakukan.
 
-Pendekatan seperti ini sudah menjadi bagian dari strategi pembelajaran di [TK Asy-Syams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/). Anak-anak tidak hanya bermain, tetapi juga belajar menyeluruh lewat setiap aktivitasnya.
+Pendekatan seperti ini sudah menjadi bagian dari strategi pembelajaran di [TK Asy-Syams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/). Anak-anak tidak hanya bermain, tetapi juga belajar menyeluruh lewat setiap aktivitasnya.
 
 ### Permainan Sebagai Alternatif Pembelajaran Tanpa Gadget
 
@@ -73,7 +73,7 @@ Poin utama dari permainan ini adalah proses, bukan hasil akhir. Anak-anak belaja
 
 ### Mendaftar Sekarang, Tumbuhkan Karakter Sejak Dini
 
-Kalau Anda ingin anak berkembang secara optimal, memilih lembaga pendidikan yang tepat adalah langkah awal yang penting. [Pendaftaran Anak di Asy-Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/) sudah dibuka. Pastikan anak Anda mendapatkan pendidikan terbaik dengan pendekatan menyenangkan seperti permainan edukatif.
+Kalau Anda ingin anak berkembang secara optimal, memilih lembaga pendidikan yang tepat adalah langkah awal yang penting. [Pendaftaran Anak di Asy-Syams](../pendaftaran-anak-di-asy-syams/) sudah dibuka. Pastikan anak Anda mendapatkan pendidikan terbaik dengan pendekatan menyenangkan seperti permainan edukatif.
 
 ### Kesimpulan
 

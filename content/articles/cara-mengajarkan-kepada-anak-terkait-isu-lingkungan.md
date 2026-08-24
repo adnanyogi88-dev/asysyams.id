@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419150006/https://asysyams.id/car
 
 # Cara Mengajarkan kepada Anak Terkait Isu Lingkungan
 
-[Home](https://asysyams.id/) » Cara Mengajarkan kepada Anak Terkait Isu Lingkungan
+[Home](../) » Cara Mengajarkan kepada Anak Terkait Isu Lingkungan
 
 ## Mengenalkan isu lingkungan kepada anak sejak dini merupakan langkah penting dalam menciptakan generasi yang peduli terhadap lingkungan.
 
-![anak dan lingkungan](https://asysyams.id/wp-content/uploads/2024/10/DALL·E-2024-10-31-21.37.46-An-illustration-showing-a-parent-and-child-participating-in-eco-friendly-activities-like-planting-a-tree-and-picking-up-litter.-The-scene-is-in-a-lus-300x300.webp)
+![anak dan lingkungan](../wp-content/uploads/2024/10/DALL·E-2024-10-31-21.37.46-An-illustration-showing-a-parent-and-child-participating-in-eco-friendly-activities-like-planting-a-tree-and-picking-up-litter.-The-scene-is-in-a-lus-300x300.webp)
 
 Kesadaran ini tak hanya penting bagi kelestarian alam, tetapi juga mendukung kesehatan fisik dan mental anak. Berikut ini adalah cara-cara yang dapat membantu orang tua mengajarkan anak terkait isu lingkungan dengan metode yang menarik dan mendidik.
 
@@ -39,7 +39,7 @@ Berbagai buku cerita dan film anak-anak kini banyak yang mengangkat tema lingkun
 
 Kegiatan di alam terbuka seperti hiking, camping, atau piknik di taman akan membantu anak lebih menghargai keindahan alam. Selama kegiatan ini, sampaikan pesan-pesan tentang pentingnya menjaga alam. Misalnya, ajarkan anak untuk tidak meninggalkan sampah, merawat tanaman liar, atau mengamati hewan tanpa mengganggu mereka.
 
-Anda juga bisa membaca lebih lanjut tentang [cara memperkuat mental anak agar cepat beradaptasi dengan lingkungan](https://asysyams.id/cara-memperkuat-mental-anak-agar-cepat-beradaptasi-dengan-lingkungan/) untuk memahami bagaimana dukungan lingkungan dapat meningkatkan ketahanan mental anak.
+Anda juga bisa membaca lebih lanjut tentang [cara memperkuat mental anak agar cepat beradaptasi dengan lingkungan](../cara-memperkuat-mental-anak-agar-cepat-beradaptasi-dengan-lingkungan/) untuk memahami bagaimana dukungan lingkungan dapat meningkatkan ketahanan mental anak.
 
 ### 6. Ajarkan Konsep Daur Ulang dan Upcycling
 
@@ -55,7 +55,7 @@ Perkenalkan anak pada berbagai jenis hewan dan habitat alaminya. Melalui cerita 
 
 ### 9. Kenalkan Pendidikan Jasmani yang Terhubung dengan Alam
 
-Pendidikan jasmani yang melibatkan aktivitas alam terbuka seperti hiking, bersepeda, atau bermain di taman tak hanya menyehatkan fisik anak, tetapi juga menghubungkan mereka dengan alam. Aktivitas ini dapat mendukung perkembangan fisik dan emosional anak serta mengajarkan mereka untuk menikmati keindahan alam sambil menjaganya. Pelajari lebih lanjut tentang [pentingnya pendidikan jasmani pada anak usia dini](https://asysyams.id/memahami-pentingnya-pendidikan-jasmani-pada-anak-usia-dini/) untuk memahami manfaat kegiatan fisik terhadap kesehatan mereka.
+Pendidikan jasmani yang melibatkan aktivitas alam terbuka seperti hiking, bersepeda, atau bermain di taman tak hanya menyehatkan fisik anak, tetapi juga menghubungkan mereka dengan alam. Aktivitas ini dapat mendukung perkembangan fisik dan emosional anak serta mengajarkan mereka untuk menikmati keindahan alam sambil menjaganya. Pelajari lebih lanjut tentang [pentingnya pendidikan jasmani pada anak usia dini](../memahami-pentingnya-pendidikan-jasmani-pada-anak-usia-dini/) untuk memahami manfaat kegiatan fisik terhadap kesehatan mereka.
 
 ### 10. Diskusikan Dampak Polusi secara Sederhana
 
@@ -63,7 +63,7 @@ Anak-anak mungkin belum memahami dampak polusi udara, tanah, atau air secara men
 
 ### 11. Kenalkan Konsep “Parenting Trap” dalam Lingkungan
 
-Parenting trap adalah istilah yang digunakan ketika pola asuh orang tua justru menimbulkan dampak yang kurang diharapkan. Misalnya, membiasakan anak dengan barang-barang sekali pakai atau memberi mereka mainan yang tidak ramah lingkungan. Dengan menghindari “parenting trap,” Anda dapat membentuk anak menjadi lebih peduli terhadap alam. Pahami lebih lanjut tentang [parenting trap dan apa implikasinya terhadap anak](https://asysyams.id/apa-itu-parenting-trap-dan-apa-implikasinya-terhadap-anak/) agar Anda bisa menghindari dampak yang tidak diinginkan.
+Parenting trap adalah istilah yang digunakan ketika pola asuh orang tua justru menimbulkan dampak yang kurang diharapkan. Misalnya, membiasakan anak dengan barang-barang sekali pakai atau memberi mereka mainan yang tidak ramah lingkungan. Dengan menghindari “parenting trap,” Anda dapat membentuk anak menjadi lebih peduli terhadap alam. Pahami lebih lanjut tentang [parenting trap dan apa implikasinya terhadap anak](../apa-itu-parenting-trap-dan-apa-implikasinya-terhadap-anak/) agar Anda bisa menghindari dampak yang tidak diinginkan.
 
 ### 12. Ajak Anak Berpartisipasi dalam Aksi Lingkungan
 

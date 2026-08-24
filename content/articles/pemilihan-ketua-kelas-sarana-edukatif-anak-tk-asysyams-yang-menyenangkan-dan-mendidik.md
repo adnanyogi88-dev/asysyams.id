@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419143133/https://asysyams.id/pem
 
 # Pemilihan Ketua Kelas: Sarana Edukatif Anak TK Asysyams yang Menyenangkan dan Mendidik
 
-[Home](https://asysyams.id/) » Pemilihan Ketua Kelas: Sarana Edukatif Anak TK Asysyams yang Menyenangkan dan Mendidik
+[Home](../) » Pemilihan Ketua Kelas: Sarana Edukatif Anak TK Asysyams yang Menyenangkan dan Mendidik
 
 ## Pemilihan ketua kelas di TK bukan sekadar kegiatan seremonial.
 
-![Waralaba Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
+![Waralaba Bidang Pendidikan](../wp-content/uploads/2025/01/Snapinst.app_468435689_18151706983353668_7447373710995175145_n_1080-1024x768.jpg)
 
 Sebaliknya, kegiatan ini menjadi ajang pembelajaran karakter, tanggung jawab, dan kepemimpinan. Oleh karena itu, TK Asysyams menghadirkan konsep pemilihan ketua kelas yang kreatif, aktif, dan edukatif. Lebih dari itu, kegiatan ini juga mendorong anak-anak untuk mengenal demokrasi sejak dini.
 
@@ -37,13 +37,13 @@ Ketika anak-anak mengalami proses pemilihan ketua kelas, mereka tidak hanya bela
 
 Tidak mengherankan bila pendekatan seperti ini menjadi bagian dari konsep pendidikan modern. Apalagi, TK Asysyams tidak sekadar fokus pada kognitif. Sebaliknya, lembaga ini menekankan pada tumbuh kembang karakter dan nilai sosial anak sejak usia dini.
 
-Jika Anda tertarik mengembangkan lingkungan belajar anak yang positif, Anda bisa mempertimbangkan konsep serupa melalui [franchise pendidikan usia dini yang menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/). Dengan demikian, Anda ikut berkontribusi pada masa depan generasi muda.
+Jika Anda tertarik mengembangkan lingkungan belajar anak yang positif, Anda bisa mempertimbangkan konsep serupa melalui [franchise pendidikan usia dini yang menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/). Dengan demikian, Anda ikut berkontribusi pada masa depan generasi muda.
 
 ### Relevansi dengan Konsep Waralaba Daycare dan Pendidikan Anak
 
-Tidak hanya untuk internal sekolah, konsep pemilihan ketua kelas juga dapat diterapkan dalam model [waralaba daycare berbasis kemitraan](https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/). Oleh sebab itu, pemilik daycare dapat menyisipkan program ini sebagai bagian dari kegiatan rutin.
+Tidak hanya untuk internal sekolah, konsep pemilihan ketua kelas juga dapat diterapkan dalam model [waralaba daycare berbasis kemitraan](../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/). Oleh sebab itu, pemilik daycare dapat menyisipkan program ini sebagai bagian dari kegiatan rutin.
 
-Terlebih lagi, orang tua akan merasa senang bila anak mereka aktif dan terlibat dalam kegiatan positif. Di sisi lain, biaya pendidikan atau penitipan anak yang masuk akal seperti yang dijelaskan pada [estimasi biaya penitipan anak di Jakarta](https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/) juga menjadi daya tarik tersendiri.
+Terlebih lagi, orang tua akan merasa senang bila anak mereka aktif dan terlibat dalam kegiatan positif. Di sisi lain, biaya pendidikan atau penitipan anak yang masuk akal seperti yang dijelaskan pada [estimasi biaya penitipan anak di Jakarta](../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/) juga menjadi daya tarik tersendiri.
 
 ### Kesimpulan: Pemilihan Ketua Kelas, Investasi Karakter Sejak Dini
 

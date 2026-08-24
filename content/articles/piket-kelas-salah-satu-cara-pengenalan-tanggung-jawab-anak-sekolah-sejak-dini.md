@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314171647/https://asysyams.id/pik
 
 # Piket Kelas: Salah Satu Cara Pengenalan Tanggung Jawab Anak Sekolah Sejak Dini
 
-[Home](https://asysyams.id/) » Piket Kelas: Salah Satu Cara Pengenalan Tanggung Jawab Anak Sekolah Sejak Dini
+[Home](../) » Piket Kelas: Salah Satu Cara Pengenalan Tanggung Jawab Anak Sekolah Sejak Dini
 
 ## Pendidikan bukan hanya soal mengajarkan anak membaca, menulis, dan berhitung.
 
-![Tahapan Perkembangan Anak Menurut Umur](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468438449_18151706935353668_5256883980139824800_n_1080-1024x768.jpg)
+![Tahapan Perkembangan Anak Menurut Umur](../wp-content/uploads/2025/01/Snapinst.app_468438449_18151706935353668_5256883980139824800_n_1080-1024x768.jpg)
 
 Lebih dari itu, pendidikan juga mencakup pembentukan karakter dan tanggung jawab sejak dini. Salah satu cara efektif dalam mengenalkan tanggung jawab kepada anak sekolah adalah melalui kegiatan piket kelas. Kegiatan ini tidak hanya membantu menjaga kebersihan dan kerapihan lingkungan kelas, tetapi juga menanamkan nilai kerja sama, disiplin, dan kepedulian sosial.
 
@@ -53,7 +53,7 @@ Agar piket kelas berjalan dengan baik dan memberikan manfaat maksimal, berikut b
 
 Dalam Islam, kebersihan adalah bagian dari iman. Oleh karena itu, mengajarkan kebersihan melalui piket kelas sejalan dengan ajaran Islam. Rasulullah SAW bersabda: “Kebersihan adalah sebagian dari iman.” (HR. Muslim)
 
-Selain itu, pendidikan berbasis nilai-nilai Islam menekankan pentingnya tanggung jawab dan kerja sama. Hal ini dapat dilihat dalam berbagai aspek kehidupan, termasuk dalam mengajarkan anak-anak sejak dini mengenai kewajiban mereka. Untuk memahami lebih dalam mengenai pentingnya pendidikan berbasis nilai Islami bagi anak, Anda dapat membaca artikel berikut: [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
+Selain itu, pendidikan berbasis nilai-nilai Islam menekankan pentingnya tanggung jawab dan kerja sama. Hal ini dapat dilihat dalam berbagai aspek kehidupan, termasuk dalam mengajarkan anak-anak sejak dini mengenai kewajiban mereka. Untuk memahami lebih dalam mengenai pentingnya pendidikan berbasis nilai Islami bagi anak, Anda dapat membaca artikel berikut: [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
 
 ### Kaitan Piket Kelas dengan Pembentukan Karakter Anak
 
@@ -79,7 +79,7 @@ Selain peran guru di sekolah, orang tua juga memiliki tanggung jawab untuk menan
 
 - Mengapresiasi usaha anak dalam menjaga kebersihan, sekecil apa pun usahanya.
 
-Jika Anda ingin memahami lebih lanjut tentang manfaat mengenalkan kebiasaan baik, termasuk rukun Islam sejak dini kepada anak, Anda bisa membaca artikel berikut: [Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/).
+Jika Anda ingin memahami lebih lanjut tentang manfaat mengenalkan kebiasaan baik, termasuk rukun Islam sejak dini kepada anak, Anda bisa membaca artikel berikut: [Manfaat Mengenalkan Rukun Islam Sejak Dini kepada Anak](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/).
 
 ### Tantangan dalam Pelaksanaan Piket Kelas
 
@@ -109,7 +109,7 @@ Untuk mengatasi tantangan tersebut, beberapa solusi yang dapat diterapkan adalah
 
 Piket kelas merupakan salah satu cara yang efektif dalam mengenalkan tanggung jawab kepada anak sekolah sejak dini. Melalui kegiatan ini, anak-anak dapat belajar disiplin, kerja sama, serta kepedulian terhadap kebersihan lingkungan. Meskipun ada tantangan dalam pelaksanaannya, dengan pendekatan yang tepat, manfaat yang diperoleh jauh lebih besar.
 
-Selain membiasakan tanggung jawab di sekolah, orang tua juga memiliki peran penting dalam menanamkan nilai kebersihan dan tanggung jawab di rumah. Jika Anda ingin memahami lebih lanjut tentang pendidikan anak sejak dini dan persiapan memasukkan anak ke sekolah, Anda bisa membaca artikel berikut: [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/).
+Selain membiasakan tanggung jawab di sekolah, orang tua juga memiliki peran penting dalam menanamkan nilai kebersihan dan tanggung jawab di rumah. Jika Anda ingin memahami lebih lanjut tentang pendidikan anak sejak dini dan persiapan memasukkan anak ke sekolah, Anda bisa membaca artikel berikut: [Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/).
 
 [
 WhatsApp Kami

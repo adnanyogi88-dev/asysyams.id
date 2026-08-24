@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008072538/https://asysyams.id/mod
 
 # Modul RPP TK A Semester 1 Tahun Ajaran 2025/2026: Pembelajaran Mendalam di TK Islam AsySyams
 
-[Home](https://asysyams.id/) » Modul RPP TK A Semester 1 Tahun Ajaran 2025/2026: Pembelajaran Mendalam di TK Islam AsySyams
+[Home](../) » Modul RPP TK A Semester 1 Tahun Ajaran 2025/2026: Pembelajaran Mendalam di TK Islam AsySyams
 
 ## Pendidikan anak usia dini merupakan fondasi yang sangat penting dalam membentuk kepribadian, kecerdasan, dan karakter anak.
 
-![Membuat Menu Bulanan](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_77b508cb-931x1024.jpg)
+![Membuat Menu Bulanan](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_77b508cb-931x1024.jpg)
 
 Oleh karena itu, setiap lembaga pendidikan tertuntut untuk menghadirkan strategi belajar yang tidak hanya menekankan aspek kognitif, melainkan juga membangun karakter. Memasuki tahun ajaran 2025/2026, penerapan Kurikulum Merdeka semakin menegaskan pentingnya pembelajaran mendalam (deep learning) sebagai pendekatan utama.
 
@@ -43,7 +43,7 @@ Secara umum, Modul RPP TK A Semester 1 tahun ajaran 2025/2026 terancang dengan m
 
 Akan tetapi, di TK Islam AsySyams, kedelapan dimensi ini tidak hanya dijalankan dalam konteks umum. Sebaliknya, setiap dimensi terterjemahkan melalui kegiatan yang mengandung nilai-nilai Islami. Misalnya, ketika anak belajar tentang kemandirian, mereka juga terajarkan untuk berdoa sebelum dan sesudah melakukan aktivitas. Oleh karena itu, pembelajaran tidak hanya membentuk kecerdasan, tetapi juga memperkuat iman.
 
-Bagi orang tua atau pendidik yang ingin memahami lebih lanjut mengenai peran lembaga pendidikan dalam membangun karakter anak, dapat membaca artikel [penjelasan lengkap tentang institusi pendidikan dan fungsinya di sini](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
+Bagi orang tua atau pendidik yang ingin memahami lebih lanjut mengenai peran lembaga pendidikan dalam membangun karakter anak, dapat membaca artikel [penjelasan lengkap tentang institusi pendidikan dan fungsinya di sini](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
 
 ## Penerapan Pembelajaran Mendalam di TK Islam AsySyams
 
@@ -51,7 +51,7 @@ Pendekatan deep learning di TK A menekankan pada pemahaman konsep secara utuh da
 
 Di TK Islam AsySyams, pembelajaran mendalam kita laksanakan dengan metode bermain sambil belajar. Contohnya, ketika tema pembelajaran adalah “Diriku/Identitasku”, anak-anak tidak hanya menyebutkan nama, tetapi juga diajak untuk menyadari bahwa setiap nama adalah anugerah dari Allah SWT. Oleh karena itu, pembelajaran menjadi lebih bermakna sekaligus spiritual.
 
-Selain itu, cerita Islami juga dijadikan sebagai media pembelajaran. Dengan mendengarkan [kumpulan cerita Islami pendek untuk anak](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/), anak-anak belajar mengenai akhlak, kejujuran, serta rasa syukur. Akhirnya, mereka dapat menginternalisasi nilai-nilai agama secara alami.
+Selain itu, cerita Islami juga dijadikan sebagai media pembelajaran. Dengan mendengarkan [kumpulan cerita Islami pendek untuk anak](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/), anak-anak belajar mengenai akhlak, kejujuran, serta rasa syukur. Akhirnya, mereka dapat menginternalisasi nilai-nilai agama secara alami.
 
 ## Integrasi Projek dalam Kegiatan Mingguan
 
@@ -69,7 +69,7 @@ Di TK Islam AsySyams, setiap projek mingguan dihubungkan dengan praktik Islami. 
 
 ## Keunggulan TK Islam AsySyams
 
-Sebagai salah satu [TK Islam terbaik di Bekasi dengan fasilitas lengkap](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), AsySyams menghadirkan lingkungan belajar yang nyaman, Islami, dan modern. Tidak hanya itu, sekolah ini juga menekankan pembiasaan ibadah harian, seperti shalat dhuha, membaca doa, dan tilawah Al-Qur’an.
+Sebagai salah satu [TK Islam terbaik di Bekasi dengan fasilitas lengkap](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), AsySyams menghadirkan lingkungan belajar yang nyaman, Islami, dan modern. Tidak hanya itu, sekolah ini juga menekankan pembiasaan ibadah harian, seperti shalat dhuha, membaca doa, dan tilawah Al-Qur’an.
 
 Karena itu, anak-anak tidak hanya menjadi pribadi yang cerdas, tetapi juga terbiasa menjalankan nilai-nilai Islam sejak usia dini. Dengan integrasi antara Kurikulum Merdeka dan pendidikan Islami, TK Islam AsySyams berhasil menghadirkan pendekatan yang unik serta relevan dengan kebutuhan masyarakat.
 

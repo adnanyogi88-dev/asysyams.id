@@ -11,15 +11,15 @@ archive_url: "https://web.archive.org/web/20260216230955/https://asysyams.id/mat
 
 # Mata Pelajaran Anak PAUD: Fondasi Penting dalam Pendidikan Usia Dini
 
-[Home](https://asysyams.id/) » Mata Pelajaran Anak PAUD: Fondasi Penting dalam Pendidikan Usia Dini
+[Home](../) » Mata Pelajaran Anak PAUD: Fondasi Penting dalam Pendidikan Usia Dini
 
 ## Pendidikan Anak Usia Dini (PAUD) memiliki peran yang sangat penting dalam membentuk karakter, keterampilan, dan kecerdasan anak sejak dini.
 
-![Skema Bisnis Franchise](https://asysyams.id/wp-content/uploads/2024/10/WhatsApp-Image-2025-01-18-at-09.59.31-1024x1024.webp)
+![Skema Bisnis Franchise](../wp-content/uploads/2024/10/WhatsApp-Image-2025-01-18-at-09.59.31-1024x1024.webp)
 
 Dalam sistem pendidikan ini, mata pelajaran anak PAUD dirancang secara khusus untuk membantu mereka mengembangkan aspek kognitif, sosial, emosional, dan motorik. Kurikulum PAUD tidak hanya berfokus pada akademik, tetapi juga menekankan pembelajaran yang menyenangkan melalui bermain dan eksplorasi.
 
-PAUD yang baik akan menerapkan metode pembelajaran yang sesuai dengan standar nasional pendidikan, seperti yang terjelaskan dalam artikel [Standar Nasional Pendidikan untuk PAUD](https://asysyams.id/standar-nasional-pendidikan-untuk-paud/). Oleh karena itu, pemilihan PAUD yang berkualitas menjadi aspek penting dalam pendidikan anak.
+PAUD yang baik akan menerapkan metode pembelajaran yang sesuai dengan standar nasional pendidikan, seperti yang terjelaskan dalam artikel [Standar Nasional Pendidikan untuk PAUD](../standar-nasional-pendidikan-untuk-paud/). Oleh karena itu, pemilihan PAUD yang berkualitas menjadi aspek penting dalam pendidikan anak.
 
 ## Pentingnya Mata Pelajaran dalam PAUD
 
@@ -27,7 +27,7 @@ Mata pelajaran dalam PAUD terancang untuk membantu anak dalam mencapai tahap per
 
 ### 1. Pendidikan Agama dan Moral
 
-Mata pelajaran ini bertujuan untuk menanamkan nilai-nilai keagamaan dan moral sejak dini. Anak-anak ajarkan tentang doa-doa harian, kisah-kisah nabi, serta nilai-nilai seperti kejujuran, kasih sayang, dan disiplin. PAUD Islam seperti [PAUD Islam dengan Edukasi yang Bagus di Bekasi](https://asysyams.id/paud-islam-dengan-edukasi-yang-bagus-bekasi/) sering kali menerapkan pendekatan berbasis nilai Islam dalam kegiatan pembelajaran sehari-hari.
+Mata pelajaran ini bertujuan untuk menanamkan nilai-nilai keagamaan dan moral sejak dini. Anak-anak ajarkan tentang doa-doa harian, kisah-kisah nabi, serta nilai-nilai seperti kejujuran, kasih sayang, dan disiplin. PAUD Islam seperti [PAUD Islam dengan Edukasi yang Bagus di Bekasi](../paud-islam-dengan-edukasi-yang-bagus-bekasi/) sering kali menerapkan pendekatan berbasis nilai Islam dalam kegiatan pembelajaran sehari-hari.
 
 ### 2. Bahasa dan Komunikasi
 
@@ -99,7 +99,7 @@ Anak-anak dapat memainkan peran sebagai dokter, guru, atau karakter lainnya untu
 
 ## Memilih PAUD yang Tepat
 
-Dalam memilih PAUD yang baik, orang tua harus mempertimbangkan beberapa faktor, seperti kualitas guru, metode pembelajaran, lingkungan sekolah, serta nilai-nilai yang diajarkan. Jika Anda berada di Bekasi, Anda bisa mempertimbangkan [Rekomendasi PAUD Islam di Harapan Indah, Bekasi](https://asysyams.id/rekomendasi-paud-islam-di-harapan-indah-bekasi/) sebagai referensi.
+Dalam memilih PAUD yang baik, orang tua harus mempertimbangkan beberapa faktor, seperti kualitas guru, metode pembelajaran, lingkungan sekolah, serta nilai-nilai yang diajarkan. Jika Anda berada di Bekasi, Anda bisa mempertimbangkan [Rekomendasi PAUD Islam di Harapan Indah, Bekasi](../rekomendasi-paud-islam-di-harapan-indah-bekasi/) sebagai referensi.
 
 ## Kesimpulan
 

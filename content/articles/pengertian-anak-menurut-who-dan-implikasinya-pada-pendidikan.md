@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314232346/https://asysyams.id/pen
 
 # Pengertian Anak Menurut WHO dan Implikasinya pada Pendidikan
 
-[Home](https://asysyams.id/) » Pengertian Anak Menurut WHO dan Implikasinya pada Pendidikan
+[Home](../) » Pengertian Anak Menurut WHO dan Implikasinya pada Pendidikan
 
 ## Menurut WHO Anak adalah masa depan sebuah bangsa mri kita jabarkan lebih mendalam di artikel ini.
 
-![franchise sekolah asyisyam](https://asysyams.id/wp-content/uploads/2024/09/Screenshot_12.png)
+![franchise sekolah asyisyam](../wp-content/uploads/2024/09/Screenshot_12.png)
 
 Oleh karena itu, memahami definisi anak dan berbagai aspeknya sangat penting bagi para orang tua, pendidik, dan masyarakat umum. Salah satu definisi yang sering kita jadikan acuan adalah pengertian anak menurut World Health Organization (WHO). WHO memberikan panduan universal terkait perkembangan anak yang mencakup aspek fisik, mental, dan sosial. Artikel ini akan membahas pengertian anak menurut WHO, kaitannya dengan perkembangan mereka, serta menghubungkannya dengan beberapa masalah dan solusi yang telah kita bahas dalam artikel-artikel lainnya.
 
@@ -27,19 +27,19 @@ WHO menekankan pentingnya menciptakan lingkungan yang mendukung pertumbuhan opti
 
 ### Tahapan Pertumbuhan dan Perkembangan Anak
 
-Setiap anak mengalami tahapan pertumbuhan dan perkembangan yang berbeda, sebagaimana terjelaskan dalam artikel [Perbedaan Pertumbuhan dan Perkembangan pada Anak](https://asysyams.id/perbedaan-pertumbuhan-dan-perkembangan-pada-anak/). Pertumbuhan mengacu pada perubahan fisik, seperti peningkatan tinggi badan dan berat badan, sementara perkembangan mencakup kemampuan motorik, kognitif, emosional, dan sosial.
+Setiap anak mengalami tahapan pertumbuhan dan perkembangan yang berbeda, sebagaimana terjelaskan dalam artikel [Perbedaan Pertumbuhan dan Perkembangan pada Anak](../perbedaan-pertumbuhan-dan-perkembangan-pada-anak/). Pertumbuhan mengacu pada perubahan fisik, seperti peningkatan tinggi badan dan berat badan, sementara perkembangan mencakup kemampuan motorik, kognitif, emosional, dan sosial.
 
 Pada tahap bayi (0-2 tahun), anak fokus pada perkembangan motorik kasar dan halus. Di usia balita (2-5 tahun), mereka mulai menunjukkan perkembangan bahasa dan sosial. Memahami perbedaan antara pertumbuhan dan perkembangan penting untuk memastikan bahwa anak mendapatkan stimulasi yang sesuai pada setiap tahap.
 
 ### Masalah pada Anak Usia Dini
 
-Anak-anak usia dini sering kali menghadapi berbagai masalah yang dapat memengaruhi perkembangan mereka. Sebagaimana kita ulas dalam artikel [Permasalahan Anak Usia Dini dan Solusinya](https://asysyams.id/permasalahan-anak-usia-dini-dan-solusinya/), beberapa masalah umum yang terjadi pada anak usia dini meliputi keterlambatan bicara, gangguan perilaku, dan kesulitan dalam interaksi sosial.
+Anak-anak usia dini sering kali menghadapi berbagai masalah yang dapat memengaruhi perkembangan mereka. Sebagaimana kita ulas dalam artikel [Permasalahan Anak Usia Dini dan Solusinya](../permasalahan-anak-usia-dini-dan-solusinya/), beberapa masalah umum yang terjadi pada anak usia dini meliputi keterlambatan bicara, gangguan perilaku, dan kesulitan dalam interaksi sosial.
 
 WHO menyarankan agar masalah-masalah ini kita atasi dengan pendekatan multidisiplin, melibatkan orang tua, pendidik, dan profesional kesehatan. Lingkungan yang aman dan penuh kasih sayang sangat penting dalam membantu anak mengatasi hambatan perkembangan ini.
 
 ### Anak Manja vs. Anak Mandiri
 
-Salah satu tantangan terbesar dalam pengasuhan adalah menemukan keseimbangan antara memberikan perhatian kepada anak dan mendorong kemandirian mereka. Artikel [Anak Manja vs. Anak Mandiri: Membentuk Generasi Tangguh dengan Pendekatan Holistik di TK Asy Syams](https://asysyams.id/anak-manja-vs-anak-mandiri-membentuk-generasi-tangguh-dengan-pendekatan-holistik-di-tk-asysyams/) memberikan wawasan tentang bagaimana pendekatan holistik dapat membantu anak menjadi individu yang mandiri tanpa kehilangan rasa kasih sayang dari orang tua.
+Salah satu tantangan terbesar dalam pengasuhan adalah menemukan keseimbangan antara memberikan perhatian kepada anak dan mendorong kemandirian mereka. Artikel [Anak Manja vs. Anak Mandiri: Membentuk Generasi Tangguh dengan Pendekatan Holistik di TK Asy Syams](../anak-manja-vs-anak-mandiri-membentuk-generasi-tangguh-dengan-pendekatan-holistik-di-tk-asysyams/) memberikan wawasan tentang bagaimana pendekatan holistik dapat membantu anak menjadi individu yang mandiri tanpa kehilangan rasa kasih sayang dari orang tua.
 
 Pendekatan holistik ini selaras dengan pandangan WHO yang menekankan pentingnya perkembangan emosional dan sosial anak. Anak-anak yang terlalu dimanja cenderung memiliki masalah dalam kemandirian, sementara anak yang diberikan kebebasan berlebihan tanpa bimbingan mungkin menghadapi kesulitan dalam pengambilan keputusan.
 
@@ -67,11 +67,11 @@ Pengertian anak menurut WHO memberikan dasar yang kuat untuk memahami berbagai a
 
 Untuk informasi lebih lanjut tentang berbagai isu terkait anak, kunjungi artikel berikut:
 
-- [Permasalahan Anak Usia Dini dan Solusinya](https://asysyams.id/permasalahan-anak-usia-dini-dan-solusinya/)
+- [Permasalahan Anak Usia Dini dan Solusinya](../permasalahan-anak-usia-dini-dan-solusinya/)
 
-- [Anak Manja vs. Anak Mandiri: Membentuk Generasi Tangguh dengan Pendekatan Holistik di TK Asy Syams](https://asysyams.id/anak-manja-vs-anak-mandiri-membentuk-generasi-tangguh-dengan-pendekatan-holistik-di-tk-asysyams/)
+- [Anak Manja vs. Anak Mandiri: Membentuk Generasi Tangguh dengan Pendekatan Holistik di TK Asy Syams](../anak-manja-vs-anak-mandiri-membentuk-generasi-tangguh-dengan-pendekatan-holistik-di-tk-asysyams/)
 
-- [Perbedaan Pertumbuhan dan Perkembangan pada Anak](https://asysyams.id/perbedaan-pertumbuhan-dan-perkembangan-pada-anak/)
+- [Perbedaan Pertumbuhan dan Perkembangan pada Anak](../perbedaan-pertumbuhan-dan-perkembangan-pada-anak/)
 
 Dengan memahami konsep ini, kita dapat bersama-sama menciptakan lingkungan yang mendukung pertumbuhan dan perkembangan anak secara optimal.
 

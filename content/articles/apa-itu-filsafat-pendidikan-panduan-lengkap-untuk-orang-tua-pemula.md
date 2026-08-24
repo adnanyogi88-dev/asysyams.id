@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008072507/https://asysyams.id/apa
 
 # Apa Itu Filsafat Pendidikan? Panduan Lengkap untuk Orang Tua Pemula
 
-[Home](https://asysyams.id/) » Apa Itu Filsafat Pendidikan? Panduan Lengkap untuk Orang Tua Pemula
+[Home](../) » Apa Itu Filsafat Pendidikan? Panduan Lengkap untuk Orang Tua Pemula
 
 ## 1. Pengantar: Mengapa Filsafat Pendidikan Penting?
 
-![baby daycare](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.22_b74241fe-768x1024.jpg)
+![baby daycare](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.22_b74241fe-768x1024.jpg)
 
 Setiap orang tua tentu menginginkan yang terbaik untuk anaknya. Namun, sebelum memutuskan sekolah atau metode belajar, orang tua sebaiknya memahami apa itu filsafat pendidikan. Dengan demikian, orang tua dapat memilih jalur pendidikan anak secara lebih tepat. Selain itu, pemahaman filsafat membuat arah pendidikan keluarga menjadi jelas, konsisten, dan tidak mudah goyah.
 

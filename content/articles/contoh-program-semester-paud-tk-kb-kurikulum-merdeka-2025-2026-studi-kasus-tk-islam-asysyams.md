@@ -11,17 +11,17 @@ archive_url: "https://web.archive.org/web/20251008071018/https://asysyams.id/con
 
 # Contoh Program Semester PAUD TK/KB Kurikulum Merdeka 2025/2026: Studi Kasus TK Islam AsySyams
 
-[Home](https://asysyams.id/) » Contoh Program Semester PAUD TK/KB Kurikulum Merdeka 2025/2026: Studi Kasus TK Islam AsySyams
+[Home](../) » Contoh Program Semester PAUD TK/KB Kurikulum Merdeka 2025/2026: Studi Kasus TK Islam AsySyams
 
 ## Pentingnya Program Semester di PAUD
 
-![contoh prosem](https://asysyams.id/wp-content/uploads/2025/09/ChatGPT-Image-Aug-20-2025-08_37_36-AM.jpg)
+![contoh prosem](../wp-content/uploads/2025/09/ChatGPT-Image-Aug-20-2025-08_37_36-AM.jpg)
 
 Program Semester (Promes) merupakan perencanaan kegiatan belajar di PAUD (TK/KB/TPA/SPS) selama satu semester, lengkap dengan daftar topik dan alokasi waktunya. Dalam Kurikulum Merdeka, penyusunan promes bersifat fleksibel, disesuaikan dengan kalender pendidikan yang kita tetapkan oleh dinas pendidikan provinsi.
 
 Bagi lembaga pendidikan anak usia dini, promes berfungsi sebagai panduan pembelajaran agar kegiatan bermain-belajar lebih terarah dan bermakna. Topik yang terpilih membantu anak memperluas wawasan, kosa kata, serta menstimulasi perkembangan kognitif, sosial-emosional, motorik, dan spiritual.
 
-Sebagai gambaran tentang peran penting lembaga pendidikan, Anda juga dapat membaca penjelasan lengkap pada artikel [apa itu institusi pendidikan, fungsi, dan contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
+Sebagai gambaran tentang peran penting lembaga pendidikan, Anda juga dapat membaca penjelasan lengkap pada artikel [apa itu institusi pendidikan, fungsi, dan contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/).
 
 ## Cara Menyusun Prosem PAUD Kurikulum Merdeka
 
@@ -61,11 +61,11 @@ Sebagai contoh implementasi, TK Islam AsySyams di Bekasi mengembangkan promes ya
 
 - Pada tema “Lingkunganku”, kegiatan bermain disertai dengan pembiasaan menjaga kebersihan sebagai bagian dari iman.
 
-- Untuk memperkuat literasi dini tanpa memaksakan calistung, TK Islam AsySyams menggunakan media [kumpulan cerita islami pendek untuk anak](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) sebagai bahan stimulasi mendengar, berbicara, dan bercerita.
+- Untuk memperkuat literasi dini tanpa memaksakan calistung, TK Islam AsySyams menggunakan media [kumpulan cerita islami pendek untuk anak](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/) sebagai bahan stimulasi mendengar, berbicara, dan bercerita.
 
-![](https://asysyams.id/wp-content/uploads/2025/09/ChatGPT-Image-Aug-20-2025-08_40_34-AM.jpg)
+![](../wp-content/uploads/2025/09/ChatGPT-Image-Aug-20-2025-08_40_34-AM.jpg)
 
-TK ini juga terkenal sebagai salah satu [TK Islam terbaik di Bekasi dengan fasilitas unggulan](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), yang mengutamakan keseimbangan antara bermain, belajar, dan pembentukan akhlak mulia.
+TK ini juga terkenal sebagai salah satu [TK Islam terbaik di Bekasi dengan fasilitas unggulan](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), yang mengutamakan keseimbangan antara bermain, belajar, dan pembentukan akhlak mulia.
 
 ## Kesimpulan
 

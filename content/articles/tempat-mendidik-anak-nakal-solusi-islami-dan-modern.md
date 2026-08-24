@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419151137/https://asysyams.id/tem
 
 # Tempat Mendidik Anak Nakal Solusi Islami dan Modern
 
-[Home](https://asysyams.id/) » Tempat Mendidik Anak Nakal Solusi Islami dan Modern
+[Home](../) » Tempat Mendidik Anak Nakal Solusi Islami dan Modern
 
 ## Mendidik anak merupakan tugas utama orang tua yang memiliki tantangan tersendiri,
 
-![franchise sekolah asyisyam](https://asysyams.id/wp-content/uploads/2024/09/Screenshot_12.png)
+![franchise sekolah asyisyam](../wp-content/uploads/2024/09/Screenshot_12.png)
 
 Terutama jika anak menunjukkan perilaku yang sering kita anggap “nakal.” Istilah “anak nakal” sering kita gunakan untuk menggambarkan anak-anak yang sulit kita atur, memiliki temperamen keras, atau sering melanggar aturan. Namun, alih-alih memberikan label negatif, penting untuk memahami penyebab perilaku tersebut dan mencari solusi yang tepat untuk mendidiknya. Salah satu cara efektif adalah melalui pendidikan di tempat-tempat yang terancang khusus untuk membantu anak-anak dengan perilaku seperti ini.
 
@@ -77,11 +77,11 @@ Sekolah ini menggunakan pendekatan individual untuk membantu anak mengatasi kesu
 
 #### b. Lembaga Pendidikan Berbasis Agama
 
-Dalam artikel “[Kiat-Kiat Parenting Islami: Mendidik Anak Sesuai Nilai-Nilai Islam](https://asysyams.id/kiat-kiat-parenting-islami-mendidik-anak-sesuai-nilai-nilai-islam/),” pentingnya pendidikan agama kita tegaskan sebagai fondasi untuk membentuk akhlak anak. Lembaga pendidikan berbasis Islam menanamkan nilai-nilai moral dan spiritual yang kuat, seperti kejujuran, kedisiplinan, dan tanggung jawab.
+Dalam artikel “[Kiat-Kiat Parenting Islami: Mendidik Anak Sesuai Nilai-Nilai Islam](../kiat-kiat-parenting-islami-mendidik-anak-sesuai-nilai-nilai-islam/),” pentingnya pendidikan agama kita tegaskan sebagai fondasi untuk membentuk akhlak anak. Lembaga pendidikan berbasis Islam menanamkan nilai-nilai moral dan spiritual yang kuat, seperti kejujuran, kedisiplinan, dan tanggung jawab.
 
 #### c. Program Pendidikan Nonformal
 
-Berdasarkan artikel “[5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/),” beberapa franchise pendidikan di Indonesia menawarkan program nonformal yang dapat membantu anak belajar dengan cara yang lebih fleksibel. Program seperti ini bisa mencakup pelatihan keterampilan sosial, pengembangan emosi, dan pendidikan berbasis kreativitas.
+Berdasarkan artikel “[5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/),” beberapa franchise pendidikan di Indonesia menawarkan program nonformal yang dapat membantu anak belajar dengan cara yang lebih fleksibel. Program seperti ini bisa mencakup pelatihan keterampilan sosial, pengembangan emosi, dan pendidikan berbasis kreativitas.
 
 #### d. Pondok Pesantren
 
@@ -89,7 +89,7 @@ Pesantren merupakan salah satu pilihan populer di kalangan masyarakat Indonesia 
 
 ### 3. Mendidik Anak Nakal dengan Pendekatan Islami
 
-Pendekatan Islami dalam mendidik anak menekankan pada kasih sayang, keteladanan, dan pembentukan karakter sesuai ajaran Al-Qur’an dan Sunnah. Dalam artikel “[Blessed: Artinya dalam Islam dan Kaitannya dengan Parenting Islami](https://asysyams.id/blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/), istilah “blessed” terartikan sebagai keberkahan yang hadir ketika orang tua mendidik anak dengan cara yang benar.
+Pendekatan Islami dalam mendidik anak menekankan pada kasih sayang, keteladanan, dan pembentukan karakter sesuai ajaran Al-Qur’an dan Sunnah. Dalam artikel “[Blessed: Artinya dalam Islam dan Kaitannya dengan Parenting Islami](../blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/), istilah “blessed” terartikan sebagai keberkahan yang hadir ketika orang tua mendidik anak dengan cara yang benar.
 
 #### a. Pentingnya Akhlak dalam Islam
 
@@ -109,7 +109,7 @@ Islam menempatkan akhlak mulia sebagai aspek utama dalam pendidikan. Rasulullah 
 
 ### 4. Mengintegrasikan Pendidikan Modern dan Nilai Islam
 
-Dalam dunia modern, pendidikan tidak hanya bergantung pada metode tradisional tetapi juga memanfaatkan teknologi dan inovasi. Beberapa franchise pendidikan di Indonesia telah berhasil menggabungkan kedua aspek ini, seperti yang dijelaskan dalam artikel “[5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).”
+Dalam dunia modern, pendidikan tidak hanya bergantung pada metode tradisional tetapi juga memanfaatkan teknologi dan inovasi. Beberapa franchise pendidikan di Indonesia telah berhasil menggabungkan kedua aspek ini, seperti yang dijelaskan dalam artikel “[5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).”
 
 #### a. Contoh Franchise Pendidikan yang Relevan
 

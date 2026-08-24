@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515082735/https://asysyams.id/imp
 
 # Implementasi UU Perlindungan Anak dalam Pendidikan Anak Usia Dini di Indonesia
 
-[Home](https://asysyams.id/) » Implementasi UU Perlindungan Anak dalam Pendidikan Anak Usia Dini di Indonesia
+[Home](../) » Implementasi UU Perlindungan Anak dalam Pendidikan Anak Usia Dini di Indonesia
 
 ## Perlindungan anak merupakan aspek krusial dalam pembangunan bangsa, mengingat anak-anak adalah generasi penerus.
 
-![apa itu parenting islami](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_447206323_18132872335353668_7510575450558454136_n_1080-1024x768.jpg)
+![apa itu parenting islami](../wp-content/uploads/2024/10/Snapinsta.app_447206323_18132872335353668_7510575450558454136_n_1080-1024x768.jpg)
 
 Kesadaran akan pentingnya perlindungan ini telah mendorong pemerintah untuk menetapkan berbagai regulasi, salah satunya adalah Undang-Undang Nomor 35 Tahun 2014 tentang Perlindungan Anak. UU ini merupakan revisi dari UU Nomor 23 Tahun 2002 dan bertujuan untuk memperkuat perlindungan terhadap anak, khususnya dalam konteks pendidikan anak usia dini (PAUD).
 
@@ -31,7 +31,7 @@ Peraturan ini sejalan dengan Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pe
 
 #### 1. Pengembangan Kurikulum Berbasis Nilai Islami
 
-Implementasi UU Perlindungan Anak dalam pendidikan anak usia dini dapat terwujudkan melalui pengembangan kurikulum yang berbasis nilai-nilai Islami. Hal ini penting untuk membentuk karakter anak yang berakhlak mulia sejak dini. Sebagaimana disebutkan dalam [hadits tentang pendidikan anak usia dini](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/), Rasulullah SAW memberikan berbagai panduan mengenai cara mendidik dan membesarkan anak sesuai ajaran agama.
+Implementasi UU Perlindungan Anak dalam pendidikan anak usia dini dapat terwujudkan melalui pengembangan kurikulum yang berbasis nilai-nilai Islami. Hal ini penting untuk membentuk karakter anak yang berakhlak mulia sejak dini. Sebagaimana disebutkan dalam [hadits tentang pendidikan anak usia dini](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/), Rasulullah SAW memberikan berbagai panduan mengenai cara mendidik dan membesarkan anak sesuai ajaran agama.
 
 Masa anak-anak adalah fase krusial dalam membentuk karakter, pola pikir, dan kepribadian yang akan mempengaruhi kehidupan mereka di masa depan. Melalui pendidikan berbasis nilai Islami, anak-anak dapat tumbuh menjadi pribadi yang kuat, mandiri, dan berakhlak mulia.
 
@@ -41,7 +41,7 @@ Pendidik memiliki peran sentral dalam implementasi UU Perlindungan Anak. Oleh ka
 
 #### 3. Pengenalan Nilai-Nilai Keislaman Sejak Dini
 
-Mengenalkan nilai-nilai keislaman, termasuk rukun Islam, sejak dini adalah bagian dari implementasi pendidikan yang berbasis perlindungan anak. Sebagaimana terjelaskan dalam artikel [manfaat mengenalkan rukun Islam sejak dini kepada anak](https://asysyams.id/manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/), pengenalan nilai-nilai Islam dapat membantu anak memahami pentingnya keimanan dan ibadah dalam kehidupan mereka.
+Mengenalkan nilai-nilai keislaman, termasuk rukun Islam, sejak dini adalah bagian dari implementasi pendidikan yang berbasis perlindungan anak. Sebagaimana terjelaskan dalam artikel [manfaat mengenalkan rukun Islam sejak dini kepada anak](../manfaat-mengenalkan-rukun-islam-sejak-dini-kepada-anak/), pengenalan nilai-nilai Islam dapat membantu anak memahami pentingnya keimanan dan ibadah dalam kehidupan mereka.
 
 #### 4. Penciptaan Lingkungan Belajar yang Aman dan Nyaman
 
@@ -69,7 +69,7 @@ Lembaga pendidikan memiliki peran strategis dalam implementasi UU Perlindungan A
 
 - Menyediakan Program Pendidikan Orang Tua: Kerjasama antara sekolah dan orang tua sangat penting. Program pendidikan bagi orang tua mengenai perlindungan anak dapat meningkatkan pemahaman mereka terhadap hak-hak anak dan cara mendidik yang tepat.
 
-- Menawarkan Pendidikan Berkualitas Melalui PAUD yang Terstandarisasi: Lembaga pendidikan juga dapat berkontribusi dengan mengembangkan sistem pendidikan yang terstandarisasi, seperti [franchise PAUD terbaik](https://asysyams.id/rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/) yang memungkinkan lebih banyak anak mendapatkan akses pendidikan berkualitas.
+- Menawarkan Pendidikan Berkualitas Melalui PAUD yang Terstandarisasi: Lembaga pendidikan juga dapat berkontribusi dengan mengembangkan sistem pendidikan yang terstandarisasi, seperti [franchise PAUD terbaik](../rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/) yang memungkinkan lebih banyak anak mendapatkan akses pendidikan berkualitas.
 
 ### Kesimpulan
 

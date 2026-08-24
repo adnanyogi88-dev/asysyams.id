@@ -13,7 +13,7 @@ archive_url: "https://web.archive.org/web/20260314225951/https://asysyams.id/doa
 
 ## Setiap orang tua pasti menginginkan anak-anaknya tumbuh sehat, saleh, dan penurut.
 
-![](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
+![](../wp-content/uploads/2024/12/Snapinsta.app_468481707_18151704853353668_8215639658190186592_n_1080-1024x683.jpg)
 
 Doa merupakan bagian penting dalam kehidupan seorang Muslim, terutama dalam mendidik anak. Selain ikhtiar dalam pendidikan, memohon perlindungan dan keberkahan dari Allah SWT adalah kunci utama. Dalam artikel ini, kita akan membahas berbagai doa untuk anak agar tidak sakit, saleh, dan penurut, serta menghubungkannya dengan konsep parenting Islami dan pendidikan anak usia dini berdasarkan nilai-nilai Islam.
 
@@ -61,7 +61,7 @@ Selain berdoa, penting bagi orang tua untuk memberikan teladan yang baik. Rasulu
 
 ### 5. Hubungan dengan Parenting Islami
 
-Dalam artikel [Apa itu Parenting Islami & Bagaimana Mempelajarinya?](https://asysyams.id/apa-itu-parenting-islami-bagaimana-mempelajarinya/), disebutkan bahwa parenting Islami mencakup seluruh aspek pendidikan anak, baik duniawi maupun ukhrawi.
+Dalam artikel [Apa itu Parenting Islami & Bagaimana Mempelajarinya?](../apa-itu-parenting-islami-bagaimana-mempelajarinya/), disebutkan bahwa parenting Islami mencakup seluruh aspek pendidikan anak, baik duniawi maupun ukhrawi.
 
 Parenting Islami mengajarkan bahwa:
 
@@ -73,7 +73,7 @@ Parenting Islami mengajarkan bahwa:
 
 ### 6. Pentingnya Pendidikan Anak Usia Dini Berbasis Islam
 
-Dalam artikel [Hadits tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/), terjelaskan bahwa pendidikan anak usia dini dalam Islam sangat penting karena masa ini adalah waktu pembentukan karakter yang paling kuat.
+Dalam artikel [Hadits tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/), terjelaskan bahwa pendidikan anak usia dini dalam Islam sangat penting karena masa ini adalah waktu pembentukan karakter yang paling kuat.
 
 Beberapa nilai yang harus kita tanamkan sejak dini meliputi:
 
@@ -85,7 +85,7 @@ Beberapa nilai yang harus kita tanamkan sejak dini meliputi:
 
 ### 7. Pendidikan Modern Berbasis Islam di Lembaga Formal
 
-Selain pendidikan keluarga, lembaga pendidikan juga memiliki peran penting. Dalam artikel [TK Islami dengan Pembelajaran Modern di Jakarta](https://asysyams.id/tk-islami-dengan-pembelajaran-modern-di-jakarta/), dijelaskan bagaimana lembaga pendidikan seperti TK Islami dapat menjadi solusi terbaik untuk menanamkan nilai-nilai Islami melalui metode pembelajaran modern.
+Selain pendidikan keluarga, lembaga pendidikan juga memiliki peran penting. Dalam artikel [TK Islami dengan Pembelajaran Modern di Jakarta](../tk-islami-dengan-pembelajaran-modern-di-jakarta/), dijelaskan bagaimana lembaga pendidikan seperti TK Islami dapat menjadi solusi terbaik untuk menanamkan nilai-nilai Islami melalui metode pembelajaran modern.
 
 Lembaga ini menggabungkan kurikulum nasional dengan nilai-nilai keislaman, seperti:
 

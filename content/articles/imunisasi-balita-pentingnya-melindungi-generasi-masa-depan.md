@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260513132127/https://asysyams.id/imu
 
 # Imunisasi Balita: Pentingnya Melindungi Generasi Masa Depan
 
-[Home](https://asysyams.id/) » Imunisasi Balita: Pentingnya Melindungi Generasi Masa Depan
+[Home](../) » Imunisasi Balita: Pentingnya Melindungi Generasi Masa Depan
 
 ## Imunisasi adalah salah satu intervensi kesehatan yang paling efektif untuk melindungi anak-anak dari berbagai penyakit menular yang berpotensi fatal.
 
-![imunisasi balita](https://asysyams.id/wp-content/uploads/2024/08/DALL·E-2024-08-30-23.12.38-A-detailed-and-informative-illustration-showing-a-healthy-toddler-receiving-a-vaccine-shot-from-a-smiling-healthcare-professional-in-a-clean-bright-c-300x300.webp)
+![imunisasi balita](../wp-content/uploads/2024/08/DALL·E-2024-08-30-23.12.38-A-detailed-and-informative-illustration-showing-a-healthy-toddler-receiving-a-vaccine-shot-from-a-smiling-healthcare-professional-in-a-clean-bright-c-300x300.webp)
 
 Di Indonesia, program imunisasi telah menjadi bagian integral dari upaya pemerintah dalam menurunkan angka kematian anak dan meningkatkan kualitas hidup masyarakat. Dalam artikel ini, kita akan membahas secara mendalam tentang pentingnya imunisasi balita, jenis-jenis vaksin yang perlu anda berikan, manfaat jangka panjang, serta tantangan dan solusi dalam pelaksanaannya.
 
@@ -99,11 +99,11 @@ Mengikuti jadwal imunisasi ini sangat penting untuk memastikan anak mendapatkan 
 
 Baca juga:
 
-[Tips Mengatur Pola Makan Balita Agar Mendapat Gizi Seimbang](https://asysyams.id/tips-mengatur-pola-makan-balita-agar-mendapat-gizi-seimbang/)
+[Tips Mengatur Pola Makan Balita Agar Mendapat Gizi Seimbang](../tips-mengatur-pola-makan-balita-agar-mendapat-gizi-seimbang/)
 
-[Orang Tua Harus Perhatikan Perkembangan Kognitif Balita Anda](https://asysyams.id/orang-tua-harus-perhatikan-perkembangan-kognitif-balita-anda/)
+[Orang Tua Harus Perhatikan Perkembangan Kognitif Balita Anda](../orang-tua-harus-perhatikan-perkembangan-kognitif-balita-anda/)
 
-[Cara Menjaga Kebersihan Balita Agar Tidak Gampang Sakit](https://asysyams.id/cara-menjaga-kebersihan-balita-agar-tidak-gampang-sakit/)
+[Cara Menjaga Kebersihan Balita Agar Tidak Gampang Sakit](../cara-menjaga-kebersihan-balita-agar-tidak-gampang-sakit/)
 
 ###  
 

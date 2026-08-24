@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20251008063938/https://asysyams.id/apa
 
 # Apa Itu Tahsin Al-Qur’an? Pengertian, Tujuan, dan Manfaatnya
 
-[Home](https://asysyams.id/) » Apa Itu Tahsin Al-Qur’an? Pengertian, Tujuan, dan Manfaatnya
+[Home](../) » Apa Itu Tahsin Al-Qur’an? Pengertian, Tujuan, dan Manfaatnya
 
 ## Pendahuluan
 
 ## Mendidik anak agar mencintai Al-Qur’an merupakan cita-cita setiap orang tua Muslim.
 
-![9 Pilar Karakter Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_de9c0eea-80x80.jpg)
+![9 Pilar Karakter Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.54_de9c0eea-80x80.jpg)
 
 Namun, banyak orang tua pemula sering bingung harus memulai dari mana. Dua istilah yang sering muncul adalah tahsin dan tahfidz. Keduanya sama-sama penting, tetapi memiliki fokus berbeda. Sayangnya, masih banyak yang belum memahami perbedaan tahsin dan tahfidz sehingga sering salah kaprah dalam menentukan langkah pendidikan Qur’ani untuk anak.
 

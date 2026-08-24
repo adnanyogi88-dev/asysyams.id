@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217002659/https://asysyams.id/men
 
 # Mengapa Biaya Pendidikan di Indonesia Semakin Mahal? Ini Dia Alasannya
 
-[Home](https://asysyams.id/) » Mengapa Biaya Pendidikan di Indonesia Semakin Mahal? Ini Dia Alasannya
+[Home](../) » Mengapa Biaya Pendidikan di Indonesia Semakin Mahal? Ini Dia Alasannya
 
 ## Biaya pendidikan di Indonesia telah menjadi topik yang semakin mendapat perhatian dalam beberapa tahun terakhir.
 
-![Rekomendasi Pre School Islam Bekasi](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468419142_18151706620353668_5088772060257114363_n_1080-1024x768.jpg)
+![Rekomendasi Pre School Islam Bekasi](../wp-content/uploads/2025/01/Snapinst.app_468419142_18151706620353668_5088772060257114363_n_1080-1024x768.jpg)
 
 Kenaikan biaya ini terasakan di berbagai jenjang pendidikan, mulai dari tingkat dasar hingga perguruan tinggi. Fenomena ini menimbulkan pertanyaan: mengapa biaya pendidikan di Indonesia semakin mahal? Artikel ini akan mengulas berbagai faktor yang mempengaruhi peningkatan biaya pendidikan di Indonesia dan implikasinya bagi masyarakat.
 
@@ -79,15 +79,15 @@ Untuk mengatasi kenaikan biaya pendidikan, beberapa langkah dapat kita lakukan, 
 
 - Peningkatan Kualitas Pendidikan Berbasis Nilai Islami
 
-- Pendidikan berbasis nilai Islami dapat menjadi solusi dalam memberikan pendidikan yang berkualitas dan terjangkau, sebagaimana dijelaskan dalam [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](https://asysyams.id/hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
+- Pendidikan berbasis nilai Islami dapat menjadi solusi dalam memberikan pendidikan yang berkualitas dan terjangkau, sebagaimana dijelaskan dalam [Hadits Tentang Pendidikan Anak Usia Dini dan Pentingnya Pendidikan Berbasis Nilai Islami](../hadits-tentang-pendidikan-anak-usia-dini-dan-pentingnya-pendidikan-berbasis-nilai-islami/).
 
 - Pengembangan Model Bisnis Pendidikan Alternatif
 
-- Bisnis pendidikan seperti taman kanak-kanak dapat menjadi peluang usaha yang menguntungkan dan tetap memberikan akses pendidikan berkualitas. Baca lebih lanjut dalam artikel [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/).
+- Bisnis pendidikan seperti taman kanak-kanak dapat menjadi peluang usaha yang menguntungkan dan tetap memberikan akses pendidikan berkualitas. Baca lebih lanjut dalam artikel [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/).
 
 - Memanfaatkan Program Franchise Pendidikan
 
-- Franchise pendidikan TK Islami juga bisa menjadi alternatif bagi masyarakat yang ingin terlibat dalam sektor pendidikan. Informasi lebih lanjut dapat ditemukan dalam artikel [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+- Franchise pendidikan TK Islami juga bisa menjadi alternatif bagi masyarakat yang ingin terlibat dalam sektor pendidikan. Informasi lebih lanjut dapat ditemukan dalam artikel [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 ### Kesimpulan
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515080730/https://asysyams.id/per
 
 # Perbedaan Motorik Halus dan Motorik Kasar
 
-[Home](https://asysyams.id/) » Perbedaan Motorik Halus dan Motorik Kasar
+[Home](../) » Perbedaan Motorik Halus dan Motorik Kasar
 
 ## Perkembangan motorik pada anak usia dini merupakan aspek penting dalam tumbuh kembang mereka.
 
-![Artikel ini akan membahas secara mendalam mengenai PAUD Islam di Bekasi, keunggulannya](https://asysyams.id/wp-content/uploads/2024/10/ClipDown.App_442503179_18133019302353668_4325978127657004479_n-1024x683.jpg)
+![Artikel ini akan membahas secara mendalam mengenai PAUD Islam di Bekasi, keunggulannya](../wp-content/uploads/2024/10/ClipDown.App_442503179_18133019302353668_4325978127657004479_n-1024x683.jpg)
 
 Kemampuan motorik yang berkembang dengan baik akan mendukung berbagai aspek kehidupan anak, termasuk dalam hal belajar, bermain, dan berinteraksi dengan lingkungan. Dalam dunia pendidikan dan psikologi perkembangan anak, terdapat dua jenis perkembangan motorik yang utama, yaitu motorik halus dan motorik kasar.
 
@@ -169,11 +169,11 @@ Stimulasi yang tepat sangat diperlukan agar anak dapat mengembangkan keterampila
 
 ## Hubungan dengan Pendidikan Anak Usia Dini
 
-Pendidikan anak usia dini sangat berperan dalam perkembangan motorik anak. Guru dan orang tua perlu bekerja sama dalam menciptakan lingkungan yang mendukung perkembangan ini. Salah satu cara adalah dengan memahami adab murid terhadap guru sebagai dasar pendidikan berkualitas, yang dapat Anda baca lebih lanjut di [artikel ini](https://asysyams.id/12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/).
+Pendidikan anak usia dini sangat berperan dalam perkembangan motorik anak. Guru dan orang tua perlu bekerja sama dalam menciptakan lingkungan yang mendukung perkembangan ini. Salah satu cara adalah dengan memahami adab murid terhadap guru sebagai dasar pendidikan berkualitas, yang dapat Anda baca lebih lanjut di [artikel ini](../12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/).
 
-Selain itu, bagi Anda yang tertarik dalam dunia pendidikan anak usia dini, memulai bisnis dengan franchise PAUD terbaik bisa menjadi langkah yang tepat. Informasi lebih lanjut bisa Anda temukan [di sini](https://asysyams.id/rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/).
+Selain itu, bagi Anda yang tertarik dalam dunia pendidikan anak usia dini, memulai bisnis dengan franchise PAUD terbaik bisa menjadi langkah yang tepat. Informasi lebih lanjut bisa Anda temukan [di sini](../rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/).
 
-Tak lupa, momen perpisahan di sekolah PAUD atau TK juga bisa menjadi kesempatan untuk merangsang kreativitas anak melalui dekorasi. Anda bisa mendapatkan ide menarik dengan membaca cara membuat dekorasi untuk perpisahan anak TK di [artikel ini](https://asysyams.id/cara-membuat-dekorasi-untuk-perpisahan-anak-tk/).
+Tak lupa, momen perpisahan di sekolah PAUD atau TK juga bisa menjadi kesempatan untuk merangsang kreativitas anak melalui dekorasi. Anda bisa mendapatkan ide menarik dengan membaca cara membuat dekorasi untuk perpisahan anak TK di [artikel ini](../cara-membuat-dekorasi-untuk-perpisahan-anak-tk/).
 
 ## Kesimpulan
 

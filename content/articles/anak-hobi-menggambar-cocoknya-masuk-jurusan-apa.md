@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217000349/https://asysyams.id/ana
 
 # Anak Hobi Menggambar Cocoknya Masuk Jurusan Apa?
 
-[Home](https://asysyams.id/) » Anak Hobi Menggambar Cocoknya Masuk Jurusan Apa?
+[Home](../) » Anak Hobi Menggambar Cocoknya Masuk Jurusan Apa?
 
 ## Bakat dan hobi yang seseorang miliki sering kali menjadi dasar dalam menentukan jurusan pendidikan yang sesuai di perguruan tinggi.
 
-![anak hoby menggambar](https://asysyams.id/wp-content/uploads/2024/10/DALL·E-2024-10-01-21.53.08-A-young-person-sitting-at-a-desk-with-a-sketchbook-surrounded-by-drawing-tools-like-pencils-markers-and-erasers.-Behind-them-shelves-are-filled-wi-300x300.webp)
+![anak hoby menggambar](../wp-content/uploads/2024/10/DALL·E-2024-10-01-21.53.08-A-young-person-sitting-at-a-desk-with-a-sketchbook-surrounded-by-drawing-tools-like-pencils-markers-and-erasers.-Behind-them-shelves-are-filled-wi-300x300.webp)
 
 Salah satu bakat yang paling umum kita temukan pada banyak anak adalah menggambar. Bagi anak yang hobi menggambar, memilih jurusan yang tepat dapat membantu mereka mengembangkan bakat tersebut menjadi keterampilan profesional yang bernilai di dunia kerja. Artikel ini akan membahas berbagai pilihan jurusan yang cocok bagi anak yang memiliki hobi menggambar, serta memberikan wawasan mengenai prospek karier yang bisa mereka raih setelah menyelesaikan pendidikan di jurusan tersebut.
 
@@ -71,11 +71,11 @@ Setelah lulus, prospek karier lulusan arsitektur sangat menjanjikan. Mereka dapa
 
 Baca juga:
 
-[Asy-Syams Islamic School Development](https://asysyams.id/gabung-franchise-sekolah-asy-syams/)
+[Asy-Syams Islamic School Development](../gabung-franchise-sekolah-asy-syams/)
 
-[Informas tumbuh Kembang Anak](https://asysyams.id/informasi-tumbuh-kembang-anak/)
+[Informas tumbuh Kembang Anak](../informasi-tumbuh-kembang-anak/)
 
-[Aktifitas yang Perlu Dilakukan Bersama Anak-anak](https://asysyams.id/aktifitas-yang-perlu-dilakukan-bersama-anak-anak/)
+[Aktifitas yang Perlu Dilakukan Bersama Anak-anak](../aktifitas-yang-perlu-dilakukan-bersama-anak-anak/)
 
  
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515082435/https://asysyams.id/car
 
 # Cara Meningkatkan Minat Baca Siswa
 
-[Home](https://asysyams.id/) » Cara Meningkatkan Minat Baca Siswa
+[Home](../) » Cara Meningkatkan Minat Baca Siswa
 
 ## Minat baca merupakan fondasi penting dalam pengembangan pengetahuan dan keterampilan siswa.
 
-![minat membaca pada siswa](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_eb31dcd3-1024x1024.jpg)
+![minat membaca pada siswa](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_eb31dcd3-1024x1024.jpg)
 
 Namun, di era digital ini, tantangan untuk menumbuhkan minat baca semakin kompleks. Artikel ini akan membahas berbagai strategi efektif untuk meningkatkan minat baca siswa, serta menghubungkannya dengan aspek perkembangan anak usia dini dan peran pengasuhan orang tua.
 
@@ -87,7 +87,7 @@ Memberikan kebebasan kepada siswa untuk memilih buku yang ingin mereka baca dapa
 
 Menumbuhkan minat baca sejak usia dini sangat penting untuk perkembangan kognitif dan emosional anak. Stimulasi pada enam aspek perkembangan anak usia dini—yaitu fisik, kognitif, bahasa, sosial-emosional, moral, dan seni—dapat dilakukan melalui kegiatan membaca. Misalnya, membaca cerita bergambar dapat merangsang perkembangan bahasa dan imajinasi anak. Untuk informasi lebih lanjut tentang stimulasi aspek-aspek ini, Anda dapat mengunjungi artikel berikut:
 
-[Stimulasi 6 Aspek Perkembangan Anak Usia Dini](https://asysyams.id/stimulasi-6-aspek-perkembangan-anak-usia-dini/)
+[Stimulasi 6 Aspek Perkembangan Anak Usia Dini](../stimulasi-6-aspek-perkembangan-anak-usia-dini/)
 
 ## Peran Pengasuhan dalam Menumbuhkan Minat Baca
 

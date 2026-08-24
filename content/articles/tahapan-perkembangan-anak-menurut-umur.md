@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421034653/https://asysyams.id/tah
 
 # Tahapan Perkembangan Anak Menurut Umur
 
-[Home](https://asysyams.id/) » Tahapan Perkembangan Anak Menurut Umur
+[Home](../) » Tahapan Perkembangan Anak Menurut Umur
 
 ## Anak-anak melalui berbagai tahapan perkembangan yang unik dan penting sepanjang hidup mereka.
 
-![Tahapan Perkembangan Anak Menurut Umur](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468438449_18151706935353668_5256883980139824800_n_1080-1024x768.jpg)
+![Tahapan Perkembangan Anak Menurut Umur](../wp-content/uploads/2025/01/Snapinst.app_468438449_18151706935353668_5256883980139824800_n_1080-1024x768.jpg)
 
 Setiap tahap membawa perubahan fisik, emosional, sosial, dan kognitif yang membantu membentuk kepribadian dan kemampuan mereka di masa depan. Memahami tahapan perkembangan anak menurut umur dapat membantu orang tua dan pendidik memberikan dukungan yang sesuai dengan kebutuhan anak di setiap fase kehidupannya.
 
@@ -29,7 +29,7 @@ Pada tahap ini, anak mengalami pertumbuhan yang sangat cepat. Bayi belajar menge
 
 - Peluk dan berikan kasih sayang untuk mendukung perkembangan emosional mereka.
 
-Tahap ini juga menjadi fondasi penting dalam membangun hubungan yang kuat antara orang tua dan anak. Untuk memahami lebih lanjut bagaimana menghadapi perilaku anak, Anda dapat membaca artikel [tempat mendidik anak nakal solusi Islami dan modern](https://asysyams.id/tempat-mendidik-anak-nakal-solusi-islami-dan-modern/).
+Tahap ini juga menjadi fondasi penting dalam membangun hubungan yang kuat antara orang tua dan anak. Untuk memahami lebih lanjut bagaimana menghadapi perilaku anak, Anda dapat membaca artikel [tempat mendidik anak nakal solusi Islami dan modern](../tempat-mendidik-anak-nakal-solusi-islami-dan-modern/).
 
 ### 2. Tahap Balita (2-5 Tahun)
 
@@ -43,7 +43,7 @@ Balita adalah masa eksplorasi dan keingintahuan yang besar. Mereka mulai mengemb
 
 - Pantau dan batasi penggunaan gadget untuk memastikan waktu bermain yang sehat.
 
-Franchise pendidikan usia dini dapat menjadi pilihan tepat untuk mendukung perkembangan anak di tahap ini. Temukan informasi lebih lanjut di artikel [franchise pendidikan usia dini yang menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/).
+Franchise pendidikan usia dini dapat menjadi pilihan tepat untuk mendukung perkembangan anak di tahap ini. Temukan informasi lebih lanjut di artikel [franchise pendidikan usia dini yang menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/).
 
 ### 3. Tahap Anak Usia Sekolah (6-12 Tahun)
 
@@ -57,7 +57,7 @@ Pada tahap ini, anak mulai menunjukkan minat terhadap pembelajaran formal. Merek
 
 - Berikan teladan nilai-nilai Islami dalam kehidupan sehari-hari untuk membentuk karakter positif.
 
-Konsep “blessed” dalam Islam, seperti dijelaskan dalam artikel [blessed artinya dalam Islam dan kaitannya dengan parenting Islami](https://asysyams.id/blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/), relevan untuk diterapkan pada tahap ini guna mengajarkan anak bersyukur dan berbagi.
+Konsep “blessed” dalam Islam, seperti dijelaskan dalam artikel [blessed artinya dalam Islam dan kaitannya dengan parenting Islami](../blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/), relevan untuk diterapkan pada tahap ini guna mengajarkan anak bersyukur dan berbagi.
 
 ### 4. Tahap Remaja (13-18 Tahun)
 
@@ -77,11 +77,11 @@ Memahami tahapan perkembangan anak menurut umur adalah langkah penting dalam men
 
 Untuk informasi lebih lanjut tentang parenting Islami, Anda dapat menjelajahi artikel-artikel berikut:
 
-- [Tempat mendidik anak nakal solusi Islami dan modern](https://asysyams.id/tempat-mendidik-anak-nakal-solusi-islami-dan-modern/)
+- [Tempat mendidik anak nakal solusi Islami dan modern](../tempat-mendidik-anak-nakal-solusi-islami-dan-modern/)
 
-- [Franchise pendidikan usia dini yang menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/)
+- [Franchise pendidikan usia dini yang menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/)
 
-- [Blessed artinya dalam Islam dan kaitannya dengan parenting Islami](https://asysyams.id/blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/)
+- [Blessed artinya dalam Islam dan kaitannya dengan parenting Islami](../blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/)
 
 [
 WhatsApp Kami

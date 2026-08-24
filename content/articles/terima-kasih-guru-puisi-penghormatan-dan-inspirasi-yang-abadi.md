@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207011033/https://asysyams.id/ter
 
 # Terima Kasih Guru: Puisi Penghormatan dan Inspirasi yang Abadi
 
-[Home](https://asysyams.id/) » Terima Kasih Guru: Puisi Penghormatan dan Inspirasi yang Abadi
+[Home](../) » Terima Kasih Guru: Puisi Penghormatan dan Inspirasi yang Abadi
 
 ## Guru adalah sosok yang memiliki peran besar dalam mencetak generasi penerus bangsa.
 
-![terimakasih guru puisi](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468316986_18151704847353668_8941624546163725719_n_1080-1-1024x683.jpg)
+![terimakasih guru puisi](../wp-content/uploads/2024/12/Snapinsta.app_468316986_18151704847353668_8941624546163725719_n_1080-1-1024x683.jpg)
 
 Mereka bukan hanya menyampaikan pelajaran akademik, tetapi juga menanamkan nilai-nilai moral, etika, dan kehidupan kepada murid-muridnya. Tanpa peran guru, kita tidak akan mampu membaca, menulis, atau memahami dunia di sekitar kita. Oleh karena itu, ucapan “terima kasih” kepada guru bukanlah hal yang sepele, melainkan penghormatan tulus atas jasa-jasa mereka. Artikel ini akan mengupas pentingnya menghormati guru, termasuk melalui karya puisi, serta relevansinya dengan pendidikan modern dan berbagai peluang di dunia pendidikan.
 
@@ -46,19 +46,19 @@ Puisi ini menggambarkan bagaimana seorang guru menjadi penerang dalam kehidupan 
 
 Mengucapkan terima kasih kepada guru tidak hanya cukup dengan kata-kata, tetapi juga harus diiringi dengan sikap hormat dan adab yang baik. Adab murid terhadap guru merupakan salah satu fondasi pendidikan yang berkualitas. Hal ini mencakup menghormati guru, mendengarkan dengan baik saat guru berbicara, dan menjaga perilaku sopan di depan mereka.
 
-Untuk mengetahui lebih lanjut tentang bagaimana adab murid terhadap guru dapat menjadi dasar pendidikan yang berkualitas, Anda bisa membaca artikel lengkapnya di sini: [12 Adab Murid terhadap Guru sebagai Fondasi Pendidikan Berkualitas](https://asysyams.id/12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/).
+Untuk mengetahui lebih lanjut tentang bagaimana adab murid terhadap guru dapat menjadi dasar pendidikan yang berkualitas, Anda bisa membaca artikel lengkapnya di sini: [12 Adab Murid terhadap Guru sebagai Fondasi Pendidikan Berkualitas](../12-adab-murid-terhadap-guru-sebagai-fondasi-pendidikan-berkualitas/).
 
 ### Peran Guru dalam Era Pendidikan Modern
 
 Di era modern ini, tantangan yang dihadapi guru semakin beragam. Mereka tidak hanya dituntut untuk menguasai materi pelajaran, tetapi juga harus memahami teknologi, psikologi siswa, dan metode pengajaran inovatif. Peran guru juga berkembang menjadi fasilitator yang membantu siswa menemukan potensi terbaik mereka.
 
-Peluang di dunia pendidikan juga terus berkembang. Misalnya, tren franchise pendidikan yang kini semakin populer menjadi salah satu opsi untuk memperluas akses pendidikan berkualitas. Anda dapat membaca lebih lanjut tentang peluang ini di artikel berikut: [Trend Franchise Terkait Edukasi yang Akan Populer di Tahun 2025](https://asysyams.id/trend-franchise-terkait-edukasi-yang-akan-populer-di-tahun-2025/).
+Peluang di dunia pendidikan juga terus berkembang. Misalnya, tren franchise pendidikan yang kini semakin populer menjadi salah satu opsi untuk memperluas akses pendidikan berkualitas. Anda dapat membaca lebih lanjut tentang peluang ini di artikel berikut: [Trend Franchise Terkait Edukasi yang Akan Populer di Tahun 2025](../trend-franchise-terkait-edukasi-yang-akan-populer-di-tahun-2025/).
 
 ### Franchise Pendidikan: Solusi untuk Meningkatkan Akses Pendidikan
 
 Salah satu inovasi dalam dunia pendidikan adalah sistem franchise. Franchise pendidikan memungkinkan penyebaran metode pengajaran yang terbukti efektif ke berbagai daerah, termasuk daerah terpencil. Misalnya, franchise pendidikan TK Islami yang kini semakin diminati oleh masyarakat. Franchise ini tidak hanya mengajarkan ilmu akademik, tetapi juga menanamkan nilai-nilai Islam kepada anak-anak sejak dini.
 
-Jika Anda tertarik untuk bergabung dalam franchise pendidikan TK Islami, Anda dapat membaca informasi lengkapnya di sini: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
+Jika Anda tertarik untuk bergabung dalam franchise pendidikan TK Islami, Anda dapat membaca informasi lengkapnya di sini: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/).
 
 ### Kesimpulan
 

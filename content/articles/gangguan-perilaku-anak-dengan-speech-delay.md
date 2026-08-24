@@ -15,7 +15,7 @@ archive_url: "https://web.archive.org/web/20260314171948/https://asysyams.id/gan
 
 ## Gangguan perilaku pada anak dengan speech delay (keterlambatan bicara) merupakan fenomena yang sering kita temui dalam dunia perkembangan anak.
 
-![pendidikan jasmani anak](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_456948128_18141624256353668_448733488593152241_n_1080-1-1024x768.jpg)
+![pendidikan jasmani anak](../wp-content/uploads/2024/10/Snapinsta.app_456948128_18141624256353668_448733488593152241_n_1080-1-1024x768.jpg)
 
 Kondisi ini dapat memengaruhi kemampuan komunikasi, interaksi sosial, serta perilaku anak secara keseluruhan. Artikel ini akan membahas hubungan antara gangguan perilaku dan speech delay, penyebabnya, serta strategi penanganan yang efektif.
 
@@ -23,7 +23,7 @@ Kondisi ini dapat memengaruhi kemampuan komunikasi, interaksi sosial, serta peri
 
 Speech delay adalah kondisi di mana kemampuan bicara anak berkembang lebih lambat jika membandingkanya dengan anak seusianya. Anak dengan speech delay mungkin kesulitan mengucapkan kata-kata, merangkai kalimat, atau memahami pembicaraan orang lain. Kondisi ini bisa bersifat sementara atau menjadi bagian dari gangguan perkembangan yang lebih serius seperti autisme atau gangguan perkembangan bahasa.
 
-Baca juga artikel berikut: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
+Baca juga artikel berikut: [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
 
 #### Tanda-Tanda Speech Delay pada Anak
 
@@ -53,7 +53,7 @@ Baca juga artikel berikut: [Kesempatan Mengikuti Franchise Pendidikan TK Islami]
 
 - Kesulitan memahami instruksi bisa membuat anak menjadi impulsif dan sulit diatur.
 
-Baca juga artikel berikut: [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/)
+Baca juga artikel berikut: [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/)
 
 ### Hubungan Antara Speech Delay dan Gangguan Perilaku
 
@@ -107,7 +107,7 @@ Speech delay memengaruhi kemampuan komunikasi anak, yang merupakan fondasi penti
 
 - Pendampingan untuk keluarga penting agar mereka memahami kondisi anak dan bagaimana memberikan dukungan terbaik.
 
-Simak juga artikel berikut: [Trend Franchise Terkait Edukasi yang Akan Populer di Tahun 2025](https://asysyams.id/trend-franchise-terkait-edukasi-yang-akan-populer-di-tahun-2025/)
+Simak juga artikel berikut: [Trend Franchise Terkait Edukasi yang Akan Populer di Tahun 2025](../trend-franchise-terkait-edukasi-yang-akan-populer-di-tahun-2025/)
 
 ### Apakah Speech Delay Sama Dengan Gagu?
 

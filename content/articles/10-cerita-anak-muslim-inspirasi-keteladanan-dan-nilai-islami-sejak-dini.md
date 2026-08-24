@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260419140621/https://asysyams.id/10-
 
 # 10 Cerita Anak Muslim: Inspirasi, Keteladanan, dan Nilai Islami Sejak Dini
 
-[Home](https://asysyams.id/) » 10 Cerita Anak Muslim: Inspirasi, Keteladanan, dan Nilai Islami Sejak Dini
+[Home](../) » 10 Cerita Anak Muslim: Inspirasi, Keteladanan, dan Nilai Islami Sejak Dini
 
 ## Anak-anak adalah peniru ulung. Mereka belajar dari apa yang mereka lihat, dengar, dan alami setiap hari.
 
@@ -38,7 +38,7 @@ Hasan menemukan dompet di halaman sekolah. Di dalamnya ada uang dan kartu identi
 Nilai yang diajarkan: Kejujuran, amanah, dan tanggung jawab.
 
 Baca juga kisah inspiratif tentang anak yang berbakti kepada orang tua yang sarat dengan pelajaran moral dan nilai Islami di artikel berikut ini:
-? [Kisah Anak Berbakti kepada Orang Tua: Inspirasi dan Pelajaran Hidup](https://asysyams.id/kisah-anak-berbakti-kepada-orang-tua-inspirasi-dan-pelajaran-hidup/)
+? [Kisah Anak Berbakti kepada Orang Tua: Inspirasi dan Pelajaran Hidup](../kisah-anak-berbakti-kepada-orang-tua-inspirasi-dan-pelajaran-hidup/)
 
 ### 4. Fatimah dan Sedekah Rahasia
 
@@ -65,7 +65,7 @@ Yusuf adalah anak yang sangat suka bermain game. Namun setelah mengikuti kegiata
 Nilai yang diajarkan: Manajemen waktu, interaksi sosial, dan kesederhanaan.
 
 Cerita ini menjadi bukti bahwa lingkungan pendidikan yang Islami sangat penting. Jika Anda tertarik untuk ikut serta dalam membangun generasi Islami sejak dini, Anda bisa mempertimbangkan bergabung dalam sistem pendidikan Islami.
-? [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
+? [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
 
 ### 8. Zaid dan Adab Makan
 
@@ -106,7 +106,7 @@ Cerita-cerita di atas akan lebih berdaya guna jika dikombinasikan dengan lingkun
 Lembaga pendidikan yang menjadikan nilai keislaman sebagai fondasi akan mampu menciptakan anak-anak berakhlak mulia, cerdas, dan tangguh. Oleh karena itu, mendirikan TK berbasis nilai Islam adalah salah satu kontribusi nyata bagi masa depan umat.
 
 Bagi Anda yang melihat potensi jangka panjang di dunia pendidikan anak usia dini, jangan lewatkan informasi penting seputar bisnis pendidikan berikut ini:
-? [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+? [Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
 ## Penutup
 

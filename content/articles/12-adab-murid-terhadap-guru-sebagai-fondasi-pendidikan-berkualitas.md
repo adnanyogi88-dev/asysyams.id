@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515081336/https://asysyams.id/12-
 
 # 12 Adab Murid terhadap Guru Sebagai Fondasi Pendidikan Berkualitas
 
-[Home](https://asysyams.id/) » 12 Adab Murid terhadap Guru Sebagai Fondasi Pendidikan Berkualitas
+[Home](../) » 12 Adab Murid terhadap Guru Sebagai Fondasi Pendidikan Berkualitas
 
 ## Dalam dunia pendidikan, hubungan antara murid dan guru memainkan peran penting dalam menciptakan lingkungan belajar yang harmonis dan produktif.
 
-![adab murid terhadap guru](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_295030377_606228761123674_3383741588028383489_n_1080-1-1024x1024.jpg)
+![adab murid terhadap guru](../wp-content/uploads/2024/11/Snapinsta.app_295030377_606228761123674_3383741588028383489_n_1080-1-1024x1024.jpg)
 
 Pendidikan bukan sekadar transfer ilmu, tetapi juga pembentukan karakter. Salah satu aspek penting dalam pembentukan karakter adalah penanaman adab, khususnya adab murid terhadap guru. TK AsySyams, sebagai lembaga pendidikan anak usia dini, sangat memahami pentingnya membangun fondasi adab sejak dini, guna mendukung tumbuh kembang anak yang optimal.
 
@@ -25,7 +25,7 @@ Artikel ini akan membahas 12 adab murid terhadap guru sebagai landasan pendidika
 
 Adab pertama dan utama adalah menghormati guru sebagai pembimbing. Guru memiliki peran vital dalam membentuk karakter dan memberikan ilmu kepada murid. Di TK AsySyams, penghormatan terhadap guru kami ajarkan melalui interaksi sehari-hari, seperti menyapa dengan sopan, mendengarkan dengan penuh perhatian, dan mengikuti arahan guru.
 
-Hubungan dengan Kurikulum Merdeka: Dalam Kurikulum Merdeka, penghormatan terhadap guru mendukung pengembangan karakter yang mandiri dan bertanggung jawab. [Baca lebih lanjut tentang bagaimana membuat murid selamat dan bahagia di Kurikulum Merdeka di sini](https://asysyams.id/cara-membuat-murid-selamat-dan-bahagia-di-kurikulum-merdeka/).
+Hubungan dengan Kurikulum Merdeka: Dalam Kurikulum Merdeka, penghormatan terhadap guru mendukung pengembangan karakter yang mandiri dan bertanggung jawab. [Baca lebih lanjut tentang bagaimana membuat murid selamat dan bahagia di Kurikulum Merdeka di sini](../cara-membuat-murid-selamat-dan-bahagia-di-kurikulum-merdeka/).
 
 ### 2. Mendengarkan dengan Sungguh-Sungguh
 
@@ -79,9 +79,9 @@ TK AsySyams menerapkan 12 adab ini dalam setiap aspek kegiatan belajar mengajar.
 
 ### Kaitan dengan Pendidikan Lebih Luas
 
-Adab murid terhadap guru adalah pilar penting dalam dunia pendidikan. Sebagaimana dijelaskan dalam artikel [“Peserta Didik adalah Pilar Penting dalam Dunia Pendidikan”](https://asysyams.id/peserta-didik-adalah-pilar-penting-dalam-dunia-pendidikan/), keberhasilan pendidikan sangat bergantung pada hubungan yang harmonis antara murid dan guru.
+Adab murid terhadap guru adalah pilar penting dalam dunia pendidikan. Sebagaimana dijelaskan dalam artikel [“Peserta Didik adalah Pilar Penting dalam Dunia Pendidikan”](../peserta-didik-adalah-pilar-penting-dalam-dunia-pendidikan/), keberhasilan pendidikan sangat bergantung pada hubungan yang harmonis antara murid dan guru.
 
-Selain itu, penting untuk memahami perbedaan antara mendidik dan mengajar. Artikel [“Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia”](https://asysyams.id/perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/) menjelaskan bahwa mendidik mencakup pembentukan karakter, termasuk penanaman adab.
+Selain itu, penting untuk memahami perbedaan antara mendidik dan mengajar. Artikel [“Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia”](../perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/) menjelaskan bahwa mendidik mencakup pembentukan karakter, termasuk penanaman adab.
 
 ### Kesimpulan
 
@@ -89,11 +89,11 @@ Adab murid terhadap guru bukan hanya aturan, tetapi juga nilai yang menjadi dasa
 
 Dengan menanamkan adab ini, diharapkan pendidikan tidak hanya menjadi sarana belajar, tetapi juga membangun karakter yang kuat, sebagaimana ditekankan dalam Kurikulum Merdeka dan prinsip-prinsip pendidikan di Indonesia. Bagi yang ingin tahu lebih lanjut, kunjungi tautan berikut untuk memperkaya pemahaman Anda:
 
-- [Cara Membuat Murid Selamat dan Bahagia di Kurikulum Merdeka](https://asysyams.id/cara-membuat-murid-selamat-dan-bahagia-di-kurikulum-merdeka/)
+- [Cara Membuat Murid Selamat dan Bahagia di Kurikulum Merdeka](../cara-membuat-murid-selamat-dan-bahagia-di-kurikulum-merdeka/)
 
-- [Peserta Didik adalah Pilar Penting dalam Dunia Pendidikan](https://asysyams.id/peserta-didik-adalah-pilar-penting-dalam-dunia-pendidikan/)
+- [Peserta Didik adalah Pilar Penting dalam Dunia Pendidikan](../peserta-didik-adalah-pilar-penting-dalam-dunia-pendidikan/)
 
-- [Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia](https://asysyams.id/perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/)
+- [Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia](../perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/)
 
 [
 WhatsApp Kami

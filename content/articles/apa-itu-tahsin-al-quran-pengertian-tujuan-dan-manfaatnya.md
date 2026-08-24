@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008064403/https://asysyams.id/apa
 
 # Apa Itu Tahsin Al-Qur’an? Pengertian, Tujuan, dan Manfaatnya
 
-[Home](https://asysyams.id/) » Apa Itu Tahsin Al-Qur’an? Pengertian, Tujuan, dan Manfaatnya
+[Home](../) » Apa Itu Tahsin Al-Qur’an? Pengertian, Tujuan, dan Manfaatnya
 
 ## Pendahuluan
 
-![sekolah kurikulum bahasa arab](https://asysyams.id/wp-content/uploads/2025/06/Screenshot_6.jpg)
+![sekolah kurikulum bahasa arab](../wp-content/uploads/2025/06/Screenshot_6.jpg)
 
 Setiap orang tua muslim tentu menginginkan anak-anaknya mampu membaca Al-Qur’an dengan baik dan benar. Namun, banyak yang belum memahami bagaimana cara belajar yang tepat. Di sinilah tahsin Al-Qur’an menjadi solusi. Melalui tahsin, umat Islam dapat memperbaiki bacaan, memperindah suara, serta menjaga kesucian firman Allah dari kesalahan dalam melafalkan huruf maupun panjang pendeknya.
 

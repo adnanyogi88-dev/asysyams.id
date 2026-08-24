@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314175138/https://asysyams.id/men
 
 # Mengatasi Anak yang Susah Makan: Solusi dan Strategi Efektif
 
-[Home](https://asysyams.id/) » Mengatasi Anak yang Susah Makan: Solusi dan Strategi Efektif
+[Home](../) » Mengatasi Anak yang Susah Makan: Solusi dan Strategi Efektif
 
 ## Salah satu tantangan terbesar bagi orang tua, terutama yang memiliki anak balita atau usia prasekolah, adalah masalah anak susah makan.
 
-![anak susah makan](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-11-16.43.50-A-playful-scene-where-a-young-child-is-sitting-at-a-dining-table-pushing-away-a-plate-of-colorful-healthy-food-looking-reluctant-to-eat.-The-child--300x300.webp)
+![anak susah makan](../wp-content/uploads/2024/09/DALL·E-2024-09-11-16.43.50-A-playful-scene-where-a-young-child-is-sitting-at-a-dining-table-pushing-away-a-plate-of-colorful-healthy-food-looking-reluctant-to-eat.-The-child--300x300.webp)
 
 Anak-anak yang susah makan sering kali membuat orang tua khawatir tentang kesehatan dan perkembangan mereka. Situasi ini bahkan bisa memicu stres dan frustrasi, karena anak menolak makanan atau hanya ingin mengonsumsi makanan tertentu.
 
@@ -71,11 +71,11 @@ Pengaruh Pada Kesehatan Jangka Panjang: Jika masalah ini berlangsung hingga dewa
 
 Baca juga:
 
-[Perilaku Menyimpang pada Anak: Penyebab, Dampak, dan Solusi](https://asysyams.id/perilaku-menyimpang-pada-anak-penyebab-dampak-dan-solusi/)
+[Perilaku Menyimpang pada Anak: Penyebab, Dampak, dan Solusi](../perilaku-menyimpang-pada-anak-penyebab-dampak-dan-solusi/)
 
-[Faktor-Faktor yang Mempengaruhi Perilaku Anak](https://asysyams.id/faktor-faktor-yang-mempengaruhi-perilaku-anak/)
+[Faktor-Faktor yang Mempengaruhi Perilaku Anak](../faktor-faktor-yang-mempengaruhi-perilaku-anak/)
 
-[Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif](https://asysyams.id/anak-anda-nakal-begini-cara-mengatasinya-dengan-efektif/)
+[Anak Anda Nakal? Begini Cara Mengatasinya dengan Efektif](../anak-anda-nakal-begini-cara-mengatasinya-dengan-efektif/)
 
  
 

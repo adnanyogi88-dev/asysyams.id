@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421045242/https://asysyams.id/kia
 
 # Kiat-Kiat Parenting Islami Mendidik Anak Sesuai Nilai-Nilai Islam
 
-[Home](https://asysyams.id/) » Kiat-Kiat Parenting Islami Mendidik Anak Sesuai Nilai-Nilai Islam
+[Home](../) » Kiat-Kiat Parenting Islami Mendidik Anak Sesuai Nilai-Nilai Islam
 
 ## Parenting Islami adalah pendekatan mendidik anak berdasarkan nilai-nilai dan prinsip Islam.
 
-![Keutamaan Membaca Surat Maryam](https://asysyams.id/wp-content/uploads/2024/12/Screenshot_51.jpg)
+![Keutamaan Membaca Surat Maryam](../wp-content/uploads/2024/12/Screenshot_51.jpg)
 
 Dalam Islam, anak adalah amanah dari Allah SWT yang harus kita jaga, didik, dan arahkan agar menjadi insan yang bertakwa dan bermanfaat bagi masyarakat. Artikel ini akan membahas berbagai kiat parenting Islami dan menghubungkannya dengan tren pendidikan modern, termasuk peluang dalam usaha franchise pendidikan, serta pemahaman mendalam tentang makna “blessed” dalam konteks Islam dan parenting.
 
@@ -55,19 +55,19 @@ Ayat ini menegaskan tanggung jawab orang tua untuk membimbing anak dalam ketaata
 
 #### Tren Pendidikan dan Hubungan dengan Parenting Islami
 
-Menurut artikel [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/), ada peningkatan minat terhadap franchise di sektor pendidikan, termasuk pendidikan berbasis Islam. Hal ini mencerminkan kebutuhan masyarakat akan layanan pendidikan yang tidak hanya akademis tetapi juga spiritual.
+Menurut artikel [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/), ada peningkatan minat terhadap franchise di sektor pendidikan, termasuk pendidikan berbasis Islam. Hal ini mencerminkan kebutuhan masyarakat akan layanan pendidikan yang tidak hanya akademis tetapi juga spiritual.
 
 Orang tua yang ingin mendukung pendidikan Islami anak dapat memanfaatkan peluang ini. Misalnya, dengan mendaftarkan anak ke lembaga pendidikan berbasis Islam atau bahkan menjadi pelaku usaha franchise pendidikan untuk berkontribusi dalam pengembangan generasi Islami.
 
 #### Konsep “Blessed” dalam Parenting Islami
 
-Dalam artikel [Blessed Artinya dalam Islam dan Kaitannya dengan Parenting Islami](https://asysyams.id/blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/), istilah “blessed” diterjemahkan sebagai keberkahan. Dalam parenting Islami, keberkahan berarti mendidik anak dengan cara yang mendapatkan ridha Allah.
+Dalam artikel [Blessed Artinya dalam Islam dan Kaitannya dengan Parenting Islami](../blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/), istilah “blessed” diterjemahkan sebagai keberkahan. Dalam parenting Islami, keberkahan berarti mendidik anak dengan cara yang mendapatkan ridha Allah.
 
 Orang tua yang menjalankan tugas parenting dengan penuh kesadaran akan keberkahan ini akan merasakan kebahagiaan yang hakiki. Misalnya, mendidik anak agar mencintai ilmu dan kebaikan tidak hanya membawa manfaat di dunia tetapi juga di akhirat.
 
 #### Cara Mempelajari Parenting Islami
 
-Mempelajari parenting Islami dapat dilakukan melalui berbagai cara, sebagaimana terjelaskan dalam artikel [Apa Itu Parenting Islami dan Bagaimana Mempelajarinya?](https://asysyams.id/apa-itu-parenting-islami-bagaimana-mempelajarinya/). Beberapa metode yang dapat dipilih antara lain:
+Mempelajari parenting Islami dapat dilakukan melalui berbagai cara, sebagaimana terjelaskan dalam artikel [Apa Itu Parenting Islami dan Bagaimana Mempelajarinya?](../apa-itu-parenting-islami-bagaimana-mempelajarinya/). Beberapa metode yang dapat dipilih antara lain:
 
 - Membaca Buku dan Literatur Islami Banyak buku parenting Islami yang yrttulis oleh ulama dan praktisi pendidikan. Buku-buku ini memberikan panduan praktis dan spiritual.
 

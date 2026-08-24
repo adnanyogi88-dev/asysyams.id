@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260216231410/https://asysyams.id/tat
 
 # Tata Tertib Berpakaian di Sekolah: Membangun Karakter Disiplin Sejak Dini
 
-[Home](https://asysyams.id/) » Tata Tertib Berpakaian di Sekolah: Membangun Karakter Disiplin Sejak Dini
+[Home](../) » Tata Tertib Berpakaian di Sekolah: Membangun Karakter Disiplin Sejak Dini
 
 ## Pendahuluan
 
 ## Pertama-tama, tata tertib berpakaian di sekolah tidak hanya sekadar aturan berpakaian.
 
-![Membuat Menu Bulanan](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_77b508cb-931x1024.jpg)
+![Membuat Menu Bulanan](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_77b508cb-931x1024.jpg)
 
 Sebaliknya, peraturan ini memainkan peran penting dalam membentuk karakter siswa sejak usia dini. Oleh karena itu, sekolah harus menerapkannya secara konsisten. TK Asy-Syams, misalnya, sangat menekankan hal ini sebagai bagian dari pendidikan karakter. Dengan demikian, anak-anak belajar disiplin dan tanggung jawab secara bersamaan.
 
@@ -83,11 +83,11 @@ Sebagai penutup, tata tertib berpakaian di sekolah sangat penting bagi perkemban
 
 Tautan Internal:
 
-- Waralaba Daycare Berbasis Kemitraan: Peluang Bisnis dan Dukungan Tumbuh Kembang Anak: [https://asysyams.id/waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/]()
+- Waralaba Daycare Berbasis Kemitraan: Peluang Bisnis dan Dukungan Tumbuh Kembang Anak: [../waralaba-daycare-berbasis-kemitraan-peluang-bisnis-dan-dukungan-tumbuh-kembang-anak/]()
 
-- Franchise Pendidikan Usia Dini yang Menjanjikan: [https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/]()
+- Franchise Pendidikan Usia Dini yang Menjanjikan: [../franchise-pendidikan-usia-dini-yang-menjanjikan/]()
 
-- Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua: [https://asysyams.id/estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/]()
+- Estimasi Biaya Penitipan Anak di Jakarta: Panduan Lengkap untuk Orang Tua: [../estimasi-biaya-penitipan-anak-di-jakarta-panduan-lengkap-untuk-orang-tua/]()
 
 [
 WhatsApp Kami

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515081115/https://asysyams.id/per
 
 # Permainan Tepuk Air: Aktivitas Seru dan Edukatif untuk Anak Usia Dini
 
-[Home](https://asysyams.id/) » Permainan Tepuk Air: Aktivitas Seru dan Edukatif untuk Anak Usia Dini
+[Home](../) » Permainan Tepuk Air: Aktivitas Seru dan Edukatif untuk Anak Usia Dini
 
 ## Masa kanak-kanak merupakan fase emas dalam tumbuh kembang anak.
 
-![Cara Memacu Tinggi Fisik Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468449514_18151706926353668_4004946162877868786_n_1080-1024x768.jpg)
+![Cara Memacu Tinggi Fisik Anak](../wp-content/uploads/2025/01/Snapinst.app_468449514_18151706926353668_4004946162877868786_n_1080-1024x768.jpg)
 
 Oleh karena itu, memilih kegiatan yang menyenangkan sekaligus mendidik sangat penting bagi orang tua dan pendidik. Salah satu permainan yang bisa menjadi pilihan tepat adalah permainan tepuk air. Aktivitas ini tidak hanya menghibur, tetapi juga merangsang motorik, sensorik, serta kemampuan sosial anak. Artikel ini akan membahas secara lengkap tentang manfaat, cara bermain, dan alasan mengapa permainan ini sangat cocok anda terapkan dalam dunia pendidikan anak usia dini.
 
@@ -87,11 +87,11 @@ Dengan fasilitas yang lengkap dan guru yang ramah serta berpengalaman, anak akan
 
 Bagi orang tua yang ingin mendaftarkan anak ke PAUD Asy Syams, silakan kunjungi halaman pendaftaran resmi berikut:
 
-- [Pendaftaran PAUD AsySyams Tahun Ajaran 2024/2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- [Pendaftaran PAUD AsySyams Tahun Ajaran 2024/2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- [Pendaftaran Anak di Asy Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di Asy Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Open Pendaftaran Siswa TK AsySyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK AsySyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 ### Tips Agar Permainan Tepuk Air Makin Menarik
 
@@ -113,11 +113,11 @@ Jika Anda sedang mencari tempat pendidikan anak yang mengedepankan pendekatan me
 
 Untuk informasi lebih lanjut tentang pendaftaran, silakan kunjungi:
 
-- [Pendaftaran PAUD AsySyams Tahun Ajaran 2024/2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- [Pendaftaran PAUD AsySyams Tahun Ajaran 2024/2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- [Pendaftaran Anak di Asy Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- [Pendaftaran Anak di Asy Syams](../pendaftaran-anak-di-asy-syams/)
 
-- [Open Pendaftaran Siswa TK AsySyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK AsySyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 Mari berikan pengalaman belajar terbaik bagi anak Anda melalui kegiatan bermain yang bermakna dan menyenangkan!
 

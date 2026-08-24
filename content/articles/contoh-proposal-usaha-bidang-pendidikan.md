@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260514102401/https://asysyams.id/con
 
 # Contoh Proposal Usaha Bidang Pendidikan
 
-[Home](https://asysyams.id/) » Contoh Proposal Usaha Bidang Pendidikan
+[Home](../) » Contoh Proposal Usaha Bidang Pendidikan
 
 ## Pendidikan merupakan sektor yang selalu relevan dan memiliki prospek cerah di berbagai kondisi ekonomi.
 
-![franchise sekolah anak](https://asysyams.id/wp-content/uploads/2024/09/asysyams-80x80.png)
+![franchise sekolah anak](../wp-content/uploads/2024/09/asysyams-80x80.png)
 
 sumber
 
@@ -169,11 +169,11 @@ Jika ingin memulai usaha pendidikan tanpa harus membangun sistem dari nol, franc
 
 Untuk memahami lebih lanjut tentang peluang franchise pendidikan AsySyams, Anda dapat membaca artikel berikut:
 
-- [Peluang Usaha Bidang Pendidikan dengan Modal Kecil](https://asysyams.id/peluang-usaha-bidang-pendidikan-dengan-modal-kecil/)
+- [Peluang Usaha Bidang Pendidikan dengan Modal Kecil](../peluang-usaha-bidang-pendidikan-dengan-modal-kecil/)
 
-- [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/)
+- [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/)
 
-- [Tips Mendirikan Usaha di Bidang Pendidikan](https://asysyams.id/tips-mendirikan-usaha-di-bidang-pendidikan/)
+- [Tips Mendirikan Usaha di Bidang Pendidikan](../tips-mendirikan-usaha-di-bidang-pendidikan/)
 
 ### Menggabungkan Proposal dengan Franchise AsySyams
 
@@ -193,17 +193,17 @@ Dengan begitu, proposal Anda akan terlihat lebih profesional dan meyakinkan.
 
 Bergabung dengan franchise TK AsySyams adalah langkah strategis untuk memasuki dunia pendidikan anak usia dini dengan dukungan sistem yang telah teruji. Berikut adalah tahapan yang perlu Anda ikuti untuk menjadi mitra franchise TK AsySyams:
 
-- Konsultasi Awal: Hubungi tim manajemen AsySyams untuk mendapatkan informasi lengkap mengenai sistem franchise, persyaratan, dan prospek bisnis ke depannya. [Asysyams](https://asysyams.id/prospek-bisnis-franchise-sekolah-tk-asysyams/?utm_source=chatgpt.com)
+- Konsultasi Awal: Hubungi tim manajemen AsySyams untuk mendapatkan informasi lengkap mengenai sistem franchise, persyaratan, dan prospek bisnis ke depannya. [Asysyams](../prospek-bisnis-franchise-sekolah-tk-asysyams/?utm_source=chatgpt.com)
 
-- Survei Lokasi: Pilih lokasi strategis untuk pendirian TK. Tim AsySyams akan memberikan panduan mengenai kriteria lokasi yang ideal, termasuk analisis populasi anak usia dini di area tersebut. [Asysyams](https://asysyams.id/prospek-bisnis-franchise-sekolah-tk-asysyams/?utm_source=chatgpt.com)
+- Survei Lokasi: Pilih lokasi strategis untuk pendirian TK. Tim AsySyams akan memberikan panduan mengenai kriteria lokasi yang ideal, termasuk analisis populasi anak usia dini di area tersebut. [Asysyams](../prospek-bisnis-franchise-sekolah-tk-asysyams/?utm_source=chatgpt.com)
 
-- Pelatihan dan Persiapan Operasional: Setelah lokasi ditentukan, Anda akan mengikuti pelatihan intensif yang mencakup operasional sekolah, manajemen, dan strategi pemasaran. Pelatihan ini memastikan Anda siap menjalankan bisnis sesuai standar AsySyams. [Asysyams](https://asysyams.id/prospek-bisnis-franchise-sekolah-tk-asysyams/?utm_source=chatgpt.com)
+- Pelatihan dan Persiapan Operasional: Setelah lokasi ditentukan, Anda akan mengikuti pelatihan intensif yang mencakup operasional sekolah, manajemen, dan strategi pemasaran. Pelatihan ini memastikan Anda siap menjalankan bisnis sesuai standar AsySyams. [Asysyams](../prospek-bisnis-franchise-sekolah-tk-asysyams/?utm_source=chatgpt.com)
 
-- Grand Opening dan Pemasaran: Dengan dukungan penuh dari AsySyams, Anda akan melaksanakan pembukaan sekolah dan menjalankan strategi pemasaran untuk menarik calon siswa. [Asysyams](https://asysyams.id/prospek-bisnis-franchise-sekolah-tk-asysyams/?utm_source=chatgpt.com)
+- Grand Opening dan Pemasaran: Dengan dukungan penuh dari AsySyams, Anda akan melaksanakan pembukaan sekolah dan menjalankan strategi pemasaran untuk menarik calon siswa. [Asysyams](../prospek-bisnis-franchise-sekolah-tk-asysyams/?utm_source=chatgpt.com)
 
-Untuk informasi lebih lanjut dan pendaftaran, kunjungi situs resmi AsySyams di [https://asysyams.id/](https://asysyams.id/). Di sana, Anda akan menemukan detail lengkap mengenai syarat, prosedur, dan panduan untuk menjadi mitra franchise.
+Untuk informasi lebih lanjut dan pendaftaran, kunjungi situs resmi AsySyams di [../](../). Di sana, Anda akan menemukan detail lengkap mengenai syarat, prosedur, dan panduan untuk menjadi mitra franchise.
 
-[Asysyams](https://asysyams.id/apakah-bisa-ikut-franchise-di-bidang-pendidikan/?utm_source=chatgpt.com)
+[Asysyams](../apakah-bisa-ikut-franchise-di-bidang-pendidikan/?utm_source=chatgpt.com)
 
 Dengan mengikuti langkah-langkah di atas, Anda dapat menjadi bagian dari jaringan pendidikan AsySyams yang berkomitmen dalam memberikan pendidikan berkualitas bagi anak-anak Indonesia.
 

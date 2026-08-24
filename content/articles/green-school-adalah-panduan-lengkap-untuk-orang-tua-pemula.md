@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20251008072134/https://asysyams.id/gre
 
 # Green School Adalah: Panduan Lengkap untuk Orang Tua Pemula
 
-[Home](https://asysyams.id/) » Green School Adalah: Panduan Lengkap untuk Orang Tua Pemula
+[Home](../) » Green School Adalah: Panduan Lengkap untuk Orang Tua Pemula
 
 ## Pendahuluan
 
-![Ciri Anak Tidak Bisa Bicara](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_983d5269-80x80.jpg)
+![Ciri Anak Tidak Bisa Bicara](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_983d5269-80x80.jpg)
 
 Green School adalah konsep pendidikan yang semakin populer di kalangan orang tua modern. Banyak keluarga kini mulai menyadari pentingnya pendidikan yang tidak hanya mengasah kecerdasan anak, tetapi juga membentuk kepedulian terhadap lingkungan. Sebagai orang tua pemula, mungkin Anda bertanya-tanya, “Apa sebenarnya Green School itu?” dan “Mengapa saya harus mempertimbangkannya untuk anak saya?”.
 
@@ -115,7 +115,7 @@ Konsep Green School ternyata selaras dengan ajaran Islam. Dalam Al-Qur’an, man
 
 Sebagai orang tua muslim, Anda bisa menguatkan pemahaman ini di rumah.
 
-? Baca juga: [Apa Itu Institusi Pendidikan? Penjelasan Lengkap Fungsi dan Contohnya](https://asysyams.id/apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/)
+? Baca juga: [Apa Itu Institusi Pendidikan? Penjelasan Lengkap Fungsi dan Contohnya](../apa-itu-institusi-pendidikan-penjelasan-lengkap-fungsi-dan-contohnya/)
 
 ## Aktivitas yang Biasanya Ada di Green School
 
@@ -139,7 +139,7 @@ Kegiatan tersebut membuat anak lebih aktif, kreatif, dan peduli.
 
 Mengintegrasikan pendidikan ramah lingkungan dengan nilai Islami bisa lebih menarik jika orang tua juga membacakan cerita inspiratif.
 
-? Simak di sini: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
+? Simak di sini: [Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
 
 Cerita-cerita ini dapat memperkuat karakter anak, sehingga mereka tidak hanya pintar secara akademik, tetapi juga berakhlak mulia.
 
@@ -153,7 +153,7 @@ Beberapa sekolah di Indonesia mulai mengadopsi konsep Green School. Misalnya:
 
 Jika Anda tinggal di kota besar seperti Bekasi, ada pilihan sekolah Islam berkualitas yang juga menekankan nilai lingkungan.
 
-? Baca lebih lanjut: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+? Baca lebih lanjut: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ## Tips Menerapkan Green Lifestyle di Rumah
 

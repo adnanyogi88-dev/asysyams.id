@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515065755/https://asysyams.id/phy
 
 # Physical Bullying Adalah: Memahami, Mencegah, Cara Menanggulanginya
 
-[Home](https://asysyams.id/) » Physical Bullying Adalah: Memahami, Mencegah, Cara Menanggulanginya
+[Home](../) » Physical Bullying Adalah: Memahami, Mencegah, Cara Menanggulanginya
 
 ## Dalam kehidupan anak-anak, terutama di lingkungan sekolah atau tempat bermain,
 
-![Physical Bullying Adalah](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.20_635b404e-768x1024.jpg)
+![Physical Bullying Adalah](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.20_635b404e-768x1024.jpg)
 
 interaksi sosial menjadi bagian penting dalam proses tumbuh kembang mereka. Namun, tidak semua interaksi berlangsung secara sehat. Salah satu ancaman terbesar yang anak-anak hadapi adalah bullying fisik atau physical bullying.
 
@@ -75,11 +75,11 @@ Mencegah physical bullying membutuhkan kerja sama dari berbagai pihak, terutama 
 
 #### 1. Pendidikan karakter sejak dini
 
-Mengajarkan anak untuk memahami perbedaan, menghargai sesama, dan mengelola emosi secara sehat adalah dasar pencegahan bullying. TK berbasis Islam seperti [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) bisa menjadi pilihan pendidikan awal yang mengintegrasikan nilai agama dan karakter.
+Mengajarkan anak untuk memahami perbedaan, menghargai sesama, dan mengelola emosi secara sehat adalah dasar pencegahan bullying. TK berbasis Islam seperti [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) bisa menjadi pilihan pendidikan awal yang mengintegrasikan nilai agama dan karakter.
 
 #### 2. Mendidik anak keras kepala dengan pendekatan islami
 
-Anak yang sulit anda atur atau keras kepala perlu pendekatan yang lembut namun tegas. Dalam artikel [cara mendidik anak yang keras kepala berdasarkan nilai Islami](https://asysyams.id/cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/), anda jelaskan bahwa pendekatan Islami dapat menenangkan emosi anak dan membentuk perilaku lebih bijak.
+Anak yang sulit anda atur atau keras kepala perlu pendekatan yang lembut namun tegas. Dalam artikel [cara mendidik anak yang keras kepala berdasarkan nilai Islami](../cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/), anda jelaskan bahwa pendekatan Islami dapat menenangkan emosi anak dan membentuk perilaku lebih bijak.
 
 #### 3. Komunikasi terbuka antara anak dan orang tua
 
@@ -87,7 +87,7 @@ Anak perlu merasa nyaman untuk menceritakan apa yang mereka alami. Dengarkan tan
 
 #### 4. Pengawasan aktif di sekolah
 
-Guru dan tenaga pendidik harus waspada terhadap tanda-tanda bullying. Sekolah yang mengedepankan pendekatan Islami seperti [Playgroup Islam: Memahami Pentingnya Pendidikan Anak Usia Dini Berbasis Nilai Islami](https://asysyams.id/playgroup-islam-memahami-pentingnya-pendidikan-anak-usia-dini-berbasis-nilai-islami/) memiliki pendekatan pengajaran yang mencegah kekerasan sejak dini.
+Guru dan tenaga pendidik harus waspada terhadap tanda-tanda bullying. Sekolah yang mengedepankan pendekatan Islami seperti [Playgroup Islam: Memahami Pentingnya Pendidikan Anak Usia Dini Berbasis Nilai Islami](../playgroup-islam-memahami-pentingnya-pendidikan-anak-usia-dini-berbasis-nilai-islami/) memiliki pendekatan pengajaran yang mencegah kekerasan sejak dini.
 
 ### Peran Guru dalam Mengatasi Physical Bullying
 
@@ -135,7 +135,7 @@ Physical bullying adalah ancaman serius yang tidak bisa dianggap remeh. Dampakny
 
 Dengan memahami apa itu physical bullying, mengenali gejalanya, dan tahu bagaimana cara mencegah serta menanganinya, kita dapat melindungi anak-anak dari bahaya yang merusak ini.
 
-Jika kamu ingin anak mendapatkan pendidikan yang bukan hanya unggul secara akademik, tetapi juga dibekali dengan nilai-nilai moral dan keislaman yang kuat, pertimbangkan untuk mengenal lebih lanjut [TK Islam terbaik di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), atau memulai pendidikan dini melalui [playgroup islam yang tepat](https://asysyams.id/playgroup-islam-memahami-pentingnya-pendidikan-anak-usia-dini-berbasis-nilai-islami/).
+Jika kamu ingin anak mendapatkan pendidikan yang bukan hanya unggul secara akademik, tetapi juga dibekali dengan nilai-nilai moral dan keislaman yang kuat, pertimbangkan untuk mengenal lebih lanjut [TK Islam terbaik di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/), atau memulai pendidikan dini melalui [playgroup islam yang tepat](../playgroup-islam-memahami-pentingnya-pendidikan-anak-usia-dini-berbasis-nilai-islami/).
 
 [
 WhatsApp Kami

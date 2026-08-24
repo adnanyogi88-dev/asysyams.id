@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314173935/https://asysyams.id/alk
 
 # Alkhairaat sebagai Tempat Mendidik Putra Perspektif Parenting Islami
 
-[Home](https://asysyams.id/) » Alkhairaat sebagai Tempat Mendidik Putra Perspektif Parenting Islami
+[Home](../) » Alkhairaat sebagai Tempat Mendidik Putra Perspektif Parenting Islami
 
 ## Dalam dunia yang terus berubah, pendidikan anak menjadi salah satu aspek penting yang tidak bisa terabaikan.
 
-![pendidikan agama islam dan budi pekerti](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-1024x769.jpg)
+![pendidikan agama islam dan budi pekerti](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1-1024x769.jpg)
 
 Setiap orang tua tentu menginginkan pendidikan terbaik untuk anak-anaknya, baik dari segi intelektual, emosional, maupun spiritual. Dalam konteks ini, Alkhairaat hadir sebagai institusi pendidikan yang tidak hanya memberikan pengetahuan, tetapi juga menanamkan nilai-nilai Islam sebagai fondasi utama. Artikel ini membahas peran Alkhairaat sebagai tempat mendidik putra dalam perspektif parenting Islami, dengan mengaitkan konsep “blessed” dalam Islam serta strategi pendidikan yang berbasis nilai-nilai Islami.
 
@@ -25,13 +25,13 @@ Alkhairaat berdiri dengan tujuan utama mencetak generasi muslim yang cerdas, ber
 
 ### Konsep “Blessed” dalam Islam dan Relevansinya dengan Pendidikan
 
-Dalam Islam, kata “blessed” sering kita artikan sebagai keadaan diberkahi oleh Allah SWT. Keberkahan ini tidak hanya melibatkan aspek materi, tetapi juga spiritual dan emosional. Menurut artikel [“Blessed” Artinya dalam Islam dan Kaitannya dengan Parenting Islami](https://asysyams.id/blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/), keberkahan dalam keluarga dapat kita capai melalui pendidikan yang baik, perhatian penuh terhadap anak, dan pengajaran nilai-nilai keislaman. Alkhairaat sebagai institusi pendidikan berusaha menjadi medium untuk memberikan keberkahan ini dengan mendidik siswa sesuai ajaran Islam.
+Dalam Islam, kata “blessed” sering kita artikan sebagai keadaan diberkahi oleh Allah SWT. Keberkahan ini tidak hanya melibatkan aspek materi, tetapi juga spiritual dan emosional. Menurut artikel [“Blessed” Artinya dalam Islam dan Kaitannya dengan Parenting Islami](../blessed-artinya-dalam-islam-dan-kaitanya-dengan-parenting-islami/), keberkahan dalam keluarga dapat kita capai melalui pendidikan yang baik, perhatian penuh terhadap anak, dan pengajaran nilai-nilai keislaman. Alkhairaat sebagai institusi pendidikan berusaha menjadi medium untuk memberikan keberkahan ini dengan mendidik siswa sesuai ajaran Islam.
 
 Para pendidik di Alkhairaat tidak hanya berperan sebagai pengajar, tetapi juga sebagai figur orang tua kedua yang membantu membangun karakter siswa. Mereka menanamkan rasa syukur, keimanan, dan akhlak mulia, yang merupakan wujud dari keberkahan pendidikan Islami.
 
 ### Parenting Islami dan Pendidikan di Alkhairaat
 
-Parenting Islami adalah pendekatan pengasuhan yang berlandaskan nilai-nilai Islam. Artikel [Kiat-Kiat Parenting Islami Mendidik Anak Sesuai Nilai-Nilai Islam](https://asysyams.id/kiat-kiat-parenting-islami-mendidik-anak-sesuai-nilai-nilai-islam/) menekankan pentingnya kesabaran, kasih sayang, dan doa dalam mendidik anak. Di Alkhairaat, nilai-nilai ini terterapkan secara sistematis melalui kurikulum dan budaya sekolah. Beberapa prinsip parenting Islami yang terimplementasikan di Alkhairaat meliputi:
+Parenting Islami adalah pendekatan pengasuhan yang berlandaskan nilai-nilai Islam. Artikel [Kiat-Kiat Parenting Islami Mendidik Anak Sesuai Nilai-Nilai Islam](../kiat-kiat-parenting-islami-mendidik-anak-sesuai-nilai-nilai-islam/) menekankan pentingnya kesabaran, kasih sayang, dan doa dalam mendidik anak. Di Alkhairaat, nilai-nilai ini terterapkan secara sistematis melalui kurikulum dan budaya sekolah. Beberapa prinsip parenting Islami yang terimplementasikan di Alkhairaat meliputi:
 
 - Menanamkan Tauhid Sejak Dini Alkhairaat memberikan pendidikan agama yang komprehensif, mulai dari pengenalan Allah SWT, pelajaran Al-Qur’an, hingga penerapan ibadah sehari-hari.
 
@@ -43,7 +43,7 @@ Parenting Islami adalah pendekatan pengasuhan yang berlandaskan nilai-nilai Isla
 
 ### Alkhairaat sebagai Contoh Usaha Pendidikan yang Berbasis Nilai-Nilai Islam
 
-Sebagai salah satu lembaga pendidikan yang berbasis nilai-nilai Islam, Alkhairaat dapat menjadi inspirasi bagi orang tua yang ingin mendirikan institusi pendidikan serupa. Artikel [Contoh Proposal Usaha Bidang Pendidikan](https://asysyams.id/contoh-proposal-usaha-bidang-pendidikan/) memberikan panduan tentang cara merancang proposal untuk mendirikan lembaga pendidikan berbasis Islam. Dalam hal ini, Alkhairaat telah menjadi bukti nyata bahwa pendidikan Islami dapat memberikan kontribusi besar terhadap masyarakat.
+Sebagai salah satu lembaga pendidikan yang berbasis nilai-nilai Islam, Alkhairaat dapat menjadi inspirasi bagi orang tua yang ingin mendirikan institusi pendidikan serupa. Artikel [Contoh Proposal Usaha Bidang Pendidikan](../contoh-proposal-usaha-bidang-pendidikan/) memberikan panduan tentang cara merancang proposal untuk mendirikan lembaga pendidikan berbasis Islam. Dalam hal ini, Alkhairaat telah menjadi bukti nyata bahwa pendidikan Islami dapat memberikan kontribusi besar terhadap masyarakat.
 
 Beberapa aspek yang dapat dipelajari dari Alkhairaat dalam mendirikan usaha pendidikan berbasis Islam adalah:
 

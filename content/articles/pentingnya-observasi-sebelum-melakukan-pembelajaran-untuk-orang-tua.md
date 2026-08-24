@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314221858/https://asysyams.id/pen
 
 # Pentingnya Observasi Sebelum Melakukan Pembelajaran untuk Orang Tua
 
-[Home](https://asysyams.id/) » Pentingnya Observasi Sebelum Melakukan Pembelajaran untuk Orang Tua
+[Home](../) » Pentingnya Observasi Sebelum Melakukan Pembelajaran untuk Orang Tua
 
 ## Memilih institusi pendidikan yang tepat bagi anak merupakan salah satu keputusan penting yang harus setiap orang tua lakukan.
 
-![Cara Menstimulasi Perkembangan Kognitif Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
+![Cara Menstimulasi Perkembangan Kognitif Anak](../wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
 
 Namun, sebelum melangkah lebih jauh dan menentukan pilihan, ada satu langkah krusial yang sering kali diabaikan: observasi sebelum melakukan pembelajaran.
 
@@ -85,7 +85,7 @@ Meskipun kesannya sederhana, mencatat hasil observasi akan sangat membantu dalam
 
 - Area bermain
 
-Baca juga: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+Baca juga: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
 ## Faktor yang Harus Diperhatikan Saat Observasi
 
@@ -101,7 +101,7 @@ Orang tua wajib memastikan bahwa sekolah memiliki standar keamanan yang baik. Ap
 
 Ada sekolah yang menerapkan pendekatan Montessori, Reggio Emilia, atau bahkan kurikulum nasional yang dimodifikasi. Observasi memungkinkan Anda memahami metode mana yang paling cocok untuk anak Anda.
 
-Referensi: [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
+Referensi: [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
 
 ### 4. Lingkungan Sosial
 
@@ -133,7 +133,7 @@ Meskipun saran dari teman bisa menjadi bahan pertimbangan, setiap anak berbeda. 
 
 Biaya dan jarak memang penting, namun bukan segalanya. Observasi membantu Anda menilai nilai tambah dari sekolah tersebut dibanding sekadar mempertimbangkan logistik.
 
-Artikel terkait: [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+Artikel terkait: [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
 ## Tips Praktis Observasi untuk Orang Tua
 
@@ -175,11 +175,11 @@ Sebagai orang tua, Anda tentu ingin memberikan yang terbaik untuk buah hati. Obs
 
 Jangan lupa, bekali diri Anda dengan informasi lengkap. Baca juga artikel-artikel berikut ini untuk mendukung proses pencarian sekolah terbaik:
 
-- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
+- [Cara Memilih Taman Kanak-Kanak Terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
 
-- [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+- [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
 Dengan kombinasi observasi dan informasi yang tepat, Anda dapat membuat keputusan terbaik demi masa depan pendidikan anak Anda.
 

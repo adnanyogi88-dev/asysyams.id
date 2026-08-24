@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421041352/https://asysyams.id/sek
 
 # Sekolah Ramah Anak: Pilihan Terbaik untuk Masa Depan Cerah Anak Anda
 
-[Home](https://asysyams.id/) » Sekolah Ramah Anak: Pilihan Terbaik untuk Masa Depan Cerah Anak Anda
+[Home](../) » Sekolah Ramah Anak: Pilihan Terbaik untuk Masa Depan Cerah Anak Anda
 
 ## Setiap orang tua tentu menginginkan pendidikan terbaik bagi buah hatinya.
 
-![Membuat Menu Bulanan](https://asysyams.id/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_77b508cb-931x1024.jpg)
+![Membuat Menu Bulanan](../wp-content/uploads/2025/04/WhatsApp-Image-2025-04-21-at-19.26.21_77b508cb-931x1024.jpg)
 
 Dalam era yang semakin kompleks ini, memilih sekolah yang tidak hanya fokus pada akademik tetapi juga memperhatikan perkembangan emosional dan sosial anak menjadi sangat penting. Maka dari itu, konsep sekolah ramah anak hadir sebagai solusi ideal bagi orang tua yang ingin memberikan pendidikan holistik dan penuh kasih.
 
@@ -69,19 +69,19 @@ Sebagai orang tua, memilih sekolah bukan hal sepele. Anda perlu mempertimbangkan
 
 ### Kapan Waktu yang Tepat Mendaftarkan Anak ke Sekolah?
 
-Banyak orang tua bingung mengenai waktu pendaftaran yang ideal, terutama untuk jenjang pendidikan awal seperti TK atau PAUD. Jika Anda termasuk dalam kelompok ini, artikel berikut dapat membantu Anda: [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
+Banyak orang tua bingung mengenai waktu pendaftaran yang ideal, terutama untuk jenjang pendidikan awal seperti TK atau PAUD. Jika Anda termasuk dalam kelompok ini, artikel berikut dapat membantu Anda: [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
 
 Artikel tersebut memberikan informasi lengkap mengenai waktu terbaik untuk mendaftarkan anak ke sekolah, termasuk tips dan persiapan penting lainnya.
 
 ### Pilihan Sekolah Islam Ramah Anak di Bekasi
 
-Bagi Anda yang tinggal di Bekasi dan sedang mencari sekolah yang tidak hanya ramah anak tetapi juga memiliki nilai-nilai Islam yang kuat, ada beberapa pilihan terbaik. Salah satunya bisa Anda baca di artikel berikut: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Bagi Anda yang tinggal di Bekasi dan sedang mencari sekolah yang tidak hanya ramah anak tetapi juga memiliki nilai-nilai Islam yang kuat, ada beberapa pilihan terbaik. Salah satunya bisa Anda baca di artikel berikut: [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 Artikel tersebut mengulas berbagai TK Islam yang memiliki pendekatan ramah anak dan didukung fasilitas lengkap untuk tumbuh kembang optimal.
 
 ### Pertimbangan Biaya Masuk PAUD
 
-Biaya adalah salah satu aspek penting yang tidak bisa diabaikan saat memilih sekolah. Meski Anda menginginkan yang terbaik, penting untuk tetap menyesuaikan dengan kondisi finansial. Untuk membantu Anda memahami berbagai komponen biaya masuk PAUD, bacalah artikel ini: [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
+Biaya adalah salah satu aspek penting yang tidak bisa diabaikan saat memilih sekolah. Meski Anda menginginkan yang terbaik, penting untuk tetap menyesuaikan dengan kondisi finansial. Untuk membantu Anda memahami berbagai komponen biaya masuk PAUD, bacalah artikel ini: [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/).
 
 Artikel tersebut akan membantu Anda merencanakan anggaran pendidikan dengan lebih baik dan menghindari kejutan biaya di kemudian hari.
 

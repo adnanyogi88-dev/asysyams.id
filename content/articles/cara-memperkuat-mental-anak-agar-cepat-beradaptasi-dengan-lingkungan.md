@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260217002925/https://asysyams.id/car
 
 # Cara Memperkuat Mental Anak Agar Cepat Beradaptasi dengan Lingkungan
 
-[Home](https://asysyams.id/) » Cara Memperkuat Mental Anak Agar Cepat Beradaptasi dengan Lingkungan
+[Home](../) » Cara Memperkuat Mental Anak Agar Cepat Beradaptasi dengan Lingkungan
 
 ## Mental anak merupakan pondasi utama dalam membentuk kepribadian, perilaku, serta kemampuan sosial yang akan memengaruhi kehidupannya di masa mendatang.
 
-![cara memperkuat mental anak](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_457128721_18141624178353668_5274165255979170382_n-1-300x225.jpg)
+![cara memperkuat mental anak](../wp-content/uploads/2024/09/ClipDown.App_457128721_18141624178353668_5274165255979170382_n-1-300x225.jpg)
 
 Kemampuan anak untuk beradaptasi dengan lingkungan sekitar sangat bergantung pada kekuatan mentalnya. Lingkungan, baik itu keluarga, sekolah, atau masyarakat luas, dapat menghadirkan berbagai tantangan. Anak yang memiliki mental kuat akan lebih mudah beradaptasi, menghadapi tekanan, serta mengembangkan hubungan sosial yang sehat.
 
@@ -59,11 +59,11 @@ Dengan mengajarkan pengelolaan emosi sejak dini, anak-anak akan memiliki alat ya
 
 Baca juga:
 
-[Apa yang Akan Anak Dapatkan Jika Bersekolah di Sekolah Islam Asysyam](https://asysyams.id/apa-yang-akan-anak-dapatkan-jika-bersekolah-di-sekolah-islam-asysyam/)
+[Apa yang Akan Anak Dapatkan Jika Bersekolah di Sekolah Islam Asysyam](../apa-yang-akan-anak-dapatkan-jika-bersekolah-di-sekolah-islam-asysyam/)
 
-[Apa Kelebihan dari Franchise Sekolah AsySyams Dibanding Sekolah Lain?](https://asysyams.id/apa-kelebihan-dari-franchise-sekolah-asysyams-dibanding-sekolah-lain/)
+[Apa Kelebihan dari Franchise Sekolah AsySyams Dibanding Sekolah Lain?](../apa-kelebihan-dari-franchise-sekolah-asysyams-dibanding-sekolah-lain/)
 
-[Franchise Sekolah Tahfidz Al-Qur’an Asy Syams](https://asysyams.id/franchise-sekolah-tahfidz-al-quran-asy-syams/)
+[Franchise Sekolah Tahfidz Al-Qur’an Asy Syams](../franchise-sekolah-tahfidz-al-quran-asy-syams/)
 
  
 

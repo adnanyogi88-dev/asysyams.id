@@ -13,15 +13,15 @@ archive_url: "https://web.archive.org/web/20260421042335/https://asysyams.id/con
 
 ## Ketika orang tua memutuskan menyekolahkan anak, mereka tentu ingin sekolah itu tumbuh dan berkembang.
 
-![](https://asysyams.id/wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-02_01_13-PM.jpg)
+![](../wp-content/uploads/2025/07/ChatGPT-Image-Jul-16-2025-02_01_13-PM.jpg)
 
 Rencana pengembangan sekolah menjadi napas penting agar kualitas pendidikan terus meningkat. Dalam artikel ini, saya sajikan langkah-langkah strategis, praktis, dan terukur—terutama untuk sekolah TK atau PAUD. Selain itu, saya sisipkan link berguna untuk orang tua:
 
-- Panduan lengkap daftar TK: [pendaftaran TK bulan apa? Panduan lengkap untuk orang tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- Panduan lengkap daftar TK: [pendaftaran TK bulan apa? Panduan lengkap untuk orang tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- TK Islam terbaik di Bekasi: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- TK Islam terbaik di Bekasi: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- Info biaya masuk PAUD: [biaya masuk PAUD: panduan lengkap untuk orang tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- Info biaya masuk PAUD: [biaya masuk PAUD: panduan lengkap untuk orang tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 ## 1. Analisis Kondisi Awal Sekolah
 
@@ -87,7 +87,7 @@ Fasilitas menentukan kualitas proses belajar. Oleh karena itu, rencana pengemban
 
 - Pemasangan teknologi: proyektor, layar interaktif, dan Wi-Fi di area kelas.
 
-Anda bisa melihat contoh fasilitas lengkap di artikel tentang [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) sebagai referensi.
+Anda bisa melihat contoh fasilitas lengkap di artikel tentang [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) sebagai referensi.
 
 ### 3.4. Peningkatan Fasilitas Digital
 
@@ -145,7 +145,7 @@ Rencana tanpa anggaran jelas hanya akan berhenti di rencana. Maka, Anda perlu:
 
 - Monitoring & evaluasi realisasi anggaran secara rutin.
 
-Bagi orang tua baru, cek juga artikel tentang [biaya masuk PAUD: panduan lengkap untuk orang tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/) agar tidak mengalami kejutan.
+Bagi orang tua baru, cek juga artikel tentang [biaya masuk PAUD: panduan lengkap untuk orang tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/) agar tidak mengalami kejutan.
 
 ## 8. Monitoring dan Evaluasi
 
@@ -181,11 +181,11 @@ Implementasi contoh rencana pengembangan sekolah seperti di atas menjanjikan per
 
 Karena itu, jika Anda sedang mencari sekolah yang terus berkembang, artikel ini jadi panduan praktis. Jangan lupa pelajari pula link-link berikut untuk membantu keputusan Anda:
 
-- Daftar TK: [pendaftaran TK bulan apa? Panduan lengkap untuk orang tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
+- Daftar TK: [pendaftaran TK bulan apa? Panduan lengkap untuk orang tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/)
 
-- TK Islam terbaik di Bekasi: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- TK Islam terbaik di Bekasi: [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- Biaya masuk PAUD: [biaya masuk PAUD: panduan lengkap untuk orang tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
+- Biaya masuk PAUD: [biaya masuk PAUD: panduan lengkap untuk orang tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/)
 
 Dengan demikian, Anda punya rencana pengembangan yang tidak hanya terstruktur dan komprehensif, tetapi juga terasa nyata bagi anak. Selamat memilih sekolah terbaik untuk masa depan mereka!
 

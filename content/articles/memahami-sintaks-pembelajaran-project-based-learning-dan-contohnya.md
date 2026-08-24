@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260419135834/https://asysyams.id/mem
 
 # Memahami Sintaks Pembelajaran Project Based Learning dan Contohnya
 
-[Home](https://asysyams.id/) » Memahami Sintaks Pembelajaran Project Based Learning dan Contohnya
+[Home](../) » Memahami Sintaks Pembelajaran Project Based Learning dan Contohnya
 
 Pendahuluan
 Sebagai orang tua, kamu tentu ingin memastikan anak siap memasuki dunia sekolah dengan bekal terbaik. Oleh karena itu, kamu perlu memahami konsep pembelajaran modern seperti Project Based Learning (PBL). Selain itu, kamu juga perlu tahu bagaimana menyusun Rencana Pelaksanaan Pembelajaran (RPP) berbasis proyek, lengkap dengan sintaks yang tepat. Artikel ini membahas secara terpadu sintaks pembelajaran PBL dan memberikan contoh RPP PBL yang aplikatif bagi TK dan SD. Dengan begitu, kamu bisa mendampingi anak memasuki sekolah dengan persiapan matang dan memahami metode yang akan digunakan pendidik.
@@ -104,17 +104,17 @@ Dengan cara itu, kamu memastikan pembelajaran PBL tetap hidup dan relevan. Kids 
 ## 7. Hubungan PBL dan pilihan sekolah TK Islam di Bekasi
 
 Tentunya kamu juga mencari TK Islam yang bagus di Bekasi dengan fasilitas terbaik untuk anak. Dengan PBL, lingkungan pengajaran yang mendukung jadi sangat penting. Bahkan, sekolah yang menyediakan ruang kreativitas, taman bermain, dan fasilitas daur ulang akan memperkuat penerapan PBL. Jika kamu ingin tahu lebih lanjut, kamu bisa membaca artikel berikut:
-[TK Islam yang bagus di Bekasi dengan fasilitas terbaik] ([https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/))
+[TK Islam yang bagus di Bekasi dengan fasilitas terbaik] ([../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/))
 
 ## 8. Franchise Pendidikan Lokal dan PBL
 
 Selain itu, kamu mungkin tertarik mengetahui franchise lokal kategori pendidikan di Indonesia. Banyak yang mulai menerapkan model pembelajaran PBL minimal di tingkatan TK dan PAUD. Jika kamu penasaran, silakan cek artikel ini:
-[5 Franchise lokal dengan kategori pendidikan di Indonesia] ([https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/))
+[5 Franchise lokal dengan kategori pendidikan di Indonesia] ([../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/))
 
 ## 9. Cara Memilih Taman Kanak?Kanak Terdekat di Bekasi dengan PBL
 
 Saat memilih TK terdekat, kamu perlu memastikan sekolah menjalankan metode pembelajaran aktif seperti PBL. Perhatikan lingkungan sekolah, fasilitas kreatif, dan keterlibatan orang tua. Kamu bisa membaca tips memilih:
-[Cara memilih taman kanak-kanak terdekat di Bekasi] ([https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/))
+[Cara memilih taman kanak-kanak terdekat di Bekasi] ([../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/))
 
 ## 10. Kata Penutup dan Call to Action
 

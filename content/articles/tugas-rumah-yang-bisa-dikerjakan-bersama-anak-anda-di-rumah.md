@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515080322/https://asysyams.id/tug
 
 # Tugas Rumah yang Bisa Dikerjakan Bersama Anak Anda di Rumah
 
-[Home](https://asysyams.id/) » Tugas Rumah yang Bisa Dikerjakan Bersama Anak Anda di Rumah
+[Home](../) » Tugas Rumah yang Bisa Dikerjakan Bersama Anak Anda di Rumah
 
 ## Mengerjakan tugas rumah bersama anak bukan hanya tentang menyelesaikan pekerjaan rumah tangga,
 
-![mengerjakan tugas rumah bersama anak](https://asysyams.id/wp-content/uploads/2024/08/6-manfaat-melibatkan-anak-dalam-pekerjaan-rumah-tangga-0-alodokter-300x200.jpg)
+![mengerjakan tugas rumah bersama anak](../wp-content/uploads/2024/08/6-manfaat-melibatkan-anak-dalam-pekerjaan-rumah-tangga-0-alodokter-300x200.jpg)
 
 [sumber](https://www.alodokter.com/)
 
@@ -141,11 +141,11 @@ Anak-anak pada usia ini biasanya sudah lebih mandiri dan mampu mengerjakan tugas
 
 Baca juga:
 
-[Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak](https://asysyams.id/pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/)
+[Pentingnya Pendidikan Islam Ditanamkan Sejak Dini kepada Anak](../pentingnya-pendidikan-islam-ditanamkan-sejak-dini-kepada-anak/)
 
-[Acara-Acara yang Biasanya Diikuti Oleh Anak TK](https://asysyams.id/acara-acara-yang-biasanya-diikuti-oleh-anak-tk/)
+[Acara-Acara yang Biasanya Diikuti Oleh Anak TK](../acara-acara-yang-biasanya-diikuti-oleh-anak-tk/)
 
-[Orang Tua Wajib Tahu, Umur Anak Masuk TK Bisa Tentukan Masa Depan Anak](https://asysyams.id/orang-tua-wajib-tahu-umur-anak-masuk-tk-bisa-tentukan-masa-depan-anak/)
+[Orang Tua Wajib Tahu, Umur Anak Masuk TK Bisa Tentukan Masa Depan Anak](../orang-tua-wajib-tahu-umur-anak-masuk-tk-bisa-tentukan-masa-depan-anak/)
 
  
 

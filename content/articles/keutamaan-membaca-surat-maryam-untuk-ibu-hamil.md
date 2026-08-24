@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314173424/https://asysyams.id/keu
 
 # Keutamaan Membaca Surat Maryam untuk Ibu Hamil
 
-[Home](https://asysyams.id/) » Keutamaan Membaca Surat Maryam untuk Ibu Hamil
+[Home](../) » Keutamaan Membaca Surat Maryam untuk Ibu Hamil
 
 ## Surat Maryam dalam Al-Qur’an dikenal sebagai salah satu surat yang memiliki banyak keutamaan, khususnya bagi ibu hamil.
 
-![Keutamaan Membaca Surat Maryam](https://asysyams.id/wp-content/uploads/2024/12/Screenshot_51.jpg)
+![Keutamaan Membaca Surat Maryam](../wp-content/uploads/2024/12/Screenshot_51.jpg)
 
 Surat ini mengisahkan perjalanan hidup Maryam, ibu Nabi Isa AS, yang penuh kesabaran dan keimanan. Dalam Islam, membaca Surat Maryam selama kehamilan kita yakini dapat membawa ketenangan, kekuatan spiritual, dan harapan agar anak yang ibu lahirkan menjadi sosok yang saleh dan berakhlak mulia.
 
@@ -31,7 +31,7 @@ Namun, keutamaan ini tidak hanya berhenti pada masa kehamilan. Pendidikan anak h
 
 ### Pendidikan Anak Sejak Usia Dini
 
-Dalam kaitannya dengan pendidikan anak, Surat Maryam mengajarkan nilai-nilai penting yang harus ibu tanamkan sejak dini. Hal ini sejalan dengan artikel [Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat](https://asysyams.id/usia-dini-itu-umur-berapa-mengenal-lebih-dekat/), yang menekankan pentingnya mengenali tahapan usia anak dan memberikan pendidikan sesuai dengan perkembangannya.
+Dalam kaitannya dengan pendidikan anak, Surat Maryam mengajarkan nilai-nilai penting yang harus ibu tanamkan sejak dini. Hal ini sejalan dengan artikel [Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat](../usia-dini-itu-umur-berapa-mengenal-lebih-dekat/), yang menekankan pentingnya mengenali tahapan usia anak dan memberikan pendidikan sesuai dengan perkembangannya.
 
 ### Nilai Pendidikan dari Surat Maryam
 
@@ -43,13 +43,13 @@ Dalam kaitannya dengan pendidikan anak, Surat Maryam mengajarkan nilai-nilai pen
 
 ### Franchise Pendidikan Usia Dini yang Menjanjikan
 
-Pentingnya pendidikan anak sejak usia dini juga mendorong munculnya berbagai lembaga pendidikan berbasis agama. Artikel [Franchise Pendidikan Usia Dini yang Menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/) membahas bagaimana peluang bisnis dalam bidang pendidikan usia dini semakin berkembang.
+Pentingnya pendidikan anak sejak usia dini juga mendorong munculnya berbagai lembaga pendidikan berbasis agama. Artikel [Franchise Pendidikan Usia Dini yang Menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/) membahas bagaimana peluang bisnis dalam bidang pendidikan usia dini semakin berkembang.
 
 Lembaga-lembaga ini sering mengadopsi nilai-nilai Al-Qur’an dalam kurikulum mereka. Membaca Surat Maryam dapat menjadi inspirasi dalam merancang program pendidikan yang menanamkan nilai-nilai Islam sejak usia dini.
 
 ### Inspirasi Nama Anak dari Surat Maryam
 
-Sebagai bentuk penghormatan dan harapan agar anak memiliki karakter mulia, banyak orang tua memberikan nama yang terinspirasi dari Surat Maryam. Artikel [Nama Anak Perempuan dalam Islam: Inspirasi untuk Orang Tua](https://asysyams.id/nama-anak-perempuan-dalam-islam-inspirasi-untuk-orang-tua/) menyebutkan beberapa nama islami yang bermakna baik.
+Sebagai bentuk penghormatan dan harapan agar anak memiliki karakter mulia, banyak orang tua memberikan nama yang terinspirasi dari Surat Maryam. Artikel [Nama Anak Perempuan dalam Islam: Inspirasi untuk Orang Tua](../nama-anak-perempuan-dalam-islam-inspirasi-untuk-orang-tua/) menyebutkan beberapa nama islami yang bermakna baik.
 
 Nama seperti Maryam, Isa, dan Zakariya sering terpilih karena memiliki makna mendalam yang menggambarkan kesalehan dan keimanan. Nama-nama ini bisa menjadi doa dan harapan agar anak tumbuh menjadi pribadi yang mulia.
 

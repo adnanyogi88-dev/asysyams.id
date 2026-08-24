@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611141705/https://asysyams.id/ana
 
 # Anak Masuk Rumah Sakit? Ini Langkah Penting yang Harus Dilakukan Orang Tua
 
-[Home](https://asysyams.id/) » Anak Masuk Rumah Sakit? Ini Langkah Penting yang Harus Dilakukan Orang Tua
+[Home](../) » Anak Masuk Rumah Sakit? Ini Langkah Penting yang Harus Dilakukan Orang Tua
 
 ## Ketika anak harus dirawat di rumah sakit, orang tua memainkan peran krusial dalam mendukung proses penyembuhan.
 
-![Contoh Asesmen Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_eb31dcd3-1024x1024.jpg)
+![Contoh Asesmen Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_eb31dcd3-1024x1024.jpg)
 
 Kehadiran, perhatian, dan dukungan emosional dari orang tua dapat mempercepat pemulihan anak. Berikut adalah langkah-langkah yang dapat orang tua lakukan orang tua saat anak dirawat di rumah sakit
 

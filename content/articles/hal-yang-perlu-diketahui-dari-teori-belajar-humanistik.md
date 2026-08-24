@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20250913053239/https://asysyams.id/hal
 
 # Hal yang Perlu Diketahui dari Teori Belajar Humanistik
 
-[Home](https://asysyams.id/) » Hal yang Perlu Diketahui dari Teori Belajar Humanistik
+[Home](../) » Hal yang Perlu Diketahui dari Teori Belajar Humanistik
 
 ### 1. Pendahuluan
 
@@ -40,7 +40,7 @@ Pastinya, orang tua ingin anak berkembang secara optimal. Teori humanistik memba
 
 - Mendorong kreativitas, percaya diri, dan keterlibatan anak.
 
-Selain itu, memahami teori ini membantu orang tua memilih sekolah yang sesuai dengan prinsip humanistik. Misalnya, mereka bisa mempertimbangkan TK Islam yang bagus di Bekasi dengan fasilitas terbaik sebagai pilihan utama. Anda bisa membaca lebih lanjut di [artikel TK Islam di Bekasi](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Selain itu, memahami teori ini membantu orang tua memilih sekolah yang sesuai dengan prinsip humanistik. Misalnya, mereka bisa mempertimbangkan TK Islam yang bagus di Bekasi dengan fasilitas terbaik sebagai pilihan utama. Anda bisa membaca lebih lanjut di [artikel TK Islam di Bekasi](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ### 5. Komponen Praktis Teori Humanistik untuk Anak Masuk Sekolah
 
@@ -66,7 +66,7 @@ Pertama, ? carilah sekolah dengan pendekatan yang menekankan peserta didik sebag
 Kedua, ? perhatikan kurikulum yang berfokus pada pengalaman bermakna dan aktivitas interaktif.
 Ketiga, ? komunikasikan visi orang tua dengan pihak sekolah. Sekolah yang toleran terhadap masukan orang tua menunjukkan nilai humanistik yang kuat.
 
-Jika Anda sedang mencari lembaga pendidikan lokal dengan standar tinggi dalam pendidikan anak usia dini, bisa cek daftar franchise lokal dengan kategori pendidikan di Indonesia. Link ini membantu memahami pilihan lembaga berkualitas: [daftar franchise pendidikan lokal](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
+Jika Anda sedang mencari lembaga pendidikan lokal dengan standar tinggi dalam pendidikan anak usia dini, bisa cek daftar franchise lokal dengan kategori pendidikan di Indonesia. Link ini membantu memahami pilihan lembaga berkualitas: [daftar franchise pendidikan lokal](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
 
 ### 7. Proses Pengambilan Keputusan bagi Orang Tua
 
@@ -80,7 +80,7 @@ Cari tahu soal ruang bermain, jumlah anak per kelas, serta kegiatan di luar kela
 
 #### c. Bandingkan beberapa pilihan
 
-Jika Anda ingin memilih akses yang dekat dari rumah, pertimbangkan panduan tentang cara memilih taman kanak-kanak terdekat di Bekasi sebagai acuan praktis: [cara memilih TK dekat Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/).
+Jika Anda ingin memilih akses yang dekat dari rumah, pertimbangkan panduan tentang cara memilih taman kanak-kanak terdekat di Bekasi sebagai acuan praktis: [cara memilih TK dekat Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/).
 
 ### 8. Tantangan dan Tips Mengatasinya
 

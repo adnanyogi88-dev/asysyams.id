@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421042232/https://asysyams.id/man
 
 # Manfaat Menggambar bagi Tumbuh Kembang Anak
 
-[Home](https://asysyams.id/) » Manfaat Menggambar bagi Tumbuh Kembang Anak
+[Home](../) » Manfaat Menggambar bagi Tumbuh Kembang Anak
 
 ## Menggambar adalah salah satu aktivitas yang sering dilakukan oleh anak-anak, baik di rumah maupun di sekolah.
 
-![Mengetahui Perkembangan Moral Anak](https://asysyams.id/wp-content/uploads/2025/02/Snapinst.app_467401903_930954982302738_7986070128136047747_n_1080-2-1024x1024.jpg)
+![Mengetahui Perkembangan Moral Anak](../wp-content/uploads/2025/02/Snapinst.app_467401903_930954982302738_7986070128136047747_n_1080-2-1024x1024.jpg)
 
 Selain sebagai sarana hiburan, menggambar memiliki peran penting dalam mendukung tumbuh kembang anak. Melalui menggambar, anak dapat mengekspresikan diri, mengasah kreativitas, serta mengembangkan berbagai keterampilan penting lainnya. Artikel ini akan membahas secara mendalam manfaat menggambar bagi tumbuh kembang anak dan bagaimana aktivitas ini dapat terintegrasikan dalam proses pendidikan.
 
@@ -65,7 +65,7 @@ Menggambar tidak hanya bermanfaat sebagai aktivitas mandiri, tetapi juga dapat d
 
 ### a. Menghubungkan dengan Keterampilan Menulis
 
-Menggambar dapat menjadi langkah awal dalam mengembangkan keterampilan menulis. Misalnya, setelah menggambar, anak dapat diminta untuk menulis cerita atau deskripsi tentang gambar tersebut, yang membantu meningkatkan kemampuan literasi mereka. Simak lebih lanjut tentang pembelajaran dalam artikel [Perbedaan Belajar, Mengajar, dan Pembelajaran](https://asysyams.id/perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/).
+Menggambar dapat menjadi langkah awal dalam mengembangkan keterampilan menulis. Misalnya, setelah menggambar, anak dapat diminta untuk menulis cerita atau deskripsi tentang gambar tersebut, yang membantu meningkatkan kemampuan literasi mereka. Simak lebih lanjut tentang pembelajaran dalam artikel [Perbedaan Belajar, Mengajar, dan Pembelajaran](../perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/).
 
 ### b. Sebagai Bagian dari Pembelajaran Tematik
 
@@ -73,11 +73,11 @@ Mengintegrasikan menggambar dalam pembelajaran tematik memungkinkan anak untuk m
 
 ### c. Mendorong Pembelajaran Aktif
 
-Menggambar dapat digunakan sebagai alat untuk mendorong pembelajaran aktif, di mana anak terlibat langsung dalam proses belajar melalui eksplorasi dan kreativitas. Hal ini sejalan dengan konsep pembelajaran yang menekankan peran aktif siswa dalam proses belajar. Pelajari lebih lanjut dalam artikel [Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK](https://asysyams.id/mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/).
+Menggambar dapat digunakan sebagai alat untuk mendorong pembelajaran aktif, di mana anak terlibat langsung dalam proses belajar melalui eksplorasi dan kreativitas. Hal ini sejalan dengan konsep pembelajaran yang menekankan peran aktif siswa dalam proses belajar. Pelajari lebih lanjut dalam artikel [Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK](../mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/).
 
 ### d. Mempersiapkan Anak untuk Tantangan Masa Depan
 
-Dengan berkembangnya teknologi dan perubahan dalam dunia kerja, keterampilan seperti kreativitas, kemampuan memecahkan masalah, dan adaptabilitas menjadi semakin penting. Menggambar dapat membantu mengembangkan keterampilan-keterampilan tersebut sejak dini, mempersiapkan anak untuk menghadapi tantangan di masa depan. Simak lebih lanjut dalam artikel [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](https://asysyams.id/bisnis-pendidikan-peluang-dan-tren-tahun-2025/).
+Dengan berkembangnya teknologi dan perubahan dalam dunia kerja, keterampilan seperti kreativitas, kemampuan memecahkan masalah, dan adaptabilitas menjadi semakin penting. Menggambar dapat membantu mengembangkan keterampilan-keterampilan tersebut sejak dini, mempersiapkan anak untuk menghadapi tantangan di masa depan. Simak lebih lanjut dalam artikel [Bisnis Pendidikan: Peluang dan Tren Tahun 2025](../bisnis-pendidikan-peluang-dan-tren-tahun-2025/).
 
 ## Kesimpulan
 

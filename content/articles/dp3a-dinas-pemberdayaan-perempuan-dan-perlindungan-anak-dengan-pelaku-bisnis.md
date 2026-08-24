@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207011353/https://asysyams.id/dp3
 
 # DP3A Dinas Pemberdayaan Perempuan dan Perlindungan Anak dengan Pelaku Bisnis
 
-[Home](https://asysyams.id/) » DP3A Dinas Pemberdayaan Perempuan dan Perlindungan Anak dengan Pelaku Bisnis
+[Home](../) » DP3A Dinas Pemberdayaan Perempuan dan Perlindungan Anak dengan Pelaku Bisnis
 
 ## Selain itu, setiap organisasi publik wajib menciptakan kolaborasi strategis.
 
-![guru penggerak](https://asysyams.id/wp-content/uploads/2024/12/Snapinsta.app_468316986_18151704847353668_8941624546163725719_n_1080-1-1024x683.jpg)
+![guru penggerak](../wp-content/uploads/2024/12/Snapinsta.app_468316986_18151704847353668_8941624546163725719_n_1080-1-1024x683.jpg)
 
 Kemudian, kolaborasi antara Dinas Pemberdayaan Perempuan dan Perlindungan Anak (DP3A) dengan dunia bisnis menimbulkan banyak peluang. Selanjutnya, artikel ini membahas sejauh mana DP3A dapat bekerja sama dengan pelaku usaha guna meningkatkan kesejahteraan perempuan dan anak. Namun, masih banyak bisnis yang belum memahami sepenuhnya manfaat internal maupun eksternal ketika terlibat. Karena itu, kami menguraikan program, langkah, dan rekomendasi konkret agar Anda—sebagai pemilik, manajer, atau praktisi bisnis—dapat langsung terjun. Oleh karena itu, mari telaah bersama.
 
@@ -97,15 +97,15 @@ Selain melibatkan perusahaan telekomunikasi, desa Mandiri berhasil mencetak 100 
 
 ## 20. Relevansi dengan Pendidikan Anak Usia Dini
 
-Selain memberikan akses perlindungan, DP3A mendorong kualitas PAUD agar anak terlindungi sejak dini. Kemudian, bisnis dapat merujuk orang tua karyawan ke program [pendaftaran PAUD Asysyams tahun ajaran 2024-2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/). Selanjutnya, anak-anak mendapatkan stimulasi perkembangan optimal. Namun, banyak orang tua ragu memilih PAUD berkualitas. Karena itu, aktifkan program subsidi atau voucher sekolah bagi karyawan. Dengan demikian, perusahaan mendukung perlindungan dan pendidikan anak.
+Selain memberikan akses perlindungan, DP3A mendorong kualitas PAUD agar anak terlindungi sejak dini. Kemudian, bisnis dapat merujuk orang tua karyawan ke program [pendaftaran PAUD Asysyams tahun ajaran 2024-2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/). Selanjutnya, anak-anak mendapatkan stimulasi perkembangan optimal. Namun, banyak orang tua ragu memilih PAUD berkualitas. Karena itu, aktifkan program subsidi atau voucher sekolah bagi karyawan. Dengan demikian, perusahaan mendukung perlindungan dan pendidikan anak.
 
 ## 21. Rujukan untuk Pendidikan TK
 
-Selain PAUD, DP3A menyarankan kunjungan ke [pendaftaran siswa TK Asysyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) agar anak memperoleh lingkungan belajar kondusif. Kemudian, partisipasi bisnis dapat berupa penyediaan sarana prasarana edukatif. Selanjutnya, monitoring perkembangan anak menjadi lebih sistematis. Namun, tanpa arahan yang tepat, orang tua dan perusahaan sulit memantau kemajuan. Karena itu, buat grup komunikasi antara sekolah, orang tua, dan HR perusahaan. Dengan demikian, setiap anak mendapatkan perhatian optimal.
+Selain PAUD, DP3A menyarankan kunjungan ke [pendaftaran siswa TK Asysyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/) agar anak memperoleh lingkungan belajar kondusif. Kemudian, partisipasi bisnis dapat berupa penyediaan sarana prasarana edukatif. Selanjutnya, monitoring perkembangan anak menjadi lebih sistematis. Namun, tanpa arahan yang tepat, orang tua dan perusahaan sulit memantau kemajuan. Karena itu, buat grup komunikasi antara sekolah, orang tua, dan HR perusahaan. Dengan demikian, setiap anak mendapatkan perhatian optimal.
 
 ## 22. Pilihan TK Islam Berkualitas di Bekasi
 
-Selain rekomendasi umum, DP3A menyoroti [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) sebagai contoh institusi ramah anak. Kemudian, bisnis dapat menyalurkan beasiswa atau bantuan fasilitas kepada sekolah tersebut. Selanjutnya, pelibatan langsung perusahaan menciptakan branding positif. Namun, kolaborasi semacam ini memerlukan perjanjian program. Karena itu, siapkan proposal detail kepada DP3A dan pihak sekolah. Dengan demikian, kemitraan berjalan lancar dan berdampak luas.
+Selain rekomendasi umum, DP3A menyoroti [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) sebagai contoh institusi ramah anak. Kemudian, bisnis dapat menyalurkan beasiswa atau bantuan fasilitas kepada sekolah tersebut. Selanjutnya, pelibatan langsung perusahaan menciptakan branding positif. Namun, kolaborasi semacam ini memerlukan perjanjian program. Karena itu, siapkan proposal detail kepada DP3A dan pihak sekolah. Dengan demikian, kemitraan berjalan lancar dan berdampak luas.
 
 ## 23. Langkah Praktis untuk Memulai
 

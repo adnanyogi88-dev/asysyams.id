@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314165319/https://asysyams.id/apa
 
 # Apa Itu Film Anak-Anak dan Edukasi yang Tersajikan Di Dalamnya
 
-[Home](https://asysyams.id/) » Apa Itu Film Anak-Anak dan Edukasi yang Tersajikan Di Dalamnya
+[Home](../) » Apa Itu Film Anak-Anak dan Edukasi yang Tersajikan Di Dalamnya
 
 ## Film anak-anak adalah genre yang terancang khusus untuk menarik perhatian penonton muda dengan cerita yang sederhana,
 
-![film anak-anak](https://asysyams.id/wp-content/uploads/2024/09/DALL·E-2024-09-03-21.13.26-A-vibrant-and-colorful-scene-showing-a-group-of-happy-children-sitting-in-front-of-a-large-television-screen-watching-an-animated-movie-together.-The-300x300.webp)
+![film anak-anak](../wp-content/uploads/2024/09/DALL·E-2024-09-03-21.13.26-A-vibrant-and-colorful-scene-showing-a-group-of-happy-children-sitting-in-front-of-a-large-television-screen-watching-an-animated-movie-together.-The-300x300.webp)
 
 visual yang berwarna-warni, dan karakter yang mudah kita kenali. Selain menjadi sumber hiburan, film anak-anak juga memiliki peran penting dalam perkembangan emosional, sosial, dan kognitif anak-anak. Melalui cerita-cerita yang tersajikan, film dapat membantu anak-anak memahami nilai-nilai moral, mengenali emosi mereka, dan bahkan belajar tentang dunia di sekitar mereka.
 
@@ -35,11 +35,11 @@ Di samping itu, film live-action juga mulai menargetkan audiens anak-anak. “Ho
 
 Baca juga:
 
-[Mengapa TK Asyisyam Merupakan Tempat yang Bagus untuk Pendidikan Anak Usia Dini](https://asysyams.id/mengapa-tk-asyisyam-merupakan-tempat-yang-bagus-untuk-pendidikan-anak-usia-dini/)
+[Mengapa TK Asyisyam Merupakan Tempat yang Bagus untuk Pendidikan Anak Usia Dini](../mengapa-tk-asyisyam-merupakan-tempat-yang-bagus-untuk-pendidikan-anak-usia-dini/)
 
-[Informasi Tumbuh Kembang anak](https://asysyams.id/informasi-tumbuh-kembang-anak/)
+[Informasi Tumbuh Kembang anak](../informasi-tumbuh-kembang-anak/)
 
-[Peluang Kemitraan Asy-Syams Islamic School](https://asysyams.id/gabung-franchise-sekolah-asy-syams/)
+[Peluang Kemitraan Asy-Syams Islamic School](../gabung-franchise-sekolah-asy-syams/)
 
 ###  
 

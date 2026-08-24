@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515071228/https://asysyams.id/bac
 
 # Bacaan Sholawat adalah Amalan yang Mendatangkan Berkah dan Keutamaan
 
-[Home](https://asysyams.id/) » Bacaan Sholawat adalah Amalan yang Mendatangkan Berkah dan Keutamaan
+[Home](../) » Bacaan Sholawat adalah Amalan yang Mendatangkan Berkah dan Keutamaan
 
 ## Sholawat adalah doa dan pujian yang kita sampaikan kepada Nabi Muhammad ? sebagai bentuk penghormatan dan kecintaan umat Islam kepada beliau.
 
-![Buku Perkembangan Fisik Motorik Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
+![Buku Perkembangan Fisik Motorik Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
 
 Sholawat adalah doa dan pujian yang kita sampaikan kepada Nabi Muhammad ? sebagai bentuk penghormatan dan kecintaan umat Islam kepada beliau. Bacaan sholawat adalah salah satu amalan yang teranjurkan dalam Islam karena memiliki banyak keutamaan dan manfaat, baik di dunia maupun di akhirat. Dengan membaca sholawat, seseorang dapat mendekatkan diri kepada Allah, memperoleh syafaat Nabi, serta mendapatkan keberkahan dalam hidupnya.
 
@@ -65,7 +65,7 @@ Allahumma sholli ‘ala sayyidina Muhammadin sholaatan tunjinaa bihamin jamii’
 
 Bacaan sholawat adalah amalan yang sangat dianjurkan dalam Islam. Dengan membaca sholawat, seseorang bisa mendapatkan banyak manfaat, mulai dari keberkahan hidup, pengampunan dosa, hingga syafaat Rasulullah ? di akhirat. Mengajarkan anak membaca sholawat sejak dini juga penting agar mereka tumbuh menjadi pribadi yang cinta kepada Nabi Muhammad ?.
 
-Bagi orang tua yang ingin mendidik anak-anaknya dengan nilai-nilai Islam yang kuat, memilih [TK Islam yang berkualitas](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) bisa menjadi pilihan terbaik. Selain itu, bagi yang ingin berkontribusi dalam dunia pendidikan Islam, peluang [franchise TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/) bisa menjadi solusi yang bermanfaat bagi umat.
+Bagi orang tua yang ingin mendidik anak-anaknya dengan nilai-nilai Islam yang kuat, memilih [TK Islam yang berkualitas](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/) bisa menjadi pilihan terbaik. Selain itu, bagi yang ingin berkontribusi dalam dunia pendidikan Islam, peluang [franchise TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/) bisa menjadi solusi yang bermanfaat bagi umat.
 
 Semoga kita semua senantiasa mendapatkan keberkahan dengan memperbanyak bacaan sholawat dan menanamkan kecintaan kepada Rasulullah ? dalam kehidupan sehari-hari.
 

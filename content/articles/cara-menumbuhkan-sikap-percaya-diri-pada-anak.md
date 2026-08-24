@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611140355/https://asysyams.id/car
 
 # Cara Menumbuhkan Sikap Percaya Diri pada Anak
 
-[Home](https://asysyams.id/) » Cara Menumbuhkan Sikap Percaya Diri pada Anak
+[Home](../) » Cara Menumbuhkan Sikap Percaya Diri pada Anak
 
 ## Percaya diri merupakan salah satu kualitas paling penting yang harus dimiliki oleh setiap anak.
 
-![Sains untuk Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.57_b85fb104-819x1024.jpg)
+![Sains untuk Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.57_b85fb104-819x1024.jpg)
 
 Tidak hanya tentang keberanian tampil di depan kelas, namun lebih dari itu, sikap ini mencakup kemampuan mengambil keputusan, menghadapi tantangan, serta merasa nyaman menjadi diri sendiri. Oleh karena itu, penting bagi orang tua dan pendidik untuk memahami cara menumbuhkan sikap percaya diri pada anak sejak usia dini.
 
@@ -161,11 +161,11 @@ Sebagai contoh, TK Asysyams memberikan ruang bagi anak untuk mengembangkan keper
 
 Untuk mengetahui lebih dalam, kamu bisa membaca artikel berikut:
 
-- ? [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+- ? [5 Franchise Lokal dengan Kategori Pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
-- ? [Kesempatan Mengikuti Franchise Pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
+- ? [Kesempatan Mengikuti Franchise Pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/)
 
-- ? [Perbedaan Belajar, Mengajar, dan Pembelajaran: Konsep dan Implikasinya dalam Dunia Pendidikan](https://asysyams.id/perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/)
+- ? [Perbedaan Belajar, Mengajar, dan Pembelajaran: Konsep dan Implikasinya dalam Dunia Pendidikan](../perbedaan-belajar-mengajar-dan-pembelajaran-konsep-dan-implikasinya-dalam-dunia-pendidikan/)
 
 ## 12. Gunakan Cerita dan Permainan Edukatif
 

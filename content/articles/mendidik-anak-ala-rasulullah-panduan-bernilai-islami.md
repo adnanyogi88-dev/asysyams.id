@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260207011004/https://asysyams.id/men
 
 # Mendidik Anak ala Rasulullah Panduan Bernilai Islami
 
-[Home](https://asysyams.id/) » Mendidik Anak ala Rasulullah Panduan Bernilai Islami
+[Home](../) » Mendidik Anak ala Rasulullah Panduan Bernilai Islami
 
 ## Rasulullah Muhammad SAW adalah teladan sempurna dalam segala aspek kehidupan, termasuk dalam mendidik anak.
 
-![apa itu parenting islami](https://asysyams.id/wp-content/uploads/2024/10/Snapinsta.app_447206323_18132872335353668_7510575450558454136_n_1080-1024x768.jpg)
+![apa itu parenting islami](../wp-content/uploads/2024/10/Snapinsta.app_447206323_18132872335353668_7510575450558454136_n_1080-1024x768.jpg)
 
 Beliau menunjukkan metode pengasuhan yang tidak hanya berdasarkan nilai-nilai Islami, tetapi juga mencerminkan cinta, kesabaran, dan pemahaman mendalam terhadap kebutuhan anak-anak. Dalam artikel ini, kita akan membahas bagaimana cara mendidik anak ala Rasulullah SAW dan menghubungkannya dengan beberapa tren pendidikan modern di Indonesia, termasuk pendekatan Islami untuk anak yang keras kepala serta peluang di dunia franchise pendidikan.
 
@@ -33,7 +33,7 @@ Beliau menunjukkan metode pengasuhan yang tidak hanya berdasarkan nilai-nilai Is
 
 ### Mendidik Anak yang Keras Kepala Berdasarkan Nilai Islami
 
-Mengasuh anak yang keras kepala bisa menjadi tantangan, tetapi Rasulullah memberikan teladan yang relevan. Dalam artikel [Asysyams](https://asysyams.id/cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/), disebutkan beberapa pendekatan Islami yang sejalan dengan ajaran Rasulullah:
+Mengasuh anak yang keras kepala bisa menjadi tantangan, tetapi Rasulullah memberikan teladan yang relevan. Dalam artikel [Asysyams](../cara-mendidik-anak-yang-keras-kepala-berdasarkan-nilai-islami/), disebutkan beberapa pendekatan Islami yang sejalan dengan ajaran Rasulullah:
 
 - Bersikap Tenang dan Sabar Rasulullah mengajarkan bahwa kesabaran adalah kunci dalam menghadapi situasi sulit. Ketika anak menunjukkan sikap keras kepala, penting bagi orang tua untuk tetap tenang dan tidak langsung memarahi.
 
@@ -45,7 +45,7 @@ Mengasuh anak yang keras kepala bisa menjadi tantangan, tetapi Rasulullah member
 
 ### Menghubungkan Nilai-Nilai Islami dengan Pendidikan Modern
 
-Dalam konteks modern, nilai-nilai Islami yang terajarkan Rasulullah dapat diterapkan dalam berbagai pendekatan pendidikan. Salah satu contohnya adalah melalui usaha-usaha pendidikan berbasis franchise. Artikel [Asysyams](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) menguraikan bahwa franchise pendidikan telah menjadi solusi inovatif untuk meningkatkan kualitas pendidikan di Indonesia. Banyak franchise yang berbasis nilai-nilai Islami yang mengintegrasikan ajaran agama dalam kurikulum mereka.
+Dalam konteks modern, nilai-nilai Islami yang terajarkan Rasulullah dapat diterapkan dalam berbagai pendekatan pendidikan. Salah satu contohnya adalah melalui usaha-usaha pendidikan berbasis franchise. Artikel [Asysyams](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) menguraikan bahwa franchise pendidikan telah menjadi solusi inovatif untuk meningkatkan kualitas pendidikan di Indonesia. Banyak franchise yang berbasis nilai-nilai Islami yang mengintegrasikan ajaran agama dalam kurikulum mereka.
 
 #### Pendidikan Islami melalui Franchise
 
@@ -59,7 +59,7 @@ Franchise pendidikan Islami menawarkan pendekatan yang holistik dalam mendidik a
 
 ### Tren Usaha Franchise Pendidikan pada 2025
 
-Artikel [Asysyams](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/) membahas prediksi tren franchise pendidikan di Indonesia. Beberapa poin yang relevan dengan mendidik anak ala Rasulullah meliputi:
+Artikel [Asysyams](../tren-usaha-franchise-2025-di-bidang-pendidikan/) membahas prediksi tren franchise pendidikan di Indonesia. Beberapa poin yang relevan dengan mendidik anak ala Rasulullah meliputi:
 
 - Digitalisasi Pendidikan Teknologi semakin digunakan untuk mendukung pembelajaran. Dalam konteks pendidikan Islami, aplikasi dan platform pembelajaran yang berbasis nilai-nilai Islam dapat menjadi cara efektif untuk menyampaikan ajaran Rasulullah kepada anak-anak.
 

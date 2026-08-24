@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611140804/https://asysyams.id/sej
 
 # Sejarah Teater Anak di Indonesia Pembelajaran Seni Untuk Anak
 
-[Home](https://asysyams.id/) » Sejarah Teater Anak di Indonesia Pembelajaran Seni Untuk Anak
+[Home](../) » Sejarah Teater Anak di Indonesia Pembelajaran Seni Untuk Anak
 
 ## Teater anak merupakan salah satu bentuk seni pertunjukan yang terancang khusus untuk anak-anak, baik sebagai penonton maupun sebagai aktor.
 
-![pentas theater anak](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_447819442_18133018825353668_4331571284613163541_n-80x80.jpg)
+![pentas theater anak](../wp-content/uploads/2024/09/ClipDown.App_447819442_18133018825353668_4331571284613163541_n-80x80.jpg)
 
 Melalui teater, anak-anak dapat mengeksplorasi kreativitas, belajar berkomunikasi, dan memahami dunia di sekitar mereka. Teater anak di Indonesia telah berkembang pesat dalam beberapa dekade terakhir, dengan semakin banyak kelompok teater, sekolah, dan komunitas. Dapat memberikan ruang bagi anak-anak untuk berpartisipasi dalam seni pertunjukan ini.
 
@@ -65,11 +65,11 @@ Selain itu, teknologi juga mulai masuk ke dalam produksi teater anak. Penggunaan
 
 Baca juga:
 
-[Aktifitas yang Perlu Dilakukan Bersama Anak-anak](https://asysyams.id/aktifitas-yang-perlu-dilakukan-bersama-anak-anak/)
+[Aktifitas yang Perlu Dilakukan Bersama Anak-anak](../aktifitas-yang-perlu-dilakukan-bersama-anak-anak/)
 
-[Cara Berinteraksi Kepada Anak Agar Mematuhi Peraturan Orang Tua](https://asysyams.id/cara-berinteraksi-kepada-anak-agar-mematuhi-peraturan-orang-tua/)
+[Cara Berinteraksi Kepada Anak Agar Mematuhi Peraturan Orang Tua](../cara-berinteraksi-kepada-anak-agar-mematuhi-peraturan-orang-tua/)
 
-[Apa yang Akan Anak Dapatkan Jika Bersekolah di Sekolah Islam Asysyam](https://asysyams.id/apa-yang-akan-anak-dapatkan-jika-bersekolah-di-sekolah-islam-asysyam/)
+[Apa yang Akan Anak Dapatkan Jika Bersekolah di Sekolah Islam Asysyam](../apa-yang-akan-anak-dapatkan-jika-bersekolah-di-sekolah-islam-asysyam/)
 
  
 

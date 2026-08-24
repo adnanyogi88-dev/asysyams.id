@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314170219/https://asysyams.id/per
 
 # Permainan Anak Tradisional vs Modern
 
-[Home](https://asysyams.id/) » Permainan Anak Tradisional vs Modern
+[Home](../) » Permainan Anak Tradisional vs Modern
 
 ## Mari kita bahas lebih detail tentang perbedaan permainan anak tradisional dan modern, serta dampaknya bagi perkembangan anak.
 
-![permainan anak](https://asysyams.id/wp-content/uploads/2024/10/KINDERGARTEN-Asy-Syams-Islamic-SchoolTetap-dan-terus-semangat-yah-nak-belajarnya.-cegahcovid19-belajardirumah-jagakesehatan-300x300.jpg)
+![permainan anak](../wp-content/uploads/2024/10/KINDERGARTEN-Asy-Syams-Islamic-SchoolTetap-dan-terus-semangat-yah-nak-belajarnya.-cegahcovid19-belajardirumah-jagakesehatan-300x300.jpg)
 
 Peristiwa ini telah mengalami evolusi seiring berjalannya waktu. Game tradisional yang sederhana dan seringkali melibatkan interaksi sosial langsung, kini berdampingan dengan permainan modern yang semakin canggih dan berbasis teknologi.
 
@@ -71,11 +71,11 @@ Hal ini telah mengalami evolusi seiring berjalannya waktu. Permainan tradisional
 
 Baca juga:
 
-[Waralaba PAUD Islami: Investasi Masa Depan Pendidikan Anak dengan Asy Syams](https://asysyams.id/waralaba-paud-islami-investasi-masa-depan-pendidikan-anak-dengan-asy-syams/)
+[Waralaba PAUD Islami: Investasi Masa Depan Pendidikan Anak dengan Asy Syams](../waralaba-paud-islami-investasi-masa-depan-pendidikan-anak-dengan-asy-syams/)
 
-[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
-[Acara-Acara yang Biasanya Diikuti Oleh Anak TK](https://asysyams.id/acara-acara-yang-biasanya-diikuti-oleh-anak-tk/)
+[Acara-Acara yang Biasanya Diikuti Oleh Anak TK](../acara-acara-yang-biasanya-diikuti-oleh-anak-tk/)
 
  
 

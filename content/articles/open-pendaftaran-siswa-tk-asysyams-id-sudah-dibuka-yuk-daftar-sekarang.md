@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314231523/https://asysyams.id/ope
 
 # Open Pendaftaran Siswa TK AsySyams.id Sudah Dibuka, Yuk Daftar Sekarang!
 
-[Home](https://asysyams.id/) » Open Pendaftaran Siswa TK AsySyams.id Sudah Dibuka, Yuk Daftar Sekarang!
+[Home](../) » Open Pendaftaran Siswa TK AsySyams.id Sudah Dibuka, Yuk Daftar Sekarang!
 
 ## Pendaftaran siswa TK AsySyams.id telah resmi dibuka! Yuk,
 
-![Pendidikan Diniyah Formal](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
+![Pendidikan Diniyah Formal](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_293d6b77-1024x768.jpg)
 
 segera daftar sekarang dan pastikan si kecil mendapat pendidikan terbaik untuk masa depan cerahnya. Proses pendaftaran yang mudah, cepat, serta berbagai kemudahan melalui sistem pendaftaran TK online menjadikan TK AsySyams sebagai pilihan favorit para orang tua.
 
@@ -25,13 +25,13 @@ Kabar gembira bagi para orang tua! Pendaftaran siswa TK AsySyams sudah buka mula
 
 ### Keunggulan TK AsySyams
 
-TK AsySyams hadir dengan pendekatan pendidikan Islami terpadu yang terdukung oleh tenaga pengajar profesional dan berpengalaman. Lingkungan belajar yang kondusif, fasilitas yang lengkap, serta kurikulum yang berorientasi pada pembentukan karakter Islami menjadi keunggulan yang tidak semua lembaga pendidikan TK lainnya miliki. Selain itu, kemitraan franchise pendidikan seperti [franchise pendidikan TK Islami](https://asysyams.id/kesempatan-mengikuti-franchise-pendidikan-tk-islami/) dan [franchise PAUD terbaik](https://asysyams.id/rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/) turut memperkuat kualitas pendidikan yang ditawarkan oleh TK AsySyams.
+TK AsySyams hadir dengan pendekatan pendidikan Islami terpadu yang terdukung oleh tenaga pengajar profesional dan berpengalaman. Lingkungan belajar yang kondusif, fasilitas yang lengkap, serta kurikulum yang berorientasi pada pembentukan karakter Islami menjadi keunggulan yang tidak semua lembaga pendidikan TK lainnya miliki. Selain itu, kemitraan franchise pendidikan seperti [franchise pendidikan TK Islami](../kesempatan-mengikuti-franchise-pendidikan-tk-islami/) dan [franchise PAUD terbaik](../rekomendasi-franchise-paud-terbaik-untuk-memulai-bisnis-pendidikan/) turut memperkuat kualitas pendidikan yang ditawarkan oleh TK AsySyams.
 
 ### Formulir Pendaftaran TK
 
-Agar lebih praktis dan cepat, formulir pendaftaran TK di AsySyams dapat anda akses secara online melalui website resmi [klik disini](https://asysyams.id/pendaftaran-anak-di-asy-syams/). Orang tua cukup mengunduh formulir dari halaman web, mengisinya sesuai petunjuk, lalu mengunggah kembali melalui sistem pendaftaran TK online yang disediakan.
+Agar lebih praktis dan cepat, formulir pendaftaran TK di AsySyams dapat anda akses secara online melalui website resmi [klik disini](../pendaftaran-anak-di-asy-syams/). Orang tua cukup mengunduh formulir dari halaman web, mengisinya sesuai petunjuk, lalu mengunggah kembali melalui sistem pendaftaran TK online yang disediakan.
 
-Untuk memudahkan para orang tua, kami juga menyediakan [contoh formulir pendaftaran TK](https://asysyams.id/pendaftaran-anak-di-asy-syams/) yang lengkap dengan panduan pengisian. Dengan melihat contoh formulir ini, para orang tua akan terbantu dalam proses pengisian sehingga tidak ada kesalahan data yang dapat menghambat proses pendaftaran.
+Untuk memudahkan para orang tua, kami juga menyediakan [contoh formulir pendaftaran TK](../pendaftaran-anak-di-asy-syams/) yang lengkap dengan panduan pengisian. Dengan melihat contoh formulir ini, para orang tua akan terbantu dalam proses pengisian sehingga tidak ada kesalahan data yang dapat menghambat proses pendaftaran.
 
 ### Cara Mengisi Formulir Pendaftaran TK
 

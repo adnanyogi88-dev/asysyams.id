@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314165952/https://asysyams.id/mer
 
 # Meriahkan 17 Agustus Anak-Anak di Asy-Syams: Kegiatan Seru & Semangat Kemerdekaan di PAUD dan TK
 
-[Home](https://asysyams.id/) » Meriahkan 17 Agustus Anak-Anak di Asy-Syams: Kegiatan Seru & Semangat Kemerdekaan di PAUD dan TK
+[Home](../) » Meriahkan 17 Agustus Anak-Anak di Asy-Syams: Kegiatan Seru & Semangat Kemerdekaan di PAUD dan TK
 
 ## Setiap tahun, tanggal 17 Agustus selalu menghadirkan kemeriahan. Anak-anak di PAUD dan TK Asy?Syams merasakan hal itu secara langsung!
 
-![Cara Menstimulasi Perkembangan Kognitif Anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
+![Cara Menstimulasi Perkembangan Kognitif Anak](../wp-content/uploads/2025/01/Snapinst.app_468512197_18151706785353668_7269251944213778397_n_1080-1024x768.jpg)
 
 Mereka merayakan Hari Kemerdekaan Indonesia dengan semangat tinggi. Mengapa anak-anak perlu merayakan 17 Agustus? Karena mereka belajar cinta tanah air sejak dini. Karena itu, di PAUD dan TK Asy?Syams, berbagai kegiatan disusun khusus untuk anak?anak agar belajar sambil bermain.
 
@@ -109,11 +109,11 @@ Selain itu, anak merasakan bangga mampu berpartisipasi dalam acara negeri—bang
 
 Ingin anak merasakan kemeriahan ini tahun depan? Pendaftaran PAUD dan TK Asy?Syams sudah dibuka!
 
-- Untuk PAUD 2024–2025, cek detailnya di sini: [Pendaftaran PAUD Asy?Syams Tahun Ajaran 2024–2025](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- Untuk PAUD 2024–2025, cek detailnya di sini: [Pendaftaran PAUD Asy?Syams Tahun Ajaran 2024–2025](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- Untuk pendaftaran umum anak di Asy?Syams, kunjungi: [Pendaftaran Anak di Asy?Syams](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- Untuk pendaftaran umum anak di Asy?Syams, kunjungi: [Pendaftaran Anak di Asy?Syams](../pendaftaran-anak-di-asy-syams/)
 
-- Untuk TK khusus, pendaftaran sudah dibuka, lihat: [Open Pendaftaran Siswa TK Asy?Syams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- Untuk TK khusus, pendaftaran sudah dibuka, lihat: [Open Pendaftaran Siswa TK Asy?Syams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 Melalui link-link tersebut, orangtua bisa segera mendaftar, melakukan tour sekolah, dan menanyakan jadwal 17 Agustus anak?anak berikutnya.
 
@@ -165,11 +165,11 @@ Kesimpulan dan Ajakan
 
 Kalau Anda ingin anak mendapatkan pengalaman 17 Agustus yang bermakna, daftarkan segera di PAUD/TK Asy?Syams melalui link berikut:
 
-- Pendaftaran PAUD: [https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/](https://asysyams.id/pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
+- Pendaftaran PAUD: [../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/](../pendaftaran-paud-asysyams-tahun-ajaran-2024-2025/)
 
-- Pendaftaran anak: [https://asysyams.id/pendaftaran-anak-di-asy-syams/](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+- Pendaftaran anak: [../pendaftaran-anak-di-asy-syams/](../pendaftaran-anak-di-asy-syams/)
 
-- Pendaftaran TK: [https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- Pendaftaran TK: [../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
 Ajak anak merasakan bangga berkibar di 17 Agustus dan bangun karakter nasionalismenya sejak dini. Daftar sekarang, dan rayakan merah-putih dengan ceria bersama Asy?Syams!
 

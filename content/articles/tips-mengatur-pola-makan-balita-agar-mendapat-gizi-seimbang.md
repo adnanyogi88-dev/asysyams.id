@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611132009/https://asysyams.id/tip
 
 # Tips Mengatur Pola Makan Balita Agar Mendapat Gizi Seimbang
 
-[Home](https://asysyams.id/) » Tips Mengatur Pola Makan Balita Agar Mendapat Gizi Seimbang
+[Home](../) » Tips Mengatur Pola Makan Balita Agar Mendapat Gizi Seimbang
 
 ## Balita adalah masa pertumbuhan yang sangat penting dalam perkembangan anak.
 
-![pola makan anak](https://asysyams.id/wp-content/uploads/2024/08/DALL·E-2024-08-29-21.27.25-A-colorful-and-cheerful-scene-showing-a-mother-and-her-toddler-eating-together-at-a-dining-table.-The-table-is-filled-with-a-variety-of-healthy-foods--300x300.webp)
+![pola makan anak](../wp-content/uploads/2024/08/DALL·E-2024-08-29-21.27.25-A-colorful-and-cheerful-scene-showing-a-mother-and-her-toddler-eating-together-at-a-dining-table.-The-table-is-filled-with-a-variety-of-healthy-foods--300x300.webp)
 
 Pada tahap ini, anak membutuhkan asupan gizi yang seimbang untuk mendukung pertumbuhan fisik, perkembangan otak, serta sistem imun yang kuat. Mengatur pola makan balita agar mendapatkan gizi seimbang tidak selalu mudah, terutama dengan berbagai tantangan seperti selera makan yang berubah-ubah, pemilihan makanan yang sering terbatas, dan kebiasaan makan yang belum terbentuk dengan baik. Artikel ini akan membahas berbagai tips yang bisa membantu orang tua dalam menyusun pola makan yang tepat bagi balita mereka.
 
@@ -67,11 +67,11 @@ Anak-anak, terutama balita, bisa menjadi pemilih makanan. Untuk mengenalkan maka
 
 Baca juga:
 
-[Informasi Tumbuh Kembang Anak](https://asysyams.id/informasi-tumbuh-kembang-anak/)
+[Informasi Tumbuh Kembang Anak](../informasi-tumbuh-kembang-anak/)
 
-[Peluang Kemitraan Asy-Syams Islamic School](https://asysyams.id/gabung-franchise-sekolah-asy-syams/)
+[Peluang Kemitraan Asy-Syams Islamic School](../gabung-franchise-sekolah-asy-syams/)
 
-[Tentang Asy-Syams Islamic School](https://asysyams.id/tentang-asy-syams/)
+[Tentang Asy-Syams Islamic School](../tentang-asy-syams/)
 
  
 

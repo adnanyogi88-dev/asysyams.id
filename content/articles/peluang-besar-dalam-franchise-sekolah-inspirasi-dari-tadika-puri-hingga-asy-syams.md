@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260515072421/https://asysyams.id/pel
 
 # Peluang Besar dalam Franchise Sekolah: Inspirasi dari Tadika Puri hingga Asy-Syams
 
-[Home](https://asysyams.id/) » Peluang Besar dalam Franchise Sekolah: Inspirasi dari Tadika Puri hingga Asy-Syams
+[Home](../) » Peluang Besar dalam Franchise Sekolah: Inspirasi dari Tadika Puri hingga Asy-Syams
 
 ## Franchise sekolah telah menjadi salah satu peluang bisnis yang semakin diminati di Indonesia.
 
-![franchise sekolah asyisyam](https://asysyams.id/wp-content/uploads/2024/09/Screenshot_12.png)
+![franchise sekolah asyisyam](../wp-content/uploads/2024/09/Screenshot_12.png)
 
 Model bisnis ini menawarkan solusi praktis bagi para pengusaha yang ingin berkontribusi di dunia pendidikan sekaligus mendapatkan keuntungan finansial. Salah satu contoh sukses dalam franchise sekolah adalah Tadika Puri, sebuah brand yang telah menjadi ikon di bidang pendidikan anak usia dini. Namun, dalam era yang terus berkembang, banyak pemain baru yang menghadirkan inovasi dalam bisnis pendidikan, salah satunya adalah Asy-Syams.id.
 
@@ -61,7 +61,7 @@ Asy-Syams.id adalah salah satu pemain baru yang memberikan warna segar dalam dun
 
 ##### Manfaat Bergabung dengan Asy-Syams.id
 
-Bergabung dengan Asy-Syams.id tidak hanya memberikan keuntungan finansial tetapi juga memungkinkan mitra untuk menjadi bagian dari transformasi pendidikan di Indonesia. Untuk informasi lebih lanjut tentang kemitraan ini, kunjungi [Gabung Kemitraan Sekolah Asy-Syams](https://asysyams.id/gabung-kemitraan-sekolah-asy-syams/).
+Bergabung dengan Asy-Syams.id tidak hanya memberikan keuntungan finansial tetapi juga memungkinkan mitra untuk menjadi bagian dari transformasi pendidikan di Indonesia. Untuk informasi lebih lanjut tentang kemitraan ini, kunjungi [Gabung Kemitraan Sekolah Asy-Syams](../gabung-kemitraan-sekolah-asy-syams/).
 
 #### Tren Franchise Pendidikan di Tahun 2025
 
@@ -73,7 +73,7 @@ Menurut prediksi, tahun 2025 akan menjadi momen penting bagi industri franchise 
 
 - Fokus pada Pendidikan Anak Usia Dini: Pendidikan anak usia dini tetap menjadi segmen paling menjanjikan dalam bisnis franchise sekolah.
 
-Asy-Syams.id memiliki semua elemen ini, menjadikannya salah satu pilihan terbaik untuk franchise pendidikan di masa depan. Untuk wawasan lebih dalam tentang tren ini, baca [Tren Usaha Franchise 2025 di Bidang Pendidikan](https://asysyams.id/tren-usaha-franchise-2025-di-bidang-pendidikan/).
+Asy-Syams.id memiliki semua elemen ini, menjadikannya salah satu pilihan terbaik untuk franchise pendidikan di masa depan. Untuk wawasan lebih dalam tentang tren ini, baca [Tren Usaha Franchise 2025 di Bidang Pendidikan](../tren-usaha-franchise-2025-di-bidang-pendidikan/).
 
 #### Franchise Sekolah: Investasi Berkelanjutan
 
@@ -87,7 +87,7 @@ Beberapa alasan mengapa franchise pendidikan menjadi investasi berkelanjutan:
 
 - Kepuasan Sosial: Selain keuntungan finansial, ada kepuasan emosional karena turut membangun generasi masa depan.
 
-Untuk menggali lebih jauh tentang potensi bisnis ini, kunjungi artikel [Franchise Lembaga Pendidikan: Peluang Bisnis Berkelanjutan di Sektor Pendidikan](https://asysyams.id/franchise-lembaga-pendidikan-peluang-bisnis-berkelanjutan-di-sektor-pendidikan/).
+Untuk menggali lebih jauh tentang potensi bisnis ini, kunjungi artikel [Franchise Lembaga Pendidikan: Peluang Bisnis Berkelanjutan di Sektor Pendidikan](../franchise-lembaga-pendidikan-peluang-bisnis-berkelanjutan-di-sektor-pendidikan/).
 
 #### Kesimpulan
 

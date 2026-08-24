@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419152408/https://asysyams.id/cer
 
 # Cerita Liburan Sekolah di Rumah: Inspirasi Seru untuk Anak dan Kesempatan Emas bagi Orang Tua
 
-[Home](https://asysyams.id/) » Cerita Liburan Sekolah di Rumah: Inspirasi Seru untuk Anak dan Kesempatan Emas bagi Orang Tua
+[Home](../) » Cerita Liburan Sekolah di Rumah: Inspirasi Seru untuk Anak dan Kesempatan Emas bagi Orang Tua
 
 ## Liburan sekolah sering hadir sebagai momen dinanti oleh anak-anak.
 
-![Jajanan Anak Kecil Kekinian](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_cb4d72cb-768x1024.jpg)
+![Jajanan Anak Kecil Kekinian](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_cb4d72cb-768x1024.jpg)
 
 Namun, bagi orang tua, ini jadi tantangan: bagaimana mengisi waktu agar anak tetap belajar sekaligus tetap bahagia? Oleh karena itu, saya menyusun artikel ini secara lengkap, bertujuan membantu orang tua memanfaatkan liburan sekolah di rumah. Bahkan, Anda bisa menjadikannya cerita seru, kreatif, sekaligus mendidik. Lalu, mengapa membaca artikel ini? Karena saya menyajikan panduan langkah demi langkah, jadwal harian, aktivitas menarik, serta tips agar liburan sekolah di rumah bisa jadi momen berkesan dan penuh makna.
 
@@ -138,11 +138,11 @@ Waktu berkualitas di rumah memperkuat hubungan emosional.
 
 Karena artikel ini ditulis untuk orang tua, penting pula menampilkan info seputar sekolah atau PAUD yang bisa jadi pilihan mereka. Sebagai tambahan, berikut beberapa artikel terkait di situs Asysyams:
 
-- Bagi Anda yang penasaran pendaftaran TK, simak panduan lengkap di artikel mengenai [pendaftaran TK bulan apa? Panduan lengkap untuk orang tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/). Artikel ini membantu Anda memilih waktu tepat selama liburan.
+- Bagi Anda yang penasaran pendaftaran TK, simak panduan lengkap di artikel mengenai [pendaftaran TK bulan apa? Panduan lengkap untuk orang tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/). Artikel ini membantu Anda memilih waktu tepat selama liburan.
 
-- Jika Anda mencari TK Islam berkualitas di Bekasi, kunjungi halaman [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Informasi ini membantu mempersiapkan anak setelah liburan selesai.
+- Jika Anda mencari TK Islam berkualitas di Bekasi, kunjungi halaman [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Informasi ini membantu mempersiapkan anak setelah liburan selesai.
 
-- Untuk membantu perhitungan biaya, baca artikel [biaya masuk PAUD: panduan lengkap untuk orang tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/). Artikel ini memudahkan Anda merencanakan anggaran pendidikan anak.
+- Untuk membantu perhitungan biaya, baca artikel [biaya masuk PAUD: panduan lengkap untuk orang tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/). Artikel ini memudahkan Anda merencanakan anggaran pendidikan anak.
 
 ## 7. Cerita Liburan Sekolah: Contoh naskah harian
 

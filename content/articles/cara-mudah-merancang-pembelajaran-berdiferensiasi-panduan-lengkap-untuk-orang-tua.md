@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421040819/https://asysyams.id/car
 
 # Cara Mudah Merancang Pembelajaran Berdiferensiasi: Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Cara Mudah Merancang Pembelajaran Berdiferensiasi: Panduan Lengkap untuk Orang Tua
+[Home](../) » Cara Mudah Merancang Pembelajaran Berdiferensiasi: Panduan Lengkap untuk Orang Tua
 
 ## Memasuki dunia pendidikan adalah salah satu momen penting dalam kehidupan anak.
 
-![waralaba pendidikan tk](https://asysyams.id/wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-80x80.jpg)
+![waralaba pendidikan tk](../wp-content/uploads/2024/10/Assalamualaikum-friends.This-is-our-Ramadhan-activity.kindergarten-happyramadan-asy_syams_islamic_school-80x80.jpg)
 
 Sebagai orang tua, Anda tentu ingin memberikan yang terbaik untuk buah hati. Salah satu hal yang patut Anda pahami sejak dini adalah bagaimana sekolah menyusun strategi pembelajaran. Saat ini, pendekatan yang semakin populer dan terbukti efektif adalah pembelajaran berdiferensiasi. Artikel ini akan membahas secara lengkap dan mudah kita pahami tentang cara mudah merancang pembelajaran berdiferensiasi, khususnya untuk Anda, para orang tua yang sedang mempersiapkan anak masuk sekolah.
 
@@ -79,7 +79,7 @@ Catat setiap kemajuan yang anak tunjukkan, sekecil apapun. Ini akan membantu And
 
 Walaupun Anda bisa memulainya di rumah, sekolah memiliki peran utama dalam menerapkan pembelajaran berdiferensiasi secara formal. Maka dari itu, sangat penting untuk memilih sekolah yang memiliki visi pendidikan serupa.
 
-Sebagai referensi, Anda bisa mempertimbangkan [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Sekolah tersebut telah menerapkan pendekatan individual pada setiap siswa, menciptakan lingkungan yang mendukung perkembangan karakter dan akademik secara seimbang.
+Sebagai referensi, Anda bisa mempertimbangkan [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/). Sekolah tersebut telah menerapkan pendekatan individual pada setiap siswa, menciptakan lingkungan yang mendukung perkembangan karakter dan akademik secara seimbang.
 
 ### Kolaborasi Antara Orang Tua dan Sekolah
 
@@ -121,11 +121,11 @@ Agar strategi ini bisa diterapkan dengan optimal, sekolah pilihan Anda harus men
 
 - Pastikan sekolah memiliki fasilitas yang memadai.
 
-Sebagai contoh, Anda bisa membaca panduan [cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/). Artikel tersebut memberikan langkah-langkah praktis dalam memilih sekolah yang tepat.
+Sebagai contoh, Anda bisa membaca panduan [cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/). Artikel tersebut memberikan langkah-langkah praktis dalam memilih sekolah yang tepat.
 
 ### Pendidikan Masa Kini: Franchise Pendidikan Lokal Berkualitas
 
-Selain sekolah konvensional, Anda juga bisa mempertimbangkan institusi berbasis franchise pendidikan lokal. Banyak dari mereka telah menerapkan pendekatan individual dalam pembelajaran. Cek artikel [5 franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) untuk mengetahui pilihan terbaik yang tersedia.
+Selain sekolah konvensional, Anda juga bisa mempertimbangkan institusi berbasis franchise pendidikan lokal. Banyak dari mereka telah menerapkan pendekatan individual dalam pembelajaran. Cek artikel [5 franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/) untuk mengetahui pilihan terbaik yang tersedia.
 
 ### Kesimpulan: Masa Depan Anak Dimulai dari Pendidikan yang Tepat
 

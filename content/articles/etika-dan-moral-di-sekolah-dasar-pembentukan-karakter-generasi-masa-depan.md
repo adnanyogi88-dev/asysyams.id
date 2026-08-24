@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421035707/https://asysyams.id/eti
 
 # Etika dan Moral di Sekolah: Dasar Pembentukan Karakter Generasi Masa Depan
 
-[Home](https://asysyams.id/) » Etika dan Moral di Sekolah: Dasar Pembentukan Karakter Generasi Masa Depan
+[Home](../) » Etika dan Moral di Sekolah: Dasar Pembentukan Karakter Generasi Masa Depan
 
 ## Etika dan moral adalah dua konsep penting dalam pendidikan yang memainkan peran kunci dalam pembentukan karakter siswa.
 
-![etika dan moral](https://asysyams.id/wp-content/uploads/2024/09/ClipDown.App_457051070_18141624187353668_9026807804038328764_n-300x225.jpg)
+![etika dan moral](../wp-content/uploads/2024/09/ClipDown.App_457051070_18141624187353668_9026807804038328764_n-300x225.jpg)
 
 Di sekolah, pendidikan tidak hanya tentang transfer pengetahuan akademik, tetapi juga tentang pengembangan kepribadian dan pembentukan nilai-nilai etis yang akan membimbing siswa dalam kehidupan sehari-hari. Dalam konteks pendidikan modern, etika dan moral di sekolah menjadi semakin penting untuk kita bahas karena tantangan-tantangan sosial yang semakin kompleks.
 
@@ -77,11 +77,11 @@ Budaya Sekolah: Budaya sekolah yang menghargai nilai-nilai seperti kerja keras, 
 
 Baca juga:
 
-[Asy-Syams Islamic School Development](https://asysyams.id/gabung-franchise-sekolah-asy-syams/)
+[Asy-Syams Islamic School Development](../gabung-franchise-sekolah-asy-syams/)
 
-[Pendaftaran Anak di Asy-Syams Tahun Pendidikan 2025/2026](https://asysyams.id/pendaftaran-anak-di-asy-syams/)
+[Pendaftaran Anak di Asy-Syams Tahun Pendidikan 2025/2026](../pendaftaran-anak-di-asy-syams/)
 
-[Metode Pembelajaran Efektif: Memahami Pendekatan yang Tepat untuk Meningkatkan Hasil Belajar](https://asysyams.id/metode-pembelajaran-efektif-memahami-pendekatan-yang-tepat-untuk-meningkatkan-hasil-belajar/)
+[Metode Pembelajaran Efektif: Memahami Pendekatan yang Tepat untuk Meningkatkan Hasil Belajar](../metode-pembelajaran-efektif-memahami-pendekatan-yang-tepat-untuk-meningkatkan-hasil-belajar/)
 
 ####  
 

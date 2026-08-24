@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611141621/https://asysyams.id/hia
 
 # Hiasan Kelas Sederhana Tapi Berkesan Mewah: Solusi Kreatif untuk Lingkungan Belajar Anak
 
-[Home](https://asysyams.id/) » Hiasan Kelas Sederhana Tapi Berkesan Mewah: Solusi Kreatif untuk Lingkungan Belajar Anak
+[Home](../) » Hiasan Kelas Sederhana Tapi Berkesan Mewah: Solusi Kreatif untuk Lingkungan Belajar Anak
 
 ## Dalam dunia pendidikan, menciptakan suasana kelas yang nyaman merupakan aspek penting.
 
-![Contoh Jasa di Bidang Pendidikan](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_d3de101f-768x1024.jpg)
+![Contoh Jasa di Bidang Pendidikan](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.50_d3de101f-768x1024.jpg)
 
 Oleh karena itu, guru dan tenaga pendidik perlu berinovasi dalam menghias ruang kelas. Selain itu, tampilan kelas tidak hanya mendukung estetika visual, tetapi juga mampu menumbuhkan semangat belajar siswa. Bahkan, kelas yang indah dan tertata rapi bisa menjadi sumber inspirasi bagi anak-anak. Akan tetapi, banyak orang beranggapan bahwa dekorasi kelas yang mewah membutuhkan anggaran besar. Padahal, dengan kreativitas, kita bisa menghadirkan hiasan kelas sederhana tapi berkesan mewah.
 
@@ -27,7 +27,7 @@ Pertama-tama, penting untuk dipahami bahwa anak-anak sangat responsif terhadap l
 
 ### Wujud dari Standar Pendidikan Berkualitas
 
-Lebih lanjut, tampilan kelas juga mencerminkan mutu pendidikan itu sendiri. Menurut [Standar Nasional Pendidikan untuk PAUD](https://asysyams.id/standar-nasional-pendidikan-untuk-paud/), lingkungan belajar harus mendukung tumbuh kembang anak secara menyeluruh. Oleh karena itu, mendesain ruang kelas dengan pendekatan yang terarah bukan sekadar estetika, tetapi juga strategi edukatif.
+Lebih lanjut, tampilan kelas juga mencerminkan mutu pendidikan itu sendiri. Menurut [Standar Nasional Pendidikan untuk PAUD](../standar-nasional-pendidikan-untuk-paud/), lingkungan belajar harus mendukung tumbuh kembang anak secara menyeluruh. Oleh karena itu, mendesain ruang kelas dengan pendekatan yang terarah bukan sekadar estetika, tetapi juga strategi edukatif.
 
 ## Ciri-ciri Hiasan Kelas Sederhana Tapi Berkesan Mewah
 
@@ -69,7 +69,7 @@ Kutipan motivasi atau ayat Al-Qur’an dapat dicetak dan diberi bingkai elegan. 
 
 ### Tema 1: Islami dan Edukatif
 
-Misalnya, hiasan berupa lafaz Allah dan Muhammad dari bahan karton glitter dapat memperkuat nilai spiritual. Di samping itu, papan doa harian dan kalender Islam interaktif juga menambah fungsi edukasi. Bahkan, Anda bisa meniru pendekatan dari [PAUD Islam di Harapan Indah Bekasi](https://asysyams.id/rekomendasi-paud-islam-di-harapan-indah-bekasi/) yang memadukan unsur agama dan keindahan secara harmonis.
+Misalnya, hiasan berupa lafaz Allah dan Muhammad dari bahan karton glitter dapat memperkuat nilai spiritual. Di samping itu, papan doa harian dan kalender Islam interaktif juga menambah fungsi edukasi. Bahkan, Anda bisa meniru pendekatan dari [PAUD Islam di Harapan Indah Bekasi](../rekomendasi-paud-islam-di-harapan-indah-bekasi/) yang memadukan unsur agama dan keindahan secara harmonis.
 
 ### Tema 2: Alam dan Lingkungan
 
@@ -97,7 +97,7 @@ Oleh karena itu, setiap area memiliki fungsi dan estetika sekaligus.
 
 ## Transformasi Kelas Menuju Kelas Islami Modern
 
-Jika Anda ingin inspirasi nyata, cobalah kunjungi [TK Islami di Bekasi yang Terbaik](https://asysyams.id/tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/). Di sana, Anda bisa melihat bagaimana dekorasi sederhana bisa menjelma menjadi nuansa kelas yang profesional dan religius. Bahkan, unsur kemewahan terpancar melalui tata letak yang terencana dan pemilihan warna yang tepat.
+Jika Anda ingin inspirasi nyata, cobalah kunjungi [TK Islami di Bekasi yang Terbaik](../tk-islami-di-bekasi-terbaik-pilihan-tepat-untuk-pendidikan-anak-usia-dini/). Di sana, Anda bisa melihat bagaimana dekorasi sederhana bisa menjelma menjadi nuansa kelas yang profesional dan religius. Bahkan, unsur kemewahan terpancar melalui tata letak yang terencana dan pemilihan warna yang tepat.
 
 ## Kunci Utama: Konsistensi dan Kesatuan Tema
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260421045057/https://asysyams.id/men
 
 # Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK
 
-[Home](https://asysyams.id/) » Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK
+[Home](../) » Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK
 
 ## Liburan sekolah selalu menjadi momen yang penuh kegembiraan bagi anak-anak.
 
-![Pendidikan adalah Usaha Sadar dan Terencana](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_284352727_4979725025458682_8259901919731520470_n_1080-300x300.jpg)
+![Pendidikan adalah Usaha Sadar dan Terencana](../wp-content/uploads/2024/11/Snapinsta.app_284352727_4979725025458682_8259901919731520470_n_1080-300x300.jpg)
 
 Saat liburan, mereka memiliki banyak waktu untuk mengeksplorasi dunia sekitar, berinteraksi dengan teman dan keluarga, serta mendapatkan berbagai pengalaman baru yang menarik. Salah satu cara terbaik untuk mengabadikan kenangan liburan ini adalah dengan mengajak anak-anak mengarang cerita tentang pengalaman mereka. Di TK Asysyams, metode ini dapat kita jadikan sebagai sarana edukasi untuk mengasah kreativitas dan keterampilan literasi anak sejak dini.
 
@@ -42,7 +42,7 @@ Di TK Asysyams, metode belajar membaca dan menulis kita kembangkan dengan pendek
 
 #### Baca Juga:
 
-- [Metode Belajar Membaca untuk Anak TK](https://asysyams.id/metode-belajar-membaca-untuk-anak-tk/)
+- [Metode Belajar Membaca untuk Anak TK](../metode-belajar-membaca-untuk-anak-tk/)
 
 ### Langkah-langkah Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK
 
@@ -65,7 +65,7 @@ Perkenalkan anak-anak pada struktur dasar cerita: mulai dari pengenalan, konflik
 
 #### Baca Juga:
 
-- [Belajar Menulis untuk Anak TK: Langkah Awal Membentuk Generasi Cerdas](https://asysyams.id/belajar-menulis-untuk-anak-tk-langkah-awal-membentuk-generasi-cerdas/)
+- [Belajar Menulis untuk Anak TK: Langkah Awal Membentuk Generasi Cerdas](../belajar-menulis-untuk-anak-tk-langkah-awal-membentuk-generasi-cerdas/)
 
 ### Aktivitas Mengarang Cerita di TK Asysyams
 
@@ -106,7 +106,7 @@ Kreativitas dan imajinasi yang diasah sejak kecil akan sangat berguna bagi perke
 
 #### Baca Juga:
 
-- [Peluang Usaha Bidang Pendidikan dengan Modal Kecil](https://asysyams.id/peluang-usaha-bidang-pendidikan-dengan-modal-kecil/)
+- [Peluang Usaha Bidang Pendidikan dengan Modal Kecil](../peluang-usaha-bidang-pendidikan-dengan-modal-kecil/)
 
 [
 WhatsApp Kami

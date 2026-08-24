@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314234540/https://asysyams.id/met
 
 # Metode Tilawati PAUD: Fondasi Emas Membentuk Generasi Cinta Al-Qur’an Sejak Dini
 
-[Home](https://asysyams.id/) » Metode Tilawati PAUD: Fondasi Emas Membentuk Generasi Cinta Al-Qur’an Sejak Dini
+[Home](../) » Metode Tilawati PAUD: Fondasi Emas Membentuk Generasi Cinta Al-Qur’an Sejak Dini
 
 ## Dalam membentuk karakter dan fondasi keislaman anak sejak usia dini, peran pendidikan sangatlah krusial.
 
-![Buku Perkembangan Fisik Motorik Anak Usia Dini](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
+![Buku Perkembangan Fisik Motorik Anak Usia Dini](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.49_efbe6e43-80x80.jpg)
 
 Salah satu pendekatan yang kini banyak berguna dalam pendidikan anak usia dini berbasis Islam adalah metode Tilawati. Metode ini tidak hanya berfokus pada kemampuan membaca Al-Qur’an, tetapi juga mengembangkan akhlak, adab, dan nilai-nilai moral yang berlandaskan Islam.
 
@@ -69,7 +69,7 @@ Tilawati tak hanya mengajarkan membaca, tetapi juga menyisipkan nilai-nilai adab
 
 Saat ini, banyak PAUD Islam telah mengadopsi metode Tilawati sebagai bagian dari kurikulum harian mereka. Salah satu contohnya adalah beberapa PAUD Islam di Bekasi, yang bisa Anda lihat dalam artikel berikut:
 
-? [Rekomendasi PAUD Islam di Harapan Indah Bekasi](https://asysyams.id/rekomendasi-paud-islam-di-harapan-indah-bekasi/)
+? [Rekomendasi PAUD Islam di Harapan Indah Bekasi](../rekomendasi-paud-islam-di-harapan-indah-bekasi/)
 
 Di sekolah-sekolah ini, Tilawati terpadukan dengan kegiatan tematik seperti:
 
@@ -109,7 +109,7 @@ Tilawati tidak perlu berdiri sendiri. Ia bisa diintegrasikan dengan kurikulum PA
 
 Penting bagi sekolah untuk mengedukasi orang tua tentang pentingnya pendidikan agama dan budi pekerti sejak usia dini, seperti dibahas dalam artikel berikut:
 
-? [Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah](https://asysyams.id/pentingnya-pendidikan-agama-islam-dan-budi-pekerti-di-sekolah/)
+? [Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah](../pentingnya-pendidikan-agama-islam-dan-budi-pekerti-di-sekolah/)
 
 ## Studi Kasus: Pre-School Islam dengan Metode Tilawati
 
@@ -123,7 +123,7 @@ Salah satu contoh sukses penerapan metode ini adalah beberapa pre-school Islam d
 
 Simak lebih lanjut di artikel berikut:
 
-? [Rekomendasi Pre-School Islam Bekasi untuk Pendidikan Anak Usia Dini](https://asysyams.id/rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
+? [Rekomendasi Pre-School Islam Bekasi untuk Pendidikan Anak Usia Dini](../rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
 
 ## Kata Transisi untuk Meningkatkan Pemahaman
 
@@ -155,11 +155,11 @@ Dalam dunia yang semakin kompleks, pendekatan seperti Tilawati menjadi cahaya di
 
 Jika Anda sedang mencari sekolah Islam anak usia dini yang menerapkan metode Tilawati, atau ingin tahu lebih dalam tentang peran pendidikan agama dalam perkembangan anak, pastikan untuk mengunjungi referensi-referensi terpercaya seperti:
 
-- [Rekomendasi PAUD Islam di Harapan Indah Bekasi](https://asysyams.id/rekomendasi-paud-islam-di-harapan-indah-bekasi/)
+- [Rekomendasi PAUD Islam di Harapan Indah Bekasi](../rekomendasi-paud-islam-di-harapan-indah-bekasi/)
 
-- [Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah](https://asysyams.id/pentingnya-pendidikan-agama-islam-dan-budi-pekerti-di-sekolah/)
+- [Pentingnya Pendidikan Agama Islam dan Budi Pekerti di Sekolah](../pentingnya-pendidikan-agama-islam-dan-budi-pekerti-di-sekolah/)
 
-- [Rekomendasi Pre-School Islam Bekasi untuk Pendidikan Anak Usia Dini](https://asysyams.id/rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
+- [Rekomendasi Pre-School Islam Bekasi untuk Pendidikan Anak Usia Dini](../rekomendasi-pre-school-islam-bekasi-untuk-pendidikan-anak-usia-dini/)
 
 [
 WhatsApp Kami

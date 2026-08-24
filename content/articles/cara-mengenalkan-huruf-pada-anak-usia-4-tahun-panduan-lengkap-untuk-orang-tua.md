@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260513142024/https://asysyams.id/car
 
 # Cara Mengenalkan Huruf pada Anak Usia 4 Tahun: Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Cara Mengenalkan Huruf pada Anak Usia 4 Tahun: Panduan Lengkap untuk Orang Tua
+[Home](../) » Cara Mengenalkan Huruf pada Anak Usia 4 Tahun: Panduan Lengkap untuk Orang Tua
 
 ## Mengenalkan huruf kepada anak usia 4 tahun merupakan langkah awal yang penting dalam mempersiapkan mereka untuk memasuki dunia membaca dan menulis.
 
-![Ciri Anak Tidak Bisa Bicara](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_983d5269-80x80.jpg)
+![Ciri Anak Tidak Bisa Bicara](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_983d5269-80x80.jpg)
 
 Namun, proses ini tidak boleh anda lakukan secara tergesa-gesa atau memaksa. Sebaliknya, perlu pendekatan yang menyenangkan, konsisten, dan sesuai dengan tahap perkembangan anak.
 
@@ -43,7 +43,7 @@ Lagu alfabet adalah cara klasik namun sangat efektif. Lagu-lagu memiliki irama y
 
 Buku bergambar dengan teks yang besar dan jelas sangat membantu. Ketika membacakan buku, tunjukkan huruf dan kata pada buku sambil membacakannya dengan suara lantang. Anak akan mulai memahami hubungan antara simbol huruf dan suara.
 
-Sebagai tambahan informasi, banyak lembaga pendidikan usia dini telah mengadopsi pendekatan ini karena sangat efektif dalam menanamkan fondasi literasi. [Franchise pendidikan usia dini yang menjanjikan](https://asysyams.id/franchise-pendidikan-usia-dini-yang-menjanjikan/) pun kini semakin mengintegrasikan metode-metode kreatif seperti ini untuk menarik minat anak-anak belajar.
+Sebagai tambahan informasi, banyak lembaga pendidikan usia dini telah mengadopsi pendekatan ini karena sangat efektif dalam menanamkan fondasi literasi. [Franchise pendidikan usia dini yang menjanjikan](../franchise-pendidikan-usia-dini-yang-menjanjikan/) pun kini semakin mengintegrasikan metode-metode kreatif seperti ini untuk menarik minat anak-anak belajar.
 
 #### 4. Menggunakan Kartu Huruf
 
@@ -63,7 +63,7 @@ Dalam konteks pendidikan Indonesia, sering kali terjadi tumpang tindih antara ke
 
 Penting bagi orang tua dan guru untuk tidak hanya fokus pada aspek kognitif, tetapi juga membangun sikap positif anak terhadap belajar.
 
-Bagi yang ingin memperdalam pemahaman tentang hal ini, artikel [Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia](https://asysyams.id/perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/) bisa menjadi referensi penting.
+Bagi yang ingin memperdalam pemahaman tentang hal ini, artikel [Perbedaan Mendidik dan Mengajar dalam Konteks Pendidikan Indonesia](../perbedaan-mendidik-dan-mengajar-dalam-konteks-pendidikan-indonesia/) bisa menjadi referensi penting.
 
 ### Tahapan dan Strategi Pengenalan Huruf
 
@@ -115,7 +115,7 @@ Untuk memperkuat proses pembelajaran huruf, pastikan lingkungan sekitar anak jug
 
 Di Indonesia, banyak jasa dan institusi di bidang pendidikan yang kini menawarkan program pembelajaran huruf sejak dini. Hal ini memperlihatkan bahwa pendidikan anak usia dini menjadi fokus yang semakin terperhatikan.
 
-Anda bisa melihat daftar [10 Contoh Jasa di Bidang Pendidikan di Indonesia](https://asysyams.id/10-contoh-jasa-di-bidang-pendidikan-di-indonesia/) yang menunjukkan perkembangan signifikan dalam hal pendekatan dan inovasi untuk anak-anak.
+Anda bisa melihat daftar [10 Contoh Jasa di Bidang Pendidikan di Indonesia](../10-contoh-jasa-di-bidang-pendidikan-di-indonesia/) yang menunjukkan perkembangan signifikan dalam hal pendekatan dan inovasi untuk anak-anak.
 
 ### Kendala yang Sering Dihadapi dan Solusinya
 

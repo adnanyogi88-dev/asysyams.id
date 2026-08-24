@@ -11,7 +11,7 @@ archive_url: "https://web.archive.org/web/20260515080223/https://asysyams.id/str
 
 # Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini
 
-[Home](https://asysyams.id/) » Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini
+[Home](../) » Strategi Mengembangkan Kecerdasan Emosional Anak Sejak Dini
 
 ## Pengenalan Singkat tentang Kecerdasan Emosional
 
@@ -19,7 +19,7 @@ Kecerdasan emosional (EQ) adalah kemampuan seseorang untuk mengenali, memahami, 
 
 ### Pentingnya Mengembangkan Kecerdasan Emosional Sejak Dini
 
-![Mengembangkan kecerdasan emosional anak](https://asysyams.id/wp-content/uploads/2024/08/6-tips-menumbuhkan-kecerdasan-emosional-eq-anak-0-alodokter-300x200.jpg)
+![Mengembangkan kecerdasan emosional anak](../wp-content/uploads/2024/08/6-tips-menumbuhkan-kecerdasan-emosional-eq-anak-0-alodokter-300x200.jpg)
 
 [sumber](https://www.alodokter.com/)
 
@@ -69,11 +69,11 @@ EQ yang tinggi juga berkaitan dengan kesehatan mental yang lebih baik. Anak-anak
 
 Baca juga:
 
-[Biaya Mendirikan Usaha Playgroup di Jakarta](https://asysyams.id/biaya-mendirikan-usaha-playgroup-di-jakarta/)
+[Biaya Mendirikan Usaha Playgroup di Jakarta](../biaya-mendirikan-usaha-playgroup-di-jakarta/)
 
-[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](https://asysyams.id/potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
+[Potensi Tersembunyi dari Bisnis Taman Kanak-Kanak](../potensi-tersembunyi-dari-bisnis-taman-kanak-kanak/)
 
-[informasi tumbuh kembang anak](https://asysyams.id/informasi-tumbuh-kembang-anak/)
+[informasi tumbuh kembang anak](../informasi-tumbuh-kembang-anak/)
 
 ###  
 

@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260421040515/https://asysyams.id/kon
 
 # Konsep Dekomposisi dalam Computational Thinking dan Penerapannya
 
-[Home](https://asysyams.id/) » Konsep Dekomposisi dalam Computational Thinking dan Penerapannya
+[Home](../) » Konsep Dekomposisi dalam Computational Thinking dan Penerapannya
 
 ### Pendahuluan
 
 ## Orang tua tentu ingin memberikan pendidikan terbaik kepada anak-anaknya sejak usia dini.
 
-![pendidikan anak](https://asysyams.id/wp-content/uploads/2025/01/Snapinst.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
+![pendidikan anak](../wp-content/uploads/2025/01/Snapinst.app_467733501_1125019709136900_2458874361849226159_n_1080-1024x1024.jpg)
 
 Saat anak-anak belajar mengalami berbagai tantangan pemahaman masalah, pendekatan modern seperti computational thinking memegang peran penting. Salah satu komponen utama di dalamnya adalah dekomposisi. Artikel ini membahas konsep dekomposisi dalam computational thinking, bagaimana menerapkannya di kehidupan sehari-hari anak, dan manfaatnya bagi anak yang akan masuk sekolah.
 
@@ -133,7 +133,7 @@ Setelah selesai, tanyakan: “Apakah langkah-langkah tadi sesuai urutan? Apakah 
 Sekarang, kita lihat bagaimana konsep dekomposisi diterapkan di sekolah TK, terutama di TK Islam dengan fasilitas terbaik di Bekasi. Selanjutnya, orang tua bisa lihat tautan kami tentang TK terbaik.
 
 TK Islam terbaik di Bekasi menyediakan pendekatan pembelajaran yang mendukung dekomposisi. Mereka membagi tema pembelajaran menjadi subtema kecil: edukasi moral, aktivitas numerik, seni-budaya. Anak mendapat kegiatan modular, sehingga mereka tidak kewalahan, dan tetap aktif di setiap sesi. TK ini memberi fasilitas lengkap: ruang bermain, lab komputer, area belajar interaktif. Orang tua bisa melihat lebih lengkap lewat tautan berikut:
-? [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+? [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
 ### 6. Kenapa TK dengan Pendekatan Computational Thinking Penting
 
@@ -152,7 +152,7 @@ Anak yang belajar menyelesaikan tugas kecil sendiri menjadi percaya diri. Mereka
 ### 7. Membandingkan Franchise Pendidikan Lokal di Indonesia
 
 Selain memilih TK lokal, orang tua dapat mempertimbangkan model franchise pendidikan lokal. Beberapa franchise menawarkan pendekatan pedagogi inovatif, termasuk penggunaan computational thinking. Kami memiliki artikel yang menampilkan franchise pendidikan lokal di Indonesia yang layak dipertimbangkan:
-? [5 Franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
+? [5 Franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/).
 
 Melalui artikel itu, Anda dapat menilai mana franchise yang menerapkan metode dekomposisi atau aktivitas berbasis pemecahan masalah secara sistematis, serta membandingkannya dengan TK lokal terbaik di Bekasi atau kota Anda sendiri.
 
@@ -174,7 +174,7 @@ TK yang baik menyediakan mainan edukatif, perangkat komputer sederhana, puzzle, 
 
 - Membandingkan biaya dan fasilitas
 Selain kualitas pengajaran, sesuaikan dengan fasilitas dan biaya. Jika Anda tinggal di Bekasi, Anda bisa memanfaatkan artikel:
-? [Cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/).
+? [Cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/).
 Artikel ini menyajikan panduan memilih berdasarkan lokasi, akses transportasi, dan kualitas pengajaran.
 
 Dengan mengikuti panduan ini, Anda dapat mengidentifikasi TK di sekitar Anda yang benar-benar menerapkan metode pembelajaran yang mendukung perkembangan computational thinking melalui dekomposisi.
@@ -227,11 +227,11 @@ Orang tua duduk bersama anak, lalu diskusikan langkah-langkah pengerjaan proyek:
 
 - Pendekatan ini sangat cocok diterapkan dalam TK Islam terbaik di Bekasi, serta model sekolah franchise pendidikan yang inovatif. Tautan berikut membantu Anda menjelajah opsi:
 
-- TK Islam terbaik di Bekasi ? [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
+- TK Islam terbaik di Bekasi ? [TK Islam yang bagus di Bekasi dengan fasilitas terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/)
 
-- Franchise lokal pendidikan ? [5 Franchise lokal dengan kategori pendidikan di Indonesia](https://asysyams.id/5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
+- Franchise lokal pendidikan ? [5 Franchise lokal dengan kategori pendidikan di Indonesia](../5-franchise-lokal-dengan-kategori-pendidikan-di-indonesia/)
 
-- Panduan memilih TK terdekat ? [Cara memilih taman kanak-kanak terdekat di Bekasi](https://asysyams.id/cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
+- Panduan memilih TK terdekat ? [Cara memilih taman kanak-kanak terdekat di Bekasi](../cara-memilih-taman-kanak-kanak-terdekat-di-bekasi/)
 
 Dengan menerapkan dekomposisi dalam pembelajaran anak, orang tua memupuk logika, kreativitas, dan kemandirian sejak dini. Oleh karena itu, jika Anda sedang memilih TK, carilah lembaga sekolah yang mendukung pendekatan ini. Karena itu, anak Anda akan tumbuh menjadi pemikir pemecah masalah andal dan percaya diri.
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611141628/https://asysyams.id/tun
 
 # Tuntunan Bacaan Sholat Lengkap: Panduan Sholat dan Keutamaannya
 
-[Home](https://asysyams.id/) » Tuntunan Bacaan Sholat Lengkap: Panduan Sholat dan Keutamaannya
+[Home](../) » Tuntunan Bacaan Sholat Lengkap: Panduan Sholat dan Keutamaannya
 
 ## Sholat merupakan tiang agama dalam Islam.
 
-![pendidikan agama islam dan budi pekerti](https://asysyams.id/wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1024x769.jpg)
+![pendidikan agama islam dan budi pekerti](../wp-content/uploads/2024/11/Snapinsta.app_429584025_18123869707353668_87346441492719860_n_1080-1024x769.jpg)
 
 Ia adalah kewajiban utama setiap Muslim dan menjadi pembeda antara Muslim dengan yang bukan. Dalam artikel ini, kita akan membahas secara lengkap tuntunan bacaan sholat, jenis-jenis sholat dalam Islam, serta pahala dari masing-masing sholat yang kita kerjakan.
 
@@ -185,11 +185,11 @@ Agar anak-anak mencintai sholat, mereka perlu dibimbing sejak dini melalui pendi
 
 Baca juga artikel terkait:
 
-- [Franchise Sekolah Tahfidz Al-Qur’an Asy-Syams](https://asysyams.id/franchise-sekolah-tahfidz-al-quran-asy-syams/)
+- [Franchise Sekolah Tahfidz Al-Qur’an Asy-Syams](../franchise-sekolah-tahfidz-al-quran-asy-syams/)
 
-- [Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK](https://asysyams.id/mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/)
+- [Mengarang Cerita Liburan Sekolah untuk Anak SD dan TK](../mengarang-cerita-liburan-sekolah-untuk-anak-sd-dan-tk/)
 
-- [Doa Agar Anak Sukses pada Pendidikannya](https://asysyams.id/doa-agar-anak-sukses-pada-pendidikannya/)
+- [Doa Agar Anak Sukses pada Pendidikannya](../doa-agar-anak-sukses-pada-pendidikannya/)
 
 ### IV. Kesimpulan
 

@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314172139/https://asysyams.id/apa
 
 # Apa Itu Class Meeting di Sekolah: Tradisi Unik dan Bermanfaat Bagi Siswa
 
-[Home](https://asysyams.id/) » Apa Itu Class Meeting di Sekolah: Tradisi Unik dan Bermanfaat Bagi Siswa
+[Home](../) » Apa Itu Class Meeting di Sekolah: Tradisi Unik dan Bermanfaat Bagi Siswa
 
 ## Class meeting adalah kegiatan yang sudah menjadi bagian dari tradisi di berbagai sekolah di Indonesia.
 
-![class meeting](https://asysyams.id/wp-content/uploads/2024/10/DALL·E-2024-10-01-21.37.36-A-vibrant-school-scene-featuring-students-participating-in-a-variety-of-activities-during-a-class-meeting-event.-Some-students-are-playing-sports-like-300x300.webp)
+![class meeting](../wp-content/uploads/2024/10/DALL·E-2024-10-01-21.37.36-A-vibrant-school-scene-featuring-students-participating-in-a-variety-of-activities-during-a-class-meeting-event.-Some-students-are-playing-sports-like-300x300.webp)
 
 Kegiatan ini biasanya ada setelah ujian semester selesai, memberikan kesempatan bagi para siswa untuk berpartisipasi dalam berbagai kegiatan yang bersifat kompetitif, tetapi juga santai. Tujuan dari class meeting adalah untuk mempererat hubungan antar kelas, memberikan penyegaran kepada siswa setelah masa ujian yang menegangkan, serta mengembangkan berbagai keterampilan non-akademis yang penting bagi perkembangan mereka.
 
@@ -61,11 +61,11 @@ Misalnya, dalam lomba olahraga, siswa dapat belajar pentingnya sportivitas dan k
 
 Baca juga:
 
-[Cara Membangun Keterampilan Anak Sejak Dini](https://asysyams.id/cara-membangun-keterampilan-anak-sejak-dini/)
+[Cara Membangun Keterampilan Anak Sejak Dini](../cara-membangun-keterampilan-anak-sejak-dini/)
 
-[Channel Anak-anak Untuk Pendidikan di Youtube](https://asysyams.id/channel-anak-anak-untuk-pendidikan-di-youtube/)
+[Channel Anak-anak Untuk Pendidikan di Youtube](../channel-anak-anak-untuk-pendidikan-di-youtube/)
 
-[Jenis Tarian untuk Anak di Indonesia: Warisan Budaya dan Kreasi Modern](https://asysyams.id/jenis-tarian-untuk-anak-di-indonesia-warisan-budaya-dan-kreasi-modern/)
+[Jenis Tarian untuk Anak di Indonesia: Warisan Budaya dan Kreasi Modern](../jenis-tarian-untuk-anak-di-indonesia-warisan-budaya-dan-kreasi-modern/)
 
  
 

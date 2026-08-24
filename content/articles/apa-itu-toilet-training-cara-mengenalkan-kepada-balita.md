@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260513125743/https://asysyams.id/apa
 
 # Apa itu Toilet Training? Cara Mengenalkan kepada Balita
 
-[Home](https://asysyams.id/) » Apa itu Toilet Training? Cara Mengenalkan kepada Balita
+[Home](../) » Apa itu Toilet Training? Cara Mengenalkan kepada Balita
 
 ## Toilet training adalah proses penting dalam perkembangan anak yang membantu mereka beralih dari menggunakan popok ke menggunakan toilet.
 
-![tahapan perkembangan anak usia dini](https://asysyams.id/wp-content/uploads/2024/08/images-2.jpeg)
+![tahapan perkembangan anak usia dini](../wp-content/uploads/2024/08/images-2.jpeg)
 
 Proses ini sering kali menimbulkan tantangan baik bagi orang tua maupun anak itu sendiri. Artikel ini akan membahas secara mendalam cara mengenalkan toilet training kepada balita, mulai dari kapan waktu yang tepat, teknik-teknik yang efektif, hingga bagaimana menangani tantangan yang mungkin muncul selama proses ini.
 
@@ -87,11 +87,11 @@ Bersikap Positif dan Konsisten: Tetaplah bersikap positif dan konsisten selama p
 
 Baca juga:
 
-[Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan](https://asysyams.id/tips-mengelola-emosi-anak-agar-tidak-sampai-kebablasan/)
+[Tips Mengelola Emosi Anak Agar Tidak Sampai Kebablasan](../tips-mengelola-emosi-anak-agar-tidak-sampai-kebablasan/)
 
-[Berikut Pendidikan Inklusif untuk Anak Usia 5-10 Tahun](https://asysyams.id/berikut-pendidikan-inklusif-untuk-anak-usia-5-10-tahun/)
+[Berikut Pendidikan Inklusif untuk Anak Usia 5-10 Tahun](../berikut-pendidikan-inklusif-untuk-anak-usia-5-10-tahun/)
 
-[Memilih TK Agamis Terbaik untuk Pendidikan Anak](https://asysyams.id/memilih-tk-agamis-terbaik-untuk-pendidikan-anak/)
+[Memilih TK Agamis Terbaik untuk Pendidikan Anak](../memilih-tk-agamis-terbaik-untuk-pendidikan-anak/)
 
  
 

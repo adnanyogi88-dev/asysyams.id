@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260419144122/https://asysyams.id/umu
 
 # Umur Minimal Masuk SD: Panduan Lengkap untuk Orang Tua
 
-[Home](https://asysyams.id/) » Umur Minimal Masuk SD: Panduan Lengkap untuk Orang Tua
+[Home](../) » Umur Minimal Masuk SD: Panduan Lengkap untuk Orang Tua
 
 ## Memasuki jenjang pendidikan dasar merupakan salah satu momen penting dalam perjalanan pendidikan anak.
 
-![daycare multi lingual](https://asysyams.id/wp-content/uploads/2024/10/Mom-your-my-sunshine-1024x1024.jpg)
+![daycare multi lingual](../wp-content/uploads/2024/10/Mom-your-my-sunshine-1024x1024.jpg)
 
 Salah satu pertanyaan yang paling sering orang tua ajukan adalah: “Berapakah umur minimal masuk SD?” Pertanyaan ini bukan hanya sekadar tentang angka, tetapi menyangkut kesiapan emosional, sosial, dan kognitif anak untuk mengikuti pendidikan di sekolah dasar. Dalam artikel ini, kita akan membahas secara mendalam tentang ketentuan umur minimal masuk SD di Indonesia, pertimbangan kesiapan anak, hingga bagaimana orang tua bisa mempersiapkan buah hatinya untuk menempuh pendidikan dasar.
 
@@ -73,7 +73,7 @@ Walaupun regulasi menyebutkan usia minimal, namun kesiapan anak masuk SD tidak b
 
 Waktu ideal untuk mempersiapkan anak masuk SD adalah sejak anak duduk di tingkat akhir taman kanak-kanak (TK B). Di fase ini, anak mulai dikenalkan dengan pola pembelajaran dasar yang lebih terstruktur.
 
-Jika saat ini Anda sedang mencari TK berkualitas, Anda bisa mempertimbangkan [TK Asysyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/), yang memiliki pendekatan pendidikan berbasis karakter serta pembiasaan ibadah sejak dini.
+Jika saat ini Anda sedang mencari TK berkualitas, Anda bisa mempertimbangkan [TK Asysyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/), yang memiliki pendekatan pendidikan berbasis karakter serta pembiasaan ibadah sejak dini.
 
 ### Bagaimana Memastikan Anak Siap Masuk SD?
 
@@ -97,7 +97,7 @@ Berikut beberapa langkah konkret yang bisa orang tua lakukan:
 
 ### Apakah Anak Anda Sudah di TK?
 
-Sebelum masuk SD, idealnya anak mengikuti pendidikan di taman kanak-kanak. Hal ini penting untuk melatih kemandirian, kemampuan sosial, dan mengenalkan konsep belajar. Jika Anda tinggal di wilayah Bekasi dan sekitarnya, [TK Asysyams di Harapan Indah Bekasi](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/) bisa menjadi pilihan yang tepat.
+Sebelum masuk SD, idealnya anak mengikuti pendidikan di taman kanak-kanak. Hal ini penting untuk melatih kemandirian, kemampuan sosial, dan mengenalkan konsep belajar. Jika Anda tinggal di wilayah Bekasi dan sekitarnya, [TK Asysyams di Harapan Indah Bekasi](../pendaftaran-murid-tk-di-harapan-indah-bekasi/) bisa menjadi pilihan yang tepat.
 
 ### Apa yang Terjadi Jika Anak Masuk SD Terlalu Dini?
 
@@ -113,7 +113,7 @@ Maka dari itu, penting bagi orang tua untuk tidak hanya terpaku pada ambisi usia
 
 ### Fasilitas TK yang Membantu Kesiapan Anak
 
-Beberapa TK menyediakan program transisi dari PAUD ke SD yang terstruktur. Salah satunya adalah [TK Asysyams](https://asysyams.id/fasilitas-unggulan-tk-asysyams-tk-terbaik-di-harapan-indah/), yang dikenal dengan fasilitas unggulannya seperti:
+Beberapa TK menyediakan program transisi dari PAUD ke SD yang terstruktur. Salah satunya adalah [TK Asysyams](../fasilitas-unggulan-tk-asysyams-tk-terbaik-di-harapan-indah/), yang dikenal dengan fasilitas unggulannya seperti:
 
 - Kelas kecil agar anak lebih fokus
 
@@ -145,15 +145,15 @@ Beberapa hal yang perlu diperhatikan saat memilih SD untuk anak:
 
 Berdasarkan regulasi pemerintah Indonesia, umur minimal masuk SD adalah 6 tahun pada tanggal 1 Juli tahun berjalan. Namun, usia bukan satu-satunya faktor. Orang tua perlu mempertimbangkan kesiapan anak secara menyeluruh, baik dari segi mental, sosial, maupun akademik.
 
-Jika anak Anda belum siap, jangan buru-buru mendorongnya masuk SD. Lebih baik memanfaatkan waktu untuk mengembangkan kemampuannya di TK terlebih dahulu. Pilih TK yang bisa mendampingi tumbuh kembang anak dengan baik seperti [TK Asysyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/), agar anak bisa menghadapi jenjang pendidikan dasar dengan lebih percaya diri dan bahagia.
+Jika anak Anda belum siap, jangan buru-buru mendorongnya masuk SD. Lebih baik memanfaatkan waktu untuk mengembangkan kemampuannya di TK terlebih dahulu. Pilih TK yang bisa mendampingi tumbuh kembang anak dengan baik seperti [TK Asysyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/), agar anak bisa menghadapi jenjang pendidikan dasar dengan lebih percaya diri dan bahagia.
 
 Referensi Internal:
 
-- [Open Pendaftaran Siswa TK Asysyams](https://asysyams.id/open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
+- [Open Pendaftaran Siswa TK Asysyams](../open-pendaftaran-siswa-tk-asysyams-id-sudah-dibuka-yuk-daftar-sekarang/)
 
-- [Pendaftaran Murid TK di Harapan Indah Bekasi](https://asysyams.id/pendaftaran-murid-tk-di-harapan-indah-bekasi/)
+- [Pendaftaran Murid TK di Harapan Indah Bekasi](../pendaftaran-murid-tk-di-harapan-indah-bekasi/)
 
-- [Fasilitas Unggulan TK Asysyams](https://asysyams.id/fasilitas-unggulan-tk-asysyams-tk-terbaik-di-harapan-indah/)
+- [Fasilitas Unggulan TK Asysyams](../fasilitas-unggulan-tk-asysyams-tk-terbaik-di-harapan-indah/)
 
 Kalau kamu ingin dilanjutkan ke versi HTML blog post, gambar pendukung, atau ditambahkan infografis seperti timeline umur SD/TK/PAUD, tinggal bilang saja ya!
 

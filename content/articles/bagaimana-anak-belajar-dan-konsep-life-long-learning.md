@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314165251/https://asysyams.id/bag
 
 # Bagaimana Anak Belajar dan Konsep Life-Long Learning
 
-[Home](https://asysyams.id/) » Bagaimana Anak Belajar dan Konsep Life-Long Learning
+[Home](../) » Bagaimana Anak Belajar dan Konsep Life-Long Learning
 
 ## Pembelajaran adalah proses alami yang terjadi sepanjang hidup manusia.
 
-![Pendidikan Anak dalam Islam](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_75567e4d-1024x461.jpg)
+![Pendidikan Anak dalam Islam](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.53_75567e4d-1024x461.jpg)
 
 Sejak bayi hingga lanjut usia, manusia terus belajar dari lingkungan sekitar, pengalaman, dan interaksi dengan orang lain. Pemahaman mengenai bagaimana anak belajar sangat penting dalam menentukan pendekatan terbaik untuk pendidikan mereka. Selain itu, konsep life-long learning atau pembelajaran sepanjang hayat menjadi relevan karena dunia terus berkembang dengan cepat, menuntut individu untuk terus belajar dan beradaptasi.
 
@@ -27,7 +27,7 @@ Artikel ini akan membahas bagaimana anak belajar, berbagai metode yang dapat dig
 
 Anak-anak belajar melalui pengalaman, eksplorasi, dan interaksi sosial. Sejak usia dini, mereka mulai menyerap informasi dari lingkungan sekitar mereka. Menurut penelitian dalam ilmu perkembangan anak, tahun-tahun awal kehidupan adalah masa paling krusial dalam perkembangan kognitif, sosial, dan emosional.
 
-Lalu, usia dini itu umur berapa? Anda dapat membaca lebih lanjut mengenai batasan usia dini dalam artikel berikut: [Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat](https://asysyams.id/usia-dini-itu-umur-berapa-mengenal-lebih-dekat/).
+Lalu, usia dini itu umur berapa? Anda dapat membaca lebih lanjut mengenai batasan usia dini dalam artikel berikut: [Usia Dini Itu Umur Berapa? Mengenal Lebih Dekat](../usia-dini-itu-umur-berapa-mengenal-lebih-dekat/).
 
 ### 2. Metode Pembelajaran Anak
 
@@ -47,7 +47,7 @@ Memberikan pengalaman langsung, seperti eksperimen sains sederhana, kunjungan ke
 
 #### d) Pembelajaran Berbasis Nilai dan Akidah
 
-Menanamkan nilai-nilai keagamaan dan moral sejak dini sangat penting untuk membentuk karakter anak. Jika Anda ingin mengetahui lebih lanjut mengenai cara menanamkan akidah dalam diri anak sejak usia dini, artikel berikut bisa menjadi referensi: [Bagaimana Cara Menanamkan Akidah dalam Diri Seseorang Sejak Usia Dini](https://asysyams.id/bagaimana-cara-menanamkan-akidah-dalam-diri-seseorang-sejak-usia-dini/).
+Menanamkan nilai-nilai keagamaan dan moral sejak dini sangat penting untuk membentuk karakter anak. Jika Anda ingin mengetahui lebih lanjut mengenai cara menanamkan akidah dalam diri anak sejak usia dini, artikel berikut bisa menjadi referensi: [Bagaimana Cara Menanamkan Akidah dalam Diri Seseorang Sejak Usia Dini](../bagaimana-cara-menanamkan-akidah-dalam-diri-seseorang-sejak-usia-dini/).
 
 ### 3. Faktor yang Mempengaruhi Pembelajaran Anak
 
@@ -85,7 +85,7 @@ Membaca adalah salah satu cara terbaik untuk mengembangkan kebiasaan life-long l
 
 #### d) Memberikan Pengalaman Belajar yang Menyenangkan
 
-Memperkenalkan metode pembelajaran yang fleksibel dan menyenangkan dapat membantu anak untuk selalu merasa antusias dalam belajar. Salah satu metode yang bisa diterapkan adalah franchise pendidikan seperti Kumon yang menekankan pada pembelajaran mandiri dan kemampuan individu. Jika Anda ingin mengetahui lebih lanjut mengenai metode Kumon, simak artikel berikut: [Apa Itu Franchise Pendidikan Kumon?](https://asysyams.id/apa-itu-franchise-pendidikan-kumon/).
+Memperkenalkan metode pembelajaran yang fleksibel dan menyenangkan dapat membantu anak untuk selalu merasa antusias dalam belajar. Salah satu metode yang bisa diterapkan adalah franchise pendidikan seperti Kumon yang menekankan pada pembelajaran mandiri dan kemampuan individu. Jika Anda ingin mengetahui lebih lanjut mengenai metode Kumon, simak artikel berikut: [Apa Itu Franchise Pendidikan Kumon?](../apa-itu-franchise-pendidikan-kumon/).
 
 ### 3. Tantangan dalam Menerapkan Life-Long Learning
 

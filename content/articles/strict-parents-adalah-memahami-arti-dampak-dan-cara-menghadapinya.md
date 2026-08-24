@@ -11,13 +11,13 @@ archive_url: "https://web.archive.org/web/20260314232233/https://asysyams.id/str
 
 # Strict Parents Adalah: Memahami Arti, Dampak, dan Cara Menghadapinya
 
-[Home](https://asysyams.id/) » Strict Parents Adalah: Memahami Arti, Dampak, dan Cara Menghadapinya
+[Home](../) » Strict Parents Adalah: Memahami Arti, Dampak, dan Cara Menghadapinya
 
 ### Pengertian Strict Parents
 
 ## Strict parents adalah orang tua yang menerapkan aturan ketat dalam mendidik anak-anak mereka.
 
-![](https://asysyams.id/wp-content/uploads/2024/12/strict-parents-ketahui-ciri-ciri-dan-dampaknya-bagi-anak.jpg)
+![](../wp-content/uploads/2024/12/strict-parents-ketahui-ciri-ciri-dan-dampaknya-bagi-anak.jpg)
 
 Sumber: al
 
@@ -87,11 +87,11 @@ Strict parents adalah pola asuh yang menekankan disiplin, aturan ketat, dan kont
 
 Untuk memahami lebih lanjut tentang pola asuh yang seimbang dan sesuai dengan nilai-nilai Islam, Anda dapat membaca artikel berikut:
 
-- [Apa Itu Parenting Islami? Bagaimana Mempelajarinya?](https://asysyams.id/apa-itu-parenting-islami-bagaimana-mempelajarinya/)
+- [Apa Itu Parenting Islami? Bagaimana Mempelajarinya?](../apa-itu-parenting-islami-bagaimana-mempelajarinya/)
 
-- [Apa Itu Parenting Trap dan Apa Implikasinya Terhadap Anak?](https://asysyams.id/apa-itu-parenting-trap-dan-apa-implikasinya-terhadap-anak/)
+- [Apa Itu Parenting Trap dan Apa Implikasinya Terhadap Anak?](../apa-itu-parenting-trap-dan-apa-implikasinya-terhadap-anak/)
 
-- [Parenting Adalah: Pentingnya Membangun Karakter Anak Sejak Dini](https://asysyams.id/parenting-adalah-pentingnya-membangun-karakter-anak-sejak-dini/)
+- [Parenting Adalah: Pentingnya Membangun Karakter Anak Sejak Dini](../parenting-adalah-pentingnya-membangun-karakter-anak-sejak-dini/)
 
 Dengan pendekatan yang seimbang, orang tua dapat mendidik anak menjadi pribadi yang disiplin, bertanggung jawab, dan penuh kasih sayang.
 

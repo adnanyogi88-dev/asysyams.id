@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260314175232/https://asysyams.id/mas
 
 # Masalah-Masalah Guru dalam Mengajar: Tantangan Nyata dan Cara Mengatasinya
 
-[Home](https://asysyams.id/) » Masalah-Masalah Guru dalam Mengajar: Tantangan Nyata dan Cara Mengatasinya
+[Home](../) » Masalah-Masalah Guru dalam Mengajar: Tantangan Nyata dan Cara Mengatasinya
 
 ## Sebagai ujung tombak dunia pendidikan, guru memegang peranan penting dalam membentuk karakter dan kemampuan peserta didik.
 
-![Ciri Anak Tidak Bisa Bicara](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_983d5269-80x80.jpg)
+![Ciri Anak Tidak Bisa Bicara](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.55_983d5269-80x80.jpg)
 
 Akan tetapi, dalam pelaksanaannya, tak sedikit guru menghadapi beragam kendala. Oleh karena itu, penting bagi kita untuk memahami masalah-masalah guru dalam mengajar, agar kita bisa menemukan solusi yang tepat dan aplikatif.
 
@@ -51,7 +51,7 @@ Tak kalah penting, dukungan dari orang tua siswa sangat menentukan keberhasilan 
 
 Untuk mengatasi masalah ini, salah satu solusinya adalah membangun komunikasi yang baik antara guru dan wali murid. Selain itu, pendekatan yang penuh empati dan kesabaran akan sangat membantu dalam menjalin kerja sama yang efektif.
 
-### [Baca juga: Kisah Anak yang Berbakti kepada Orang Tua, Teladan Sepanjang Masa](https://asysyams.id/kisah-anak-yang-berbakti-kepada-orang-tua-teladan-sepanjang-masa/)
+### [Baca juga: Kisah Anak yang Berbakti kepada Orang Tua, Teladan Sepanjang Masa](../kisah-anak-yang-berbakti-kepada-orang-tua-teladan-sepanjang-masa/)
 
 ## 6. Gaji yang Belum Sesuai Harapan
 
@@ -65,7 +65,7 @@ Seiring berkembangnya teknologi, guru dihadapkan pada tantangan baru: digitalisa
 
 Selain keterbatasan perangkat, banyak guru yang kesulitan dalam mengoperasikan platform digital. Karena itu, pelatihan teknis sangat dibutuhkan agar guru bisa menguasai teknologi dengan baik. Apalagi generasi sekarang sangat akrab dengan dunia digital, sehingga guru dituntut untuk menyesuaikan diri.
 
-### [Baca juga: Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](https://asysyams.id/kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
+### [Baca juga: Kumpulan Cerita Islami Pendek untuk Anak dan Keluarga](../kumpulan-cerita-islami-pendek-untuk-anak-dan-keluarga/)
 
 ## 8. Kurangnya Motivasi Internal
 
@@ -85,7 +85,7 @@ Kelas dengan jumlah siswa yang terlalu banyak juga menyulitkan proses belajar. D
 
 Sebagai solusi, pemerintah bisa menambah jumlah kelas atau tenaga pengajar agar beban kerja lebih ringan. Dengan demikian, proses pembelajaran menjadi lebih efektif dan menyenangkan.
 
-### [Baca juga: Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
+### [Baca juga: Biaya Masuk TK Negeri: Panduan Lengkap untuk Orang Tua](../biaya-masuk-tk-negeri-panduan-lengkap-untuk-orang-tua/)
 
 ## Kesimpulan
 

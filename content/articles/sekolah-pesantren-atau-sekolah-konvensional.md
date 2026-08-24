@@ -11,11 +11,11 @@ archive_url: "https://web.archive.org/web/20260611130502/https://asysyams.id/sek
 
 # Sekolah Pesantren atau Sekolah Konvensional
 
-[Home](https://asysyams.id/) » Sekolah Pesantren atau Sekolah Konvensional
+[Home](../) » Sekolah Pesantren atau Sekolah Konvensional
 
 ## Memilih sekolah yang tepat untuk anak bukanlah keputusan yang bisa dianggap enteng.
 
-![Pengertian Puasa Ramadhan untuk Anak TK](https://asysyams.id/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_e65c4c34-768x1024.jpg)
+![Pengertian Puasa Ramadhan untuk Anak TK](../wp-content/uploads/2025/02/WhatsApp-Image-2025-02-06-at-20.19.51_e65c4c34-768x1024.jpg)
 
 Orang tua perlu mempertimbangkan banyak hal, termasuk nilai-nilai yang ingin ditanamkan, lingkungan belajar, hingga kurikulum yang diterapkan. Dalam konteks Indonesia, dua jenis sekolah yang sering menjadi pilihan adalah sekolah pesantren dan sekolah konvensional. Masing-masing memiliki kelebihan dan kekurangan. Artikel ini akan membahas secara lengkap agar para orang tua dapat mengambil keputusan yang paling tepat untuk masa depan anak mereka.
 
@@ -85,11 +85,11 @@ Untuk menentukan pilihan terbaik antara sekolah pesantren atau sekolah konvensio
 
 ### Rekomendasi: Awali dari Pendidikan Usia Dini
 
-Sebelum memutuskan tingkat sekolah dasar atau menengah, sangat penting bagi orang tua untuk memulai dari pendidikan usia dini yang berkualitas. Untuk mengetahui lebih lanjut mengenai waktu pendaftaran TK, silakan kunjungi artikel [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](https://asysyams.id/pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
+Sebelum memutuskan tingkat sekolah dasar atau menengah, sangat penting bagi orang tua untuk memulai dari pendidikan usia dini yang berkualitas. Untuk mengetahui lebih lanjut mengenai waktu pendaftaran TK, silakan kunjungi artikel [Pendaftaran TK Bulan Apa? Panduan Lengkap untuk Orang Tua](../pendaftaran-tk-bulan-apa-panduan-lengkap-untuk-orang-tua/).
 
-Selain itu, jika Anda tinggal di Bekasi dan sedang mencari sekolah yang unggul dalam pendidikan Islam, Anda bisa membaca artikel [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](https://asysyams.id/tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
+Selain itu, jika Anda tinggal di Bekasi dan sedang mencari sekolah yang unggul dalam pendidikan Islam, Anda bisa membaca artikel [TK Islam yang Bagus di Bekasi dengan Fasilitas Terbaik](../tk-islam-yang-bagus-di-bekasi-dengan-fasilitas-terbaik/).
 
-Untuk pertimbangan biaya, pastikan Anda membaca juga artikel [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](https://asysyams.id/biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/) agar memiliki perencanaan keuangan yang matang.
+Untuk pertimbangan biaya, pastikan Anda membaca juga artikel [Biaya Masuk PAUD: Panduan Lengkap untuk Orang Tua](../biaya-masuk-paud-panduan-lengkap-untuk-orang-tua/) agar memiliki perencanaan keuangan yang matang.
 
 ### Perbandingan Langsung Sekolah Pesantren dan Sekolah Konvensional
 

@@ -31,7 +31,7 @@
       "text/plain": 3,
       "text/xml": 11
     },
-    "generated_at": "2026-08-24T07:07:26.025416+00:00"
+    "generated_at": "2026-08-24T07:10:38.566452+00:00"
   },
   "failed": [
     {
@@ -39,7 +39,7 @@
       "timestamp": "20260106145551",
       "output": "wp-content/themes/zox-news/js/mvpcustom.js",
       "mimetype": "application/javascript",
-      "error": "Wayback returned an empty or unavailable capture"
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260106145551id_/https://asysyams.id/wp-content/themes/zox-news/js/mvpcustom.js?ver=6.9 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fdc00dd63f0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
     }
   ],
   "skipped": [],
